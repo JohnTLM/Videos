@@ -1,0 +1,5 @@
+{
+  "name": "videos",
+  "owner": { "name": "John Tan" },
+  "plugins": [{ "name": "chapter-builder", "source": "./chapter-builder" }]
+}
