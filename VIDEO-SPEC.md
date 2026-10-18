@@ -29,7 +29,9 @@ Order per chapter: **MD → MP3 → SRT → MP4.** The SRT is generated from the
 
 ```
 Videos/
-  VIDEO-SPEC.md            ← this file
+  VIDEO-SPEC.md            ← this file (the working copy; see below)
+  chapters.json            ← every chapter's number and title (written at setup, §10)
+  PILOT-APPROVED           ← created by the user once the pilot is approved (§10)
   pronunciation.json       ← word → spoken-form map (see §5)
   assets/
     fonts/                 ← title + subtitle fonts
@@ -42,12 +44,18 @@ Videos/
     ch01.srt
     ch01-title.png
     ch01-<slug>.mp4
+    ch01-frame-0002.png    ← check frames (see §9)
+    ch01-frame-0030.png
+    ch01-frame-0200.png
+    ch01-frame-end.png
   ch02-<slug>/
   ...
   manifest.csv             ← one row per chapter: number, title, words, duration, status
 ```
 
-`<slug>` is the chapter title in lowercase kebab-case, at most about 5 words (e.g. `ch03-the-coldness-of-ice`).
+`<slug>` is the chapter title in lowercase kebab-case, at most about 5 words (e.g. `ch01-the-coldness-of-ice`).
+
+The copy of this file in `Videos/` is the **working copy**: read it from there, and write the user's feedback into it (§10). The copy in the git repo is the master; the user copies changes back to it.
 
 Creating folders and files is fine without asking. **Never delete or overwrite** anything outside `Videos/`.
 
@@ -57,7 +65,7 @@ Creating folders and files is fine without asking. **Never delete or overwrite**
 
 | Setting | Value |
 |---|---|
-| Episode length | 3–4 min of narration (about **450–550 words** of script) |
+| Episode length | **3:00–4:30** of narration: aim for 3–4 min, with up to 30 s over allowed (about **450–550 words** of script) |
 | Voice | `edge-tts`, voice `en-US-AndrewNeural`, `--rate=-8%`, `--pitch=-2Hz` |
 | Alternate voice (if asked) | `en-GB-RyanNeural` |
 | Resolution / fps | 1920×1080, 30 fps |
@@ -220,7 +228,7 @@ For each chapter:
 2. **Body segment:** the drifting background, plus `chNN-narration.mp3`, plus 2 s of tail, with a 1.5 s fade to black at the end.
 3. **Optional music:** if `assets/music.mp3` exists, loop it under the whole video at about **-28 dB** relative to the voice, with a 3 s fade in and a 3 s fade out. If the file is absent, skip this step silently.
 4. Concatenate the title and body segments, then burn in `chNN.srt`. Its timings already include the +5 s offset.
-5. Output the result as `chNN-<slug>.mp4`.
+5. Write the result to `chNN-<slug>.partial.mp4`. Only when ffmpeg has finished without errors, rename it to `chNN-<slug>.mp4`. A file with the final name must always be a complete video.
 
 A Python script `Videos/build.py` should wrap all of the above with this interface:
 `python build.py --chapter 1`, `python build.py --all`, and `--skip-existing`.
@@ -230,17 +238,18 @@ A Python script `Videos/build.py` should wrap all of the above with this interfa
 ## 9. Quality checks (each chapter)
 
 - [ ] The script is 450–550 words and passes the §4 stance checklist. Read it back once, specifically looking for any wording that makes relation, awareness, or process into a substrate.
-- [ ] Narration runs 3:00–4:30 (check with `ffprobe`).
+- [ ] Narration runs 3:00–4:30 (check with `ffprobe`; target 3–4 min, up to 30 s over is fine).
 - [ ] The SRT parses cleanly: no overlaps, every cue within the limits, diacritics display correctly.
-- [ ] Check frames at 0:02 (title card), 0:30 and 2:00 (subtitles readable and not clipped), and the end (clean fade). Save these as PNGs in the chapter folder for the user to review.
+- [ ] Check frames at 0:02 (title card), 0:30 and 2:00 (subtitles readable and not clipped), and the end (clean fade). Take them from the final `chNN-<slug>.mp4` and save them in the chapter folder as `chNN-frame-0002.png`, `chNN-frame-0030.png`, `chNN-frame-0200.png` and `chNN-frame-end.png`. If the video is rebuilt, take the frames again.
 - [ ] Update `manifest.csv`.
 
 ---
 
 ## 10. Workflow
 
-1. **Setup:** install the tools, generate the background and fonts, create `pronunciation.json`, and list all chapters (number + title) found in the manuscript.
+1. **Setup:** install the tools, generate the background and fonts, create `pronunciation.json`, and list all chapters (number + title) found in the manuscript. Write that list to `Videos/chapters.json`, in order, as UTF-8:
+   `[{"number": 1, "title": "<Exact title>"}, {"number": 2, "title": "..."}, ...]`
 2. **Pilot:** build Chapter 1 end to end, then **stop**. Report the script, the duration, any new pronunciation entries, and the check frames, then wait for the user's feedback on voice, pace, look, and condensing style.
-3. Apply the user's feedback to this spec (edit this file so the change persists).
+3. Apply the user's feedback to this spec (edit the working copy in `Videos/` so the change persists). Do not build Chapter 2 until the user has approved the pilot. The approval is the file `Videos/PILOT-APPROVED`, which the user creates (the chapter-builder button does this). Never create it yourself.
 4. **Batch:** build the remaining chapters one at a time with `--skip-existing`. After each chapter, report a one-line status. Pause if a chapter fails a check.
 5. **Finish:** produce a summary table of every chapter with its duration, plus a list of any terms the user should listen to.
