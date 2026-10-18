@@ -1,5 +1,6 @@
 {
   "name": "videos",
+  "description": "Tools for building the Substrateless World chapter videos with Claude Code.",
   "owner": { "name": "John Tan" },
   "plugins": [{ "name": "chapter-builder", "source": "./chapter-builder" }]
 }

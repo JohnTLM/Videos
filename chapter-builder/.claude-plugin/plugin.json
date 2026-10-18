@@ -2,6 +2,9 @@
   "name": "chapter-builder",
   "version": "0.1.0",
   "description": "A 'Build Next Chapter' button that continues the Substrateless World video series (VIDEO-SPEC.md) with a live progress bar.",
+  "author": {
+    "name": "John Tan"
+  },
   "types": "./types/index.d.ts",
   "userConfig": {
     "videosDir": {
