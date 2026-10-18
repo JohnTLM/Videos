@@ -1,4 +1,4 @@
-export type JobStatus = 'queued' | 'running' | 'done' | 'stopped'
+export type JobStatus = 'queued' | 'running' | 'done' | 'stopped' | 'cancelled'
 
 export type Job = {
   chapter: number
@@ -12,13 +12,23 @@ export type Job = {
   folder?: string
   startedAt: number
   elapsedSeconds: number
+  /** Why the job was cancelled: reset by the owner, timed out, or not sent. */
+  reason?: string
 }
 
 export type NextInfo = {
-  /** The first chapter without a finished .mp4. */
+  /** The first chapter that is not fully built. */
   chapter: number
-  /** Chapters that already have a finished .mp4. */
+  /** Chapters with all their files: the video and the four check frames. */
   built: number[]
+  /** How many chapters the book has, from chapters.json; absent when unknown. */
+  total?: number
+  /** A problem reading chapters.json, if there was one. */
+  totalWarning?: string
+  /** Whether the Videos folder holds VIDEO-SPEC.md (the working copy). */
+  hasSpec: boolean
+  /** Whether the Videos folder holds PILOT-APPROVED. */
+  isPilotApproved: boolean
 }
 
 declare module 'claude-code' {
