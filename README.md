@@ -43,25 +43,41 @@ Restart Claude Code after installing.
 
 1. Create the output folder:
    `G:\My Drive\Avatar-brain\My-Book\New Book\Book-1-complete\Substrateless-World\Videos\`
-2. Copy `VIDEO-SPEC.md` into it. The plugin tells Claude to read the spec from this folder.
+2. Copy `VIDEO-SPEC.md` into it. This copy is the **working copy**. Claude reads it there, and
+   your feedback is written there. The copy in this repo is the master. The plugin warns you if
+   the `Videos\` folder has no `VIDEO-SPEC.md`.
 3. Start Claude Code **inside** that `Videos\` folder.
    Or set the folder once in `/config` under `chapter-builder.videosDir`.
 
 ## Workflow
 
 1. **Setup.** Ask Claude to do the setup step in `VIDEO-SPEC.md` §10. It installs the tools,
-   makes the background and fonts, creates `pronunciation.json`, and lists every chapter.
+   makes the background and fonts, creates `pronunciation.json`, and lists every chapter in
+   `chapters.json`. The plugin uses that file to know how many chapters there are.
 2. **Pilot: Chapter 1.** Press **▶ Build Next Chapter (Ch 1)**. You can also press `n` when the
    button area has focus, or type `/next-chapter`. A progress bar moves through 7 stages:
    script → narration text → audio → subtitles → title card → video → check frames.
 3. **Review.** Claude stops after Chapter 1. It reports the script, the length, new
    pronunciation entries, and the check frames. Watch the video and listen to the voice.
 4. **Give feedback.** Tell Claude what to change (voice, pace, look, how much to condense).
-   Ask it to write the changes into `VIDEO-SPEC.md` so they stick. If you change the copy in
-   `Videos\`, copy it back to this repo too.
-5. **Batch.** Press the button again for each next chapter. After each one, Claude gives a
+   Ask it to write the changes into `VIDEO-SPEC.md` in `Videos\` so they stick. Then copy
+   that file back to this repo, so the master stays up to date.
+5. **Approve the pilot.** The button now says **Approve pilot** instead of offering Chapter 2.
+   Press it (hotkey `a`), or type `/approve-pilot`, when you are happy. This writes a file
+   named `PILOT-APPROVED` in `Videos\`. You can also create that file yourself.
+6. **Batch.** Press the button again for each next chapter. After each one, Claude gives a
    one-line status and pauses if a check fails.
-6. **Finish.** Ask for the summary table of all chapters and the list of words to listen to.
+7. **Finish.** After the last chapter the band says **All N chapters built**. Ask for the
+   summary table of all chapters and the list of words to listen to.
+
+### Commands
+
+| Command | What it does |
+|---|---|
+| `/next-chapter` | Same as the button: builds the next chapter. |
+| `/chapter-status` | Shows the button again (after "Hide") and says what is built. Builds nothing. |
+| `/approve-pilot` | Approves Chapter 1, so later chapters can be built. |
+| `/reset-chapter` | Stops tracking a build that is stuck. Deletes no files. |
 
 ## Where outputs go
 
@@ -69,7 +85,11 @@ Everything goes under `...\Substrateless-World\Videos\`:
 
 - `chNN-<slug>\` per chapter, for example `ch01-the-coldness-of-ice\`. It holds the script
   (`.md`), narration text (`.txt`), audio (`.mp3`), subtitles (`.srt`), title card, the
-  final `.mp4`, and check-frame PNGs.
+  final `chNN-<slug>.mp4`, and four check frames: `chNN-frame-0002.png`, `-0030`, `-0200`
+  and `-end`.
+- `VIDEO-SPEC.md`: the working copy of the spec.
+- `chapters.json`: every chapter's number and title, written at setup.
+- `PILOT-APPROVED`: there once you approve the pilot.
 - `manifest.csv`: one row per chapter with words, duration and status.
 - `pronunciation.json`: how to say Sanskrit, Pali, Tibetan and Japanese terms.
 - `assets\`: fonts, the background image, and an optional `music.mp3`.
@@ -78,8 +98,8 @@ Claude must never delete or overwrite anything outside `Videos\`.
 
 ## Running the tests
 
-The plugin has one offline test. It uses a fake file system, so it is free and needs no
-internet or keys. From the repo root:
+The plugin has offline tests. They use a fake file system and a fake clock, so they are free
+and need no internet or keys. From the repo root:
 
 ```
 claude plugin test chapter-builder
@@ -89,15 +109,24 @@ To check the manifests: `claude plugin validate .`
 
 ## Troubleshooting
 
-- **Button shows Ch 1 even though you built it.** A chapter counts as built only when its
-  `chNN-...` folder holds an `.mp4`. Check that Claude Code runs in the right `Videos\` folder,
-  or set `chapter-builder.videosDir`.
+- **Button shows a chapter you think is built.** A chapter counts as built only when its
+  `chNN-<slug>\` folder holds `chNN-<slug>.mp4` (not empty) and all four check frames, made
+  after the video. Check the file names. Check that Claude Code runs in the right `Videos\`
+  folder, or set `chapter-builder.videosDir`.
+- **Button says "Approve pilot".** Chapter 1 is built and waits for your review. See Workflow
+  step 5.
+- **Button shows "Ch N" past the last chapter, or "Chapter count unknown".** `chapters.json`
+  is missing or broken. Ask Claude to write it (spec §10, step 1).
 - **Bar stuck on one stage.** Stages count in order. If one file is missing, later files do
   not count. Check the file names match the table in ARCHITECTURE.md.
 - **"Stopped at: ..." message.** The build turn ended early. Press the button again. It picks
   the same chapter and reuses files already made.
 - **"Chapter N is already being built."** A build is still running. Wait for the turn to end.
-- **Button gone.** You pressed "Hide". Type `/next-chapter` to bring it back. Note: this also starts the next build.
+  If it is stuck on "Queued", press **Reset** or type `/reset-chapter`. A build that has not
+  started after 10 minutes is cancelled by itself. If the queued prompt starts later anyway,
+  the bar picks it up again.
+- **Button gone.** You pressed "Hide". Type `/chapter-status` to bring it back. It builds nothing.
+- **"No VIDEO-SPEC.md in the Videos folder".** Copy the spec from this repo into `Videos\`.
 - **Subtitle errors from ffmpeg on Windows.** Run ffmpeg inside the chapter folder and pass the
   SRT as a bare file name (spec §7).
 - **edge-tts wrote a `.vtt` file.** Convert it: `ffmpeg -i in.vtt out.srt` (spec §6).
