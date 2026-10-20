@@ -10,6 +10,8 @@ Claude Code does the work. It follows a written spec. A small plugin adds a
 - [ARCHITECTURE.md](ARCHITECTURE.md): how the parts fit together
 - [VIDEO-SPEC.md](VIDEO-SPEC.md): the full instructions Claude follows
 - [chapter-builder/README.md](chapter-builder/README.md): the plugin in brief
+- [site/README.md](site/README.md): the book website, where each chapter can be read in full
+  and its video watched (https://johntlm.github.io/videos/ once Pages is switched on)
 
 ## Prerequisites
 

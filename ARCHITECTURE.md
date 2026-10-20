@@ -67,7 +67,21 @@ videos/                              (this repo; also a plugin "marketplace")
     types/index.d.ts                 shared type definitions
     tests/button.test.tsx            offline tests
     README.md                        short plugin guide
+  site/                              the book website (see below)
+    chapters.json                    book title + chapter list with YouTube links
+    chapters/chNN.md                 full chapter text, from the book's _source folder
+    build_site.py, style.css         static-site builder (Python stdlib) and its look
+  .github/workflows/pages.yml        tests, builds and publishes site/ with GitHub Pages
 ```
+
+### The website
+
+`site/` is separate from the video pipeline. `build_site.py` reads `chapters.json` and the
+chapter texts and writes plain HTML: a contents page, then one page per chapter with the
+YouTube video at the top and the full text below. On each push to `main` that touches
+`site/`, the "Publish website" workflow runs the builder's tests, builds the site and
+publishes it with GitHub Pages. Videos are hosted on YouTube, not in the repo; a chapter
+without a link shows "coming soon". Details: [site/README.md](site/README.md).
 
 A **marketplace** is a list of plugins that Claude Code can install from.
 Here the marketplace is named `videos` and lists one plugin, `chapter-builder`,
