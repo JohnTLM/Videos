@@ -25,6 +25,12 @@ class MarkdownTests(unittest.TestCase):
         self.assertIn("<ol><li>first</li><li>second</li></ol>", out)
         self.assertIn("<blockquote><p>quoted text</p></blockquote>", out)
 
+    def test_tables(self):
+        out, _ = b.markdown_to_html("Before.\n\n| A | B |\n| :---- | :---- |\n| one | **two** |\n\nAfter.")
+        self.assertIn("<thead><tr><th>A</th><th>B</th></tr></thead>", out)
+        self.assertIn("<tr><td>one</td><td><strong>two</strong></td></tr>", out)
+        self.assertIn("<p>After.</p>", out)
+
     def test_duplicate_headings_get_unique_anchors(self):
         _, sections = b.markdown_to_html("## Same\n\n## Same")
         self.assertEqual([a for a, _ in sections], ["same", "same-x"])

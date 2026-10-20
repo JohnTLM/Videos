@@ -85,10 +85,26 @@ def markdown_to_html(source: str) -> tuple[str, list[tuple[str, str]]]:
             blocks.append(f"<blockquote>{inner}</blockquote>")
             quote.clear()
 
+    table: list[str] = []
+
+    def flush_table():
+        if not table:
+            return
+        rows = [[cell.strip() for cell in row.strip().strip("|").split("|")] for row in table]
+        is_separator = len(rows) > 1 and all(re.fullmatch(r":?-{2,}:?", c) for c in rows[1] if c)
+        if is_separator:
+            head = "".join(f"<th>{inline(c)}</th>" for c in rows[0])
+            body = "".join("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in r) + "</tr>" for r in rows[2:])
+            blocks.append(f'<div class="table-wrap"><table><thead><tr>{head}</tr></thead><tbody>{body}</tbody></table></div>')
+        else:
+            blocks.append(f"<p>{inline(' '.join(table))}</p>")
+        table.clear()
+
     def flush_all():
         flush_paragraph()
         flush_list()
         flush_quote()
+        flush_table()
 
     for raw in lines:
         line = raw.rstrip()
@@ -101,6 +117,14 @@ def markdown_to_html(source: str) -> tuple[str, list[tuple[str, str]]]:
             continue
         if quote:
             flush_quote()
+
+        if stripped.startswith("|"):
+            flush_paragraph()
+            flush_list()
+            table.append(stripped)
+            continue
+        if table:
+            flush_table()
 
         if not stripped:
             flush_paragraph()
