@@ -1,0 +1,25 @@
+{
+  "book_title": "The Logical Necessity of a Substrateless World",
+  "author": "John Tan",
+  "intro": "Read each chapter in full, or watch its short narrated video. Each video is a condensed retelling of the chapter's core argument in about three to four minutes.",
+  "chapters": [
+    {"number": 1, "title": "The Substantialist Misconception", "slug": "ch01-the-substantialist-misconception", "text": "ch01.md", "youtube": ""},
+    {"number": 2, "title": "The Logical Impossibility of Intrinsic Nature", "slug": "ch02-logical-impossibility-of-intrinsic-nature", "text": "ch02.md", "youtube": ""},
+    {"number": 3, "title": "Unfindability and Freedom from the Eight Extremes", "slug": "ch03-unfindability-and-the-eight-extremes", "text": "ch03.md", "youtube": ""},
+    {"number": 4, "title": "Mutual Dependency and the Non-Hierarchy of Relation", "slug": "ch04-mutual-dependency-and-non-hierarchy", "text": "ch04.md", "youtube": ""},
+    {"number": 5, "title": "The Non-Dimensional Two Truths", "slug": "ch05-the-non-dimensional-two-truths", "text": "ch05.md", "youtube": ""},
+    {"number": 6, "title": "The Impossibility of Absolute Nothingness", "slug": "ch06-impossibility-of-absolute-nothingness", "text": "ch06.md", "youtube": ""},
+    {"number": 7, "title": "Dissolving the Hard Problem of Consciousness", "slug": "ch07-dissolving-the-hard-problem", "text": "ch07.md", "youtube": ""},
+    {"number": 8, "title": "States of Awareness, Deep Sleep, and Death", "slug": "ch08-awareness-deep-sleep-and-death", "text": "ch08.md", "youtube": ""},
+    {"number": 9, "title": "The Reconceptualization of Continuity", "slug": "ch09-reconceptualization-of-continuity", "text": "ch09.md", "youtube": ""},
+    {"number": 10, "title": "Perceptual Co-Arising", "slug": "ch10-perceptual-co-arising", "text": "ch10.md", "youtube": ""},
+    {"number": 11, "title": "Alignment with 4E Cognition", "slug": "ch11-alignment-with-4e-cognition", "text": "ch11.md", "youtube": ""},
+    {"number": 12, "title": "Dissolution of Internal vs. External Worlds", "slug": "ch12-internal-vs-external-worlds", "text": "ch12.md", "youtube": ""},
+    {"number": 13, "title": "Conceptual Designation vs. Mere Naming", "slug": "ch13-designation-vs-mere-naming", "text": "ch13.md", "youtube": ""},
+    {"number": 14, "title": "The Role of Function in Conventional Reality", "slug": "ch14-function-in-conventional-reality", "text": "ch14.md", "youtube": ""},
+    {"number": 15, "title": "Science in a Substrateless World", "slug": "ch15-science-in-a-substrateless-world", "text": "ch15.md", "youtube": ""},
+    {"number": 90, "title": "Death and Continuity", "slug": "ch90-death-and-continuity", "text": "ch90.md", "youtube": "", "essay": true},
+    {"number": 91, "title": "Isn't Energy the Substrate?", "slug": "ch91-isnt-energy-the-substrate", "text": "ch91.md", "youtube": "", "essay": true},
+    {"number": 92, "title": "The Logic of Dependency", "slug": "ch92-the-logic-of-dependency", "text": "ch92.md", "youtube": "", "essay": true}
+  ]
+}
