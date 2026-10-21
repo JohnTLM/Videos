@@ -40,6 +40,14 @@ Built from a Claude cloud session (done for ep90, 2026-10-18):
   Drive; upload only the text files (script, narration, SRT, scenes .tsx) and add the new `.tsx` to the engine
   backup `_engine/explainer/src/chapters/`.
 
+**Book 4 series** (2026-10-21, owner chose the drawing style, reuse of the five bonus-article videos, and "two first,
+then the rest"): series folder `Observer-and-Presence/Videos/` beside the other two (wrapper `build.py`, `series.json`
+`{"drawing_prefix": "OB", "folder_prefix": "ob", "intro_word": "Chapter", "min_words": 250}`, `pronunciation.json`),
+folders `obNN-<slug>/`, drawings `src/chapters/OBNN.tsx` (plum-and-gold moods; model: `OB01.tsx`). Scripts follow the
+Anatta VIDEO-SPEC stance list. Chapters 1–2 built and approved (3:19, 3:28). Another local change to the copied
+`build.py`: each paragraph's speech is retried up to four times (the free service sometimes returns no audio).
+Built in a cloud session, the files live in that session's scratchpad until the owner puts them in Drive.
+
 Done so far for this site: ep90 "Dependent Designation and the Taste of Presence" (Drive folder
 `Anatta-to-Emptiness/Videos/ep90-dependent-designation-taste-of-presence`, drawings `AE90.tsx`) and ep91 "Two Modes,
 One Seeing" (2026-10-20, Drive folder `Anatta-to-Emptiness/Videos/ep91-two-modes-one-seeing`, drawings `AE91.tsx`).
