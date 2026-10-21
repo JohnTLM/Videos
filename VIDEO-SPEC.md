@@ -210,10 +210,72 @@ Use the same background, then add:
 - **The chapter title** in the title font, about 76 px, colour `#ece7da`, centred, wrapping to a maximum of 2 lines within 1500 px
 - Use the chapter number as written in the manuscript. Convert it to a word only if the manuscript does so.
 
+### Switches in each script (front matter of `chNN-script.md`)
+
+Two settings can be changed per chapter, at the top of its script file, before rebuilding it:
+
+```markdown
+---
+chapter: 1
+title: "The Substantialist Misconception"
+source_words: 1805
+script_words: 543
+intro: yes        ← yes: start with the title card and the spoken "Chapter N. Title."
+                     no:  start straight with the narration and drawings (no number, no title)
+voice: male       ← male:   Andrew, warm and confident (en-US-AndrewNeural, the voice of the pilot)
+                     female: Ava, expressive and caring (en-US-AvaMultilingualNeural)
+                     or any exact edge-tts voice name, e.g. en-GB-RyanNeural
+---
+```
+
+(Write only the value, e.g. `intro: no`, without the arrows and notes.) Missing settings mean
+`intro: yes` and `voice: male`. Changing the voice re-records the narration and spoken title on the
+next build. Changing `intro` only re-renders the picture. The male and female voices are the most
+natural-sounding "conversation" voices in the free edge-tts service; `build.py` (`VOICES`) holds
+their speed and pitch.
+
+Rebuild one chapter after a change: `C:\dev\video-tools\.venv\Scripts\python build.py --chapter N`
+
+### Spoken opening (user rule)
+
+By default (`intro: yes`), every video **starts with the narrator clearly saying the chapter number and title**
+("Chapter 1. The Substantialist Misconception.") over the title card. `build.py` records this line
+separately (`chNN-intro.mp3`) and lengthens the title card if needed (at least 5 s).
+
+### Style chosen: Remotion (user choice after style samples, Oct 2026)
+
+The drawings are made with Remotion (free, local): a living colour background, floating lights,
+glow, 3D objects, words revealed letter by letter. Project: `C:\dev\video-tools\explainer`
+(`src/lib.tsx` shared parts, `src/chapters/ChNN.tsx` per chapter: a `PHRASES` list in narration
+order plus a `Body`; register it in `src/Chapter.tsx`). `build.py` uses Remotion whenever
+`ChNN.tsx` exists, and copies it beside the video as `chNN-scenes.tsx`. The Manim notes below are
+the earlier approach and still apply in spirit (teacher style, stance, layout).
+
+### Explainer drawings (added after the Chapter 1 pilot, user feedback)
+
+The video must not be plain narration. Animated drawings illustrate what is being said,
+**as if a teacher is explaining to a student at a board**:
+
+- Each chapter has `chNN-scenes.py` (Manim), built on the shared `Videos/explainer.py`.
+  `build.py` renders it transparent and lays it over the drifting background.
+- Every drawing is timed to the narration: `self.go("phrase", ...)` waits for the narrator to
+  reach that phrase. Lines draw themselves (`Create`), words appear as if written (`Write`).
+- Draw the chapter's own examples (phone, ice, room, river, traveller...) and simple diagrams
+  of the argument (things and relations, co-designation, framework). One idea on the board at a time;
+  clear the board between ideas.
+- Stance (§4) applies to pictures too: never draw relation, process or awareness as a ground or
+  base layer. Show a "ground" only to remove it.
+- Keep drawings above y = −2.1 (Manim units) so they never sit under the subtitles.
+- Palette: chalk `#ECE7DA`, dim `#8A8475`, gold `#C9B37E` (emphasis), ice `#9CC3D5`, warm `#D9876C` (crossing out).
+- Check: dry-run reports any drawing that falls behind the narration (`LATE`); look at a contact sheet of frames.
+
 ### Subtitle style (ffmpeg `subtitles` filter)
 
+libass scales sizes from a 288-line canvas (×3.75 at 1080p), so the original values (22 / 70) put
+the subtitles too high and over the drawings. Use:
+
 ```
-force_style='FontName=Source Sans 3,FontSize=22,PrimaryColour=&H00EDEDED,OutlineColour=&H80000000,BorderStyle=1,Outline=1.2,Shadow=0,MarginV=70,Alignment=2'
+force_style='FontName=Source Sans 3,FontSize=17,PrimaryColour=&H00EDEDED,OutlineColour=&H80000000,BorderStyle=1,Outline=1.0,Shadow=0,MarginV=22,Alignment=2'
 ```
 
 **Windows tip:** run ffmpeg *from inside the chapter folder* and pass the SRT as a bare relative filename (`subtitles=chNN.srt`). This avoids the drive-letter escaping problem in the filter. Pass the fonts folder with `:fontsdir=../assets/fonts`.
