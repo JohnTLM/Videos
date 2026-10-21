@@ -7,7 +7,25 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 |---|---|---|
 | repo root + `chapter-builder/` | *The Logical Necessity of a Substrateless World* | one short narrated video per chapter |
 | [`mmk/`](mmk/README.md) | *Nāgārjuna's Middle Way* (the MMK) | 27 chapter videos; see [mmk/README.md](mmk/README.md) |
+| [`anatta-to-emptiness/`](anatta-to-emptiness/VIDEO-SPEC.md) | *The Transition from Anatta to Emptiness* | the series' own spec (its stance rules replace the base list) |
 | [`NEW-DOCUMENT-VIDEOS.md`](NEW-DOCUMENT-VIDEOS.md) | New articles and episodes on the website | how to make one with the Drive tools (`build.py`, Remotion) |
+| [`new-documents/`](new-documents/) | Bonus articles | each video's script, drawings (`*-scenes.tsx`) and subtitles |
+
+## Where the video specs live
+
+A video spec is the written instruction Claude follows to make a series' videos: script length and style, the
+book's stance, voice, drawings, subtitles and checks. Claude wrote the first versions on 2026-10-07 and 2026-10-08
+from the owner's choices, and every later decision of the owner was written into them.
+
+| Spec | Master copy (this repository) | Working copy (Google Drive, beside the videos) |
+|---|---|---|
+| Base spec, *Substrateless World* | [`VIDEO-SPEC.md`](VIDEO-SPEC.md) | `Substrateless-World/Videos/VIDEO-SPEC.md` |
+| *Anatta to Emptiness* | [`anatta-to-emptiness/VIDEO-SPEC.md`](anatta-to-emptiness/VIDEO-SPEC.md) | `Anatta-to-Emptiness/Videos/VIDEO-SPEC.md` |
+
+Claude reads the working copy while it builds and writes feedback into it; changes are then copied back here.
+The two copies of the base spec had drifted apart; on 2026-10-21 this master copy gained the Drive copy's
+drawing sections (switches, spoken opening, Remotion style, explainer drawings, subtitle sizes), so it now
+holds both sets of changes. The Drive working copy has not been updated yet.
 
 The rest of this page is about the Substrateless World videos.
 
