@@ -1,0 +1,64 @@
+{
+  "chapter": 9,
+  "title": "Examination of the Prior Entity",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter nine: the examination of the prior entity."},
+
+    {"kind": "text", "heading": "Who sees, hears and feels?",
+     "points": ["You see a bird, hear it sing, feel the morning air", "It seems one person does all this", "That someone seems to come first"],
+     "say": "You see a bird, you hear it sing, you feel the morning air. It seems obvious that someone is doing all this: one person, the same one, who sees and hears and feels. That someone seems to come first. The seeing and hearing belong to them, the way rooms belong to a house. Take away a particular sight or sound and the person is still there, waiting for the next one."},
+
+    {"kind": "text", "heading": "The prior entity",
+     "points": ["A self before, and apart from, its activities", "Follows chapter 3 on seeing", "Follows chapter 8 on agent and action"],
+     "say": "This chapter examines that someone. The opponent calls it the prior entity: a self that exists before, and apart from, the activities it owns. It is the natural sequel to chapter three, where seeing was found not to stand on its own, and to chapter eight, where agent and action were found to be established only together. If the seer were already there before any seeing, the result of chapter eight would be wrong. So Nagarjuna looks for the seer before the seeing."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "9.1"},
+    {"kind": "verse", "n": "9.2"},
+    {"kind": "verse", "n": "9.3"},
+    {"kind": "verse", "n": "9.4"},
+    {"kind": "verse", "n": "9.5"},
+    {"kind": "verse", "n": "9.6"},
+    {"kind": "verse", "n": "9.7"},
+    {"kind": "verse", "n": "9.8"},
+    {"kind": "verse", "n": "9.9"},
+    {"kind": "verse", "n": "9.10"},
+    {"kind": "verse", "n": "9.11"},
+    {"kind": "verse", "n": "9.12"},
+
+    {"kind": "text", "heading": "The case for a prior self",
+     "points": ["Seeing must belong to someone", "So the owner must already be there", "Like a house that has rooms"],
+     "say": "Now the explanation. The chapter opens with the opponent's view, in verses nine point one and two, and it is a reasonable one. Seeing, hearing and the other senses, and feeling and the other mental events, must belong to someone. A seeing that belongs to no one makes no sense. And whatever they belong to must already be there, or there would be nothing for them to belong to. So there is an owner, in place before them: a self that has experiences, the way a house has rooms. Several schools of Nagarjuna's time held something like this. Some Buddhist schools, the Pudgalavadins, spoke of a person that is neither the same as the aggregates nor different from them. Non-Buddhist schools spoke of an atman, a self that is the witness of experience. Most of us hold it without a name. It is the sense that I am here first, and experiences come to me."},
+
+    {"kind": "diagram", "fig": 1, "heading": "Made known by what?",
+     "say": "Nagarjuna's first question is simple, in verse nine point three. If this self is in place before seeing, hearing and feeling, by what is it designated? What shows that it is there? It cannot be shown by seeing, hearing or feeling. Those come after it, by the opponent's own account. But we have no other way of pointing to a seer than by seeing, to a hearer than by hearing. A self before all experience is a self that nothing reveals. Then the argument turns around, in verse nine point four. Suppose the self really can be in place without seeing and the rest. Then it is independent of them. But independence goes both ways. If the self does not need seeing, seeing does not need the self, and seeing could happen with no one to whom it belongs. That is exactly what the opponent said was impossible. The view undoes itself."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Someone and something",
+     "say": "Verse nine point five states the positive point in a few words. Someone is made known by something: a seer by a seeing, a listener by a sound heard. Something is made known by someone: a seeing is someone's seeing. Neither is found without the other. This is the same pattern as agent and action in chapter eight. It is not the claim that there is a seer after all. It is the claim that seer and seeing are designated together, and neither can be found first. Nagarjuna is arguing on the opponent's ground. If you insist that seeing exists on its own, you must also find the seer it belongs to; and the seer is not found. So seeing, taken as existing on its own, is not found either."},
+
+    {"kind": "text", "heading": "One at a time?",
+     "points": ["The self shows itself through one sense, then another", "Like a person moving from window to window", "Not before all of them, so not before each one"],
+     "say": "The opponent retreats, in verse nine point six. Perhaps the self is not before all the senses together. Perhaps at one moment it shows itself through seeing, at another through hearing, at another through feeling. It moves from window to window, like a person in a house looking out of one window and then another. Nagarjuna's reply is short, in verse nine point seven. If the self is not found before all of them together, it cannot be found before each one separately. What is not in the whole set is not in any member of it."},
+
+    {"kind": "diagram", "fig": 3, "heading": "One self or many?",
+     "say": "Then a dilemma about the person in the house, in verses nine point eight and nine. Is the seer the same as the hearer and the one who feels, or different? If they are one and the same, then this one self exists before each sense: it is there as the hearer even while it is seeing, ready and waiting. That puts it back before each particular experience, standing on its own, which verse nine point seven has just ruled out. If they are different, the seer is one self, the hearer another, the feeler another. Then whenever there is a seer there is also, separately, a hearer, even when nothing is heard; and one person would contain many selves. That is not what anyone meant by I."},
+
+    {"kind": "text", "heading": "Not in the elements either",
+     "points": ["Earth, water, fire and air are no owner of seeing", "The elements are empty too: chapter 5", "No owner found, so no owned seeing found"],
+     "say": "Perhaps the self is in the material basis of experience: the elements, earth, water, fire and air, from which the body and its senses are made, as verse nine point ten considers. But the same search applies. The elements are not found as an owner of seeing standing before seeing. And the elements themselves are found empty in their own chapter, chapter five. Then the result runs back the other way, in verse nine point eleven. If the owner of seeing is not found, then seeing, taken as something that belongs to an owner, is not found either. This does not mean nothing is seen. It means seeing is not found as a self-standing event with an owner attached."},
+
+    {"kind": "diagram", "fig": 4, "heading": "Before, at the same time, after",
+     "say": "The last verse widens the search to every time. The self is not found before seeing and the rest, as the opponent claimed. It is not found at the same time, alongside them, as a second thing. It is not found after them. And for what is not found at any time, the ideas it exists and it does not exist simply fall away. The wording is careful. Nagarjuna does not conclude that the self does not exist. That would be another view about the self. He says the conceptions of existing and not existing stop. This is the non-implicative negation again: the false picture is removed and nothing is put in its place."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["You still see the bird and hear it sing", "The mere I: it acts, remembers, keeps promises", "Gone: the owner behind the windows"],
+     "say": "You still see the bird and hear it sing, and you can say I saw it and be right. Your friend can ask what you heard, and you can tell them. The word I keeps its everyday use: it picks out this person, designated in dependence on this body, these experiences and this history. Tsongkhapa calls this the mere I. It acts, remembers and keeps promises. What goes is the owner behind the windows: a self already there before any experience, waiting for sights and sounds to arrive. Look for it and you find seeing, hearing and feeling, and the I designated together with them; you do not find a witness standing apart. Many people meet this first in practice, as the discovery that there is seeing without a seer behind it. The chapter adds the second half: the seeing, too, is not found on its own."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Anatta to Emptiness: The Great Desynchronization", "Also: The Starting Point; The Eye as a Living Chariot", "Substrateless World: Chapters 7 and 11"],
+     "say": "The two books take up these themes in several places. In The Transition from Anatta to Emptiness, see The Great Desynchronization, on why Nagarjuna's statements that there is no seeing without a seer do not reintroduce a self; The Starting Point, on no seer, no seeing and nothing seen; and The Eye as a Living Chariot, on searching for the seer behind vision. In The Logical Necessity of a Substrateless World, Chapter seven, on seer, seeing and seen designated together, and Chapter eleven, on doing without a doer. Links to all of them are on the chapter page. Next: chapter ten, the examination of fire and fuel."}
+  ]
+}

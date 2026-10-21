@@ -1,0 +1,51 @@
+{
+  "chapter": 12,
+  "title": "Examination of Suffering",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter twelve: the examination of suffering."},
+
+    {"kind": "text", "heading": "Who made this suffering?",
+     "points": ["I brought this on myself", "They did this to me", "Both, or no one: it just happened"],
+     "say": "When we suffer, we look for whom to blame. Sometimes it is ourselves: I brought this on myself. Sometimes it is others: they did this to me. Sometimes both, and sometimes no one: it just happened. Each answer feels like a complete account. Each also shapes how we live with the pain."},
+
+    {"kind": "text", "heading": "The fourfold test, for persons",
+     "points": ["Made by oneself, another, both, or no cause?", "The test of chapter 1, applied to suffering", "From things to persons"],
+     "say": "In Nagarjuna's time these four answers were also philosophical positions about suffering in general. Was it made by the very person who suffers, by someone else, by both, or by no cause at all? This chapter applies the fourfold test of chapter one to suffering, and finds that none of the four can be held, because each assumes a sufferer and a maker who stand on their own. It is a short chapter, but it carries the argument from things to persons."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "12.1"},
+    {"kind": "verse", "n": "12.2"},
+    {"kind": "verse", "n": "12.3"},
+    {"kind": "verse", "n": "12.4"},
+    {"kind": "verse", "n": "12.5"},
+    {"kind": "verse", "n": "12.6"},
+    {"kind": "verse", "n": "12.7"},
+    {"kind": "verse", "n": "12.8"},
+    {"kind": "verse", "n": "12.9"},
+    {"kind": "verse", "n": "12.10"},
+
+    {"kind": "diagram", "fig": 1, "heading": "Four ways suffering might be made",
+     "say": "Now the explanation. Verse twelve point one lists the four positions. It is the same set as in chapter one, now asked about suffering: made by itself, by another, by both, or without a cause. The early discourses record the Buddha refusing all four when asked about suffering, in the dialogue with Kassapa. He answered instead with dependent arising. Nagarjuna shows why the refusal was right. As in chapter one, refusing all four is not a fifth theory. It shows that a self-standing maker of suffering is not found."},
+
+    {"kind": "diagram", "fig": 2, "heading": "This life and the next",
+     "say": "Verses twelve point two and three take a concrete case. The suffering of a life is carried by its aggregates: body, feeling, perception, formations and consciousness. In the Buddhist picture, the aggregates of one life arise in dependence on the aggregates of the life before, as a flame is lit from a flame. Self-made? Then the suffering would not have to arise in dependence on anything. But it does. Made by another? Then the earlier aggregates and the later ones would have to be wholly other. But if they were wholly other, nothing would link them. The later life could just as well come from anyone's earlier life, as rice could come from barley seed. The dependence rules out both answers at once: what depends on something is neither simply itself nor simply other."},
+
+    {"kind": "diagram", "fig": 3, "heading": "Who is the person apart from it?",
+     "say": "Verses twelve point four to six turn from aggregates to persons. Say that suffering is made by one's own person. Then which person is that, apart from the suffering? The person is designated on the very aggregates that are suffering. There is no one standing outside them, making suffering and then stepping into it. The same holds the other way round. Say another person makes my suffering and hands it to me. Then who is the me who receives it, apart from the suffering? And who is the other person, apart from his own suffering? The picture needs two people, each complete apart from their experience, passing suffering between them like a parcel. Neither person is found that way."},
+
+    {"kind": "text", "heading": "The knot tightens",
+     "points": ["Made by another is self-made from the other's side", "A knife cannot cut itself", "Two empty hands do not make a full one"],
+     "say": "Verses twelve point seven and eight tighten the knot. Made by another depends on made by oneself: whatever the other does, it is self-made from the other's side. So if self-making fails, making by another fails with it. And self-making does fail: suffering is not made by that very suffering, as a knife cannot cut itself. Both together fail because each alone failed, as verse twelve point nine says. Two empty hands do not make a full one. And suffering without any cause would come from nowhere, need nothing, and could not be ended by changing anything. The last verse widens the point: outer things too, a pot, a sprout, a storm, cannot be made in any of the four ways."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["A careless word still hurts; a kind one helps", "Suffering arises from many conditions together", "So it can be changed from many sides"],
+     "say": "None of this makes suffering unreal or uncaused. A careless word still hurts, and a kind one still helps. Actions still have results, and responsibility is still meaningful. What goes is the picture of suffering as a thing made in one place and delivered to another, with a fixed author and a fixed victim. Seen through dependent arising, suffering arises from many conditions together: one's own habits and reactions, others' actions, circumstances, body and history. That is why it can be changed from many sides. It's all my fault, and it's all their fault, both freeze the situation around a self-standing someone. Dependent arising unfreezes it. The way out of suffering opens exactly because no one, and nothing, owns it from its own side."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Interlude, and Chapters 3 and 9", "The Logic of Dependency (bonus article)"],
+     "say": "The books do not cite this chapter by number, but they take up its themes. In The Logical Necessity of a Substrateless World: the Interlude, on the fourfold test; Chapter three, on why rejecting all four options is not a new theory; and Chapter nine, on one life conditioning the next, neither the same nor different, without a traveller. The bonus article, The Logic of Dependency, shows anger as conditioned, changed by changing its conditions. Links to all of them are on the chapter page. Next: chapter thirteen, the examination of compounded phenomena."}
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": 13,
+  "title": "Examination of Compounded Phenomena",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter thirteen: the examination of compounded phenomena."},
+
+    {"kind": "text", "heading": "What does a mirage hide?",
+     "points": ["A mirage looks like water", "Walk towards it and the water is not there", "It deceives by seeming more than it is"],
+     "say": "A mirage looks like water. Walk towards it and the water is not there, yet the shimmer is real enough to photograph. It deceives not by being nothing, but by seeming to be more than it is. The Buddha said that all conditioned things are like this: they have a deceptive nature, and so they are false."},
+
+    {"kind": "text", "heading": "Two wrong readings",
+     "points": ["Things exist but keep changing their nature?", "Emptiness is the true nature behind them?", "Nagarjuna rejects both"],
+     "say": "This chapter asks what that saying means. Does it mean that things exist but keep changing their nature? Or that everything is empty, and emptiness is the true nature behind them? Nagarjuna rejects both readings. Change, examined, does not need a nature that changes, and emptiness is not a new thing to believe in. The chapter ends with one of the most quoted verses of Madhyamaka: emptiness is the way out of all views, and whoever turns emptiness into a view is beyond help."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "13.1"},
+    {"kind": "verse", "n": "13.2"},
+    {"kind": "verse", "n": "13.3"},
+    {"kind": "verse", "n": "13.4"},
+    {"kind": "verse", "n": "13.5"},
+    {"kind": "verse", "n": "13.6"},
+    {"kind": "verse", "n": "13.7"},
+    {"kind": "verse", "n": "13.8"},
+
+    {"kind": "diagram", "fig": 1, "heading": "What does deceptive mean?",
+     "say": "Now the explanation. The chapter starts from a saying in the discourses, in verse thirteen point one: whatever has a deceptive nature is false, and all conditioned things have that nature. Verse thirteen point two raises a fair question. If everything deceptive is false, what is it that deceives? A deception seems to need something real behind it, as a trick needs a magician. The same verse gives the answer: the Buddha said this to bring emptiness to light. Conditioned things deceive by appearing to stand on their own, when they arise only in dependence. The deception is not a hidden deceiver; it is the gap between how things appear and how they are found when looked for. Nothing behind the scenes is needed, just as a mirage needs no secret lake."},
+
+    {"kind": "text", "heading": "Emptiness as a property?",
+     "points": ["Opponent: things change, so they lack own-nature", "But emptiness must belong to a real thing", "Emptiness turned into a property with a bearer"],
+     "say": "Verse thirteen point three gives the opponent's next position, and it is subtle. Things lack own-nature, he agrees, because they are seen to change. But, he adds, there is no thing without own-nature at all, since emptiness belongs to things, and a property needs something to belong to. So for him, emptiness becomes a quality of things, and those things must really be there to have it. Commentators read the second line in slightly different ways, but this is its point: emptiness is being turned into a property, with a real bearer underneath."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Change without a changer",
+     "say": "Nagarjuna answers with a dilemma, in verse thirteen point four. If there is no own-nature, what is it that changes? And if there is an own-nature, how could it change? A nature that could become something else would not be its own nature. Verses thirteen point five and six make this concrete. Does the young person age? While young, no: youth is not old age. Does the old person age? No: already old. Does milk become curd? If the milk itself became curd, milk and curd would be the same, and you could pour curd into your tea. If something other than milk became curd, why not water? This is not a denial that milk turns sour. It is a denial that a milk-thing persists through the souring, carrying a nature from one state to the next. The books call this change without a changer."},
+
+    {"kind": "text", "heading": "Empty of what?",
+     "points": ["Empty only makes sense against not empty", "Nothing is found that is not empty", "So emptiness is no quality, no stuff"],
+     "say": "Verse thirteen point seven removes the last foothold. Empty only makes sense in contrast with not empty. If there were something not empty, something with a nature of its own, then other things could be called empty by comparison. But nothing is found that is not empty. So emptiness is not a special quality some things have and others lack, and it is not a stuff that all things are made of. It is the absence of own-nature, nothing more."},
+
+    {"kind": "diagram", "fig": 3, "heading": "Emptiness is not a view",
+     "say": "That leads to the famous last verse, thirteen point eight. The Buddhas taught emptiness as the way out of all views. But those who make emptiness itself into a view are incurable. The traditional image, used by Chandrakirti, is a purgative medicine. A doctor gives it to clear a blockage. If it works, it clears the blockage and then leaves the body too. If the medicine stays in the body, it becomes a new illness, and there is no further medicine to remove it. Emptiness clears away views that grasp at own-nature. If it is then grasped as the final truth, the last remedy has itself become the disease. This is why the books keep warning against a substrate of emptiness: a hidden openness, potential or awareness behind appearances. Emptiness is itself empty."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["Milk still turns to curd; children grow old", "Things are still rightly called empty", "Emptiness works like medicine: used, not held"],
+     "say": "Milk still turns to curd, and children still grow old. It has changed, is still true and useful. Things are still called empty, correctly, as a way of saying that nothing has own-nature. What goes is a fixed something that changes, and a fixed emptiness that is true of things the way colour is true of them. The teaching of emptiness is still taught, studied and practised. It works exactly as a medicine works: by being used, not by being held. The test of having understood it is not having a new view, but being freed from the need to hold one."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Interlude and Conclusion", "The Logic of Dependency (bonus article)", "Anatta to Emptiness: The Disease of Relentless Negation"],
+     "say": "The two books take up these themes in several places. In The Logical Necessity of a Substrateless World: the Interlude, on emptiness, which does not lie behind the cup; and the Conclusion, offered under the warning of verse thirteen point eight. The bonus article, The Logic of Dependency, shows openness and non-holding turned into new things to hold. In The Transition from Anatta to Emptiness, see The Disease of Relentless Negation, on what happens when negation itself is held on to. And on YouTube, Curing the Disease of Relentless Negation. Links to all of them are on the chapter page. Next: chapter fourteen, the examination of connection."}
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "chapter": 11,
+  "title": "Examination of the Initial and Final Limits",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter eleven: the examination of the initial and final limits."},
+
+    {"kind": "text", "heading": "Where did it all begin?",
+     "points": ["Children ask it about the universe", "Adults ask it about their own lives", "If there is a story, it must have a first page"],
+     "say": "Where did it all begin? Children ask it about the universe, and adults ask it about their own lives: the first mistake, the first habit, the first moment of being me. The question feels as if it must have an answer. If there is a story, it must have a first page."},
+
+    {"kind": "text", "heading": "No first beginning",
+     "points": ["The Buddha refused to name a first beginning", "Not modesty about missing facts", "Without a first edge, before and after change"],
+     "say": "The Buddha refused to name a first beginning of the round of birth and death. This chapter shows that the refusal is not modesty about missing facts. If there is no first edge, the ideas of before and after stop working the way we picture them, and even birth and death cannot be lined up as two things in a row. It continues the work of chapter seven on arising, abiding and ceasing, and it prepares chapter nineteen on time."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "11.1"},
+    {"kind": "verse", "n": "11.2"},
+    {"kind": "verse", "n": "11.3"},
+    {"kind": "verse", "n": "11.4"},
+    {"kind": "verse", "n": "11.5"},
+    {"kind": "verse", "n": "11.6"},
+    {"kind": "verse", "n": "11.7"},
+    {"kind": "verse", "n": "11.8"},
+
+    {"kind": "diagram", "fig": 1, "heading": "No first page",
+     "say": "Now the explanation. The chapter opens with a saying of the Buddha, in verse eleven point one: no first limit of the round of birth and death is known. Trace any life back through its causes, and each cause has causes before it. No point is reached where the chain starts from nothing. Nagarjuna draws out what this means, in verse eleven point two. We usually picture a stretch of time as a line with two ends and a middle. But a middle is defined by its ends: it is the part between the start and the finish. Take away both ends and there is no middle to point to. So the familiar frame of before, after and at the same time cannot be laid over the round of birth and death as if it were a ruler with marks on it."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Birth and death cannot be lined up",
+     "say": "To test the point, Nagarjuna takes the most natural sequence there is: birth, then ageing and death. Three orders are possible, and he checks each, in verses eleven point three to five. Birth first, death after: then for a while there would be a birth not yet tied to ageing and death, something born that is free of death. But birth is precisely the start of what ages and dies. Death first, birth after: then ageing and death would happen to someone not yet born, with no cause. That is plainly absurd. Both at once: then what is being born would at that moment be dying, and since each is there at the same time, neither could be the cause of the other. All three fail for the same reason. Each order treats birth and death as two separate events, each complete in itself. But birth is identified as the beginning of what will age and die, and death as the end of what was born. They are not two beads on a string; they are two ends of one designation, a life."},
+
+    {"kind": "text", "heading": "Why elaborate?",
+     "points": ["Before, after and together do not apply", "So why spin out a birth here, a death there?", "Elaboration: the word from the homage"],
+     "say": "Verse eleven point six draws the conclusion. If before, after and at the same time do not apply, why elaborate a birth here and an ageing and death there, as if they were things we could take hold of and arrange? The word is the same as in the homage of chapter one: elaboration, the mind spinning out positions around what it takes to be there."},
+
+    {"kind": "diagram", "fig": 3, "heading": "Every pair, everywhere",
+     "say": "The last two verses widen the result. It is not only birth and death. Cause and effect, a thing and the mark by which it is known, a feeling and the one who feels it: every such pair has the same structure, as verse eleven point seven says. A cause is a cause only of an effect, and an effect only of a cause. Ask which came first and you meet the same three dead ends. So, finally, no first limit is found for anything, in verse eleven point eight. This is easy to mishear. It does not say the universe is infinitely old, as a fact of cosmology. It says no beginning can be found from the side of the things themselves: no first moment that stands on its own, uncaused. The question what was first assumes things with their own place on a time line, and that assumption is what fails."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["Birthdays are still celebrated, deaths mourned", "First and last work within any framework", "Look at present conditions, not a first cause"],
+     "say": "Birthdays are still celebrated and deaths are still mourned. A doctor can still say when a child was born and when an old man died, and be right. First and last work perfectly well within any framework we choose: the first page of a book, the first day of term. What the chapter removes is a first page of reality itself, standing on its own and needing nothing before it. Practically, this frees the search for an origin of suffering from a false form. The Buddha did not teach that the round of birth and death ends by finding where it began. It ends by seeing how it is kept going now, by conditions that can change. Looking for a first cause is replaced by looking at present ones."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Interlude, and Chapters 3, 8 and 9", "Anatta to Emptiness: Beyond the Extremes"],
+     "say": "The two books do not cite this chapter by number, but they take up its themes. In The Logical Necessity of a Substrateless World: Chapter three, on arising and ceasing as places a thing would have to be; the Interlude, on cause and effect designated in relation to each other; and Chapters eight and nine, on birth, death and continuity without a traveller. In The Transition from Anatta to Emptiness, see Beyond the Extremes: why life and death were never the right words. Links to all of them are on the chapter page. Next: chapter twelve, the examination of suffering."}
+  ]
+}

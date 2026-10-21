@@ -1,0 +1,68 @@
+{
+  "chapter": 10,
+  "title": "Examination of Fire and Fuel",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter ten: the examination of fire and fuel."},
+
+    {"kind": "text", "heading": "How is fire related to fuel?",
+     "points": ["Light a log: there is fire, and there is wood", "Is the fire the same as the wood, or different?", "Which comes first?"],
+     "say": "Light a log in the fireplace. There is the fire, and there is the wood it burns. Nothing seems simpler. Yet ask how the two are related and the simplicity goes. Is the fire the same thing as the burning wood, or something different that has taken hold of it? Which comes first: the fire, which needs fuel, or the fuel, which is called fuel only because it burns?"},
+
+    {"kind": "text", "heading": "An example for the self",
+     "points": ["The Personalists: the person is to the aggregates as fire to fuel", "This chapter takes the example seriously", "At the end: the self, pots and cloth"],
+     "say": "In Nagarjuna's India, fire and fuel were the standard example for a much bigger question: how the self is related to the body and mind it seems to own. The Personalists said the person is to the aggregates as fire is to fuel: neither the same nor different, yet real in its own right. This chapter takes the example seriously and shows that fire and fuel, examined honestly, give no support to anything standing on its own. At the end it applies the result to the self, to pots and to cloth."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "10.1"},
+    {"kind": "verse", "n": "10.2"},
+    {"kind": "verse", "n": "10.3"},
+    {"kind": "verse", "n": "10.4"},
+    {"kind": "verse", "n": "10.5"},
+    {"kind": "verse", "n": "10.6"},
+    {"kind": "verse", "n": "10.7"},
+    {"kind": "verse", "n": "10.8"},
+    {"kind": "verse", "n": "10.9"},
+    {"kind": "verse", "n": "10.10"},
+    {"kind": "verse", "n": "10.11"},
+    {"kind": "verse", "n": "10.12"},
+    {"kind": "verse", "n": "10.13"},
+    {"kind": "verse", "n": "10.14"},
+    {"kind": "verse", "n": "10.15"},
+    {"kind": "verse", "n": "10.16"},
+
+    {"kind": "diagram", "fig": 1, "heading": "The same, or different?",
+     "say": "Now the explanation. The chapter begins with a simple fork, in verse ten point one. If fire and fuel really are two things, each with a nature of its own, then they are either the same thing or different things. There is no third choice. If the fire is the fuel, then what burns and what is burned are one. The cook would be the dinner. We could no longer say the fire burns the wood, because there would be nothing for the burning to pass between. If the fire is a separate thing, it should be possible to have it without fuel, as a cup can be had without a saucer. And then strange results follow, in verses ten point two and three. A fire that needs no fuel needs nothing to light it, so it would burn for ever, and it would burn nothing. A fire with no fuel is not a fire at all."},
+
+    {"kind": "text", "heading": "Fuel is what is being burned",
+     "points": ["Then what does the burning?", "A wholly other fire never reaches its fuel", "Never burning it, it would never go out"],
+     "say": "An opponent tries to define the terms, in verse ten point four: fuel is simply what is being burned. But this only moves the problem. If the fuel is just what is being burned, what is doing the burning? Either the fire is part of the fuel, and we are back to the same, or it is something else, and we are back to different. Verse ten point five spells out what different really costs. A fire wholly other than its fuel would never reach it. Not reaching it, it would not burn it. Not burning it, it would never go out. It would sit there for ever, unchanged. That is not a description of any fire anyone has seen."},
+
+    {"kind": "text", "heading": "Like a woman and a man?",
+     "points": ["Different things meet all the time", "But two people exist before they meet", "No fire waits somewhere before its fuel"],
+     "say": "The opponent replies with an image, in verse ten point six: different things meet all the time, as a woman and a man meet. Nagarjuna agrees, with a condition, in verse ten point seven. Two people can meet because each exists without the other: she was somewhere before they met, and so was he. Fire and fuel are not like that. There is no fire waiting somewhere before it meets its fuel, and no fuel that is fuel before any fire. So the image does not fit."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Which comes first?",
+     "say": "The heart of the chapter is about dependence itself, in verses ten point eight to eleven. Everyone agrees that fire and fuel depend on each other. But if each depends on the other, which one is there first, so that the other can lean on it? If fuel is already there as fuel, then fuel is fuel without any fire, which contradicts the starting point. If fire is there first, then depending on fuel would only establish what is already established. Verse ten point eleven puts it in general form. A thing that becomes what it is by depending must either already exist when it depends, or not. If it does not yet exist, there is nothing to do the depending. If it already exists, it does not need to depend. This is not an argument against dependence. It is an argument against two self-standing things depending on each other. When neither is a finished thing, the puzzle goes away: fire and fuel are two names given together to one burning, as buyer and seller are two names given to one sale. Nobody asks whether the buyer or the seller existed first."},
+
+    {"kind": "text", "heading": "All four directions",
+     "points": ["No fire that depends on fuel, and none that does not", "No fuel that depends on fire, and none that does not", "Denied: a self-standing fire, not the fire in the grate"],
+     "say": "Verse ten point twelve states the result in all four directions. There is no fire that depends on fuel, and no fire that does not; no fuel that depends on fire, and no fuel that does not. The negations deny a self-standing fire and a self-standing fuel. They do not deny the fire in the grate. Verse ten point thirteen links the chapter to chapter two. Fire does not arrive from somewhere else, and it is not hidden in the wood waiting to come out. The same reasoning that found no going in the road applies here to burning."},
+
+    {"kind": "diagram", "fig": 3, "heading": "The fivefold search",
+     "say": "Verse ten point fourteen sets out a search in five places. Is the fire the fuel? No. Is it something other than the fuel? No. Does the fire own the fuel? Is the fuel in the fire? Is the fire in the fuel? The last three options are all versions of different. To own something, or to contain it, or to sit in it, two separate things are needed. Since a fire separate from its fuel has already failed, all three fail with it. Chandrakirti later adds two more places, the collection of parts and the shape of the parts, to make the sevenfold search of the chariot."},
+
+    {"kind": "diagram", "fig": 4, "heading": "Self and body, pot and clay",
+     "say": "Now the point of the example, in verse ten point fifteen. Replace fire with the self and fuel with the body and mind it takes up. The self is not the same as the body and mind: then it would come and go with every thought and every cell. It is not something apart from them: no one has ever found a self left over when body and mind are taken away. It does not own them, contain them, or sit inside them. Yet I is said, correctly, in dependence on them, as fire is said in dependence on burning wood. The same holds for a pot and its clay, a cloth and its threads. The Personalists were right that the self is like fire and fuel. They drew the wrong conclusion. The example shows a self that, like a fire, is real only as designated. And the chapter closes with a strong line, in verse ten point sixteen: those who teach that the self is real in itself, or that things are each separate and distinct, have not understood the teaching."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["The fire still warms the room", "One burning, described from two sides", "I am tired, I will come tomorrow: still true"],
+     "say": "The fire still warms the room. You can still add wood, and the fire still goes out when the wood is gone. Nothing in the chapter stops a cook from cooking. What goes is the picture of two finished things, a fire-thing and a wood-thing, that meet and act on each other. In its place is one burning, described from two sides, with each name making sense only through the other. That is also how the self is kept. I am tired, I will come tomorrow, I made a mistake: all of this remains true. The I is designated in dependence on body and mind, works as designated, and is not found when looked for in any of the five ways. Mutual dependence is not a circle that needs a first link; it is what being designated together means."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Interlude, and Chapters 3, 4 and 14", "The Logic of Dependency (bonus article)", "YouTube: Core Logic 2"],
+     "say": "The two books take up these themes in several places. In The Logical Necessity of a Substrateless World: the Interlude, on conditions and causes; Chapter three, on fire as fire only as burning; Chapter four, where verse ten point eight, which comes first, is answered; and Chapter fourteen, on powers co-defined with their partners. The bonus article, The Logic of Dependency, explains why the analysis relies on ordinary logic. And on YouTube, Core Logic 2, on the identity versus difference paradox, is about this chapter. Links to all of them are on the chapter page. Next: chapter eleven, the examination of the initial and final limits."}
+  ]
+}

@@ -1,0 +1,2 @@
+# For the MMK video scripts in this folder. Free: no paid AI.
+edge-tts
