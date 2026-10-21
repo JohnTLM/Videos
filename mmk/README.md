@@ -75,5 +75,16 @@ The script is `mmk/make_local.ps1`; it runs `make_video.py --no-verses` per chap
 When it finishes, it prints the command that writes the YouTube titles, descriptions (with chapter
 timestamps) and tags to `youtube.json` in your Drive folder (`youtube_meta.py`, reading the logs in Temp\mmk-video).
 
+## How a chapter video is built
+
+1. `narration/<n>.json`: a list of slides. Each slide has a kind (title, verse, diagram, text) and the words
+   Andrew reads. English only; Sanskrit is shown on screen, not read aloud.
+2. `make_video.py <n>`: draws each slide at 1920×1080 with Playwright, makes the audio and subtitles with
+   edge-tts, joins them with ffmpeg, burns in the subtitles. Writes a full-size and a phone-size MP4.
+   `--no-verses` leaves out the verse reading; `--only-slides` just draws the slides (no voice, a quick check).
+3. In a Claude cloud session, edge-tts needs the proxy's certificate `/root/.ccr/ca-bundle.crt`; the script sets it.
+4. The owner puts the MP4s in Drive or on YouTube. The website repository then adds the links
+   (`scripts/mmk_set_video.py` there; see its `prog-spec.md`, section 8).
+
 Running `make_video.py` or `youtube_meta.py` by hand: they find the website next to this repository
 (`..\thusness-website`), or in the folder named by the `THUSNESS_WEBSITE` environment variable.
