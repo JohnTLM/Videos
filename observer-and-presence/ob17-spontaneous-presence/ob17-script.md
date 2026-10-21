@@ -1,0 +1,32 @@
+---
+chapter: 17
+title: "Spontaneous Presence"
+source_words: 649
+script_words: 550
+intro: yes
+voice: male
+---
+
+# Chapter 17. Spontaneous Presence
+
+A flame gives light. But the light is not a second thing sent out. It is the burning.
+
+The Dzogchen tradition has a term for this kind of appearing: lhun grub, spontaneous presence. The word carries a risk. It can slide into causelessness. And an uncaused source is exactly the svabhāva that Madhyamaka rejects: a nature that stands on its own. The risk is best named openly.
+
+To keep the two traditions aligned, separate two questions. The first asks how an appearance comes about. Every appearance has an answer. It arises from causes and conditions, and the Middle Way analysis works at that level. The second asks about the nature of what appears. That nature is emptiness: the absence of any existence from its own side. And emptiness is not confined to mind. There is not one thing that has not arisen dependently. So there is not one thing that is not empty.
+
+Spontaneous presence, then, is not an extra ingredient sitting on top of emptiness. In this book's reading, it is what dependent origination looks like from the inside. It is what remains once every demand for a producer, substrate or ultimate why has run out. Dependent arising is the analytic description. Spontaneous presence is the experiential description of the same appearing. What presents is already complete. Both deny production by an essence. Both leave appearance intact.
+
+The phrase "no why or because" is worth returning to. It does not deny that causes work. In ordinary life, "why?" is a perfectly usable question. What the phrase denies is a ground beneath the regularity: a reason why it is so, which is itself uncaused. There the question stops applying. Not because the answer is hidden, but because there was never a ground to ask about.
+
+Two safeguards keep this from becoming a new ground. Emptiness is not a separate reality standing behind things. And emptiness must not become a hidden substrate either, because emptiness is itself empty.
+
+Together, these point to something easy to miss. Appearance and its conditions do not stand in a hierarchy. The conditions are not a ground beneath it. The appearance is not a surface expressing something deeper. Neither rules the other, because neither has a place to rule from. The arrangement is flat. The chariot's parts and the chariot. A flame and its fuel. A seeing and its object. Each occurs within the same web, with none presiding over the rest.
+
+And this flatness has no owner. To ask "whose appearance is this?" assumes someone standing behind the appearing. That someone is not found, and the appearing does not stop for want of one. It appears of itself, but only in a thin sense. The coming together of conditions is the appearing, as the flame's light is the burning.
+
+"Of itself" means only that the appearance is not borrowed from somewhere else. It names no self that owns it. Conditions are not little agents, each with a point of view. And "own" is where a self most easily slips back in.
+
+The Middle Way verses look for a self apart from the aggregates, the bundles of body and mind, and find none. What is left is only to see what appearing is, once the search has ended.
+
+It appears. And it belongs to no one.
