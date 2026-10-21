@@ -31,6 +31,9 @@ Built from a Claude cloud session (done for ep90, 2026-10-18):
   package-lock.json, src/, public/fonts/}`. Run `npm ci` in `explainer`.
 - Keep the Drive layout: `<root>/Substrateless-World/Videos/` and `<root>/Anatta-to-Emptiness/Videos/` (the Anatta
   `build.py` finds the shared builder at `../../Substrateless-World/Videos/build.py`).
+- Fonts: GitHub's font files are blocked from cloud sessions (403); fetch Cormorant Garamond and Source Sans 3
+  from Google Fonts instead (`fonts.googleapis.com/css2` gives the `.ttf` link) and save them under the names
+  `build.py` expects (done for ep93, 2026-10-21).
 - Local changes to the copied `build.py` (not in Drive): `REMOTION` from env `REMOTION_DIR`; `npx` instead of
   `npx.cmd` off Windows; `--browser-executable` from env `REMOTION_BROWSER`; edge-tts `proxy=` from env `TTS_PROXY`.
 - Run: `TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt REMOTION_DIR=<explainer>
@@ -54,3 +57,6 @@ One Seeing" (2026-10-20, Drive folder `Anatta-to-Emptiness/Videos/ep91-two-modes
 
 ep92 "Beyond Cause and Effect": the first build's script, drawings and subtitles (2026-10-20) are in
 `new-documents/ep92-beyond-cause-and-effect/`.
+
+ep93 "Insubstantial Appearances" (2026-10-21): script, drawings and subtitles in
+`new-documents/ep93-insubstantial-appearances/`.
