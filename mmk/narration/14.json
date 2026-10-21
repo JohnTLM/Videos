@@ -1,0 +1,49 @@
+{
+  "chapter": 14,
+  "title": "Examination of Connection",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter fourteen: the examination of connection."},
+
+    {"kind": "text", "heading": "Can separate things meet?",
+     "points": ["You, the seeing, and the tree seem to meet", "Desire: one who desires, desiring, the desired", "Experience pictured as things coming into contact"],
+     "say": "When you see a tree, three things seem to come together: you who see, the seeing, and the tree that is seen. They meet, and there is the experience. Desire seems to work the same way: someone who desires, the desiring, and the thing desired. Meeting, contact, combination: our whole picture of experience is built on separate things coming into contact."},
+
+    {"kind": "text", "heading": "The root of the picture",
+     "points": ["Two things can meet only if they are different", "But being different depends on the other", "So nothing is found that meets"],
+     "say": "This chapter asks whether separate things can meet at all. Its answer goes to the root of the picture. Two things can meet only if they are different. But being different is itself something that depends on the other, so nothing is different from its own side, and nothing is found that meets. The chapter extends chapter three, on seeing, and the main book uses its last verse to explain how things interact without being either one or two."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "14.1"},
+    {"kind": "verse", "n": "14.2"},
+    {"kind": "verse", "n": "14.3"},
+    {"kind": "verse", "n": "14.4"},
+    {"kind": "verse", "n": "14.5"},
+    {"kind": "verse", "n": "14.6"},
+    {"kind": "verse", "n": "14.7"},
+    {"kind": "verse", "n": "14.8"},
+
+    {"kind": "diagram", "fig": 1, "heading": "Seer, seeing and seen",
+     "say": "Now the explanation. The chapter opens with the three parts of a moment of seeing, in verse fourteen point one: the seen, the seeing and the seer. The Abhidharma explained perception as their contact: when eye, object and consciousness meet, there is contact, and from contact, feeling. Nagarjuna says the three do not come into contact, either in pairs or all together. Why not? Chapter three has already shown that none of the three stands on its own. An eye that sees nothing is not a seeing eye; an object no one sees is not the seen; a seer apart from seeing is not found. Each is identified only with the others. So they are not three separate things lying in wait to bump into each other. Verse fourteen point two extends this to every triad of the same shape: desire, the one who desires and the desired; and all the other afflictions and senses."},
+
+    {"kind": "text", "heading": "Contact needs difference",
+     "points": ["Contact is always of one thing with another", "So contact requires otherness", "Nothing is other from its own side"],
+     "say": "The next step is general, in verse fourteen point three. Contact is always of one thing with another. Your hand touches the table only if hand and table are two. So contact requires otherness, difference. But do the seen, the seeing and the seer have otherness, each from the others? No. Each is what it is only in relation to the others. And, Nagarjuna adds in verse fourteen point four, this is not special to perception. Nothing is other than anything from its own side."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Difference depends on the other",
+     "say": "This is the surprising centre of the chapter, in verses fourteen point five to seven. We think of difference as a fact sitting in things: the cup is different from the plate, and would be different even if no one compared them. Nagarjuna asks where the difference is. A cup is other only in relation to the plate. Take the plate away entirely, and in what sense is the cup still other? Other than what? Being other is not a property the cup carries by itself, like weight. It is a relation, and it needs the second thing. But then the cup's otherness depends on the plate. And whatever depends on something cannot be wholly other than it. Verse fourteen point six states it as a test: if the cup were other from its own side, it would still be other with no plate at all. It is not. And verse fourteen point seven closes the remaining doors: without otherness, there is neither something other nor the very same, for the same too is only said in contrast with other."},
+
+    {"kind": "diagram", "fig": 3, "heading": "Neither one nor two can meet",
+     "say": "The last verse puts it together, in verse fourteen point eight. A thing cannot come into contact with itself: one thing is not a meeting. Different things cannot come into contact either: if they were different from their own side, each complete and sealed off, there would be a gap that nothing could cross. So meeting, having met, and the one who brings things together are not found. The main book draws the positive lesson. Interaction is possible precisely because neither side has an edge of its own. Nothing crosses a gap, because no gap is found; and the two are not fused, because no single thing is found either. The cold of an ice cube in the hand is not a property passed from ice to hand across a boundary; it is designated with both, in their meeting."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["You still see the tree; hands still shake", "Same and different still work", "Gone: sealed units needing a bridge"],
+     "say": "You still see the tree. Hands still shake, and a friend's words still reach you. Doctors can still describe how light reaches the retina. Different and same still work: this is my cup, not yours. What goes is the picture of experience as sealed units bumping into each other, each with its own fixed outline, needing some mysterious bridge to connect them. That picture is behind many puzzles: how mind touches matter, how a subject reaches an object, how the self meets the world. The chapter does not answer these puzzles on their own terms. It removes the separateness that made them seem unavoidable."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Chapters 4, 5, 10 and 12", "YouTube: Relation without Relata"],
+     "say": "The two books take up these themes in several places. In The Logical Necessity of a Substrateless World: Chapter four, on how things meet, neither one nor two, which cites verse fourteen point eight; Chapter five, on the cold of the ice; Chapter ten, on perception as a relational event; and Chapter twelve, on no sealed inner subject meeting an outer world. On YouTube, see You, Ice, Coldness, and Dependent Arising: Relation without Relata. Links to all of them are on the chapter page. Next: chapter fifteen, the examination of essence."}
+  ]
+}

@@ -1,0 +1,45 @@
+# Making a narrated video for a new document
+
+For a new article or episode on the Thusness website (the Substrateless World and Anatta-to-Emptiness series and
+their bonus articles). Moved here from section 11 of the website's `prog-spec.md` on 2026-10-21, so all video-making
+lives in this repository. When the video is made, the website repository adds its Watch and Phone links
+(`prog-spec.md` rule 1 there).
+
+The owner's video system is documented in Google Drive, next to the videos:
+`Substrateless-World/Videos/VIDEO-SPEC.md` (base rules), `Anatta-to-Emptiness/Videos/VIDEO-SPEC.md` (this book's stance
+rules, which replace the base stance list) and `Substrateless-World/Videos/SETUP-AND-ARCHITECTURE.md` (how it works).
+`build.py` does it all: script -> voice (free edge-tts, Andrew) -> subtitles -> spoken title -> Remotion drawings ->
+MP4 -> check frames. Normally it runs on the owner's Windows computer (`C:\dev\video-tools`).
+
+Steps for one video:
+1. Write `<ep|ch>NN-script.md` (450–550 words; front matter `chapter: bonus` for a bonus, `intro: yes`, `voice: male`)
+   following the right VIDEO-SPEC, and get the owner's approval of the script.
+2. Write the drawings `src/chapters/<AE|Ch>NN.tsx` (a `PHRASES` list copied from the script in order, plus a `Body`
+   of scenes; model: `AE03.tsx` for the companion series). Phrases must not include words the pronunciation map
+   respells (Madhyamaka, svabhāva, Longchenpa...), because cues are matched on the spoken text.
+3. Build, look at a contact sheet of frames, fix, rebuild (the voice is cached).
+4. Make the phone version: `ffmpeg -i <video>.mp4 -vf scale=1280:720 -c:v libx264 -crf 26 -c:a aac -b:a 128k
+   -movflags +faststart <prefix>NN-preview-720p.mp4`.
+5. The owner puts both MP4s in Drive and shares them "Anyone with the link can view"; then add the Watch and Phone
+   links to the site (rule 1).
+
+Built from a Claude cloud session (done for ep90, 2026-10-18):
+- The environment's network must allow `speech.platform.bing.com` (the owner added it).
+- Copy the tools from Drive byte for byte (Drive connector `download_file_content`, then base64-decode):
+  `Substrateless-World/Videos/{build.py, pronunciation.json, assets/}`, the Anatta `Videos/{build.py, series.json,
+  pronunciation.json}`, and the engine backup `Substrateless-World/Videos/_engine/explainer/{package.json,
+  package-lock.json, src/, public/fonts/}`. Run `npm ci` in `explainer`.
+- Keep the Drive layout: `<root>/Substrateless-World/Videos/` and `<root>/Anatta-to-Emptiness/Videos/` (the Anatta
+  `build.py` finds the shared builder at `../../Substrateless-World/Videos/build.py`).
+- Local changes to the copied `build.py` (not in Drive): `REMOTION` from env `REMOTION_DIR`; `npx` instead of
+  `npx.cmd` off Windows; `--browser-executable` from env `REMOTION_BROWSER`; edge-tts `proxy=` from env `TTS_PROXY`.
+- Run: `TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt REMOTION_DIR=<explainer>
+  REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell python build.py --chapter 90`
+  from the Anatta `Videos` folder. Remotion needs the headless shell, not full Chromium. The render takes ~15 min.
+- The Drive connector cannot upload the MP4s (too large to send). Send them to the owner (SendUserFile) to put in
+  Drive; upload only the text files (script, narration, SRT, scenes .tsx) and add the new `.tsx` to the engine
+  backup `_engine/explainer/src/chapters/`.
+
+Done so far for this site: ep90 "Dependent Designation and the Taste of Presence" (Drive folder
+`Anatta-to-Emptiness/Videos/ep90-dependent-designation-taste-of-presence`, drawings `AE90.tsx`) and ep91 "Two Modes,
+One Seeing" (2026-10-20, Drive folder `Anatta-to-Emptiness/Videos/ep91-two-modes-one-seeing`, drawings `AE91.tsx`).

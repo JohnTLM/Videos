@@ -1,0 +1,86 @@
+{
+  "chapter": 1,
+  "title": "Examination of Conditions",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter one: the examination of conditions."},
+
+    {"kind": "text", "heading": "How does anything come about?",
+     "points": ["Seeds become sprouts", "Matches become flames", "We say one thing causes another, and the saying works"],
+     "say": "Nagarjuna's Fundamental Verses on the Middle Way open with the most ordinary question there is: how does anything come about? Seeds become sprouts, matches become flames, a word spoken in anger becomes a quarrel. We say that one thing causes another, and the saying works. The first chapter asks what we think is happening when we say it, and finds that the picture behind the saying cannot be made to hold together."},
+
+    {"kind": "text", "heading": "The shape of the chapter",
+     "points": ["Two verses of homage: the whole view in advance", "Fourteen verses of argument", "The test: the Abhidharma's four conditions"],
+     "say": "The chapter is short: two verses of homage and fourteen verses of argument. The homage states the whole view in advance. The argument then tests the most widely held theory of causes in Nagarjuna's time, the Abhidharma's list of four conditions, and shows that it cannot do what it promises. What is left at the end is not a world without causes. It is a world in which causes and effects are found only together, and never on their own."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "Homage"},
+    {"kind": "verse", "n": "1.1"},
+    {"kind": "verse", "n": "1.2"},
+    {"kind": "verse", "n": "1.3"},
+    {"kind": "verse", "n": "1.4"},
+    {"kind": "verse", "n": "1.5"},
+    {"kind": "verse", "n": "1.6"},
+    {"kind": "verse", "n": "1.7"},
+    {"kind": "verse", "n": "1.8"},
+    {"kind": "verse", "n": "1.9"},
+    {"kind": "verse", "n": "1.10"},
+    {"kind": "verse", "n": "1.11"},
+    {"kind": "verse", "n": "1.12"},
+    {"kind": "verse", "n": "1.13"},
+    {"kind": "verse", "n": "1.14"},
+
+    {"kind": "text", "heading": "The homage: eight things that are not found",
+     "points": ["Arising and ceasing", "Permanence and annihilation", "One and many", "Coming and going"],
+     "say": "Now the explanation. Nagarjuna begins with a bow, and the bow already contains the book. The Buddha, he says, taught dependent arising as without ceasing and without arising, without annihilation and without permanence, not one and not many, without coming and without going. These are the eight extremes, in four pairs. It is easy to read the verse as a contradiction. Dependent arising sounds like a description of arising. How can it also be without arising? The answer is the key to the whole text. The eight negations describe dependent arising itself. If a sprout could be found arising, from its seed or from anything else, it would have an arising of its own, and it would not need to depend. That it depends is exactly why no arising of its own is found when it is looked for."},
+
+    {"kind": "diagram", "fig": 1, "heading": "A thing with whereabouts",
+     "say": "All eight extremes ask one kind of question: where is it? Where did it start, where does it end, does it stay, is it gone, where did it come from, where did it go, is it this or that? Each question takes for granted a thing at the centre, something that can be placed in time, in space or in identity from its own side. That is the picture on the left. On the right, what appears in dependence has no such centre when it is looked for. So the eight questions do not have to be answered one by one. They lose what they were about. The last words of the homage say what this does: it quiets elaborations, the mind's spinning-out of it is, it is not, it came, it went. When the something is not found, the spinning stops by itself. That stopping is called peace."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Four ways a thing might arise",
+     "say": "The first verse of argument is the most quoted in all of Madhyamaka. Nothing, anywhere, is found to arise from itself, from another, from both, or without a cause. From itself: if the sprout were already in the seed, it would already be there, and arising would have nothing to do. From another: this is the option common sense takes. But other, in the strong sense, means two things each standing on its own, with nothing to connect them. Then a sprout could come from a stone just as well as from a seed. From both: a mixture carries the faults of each. And without a cause: then nothing would need its causes. No one would plant, and lamps would light by themselves."},
+
+    {"kind": "text", "heading": "No fifth theory",
+     "points": ["All four answers are refused", "Nothing is put in their place", "Arising from a thing's own side is not found"],
+     "say": "The rejection is a non-implicative negation. It refuses all four answers without installing a fifth. Nagarjuna is not saying that things arise in some subtle way not on the list, and he is not saying that the world is frozen. He is saying that arising, taken as something a thing does from its own side, is not found when looked for."},
+
+    {"kind": "table", "heading": "The four conditions",
+     "rows": [["Causal", "the main cause", "earlier moments of the same mind"], ["Object", "what a mind is about", "the flower, as what is seen"], ["Immediately preceding", "the moment of mind before", "the moment just before seeing"], ["Dominant", "what lets it happen", "the eye"]],
+     "say": "Verse one point two states the theory to be tested. The Abhidharma schools listed four kinds of condition. Take seeing a flower. The causal condition is the main cause, like a seed for a sprout; for the seeing, it is the earlier moments of the same mind, with the attention and feeling that arise along with it. The object condition is what the seeing is about: the flower. The immediately preceding condition is the moment of mind just before the seeing. And the dominant condition is whatever lets it happen: the eye, which makes this seeing and not hearing. The list is careful and useful, and Nagarjuna does not mock it. But the Abhidharma took each condition to be a real thing with its own nature, a self-standing item that produces its effect. The rest of the chapter asks whether conditions of that kind can do the job."},
+
+    {"kind": "text", "heading": "No own-nature, so no other-nature",
+     "points": ["The sprout is not found in the seed, soil, water or warmth", "To be 'other', a thing must first be itself"],
+     "say": "Verse one point three sets up the argument. The own nature of the sprout is not found in the seed, the soil, the water or the warmth. Look in each and you find seed, soil, water and warmth, not sprout. Then a further step. Where there is no own nature, there is no other nature either. To be other than something, a thing must first be itself. If neither seed nor sprout has a nature of its own, neither can be the other of the other. This takes away the support of arising from another, the option that seemed most like common sense."},
+
+    {"kind": "diagram", "fig": 3, "heading": "What makes a condition a condition?",
+     "say": "Verses four and five look at the word itself. When do we call something a condition? A seed is called the condition of a sprout because a sprout arises in dependence on it. A seed in a jar on a shelf is a seed, but it is not the condition of anything. It becomes a condition only when a sprout comes up. These are conditions, because in dependence on them that arises. But then, before the sprout arises, why are they not non-conditions? Condition and effect are named together, in relation to each other. Neither is a condition, or an effect, on its own. And the power to produce is not found as a separate thing inside the conditions either."},
+
+    {"kind": "diagram", "fig": 4, "heading": "For something that exists, or something that does not?",
+     "say": "Verses six and seven ask what a condition would act on. Either the effect exists when the condition acts, or it does not. If it already exists, the condition has nothing left to do. If it does not exist, there is nothing for the condition to act on. Try it with a match. Strike it, and there is a flame. When exactly did the flame pass from not being to being? At every moment something is going on, and at no moment is there a flame crossing over from nowhere. Nothing here stops you lighting the stove. What goes is only the picture of a finished thing being pushed across an edge by another finished thing."},
+
+    {"kind": "text", "heading": "The three other conditions tested",
+     "points": ["Object: if the mind exists on its own, it needs no object", "Immediately preceding: a ceased moment conditions nothing", "Dominant: no self-standing 'this' to bring about a 'that'"],
+     "say": "Verses eight to ten take the remaining conditions one by one. The object condition: if a moment of seeing already exists in its own right, it does not need an object to be what it is. And if it needs the object, it does not exist in its own right. The immediately preceding condition: while the next moment has not arisen, what is the ceasing making way for? And once the earlier moment has ceased, it is gone, and cannot be the condition of anything. The dominant condition: the Buddha's formula is, when this exists, that comes to be. It still works as a description of how things go together. It does not work as a description of one self-standing thing powering another."},
+
+    {"kind": "text", "heading": "Is the effect in the conditions?",
+     "points": ["Not in any one thread", "Not in a pile of threads", "Then why not cloth from straw?"],
+     "say": "The last four verses turn from the conditions to the effect. A cloth is made of threads. Is the cloth in any one thread? No. Is it in all the threads, gathered in a pile? No: a pile of threads is not a cloth. Then how can something that is not in the threads come from the threads? And if it comes from them even though it is not in them, it could come equally from anything else that does not contain it. Why not cloth from straw?"},
+
+    {"kind": "diagram", "fig": 5, "heading": "Made of its conditions?",
+     "say": "The obvious reply is that the cloth is made of the threads. But the threads are not made of themselves either. Each is made of fibres, each fibre of smaller parts, and nowhere does the search reach something self-made on which the rest could rest. So the chapter ends: no effect is found, either made of conditions or made of non-conditions. And without an effect, there is nothing to call conditions. Causes, too, were standing on the effect they were meant to produce."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["Rice still grows from rice seed", "Cause and effect are found only together", "Negated: arising by own nature, not arising as the world speaks of it"],
+     "say": "Read quickly, the chapter seems to deny causes altogether. It does not. Rice still grows from rice seed, and a match still lights a stove. What the chapter refuses is a particular picture: a cause complete in itself, holding a power of its own, pushing out an effect that then stands on its own in turn. Once that picture goes, the ordinary account of causes works better, not worse. A cause and its effect are found only together. That is what dependent arising means. As Chandrakirti and Tsongkhapa put it, what reasoning negates is arising established by its own nature, not mere arising as the world speaks of it."},
+
+    {"kind": "text", "heading": "Check it now",
+     "points": ["Hear a sound fade", "Where did it come from? Where did it go?", "Present, and not found to arise"],
+     "say": "The chapter can be checked at any time, with whatever is at hand. Hear a sound fade. Look for where it came from and where it went. It was not in the car before it passed, not in the air, not in the ear alone. Yet it was heard, clearly, and you turned your head. Present, and not found to arise: the homage, met in one sound."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Interlude, and Chapters 3, 5 and 15", "The Logic of Dependency (bonus article)", "Anatta to Emptiness: Resonances and Open Questions"],
+     "say": "The two books take up these themes in several places. In The Logical Necessity of a Substrateless World: the Interlude, on causes; Chapter three, on the eight extremes, the striking match and non-arising; Chapter five, on the cold of the ice; and Chapter fifteen, on quantum measurement. The bonus article, The Logic of Dependency, turns the eight extremes over one by one. And in The Transition from Anatta to Emptiness, see Resonances and Open Questions. Links to all of them are on the chapter page. Next: chapter two, the examination of motion."}
+  ]
+}

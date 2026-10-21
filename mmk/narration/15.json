@@ -1,0 +1,59 @@
+{
+  "chapter": 15,
+  "title": "Examination of Essence",
+  "slides": [
+    {"kind": "title", "say": "Nagarjuna's Fundamental Verses on the Middle Way. Chapter fifteen: the examination of essence."},
+
+    {"kind": "text", "heading": "What is a thing, underneath?",
+     "points": ["Each thing seems to have a core", "Gold is gold because of its gold-nature", "Change the surface, and the core stays"],
+     "say": "What is a thing really, underneath? We feel that each thing has a core that makes it what it is: gold is gold because of its gold-nature, I am I because of something essentially me. Change the surface, and the core stays. This core is what the Abhidharma called svabhava: own-nature, essence, a nature a thing has from its own side."},
+
+    {"kind": "text", "heading": "Own-nature, examined directly",
+     "points": ["Every chapter so far tested it case by case", "Here it is defined and tested head on", "Neither things exist, nor things do not exist"],
+     "say": "Every chapter so far has been testing own-nature in one case or another: in conditions, motion, the senses, fire and fuel. This chapter examines it directly. It defines what own-nature would have to be, shows that nothing arising from causes could have it, and then follows the consequences all the way to existence and non-existence themselves. It is the chapter where Madhyamaka states its central claim most plainly, and the books rely on it throughout. It also explains why the Middle Way is neither things exist nor things do not exist."},
+
+    {"kind": "text", "heading": "The verses",
+     "points": ["A new translation from the Sanskrit", "The Sanskrit is shown above each verse"],
+     "say": "First, the verses. The translation is new, made from the Sanskrit for this site."},
+
+    {"kind": "verse", "n": "15.1"},
+    {"kind": "verse", "n": "15.2"},
+    {"kind": "verse", "n": "15.3"},
+    {"kind": "verse", "n": "15.4"},
+    {"kind": "verse", "n": "15.5"},
+    {"kind": "verse", "n": "15.6"},
+    {"kind": "verse", "n": "15.7"},
+    {"kind": "verse", "n": "15.8"},
+    {"kind": "verse", "n": "15.9"},
+    {"kind": "verse", "n": "15.10"},
+    {"kind": "verse", "n": "15.11"},
+
+    {"kind": "text", "heading": "What own-nature would have to be",
+     "points": ["Not made: not lent by causes", "Not dependent on anything else", "Like the heat of fire, not of water on a stove"],
+     "say": "Now the explanation. Nagarjuna begins by defining his target, in verses fifteen point one and two, and the definition is the key to the whole of Madhyamaka. Own-nature is the nature a thing has in itself. If it is really its own, two things follow. First, it is not made. A nature that came about through causes and conditions would be produced, borrowed from those causes. It would be like the heat of water on a stove: real, but lent by the flame. Own-nature would have to be like the heat of the fire itself. The example is Chandrakirti's, and he adds at once that even the fire's heat arises from causes and conditions, so in the end it fails the test too. Second, it does not depend on anything else. A nature that depended on other things, on contrasts, on parts, on someone picking it out, would not be the thing's own."},
+
+    {"kind": "diagram", "fig": 1, "heading": "Made and dependent",
+     "say": "Now compare this with anything we meet. A tree came from a seed, soil and rain: made. It is a tree in relation to its roots, its leaves and the forest around it: dependent. The same holds for every thing examined in the earlier chapters. So the conclusion is almost immediate. Whatever arises from causes and conditions cannot have own-nature. This is why the books call the conclusion a logical necessity. The point is not that we have looked everywhere and found no essences. It is that anything we could find would already be dependent: to be found at all, it must be picked out by contrast and designation, and so it fails the definition before the search begins."},
+
+    {"kind": "diagram", "fig": 2, "heading": "Without own-nature, the rest falls",
+     "say": "Verses fifteen point three to five follow a chain. Each idea in it is defined by the one before, so when the first goes, all go. Other-nature: someone might say a thing lacks its own nature but has the nature of something else, a borrowed nature. But other-nature is just the own-nature of that other thing. If nothing has own-nature, there is nothing to borrow from. Existence: an existing thing, in the strong sense, is something that has a nature, its own or borrowed. Without either, there is no existing thing in that sense left. Non-existence: people call it the alteration of an existing thing, the vase that was and is now broken. Non-existence is defined as the absence of an existence. If no existing thing in the strong sense is established, its absence is not established either. Verse fifteen point six draws the conclusion. The right answer is not somewhere between existence and non-existence, like a halfway house. The whole frame that makes them the only choices has been taken away."},
+
+    {"kind": "diagram", "fig": 3, "heading": "The teaching to Katyayana",
+     "say": "Verse fifteen point seven is the only place in the whole work where Nagarjuna names a discourse. In the Kaccanagotta Sutta, Katyayana asks the Buddha what right view is. The Buddha answers that the world mostly leans on two ideas, it is and it is not. But for one who sees with right wisdom the arising of the world, the idea it is not does not occur; and for one who sees the ceasing of the world, the idea it is does not occur. Avoiding both extremes, the Buddha teaches by the middle: dependent arising. The middle is not a compromise between is and is not. Nagarjuna is not inventing anything. The rejection of both comes from the Buddha himself, and Madhyamaka is a careful reading of that one teaching."},
+
+    {"kind": "text", "heading": "Why a nature could never change",
+     "points": ["What exists by nature could never cease", "Essentially hot water could never cool", "Own-nature would freeze the world"],
+     "say": "Verses fifteen point eight and nine show what would follow if things did have own-nature. Suppose something existed by its nature. Then it could never come to not exist. A nature that could turn into something else would not be a nature. Water that was essentially hot could never cool; a self that was essentially me could never end, or change, or learn. Verse fifteen point nine gives the dilemma also met in chapter thirteen. If there is no nature, what is it that changes? If there is a nature, how can it change? So own-nature, far from explaining a living world, would freeze it. Only because things lack own-nature can seeds grow, minds learn and suffering end."},
+
+    {"kind": "diagram", "fig": 4, "heading": "The two extremes",
+     "say": "The chapter ends by naming the two great errors, in verses fifteen point ten and eleven. To say it is, in the strong sense, is to grasp at permanence. To say it is not, in the strong sense, is the view of annihilation. The wise take their stand on neither. Each extreme comes from own-nature. If something exists by its own nature, it can never stop existing: that is permanence. If someone then admits that it existed and now does not, they have a real thing falling into real nothing: that is annihilation. Both share the same root, a thing with a nature of its own, and differ only in what they say happens to it. This is a refused presupposition. Does the self last for ever, or is it destroyed at death? Both answers assume a self with a nature of its own. When no such self is found, neither answer is true, and nothing has been left unexplained. Logic has not been suspended; the question had nothing to be about."},
+
+    {"kind": "text", "heading": "What is left standing",
+     "points": ["Gold is still gold for the jeweller", "This exists, that no longer exists: still true", "Not a thinner world but a freer one"],
+     "say": "Everything that works still works. Gold is still gold for the jeweller, and you are still you for your friends and your bank. Things still come into being and pass away, as conventions that track what reliably happens. This exists, and that no longer exists, are still true, said within a framework, the way the world uses them. What the chapter denies is existence and non-existence by own-nature: a core that would make a thing what it is regardless of everything else, and a real nothing it could fall into. The result is not a thinner world but a freer one. A world of essences would be fixed: no growth, no healing, no path. Because nothing has own-nature, everything can change. That is the sense in which emptiness and dependent arising are one fact, and why the Middle Way is not a midpoint but a release from both extremes."},
+
+    {"kind": "text", "heading": "In the books",
+     "points": ["Substrateless World: Chapter 1, Interlude, Chapters 3 and 6", "The Logic of Dependency (bonus article)", "YouTube: three talks on emptiness and function"],
+     "say": "The two books take up these themes in several places. In The Logical Necessity of a Substrateless World: Chapter one, on own-nature as unmade and independent, set beside Aristotle and Descartes; the Interlude, on existence and non-existence and the teaching to Kaccanagotta; Chapter three, on neither permanent nor annihilated; and Chapter six, on non-being as the alteration of being. The bonus article, The Logic of Dependency, shows the refusals as refused presuppositions, not contradictions. And on YouTube, The Miracle of the Unfindable, and To Function is to be Empty. Links to all of them are on the chapter page. Next: chapter sixteen, the examination of bondage and liberation."}
+  ]
+}

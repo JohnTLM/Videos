@@ -8,7 +8,8 @@ The goal is a series of short narrated videos, one per chapter of the book
 *The Logical Necessity of a Substrateless World*. Each video is a calm, documentary-style
 retelling of one chapter, about 3 to 4 minutes long (3:00 to 4:30 is allowed).
 
-The repo has two parts:
+The repo also makes the MMK chapter videos (`mmk/`, see "The MMK videos" below). Everything else here
+is about the Substrateless World videos, which have two parts:
 
 | Part | What it is |
 |---|---|
@@ -67,21 +68,21 @@ videos/                              (this repo; also a plugin "marketplace")
     types/index.d.ts                 shared type definitions
     tests/button.test.tsx            offline tests
     README.md                        short plugin guide
-  site/                              the book website (see below)
-    chapters.json                    book title + chapter list with YouTube links
-    chapters/chNN.md                 full chapter text, from the book's _source folder
-    build_site.py, style.css         static-site builder (Python stdlib) and its look
-  .github/workflows/pages.yml        tests, builds and publishes site/ with GitHub Pages
+  mmk/                               the MMK chapter videos (a separate pipeline; see below)
 ```
 
-### The website
+### The MMK videos
 
-`site/` is separate from the video pipeline. `build_site.py` reads `chapters.json` and the
-chapter texts and writes plain HTML: a contents page, then one page per chapter with the
-YouTube video at the top and the full text below. On each push to `main` that touches
-`site/`, the "Publish website" workflow runs the builder's tests, builds the site and
-publishes it with GitHub Pages. Videos are hosted on YouTube, not in the repo; a chapter
-without a link shows "coming soon". Details: [site/README.md](site/README.md).
+`mmk/` makes the 27 videos for *Nāgārjuna's Middle Way*. It does not use the spec or the plugin:
+`make_video.py` builds one chapter from `narration/<n>.json`, taking the verses and diagrams from
+the chapter page in the website repository (`thusness-website/mmk/mmk-<n>.html`, found next to
+this repository or through `THUSNESS_WEBSITE`). Details: [mmk/README.md](mmk/README.md).
+
+### Where the videos are shown
+
+On the Thusness website ([thusness-website](https://github.com/JohnTLM/thusness-website)).
+This repository used to hold a second book website (`site/`, for GitHub Pages); it was removed on
+2026-10-21 because the Thusness website already shows each chapter with its video.
 
 A **marketplace** is a list of plugins that Claude Code can install from.
 Here the marketplace is named `videos` and lists one plugin, `chapter-builder`,

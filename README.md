@@ -1,4 +1,15 @@
-# Substrateless World videos
+# Videos
+
+All the video-making for John Tan (Thusness)'s books lives here. The videos are shown on the
+Thusness website (its own repository, [thusness-website](https://github.com/JohnTLM/thusness-website)).
+
+| Folder | Book | Videos |
+|---|---|---|
+| repo root + `chapter-builder/` | *The Logical Necessity of a Substrateless World* | one short narrated video per chapter |
+| [`mmk/`](mmk/README.md) | *Nāgārjuna's Middle Way* (the MMK) | 27 chapter videos; see [mmk/README.md](mmk/README.md) |
+| [`NEW-DOCUMENT-VIDEOS.md`](NEW-DOCUMENT-VIDEOS.md) | New articles and episodes on the website | how to make one with the Drive tools (`build.py`, Remotion) |
+
+The rest of this page is about the Substrateless World videos.
 
 This repo turns the book *The Logical Necessity of a Substrateless World* into short narrated
 videos, one per chapter. Each video is about 3 to 4 minutes: a title card, then calm narration
@@ -10,8 +21,10 @@ Claude Code does the work. It follows a written spec. A small plugin adds a
 - [ARCHITECTURE.md](ARCHITECTURE.md): how the parts fit together
 - [VIDEO-SPEC.md](VIDEO-SPEC.md): the full instructions Claude follows
 - [chapter-builder/README.md](chapter-builder/README.md): the plugin in brief
-- [site/README.md](site/README.md): the book website, where each chapter can be read in full
-  and its video watched (https://johntlm.github.io/videos/ once Pages is switched on)
+
+Readers watch the finished videos, and read each chapter, on the Thusness website. This repository
+used to hold a second, small book website (`site/`); it was removed on 2026-10-21 because the
+Thusness website already does that job.
 
 ## Prerequisites
 
