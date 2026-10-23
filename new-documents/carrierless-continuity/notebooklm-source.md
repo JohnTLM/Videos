@@ -46,7 +46,7 @@ Any model built on intrinsic existence either freezes reality into a block or sh
 
 ## 5. The momentary stream also fails
 
-Some Buddhist schools (the Abhidharma) gave up the soul and replaced it with a stream of momentary, really existing events. Each moment arises, does its work, perishes and triggers the next. The person is a chain of real, discrete links.
+Buddhism never accepted a soul. But some Buddhist schools (the Abhidharma), having analysed the person into parts, took those parts to be a stream of momentary, really existing events. Each moment arises, does its work, perishes and triggers the next. The person is a chain of real, discrete links.
 
 Nāgārjuna tests the joint between two links (MMK chapter 20). If moment A has ceased before B arises, A no longer exists and cannot produce anything. If A has not ceased, cause and effect coexist, and there is no succession. The present cannot be found either: it is squeezed between a past that is gone and a future that has not come (MMK chapter 19). A string of really existing terminations is just a string of annihilations.
 
@@ -171,5 +171,5 @@ Experience is continuous, vivid and complete in each moment, unowned, and free f
 - **Je Tsongkhapa:** jay TSONG-ka-pa. Tibetan master, 1357–1419.
 - **Dōgen:** DOH-ghen. Japanese Zen master, 1200–1253. Genjōkōan: ghen-JOH-koh-ahn.
 - **Dzogchen:** DZOG-chen. "Great Perfection".
-- **rigpa / ma rigpa:** RIG-pa / MAH RIG-pa. Recognition / non-recognition.
+- **rigpa / ma rigpa:** RIG-pa / MAH RIG-pa. Knowing awareness / its non-recognition. (Recognition is the recognising of rigpa, not a translation of the word.)
 - **bardo:** BAR-doh. The intermediate state after death.
