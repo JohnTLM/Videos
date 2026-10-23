@@ -10,7 +10,7 @@ Over a lifetime, the cells of the body turn over almost completely. Memories fad
 
 For millennia, philosophy and theology have explained this with **substantialism**: the assumption that continuity through time needs an **invariant bearer**. This is an unchanging anchor that carries identity across change. It is pictured as an immortal soul, a Cartesian ego, an enduring psychological self, or a conserved physical or neural substrate. Changing processes such as thinking, acting and aging are pictured as resting on it, the way verbs rest on a noun.
 
-This video argues that the bearer is not only unnecessary but incoherent, and builds an account of continuity with no carrier at all.
+This video argues that the bearer is not only unnecessary but incoherent, and builds an account of continuity with no carrier at all. Along the way, the question widens: not only what a person is, but what any phenomenon is. The answer to that wider question, in section 13, is the key to the whole account.
 
 ## 2. Two roots of the bearer: grammar, and something deeper
 
@@ -22,6 +22,8 @@ But language is only the surface. Buddhist analysis distinguishes two layers of 
 - **Innate grasping:** a pre-verbal sense of a solid "me", already present in an infant, that no argument installed.
 
 Refuting the theories removes only the first layer. The innate habit is undone not by argument alone, but by seeing through it directly, again and again. In Dzogchen the root is called non-recognition (ma rigpa), not grammar.
+
+The habit is stubborn. When it is shown that nothing lasts, it does not let go. It retreats one step, and holds that things must be real at least for a moment, even for a quantum-brief instant. That retreat is still the same habit of seeing things as inherently real, and section 5 shows where it leads.
 
 *Precision note: do not present grammar as the root cause of self-grasping. It is one expression of a deeper, innate habit.*
 
@@ -64,6 +66,8 @@ The way out is the Madhyamaka account of **dependent designation** (prajñaptir 
 
 **Designation is not words.** "Designated" does not mean that words or concepts are always running. Designation here means that nothing appears established from its own side, even when no concept is operating, as in direct perception.
 
+**The conditions are empty too.** "Arising in dependence on conditions" does not mean a solid web of causes working behind the scenes to manufacture the flame. The conditions (wick, wax, air, heat) are as unfindable as the flame they condition. Relations are as empty as the things related, and the network is not a new foundation.
+
 Continuity, then, is a reliable, functional designation applied across changing, dependent conditions. It works fully, and needs no carrier. MMK 24.18 says: whatever arises dependently is emptiness; being a dependent designation, it is itself the middle way.
 
 ## 7. Deep sleep and anesthesia
@@ -72,9 +76,9 @@ The substantialist pictures time as an objective river carrying a dormant subjec
 
 Look at general anesthesia. Three hours pass on the operating-room clock. In experience, no time passes at all. Upon waking, memory, the room and the clock are used to construct the sense of "having been under for three hours". The ticking clock shows that physical conditions changed. It does not show a hidden river of time carrying an unconscious passenger.
 
-But the stream does not simply break. The body goes on breathing, habits and memories remain, and Tibetan traditions speak of a subtle clarity that continues even in dreamless sleep (the "clear light of sleep" in Dzogchen practice). What is absent is a self enduring through it, and the tracking of duration. Nāgārjuna's rule holds here as everywhere: what arises in dependence on something is neither that thing nor other than it. Neither permanence nor annihilation.
+But nothing is cut off either. The body goes on breathing, and habits and memories go on conditioning what follows. The person who wakes is neither the same as the one who went under nor someone else. What is absent is a self enduring through the gap, and the tracking of duration. Nāgārjuna's rule holds here as everywhere: what arises in dependence on something is neither that thing nor other than it. Nothing is carried across, and nothing is cut off.
 
-*Precision note: do not say that the timeline "breaks cleanly", that only "discrete, localized states" remain, or that the mind's naming is "the only continuity that exists". Each of these slides into annihilation or into real moments.*
+*Precision note: do not say that the timeline "breaks cleanly", that only "discrete, localized states" remain, or that the mind's naming is "the only continuity that exists". Each of these slides into annihilation or into real moments. Equally, do not say that a subtle consciousness or clarity "continues" through sleep: that turns clarity into an enduring stream, a carrier by another name.*
 
 ## 8. Dōgen: firewood and ash
 
@@ -96,7 +100,9 @@ Without a carrier, both the possessor and the possession drop out. Experience ha
 
 Projected onto death, the substantialist picture produces deep dread: a permanent owner about to be robbed of everything gathered over a lifetime. If experiences were never held by an owner, there is no one to be robbed. Death is the ending of the particular physical and mental conditions that supported a particular display.
 
-This is not annihilation. In MMK chapter 27, Nāgārjuna rejects both views of the future: that "I will exist" and that "I will not exist". Both assume a findable "I" to continue or be destroyed. The stream of causes and effects goes on. Buddhist traditions speak of rebirth, and Dzogchen of the bardo and the clear light of death, but no owner travels through it.
+This is not annihilation. In MMK chapter 27, Nāgārjuna rejects both views of the future: that "I will exist" and that "I will not exist". Both assume a findable "I" to continue or be destroyed. Actions still bear fruit, and one life conditions the next, as one flame lights another. Buddhist traditions speak of rebirth, and Dzogchen of the bardo. What is refused is the traveller: the self that would walk unchanged from life to life, and its shadow, the self that would be wiped out at death. Nothing is carried, and nothing is cut off.
+
+*Precision note: do not describe a "stream" or "flow" that goes on through death. Continuity is designated across lives, as across moments; it is not a hidden current.*
 
 ## 11. Who keeps the promise? The mere I
 
@@ -112,17 +118,29 @@ The child in an old photograph shares no cells and no thoughts with the adult lo
 
 An invariant soul would actually threaten freedom. If identity had a permanent essence, character flaws, traumas and habits would be carved into it as intrinsic properties, beyond change.
 
-Because identity is designated across changing conditions, nothing is anchored to bedrock. Habits can soften. Character can be renewed. A long-standing grievance can end. Nāgārjuna makes this point in MMK chapter 24: only because things are empty of own-nature is a path, and any change at all, possible. Removing the bearer does not destroy accountability. It is what makes real transformation possible.
+Identity is designated across changing conditions, so nothing is anchored to bedrock. Habits can soften. Character can be renewed. A long-standing grievance can end. Nāgārjuna makes the point from the other side in MMK chapter 24: a self or a habit with its own fixed nature could never change, and no path could be walked. Removing the bearer does not destroy accountability or growth. It removes the one thing that would have blocked them.
 
-## 13. What, then, is the vivid appearing?
+*Precision note: do not say that emptiness "makes change possible", "enables" things or is the reason things can arise. Emptiness is not a cause or a condition. Say instead that a thing with its own fixed nature could not change.*
 
-When the bearer, the real moments and the hidden river are all gone, experience does not go blank. The sound of rain, the warmth of the sun and the colour of a leaf are as vivid as ever, often more so. What is this vivid appearing?
+## 13. What, then, is a phenomenon?
 
-It must not be answered by naming a substance, such as pure consciousness, energy, mind-stuff or a ground. Each of those would turn it into a thing that needs a carrier of its own. Appearing is described in three ways at once, none of them a layer beneath the others:
+When the bearer, the real moments and the hidden river are all gone, experience does not go blank. The sound of rain, the warmth of the sun and the colour of a leaf are as vivid as ever, often more so. So what exactly is a phenomenon? The whole confusion comes from not understanding this.
+
+**Three ways of appearing, none privileged.** Sometimes phenomena appear concrete and undeniably solid: a ball that can be tossed, an apple that can be bitten, a car that knocks a person down. Sometimes they are ethereal and dreamlike: thoughts, feelings, qualia, mental events. Sometimes physics describes them as probability clouds or excitations of fields. None of these is more real than the others. The solid is not more real than the dreamlike, and the mental is not more real than the physical. Physical models are reliable conventions within their domains, not the last word on what appears.
+
+**Vivid, yet unfindable.** Phenomena are vivid appearances that are completely unfindable, even as they appear vividly. They cannot be found anywhere: not here, not there, not anywhere, and not even nowhere. They are not in one's own mind, and not in the minds of others. And their absence is not a place or a thing either.
+
+**Yet they undeniably appear**: as colours, sounds, tastes, smells, thoughts and sensations; as cars, planes and birds. And they work. Empty is not flimsy. A car with no essence still injures; grief and healing still happen. Nāgārjuna compares this to a magician's conjured figure, which really acts (MMK 17.31–33), and to a mirage that is seen and that travellers turn toward. Magical, and miraculous.
+
+**Dependent arising is the appearing itself.** When the conceptual mind articulates this, it says "dependent arising": an appearing that presents vividly within a network of relationships. But appearing does not wait for that description in order to be dependent. Appearing already is dependent arising. And looked for, it is nowhere to be found. It is empty.
+
+The same can be said in three ways at once, none of them a layer beneath the others:
 
 - **Clear:** it is vivid and known as it appears.
-- **Dependent:** it arises only with its conditions.
-- **Empty:** looked for apart from those conditions, it cannot be found.
+- **Dependent:** it arises only with its conditions, which are themselves unfindable.
+- **Empty:** looked for, it cannot be found.
+
+*Precision note: this section is about every phenomenon, not only experience. Because the video spends time on anesthesia, death and inner experience, do not let it suggest that phenomena are "inside the mind", "made of consciousness", or that "everything is awareness". Mind is as unfindable as matter.*
 
 **A reflection with no mirror.** Appearing is like a reflection with no mirror behind it: vivid, dependent and unfindable. Its clarity is not lent by a mirror or a witness. Appearing is already clear, and that clarity is not something it possesses but simply what appearing is. Nāgārjuna denies that a lamp lights itself (MMK 7.8–12), so the point is not that appearance illuminates itself in a second act. Appearing and its clarity are simply not two.
 
@@ -132,7 +150,9 @@ It must not be answered by naming a substance, such as pure consciousness, energ
 
 Every negation in this account removes something, the fixing of a carrier, and installs nothing in its place. No timeless ground, pure witness or deeper reality is left behind beneath appearances.
 
-Seeing this is not an achievement to hold. It is recognition: clear, alert knowing that keeps releasing the habit of fixing, moment by moment, with no one doing the releasing. Experience remains continuous, vivid and complete in each moment, unowned, and free from permanence and from annihilation.
+Nor does any of this have to be searched for in order to be so. Analysis shows that nothing can be found. Recognition sees appearing as it already is. Seeing this is not an achievement to hold. It is clear, alert knowing that keeps releasing the habit of fixing, moment by moment, with no one doing the releasing. Each appearance, recognised, releases itself as it arises (rang grol): vivid, unfindable, with nothing to hold and no one holding.
+
+Experience is continuous, vivid and complete in each moment, unowned, and free from permanence and from annihilation.
 
 *Precision note: do not end on "what remains" or "what is left behind". Do not call what is seen "timeless". Do not present recognition as attaining a state.*
 
