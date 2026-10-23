@@ -14,9 +14,10 @@ Both are in the same Google Drive folder. The combined MP4 (152 MB) is not commi
 - `transcript-main.txt`, `transcript-second.txt`: Whisper (small.en) transcripts of the sources, with timestamps.
   Mishearings: "favava" is svabhāva, "opidarmic" is Abhidharmic, "Jason Kappa" / "J. Sankappa" is Je Tsongkhapa.
 - `youtube.md`, `thumbnail.jpg`: title, description with chapters, tags, and the 1280×720 thumbnail.
+- `notebooklm-source.md`, `notebooklm-instructions.md`: the corrected source text for regenerating the video in
+  NotebookLM (chosen route), with setup steps and the steering prompt.
 - `revision-plan.md`: doctrinal review against orthodox MMK and non-foundational Dzogchen. Six cuts and eight new
-  narration scripts (G1–G8). The production route (regenerate in NotebookLM, splice new narration, or cuts plus
-  text cards) is still to be chosen.
+  narration scripts (G1–G8).
 
 ## Edit list (combined video)
 
