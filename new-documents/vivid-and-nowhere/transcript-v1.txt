@@ -1,0 +1,212 @@
+[   0.00-   1.28] Lift a cup.
+[   2.18-   6.34] Feel its weight, its warmth, the smooth curve of the handle.
+[   7.26-   9.92] Day in and day out, we encounter objects like this,
+[  10.44-  12.46] and we assume we know exactly what they are.
+[  13.08-  17.84] We feel the cup is simply there, real, standing entirely on its own.
+[  18.64-  20.94] But we need to ask a more precise question.
+[  21.72-  23.74] What exactly is a phenomenon?
+[  24.74-  27.92] The answer is simple to state, though very difficult to see.
+[  27.92-  32.06] A phenomenon is a vivid appearing that cannot be found,
+[  32.48-  34.12] even while it vividly appears.
+[  35.06-  36.20] That sounds like a contradiction.
+[  37.10-  41.20] By default, logic tells us that either something is there or it is not.
+[  41.72-  47.20] But we are going to move step by step to see why vivid and unfindable are both true at once.
+[  48.18-  51.08] The assumption that things are completely solid and independent
+[  51.08-  53.78] is not a philosophical theory we learned in school.
+[  54.30-  56.34] The tradition calls it innate grasping.
+[  56.34-  58.84] It is a pre-verbal habit of seeing.
+[  59.54-  63.10] A small child already feels that the cup exists from its own side,
+[  63.46-  65.54] before any words or concepts are formed.
+[  66.54-  68.30] When we challenge this innate habit,
+[  68.74-  72.42] when we point out that the cup breaks, degrades, and changes over time,
+[  72.88-  74.32] the habit simply retreats.
+[  74.86-  77.16] It concedes that the macro object changes,
+[  77.40-  80.36] but it assumes there must be a permanent floor underneath.
+[  80.98-  85.60] It looks for tiny, indivisible parts, or a single frozen moment in time,
+[  85.60-  90.18] demanding that at the very bottom, something must be completely real.
+[  91.22-  95.66] Because this search for a foundational floor drives our entire interaction with reality,
+[  96.10-  98.62] we cannot rely on intuition to dismantle it.
+[  99.06- 103.92] We have to apply rigorous, logical analysis to see if that floor actually exists.
+[ 104.60- 106.12] We will start the search with time.
+[ 106.94- 108.70] If the objects we hold decay,
+[ 109.12- 112.66] we assume they at least exist entirely within a true present moment.
+[ 112.66- 117.62] This diagram illustrates the philosopher Nagarjuna's first analytical step.
+[ 118.42- 119.28] Take a passing moment.
+[ 119.98- 121.98] If a moment passes, it must have an end.
+[ 122.56- 125.68] If it has an end, it must also have a beginning and a middle.
+[ 126.38- 128.64] This means the moment has three distinct parts.
+[ 129.30- 131.26] The indivisible moment is compromised.
+[ 132.18- 133.76] Look closer at that middle section.
+[ 134.40- 137.18] If the present moment lasts for any duration at all,
+[ 137.40- 139.22] however short, we can divide it.
+[ 139.74- 141.18] Its first part is already gone.
+[ 141.18- 143.34] Its last part is not yet here.
+[ 143.86- 145.26] Only the middle is present.
+[ 146.14- 149.08] But if that middle lasts for some time, divide it again.
+[ 149.94- 151.80] Each time we look for a true present,
+[ 152.14- 154.30] it splits into a past that is no longer,
+[ 154.66- 156.00] and a future that is not yet.
+[ 156.64- 157.76] No present is found.
+[ 158.58- 161.26] So perhaps the true moment has no duration at all,
+[ 161.58- 163.54] a mere geometric point of now.
+[ 164.32- 167.08] But a point with zero length cannot add up to anything.
+[ 167.62- 170.54] You can line up an infinite number of zero duration points
+[ 170.54- 173.56] and they will never amount to a single passing second of time.
+[ 174.34- 177.52] This dividing process is a search, not a physical discovery.
+[ 178.08- 181.18] It does not prove that time is made of infinitely divisible matter,
+[ 181.46- 185.34] and it does not reveal a timeless, mystical reality hiding behind the clock.
+[ 185.92- 188.26] It simply proves that an independent present moment,
+[ 188.58- 191.06] standing by itself at any size, is unfindable.
+[ 191.80- 194.44] Now we apply the exact same search to physical space.
+[ 195.06- 198.56] The early thinker Vasubandhu theorized the partless atom,
+[ 198.56- 201.82] the absolute smallest possible piece of matter,
+[ 202.06- 204.08] serving as the floor of the physical universe.
+[ 205.02- 207.22] This animation shows the problem with that theory.
+[ 207.92- 210.48] For anything to be built out of atoms, they must join.
+[ 211.20- 214.24] Place one atom in the center with neighbors on all six sides.
+[ 214.88- 215.60] Ask where they meet.
+[ 216.14- 219.36] If the neighbor on the left touches the exact same spatial coordinate
+[ 219.36- 222.64] as the neighbor on the right, all six occupy a single place.
+[ 223.18- 226.42] A mountain built this way collapses into the size of one atom.
+[ 226.42- 228.64] So they must touch at different places.
+[ 229.24- 232.02] The left neighbor on the left face, the right neighbor on the right face.
+[ 232.66- 234.46] But if they touch six different faces,
+[ 234.94- 238.34] the atom has a top, bottom, front, back, left, and right.
+[ 238.96- 240.34] Six sides are six parts.
+[ 240.80- 242.26] The partless atom has parts.
+[ 243.08- 245.44] Press this to the boundary edge where two atoms meet.
+[ 245.88- 247.78] Is the edge part of this atom or that one?
+[ 248.24- 251.04] If the edge has any width, it has two sides of its own,
+[ 251.38- 252.32] generating more parts.
+[ 252.80- 255.74] If it has no width, it occupies no space.
+[ 255.74- 258.26] And nothing actually meets there.
+[ 258.80- 260.24] No final edge is found.
+[ 261.04- 263.32] None of this stops clocks from keeping time
+[ 263.32- 265.34] or bricks from building walls.
+[ 266.02- 267.76] The conventions function perfectly.
+[ 268.46- 271.52] What is not found is a moment or an atom
+[ 271.52- 274.06] that stands there entirely by itself.
+[ 274.72- 278.12] A present with duration falls apart into past and future.
+[ 278.52- 281.08] And a present without duration cannot make time.
+[ 281.08- 285.68] Atoms collapse into a single point or fracture into endless faces.
+[ 286.56- 290.20] The floor of reality cannot be found in physical space or time.
+[ 290.82- 292.66] Things appear in wildly different ways.
+[ 293.20- 294.18] A baseball is solid.
+[ 294.88- 296.20] A memory is ghostly.
+[ 296.70- 299.32] A probability cloud is a mathematical description.
+[ 300.06- 301.74] The habit tries to rank them,
+[ 302.10- 305.28] assuming physical matter is real and mind is a shadow,
+[ 305.62- 308.86] or that mathematical fields are the true level beneath the apple.
+[ 308.86- 311.34] None of these is more real than the others.
+[ 312.08- 315.52] Physics is a set of reliable conventions, not a truer foundation.
+[ 316.32- 317.98] Let's search a sensory phenomenon.
+[ 318.72- 320.36] A bell rings, clear and bright.
+[ 321.04- 321.78] Where is the sound?
+[ 322.40- 324.34] Strike nothing and the bell is silent.
+[ 324.90- 327.06] The air carries ripples, not a sound.
+[ 327.60- 329.44] The ear without the bell hears nothing.
+[ 329.98- 332.58] The sound is not in the bell, not in the air,
+[ 333.16- 335.62] not in the ear, and not sitting apart from them.
+[ 335.62- 339.10] Faced with this, the mind seeks a final hiding place.
+[ 339.72- 341.86] We assume the sound must exist subjectively,
+[ 342.22- 343.84] as an image inside the mind.
+[ 344.34- 347.14] But look for the mind using the exact same analysis.
+[ 347.78- 350.90] You find hearing, a passing thought, a feeling.
+[ 351.44- 354.06] You never find a container in which the sound is kept.
+[ 354.58- 356.78] The heat of a fire presents itself vividly.
+[ 357.50- 361.50] Afterward, we attempt to sort these events into distinct concrete categories.
+[ 362.00- 365.12] We designate some as mental, like seeing or thinking.
+[ 365.12- 368.80] We designate others as physical, like weight or heat.
+[ 369.36- 370.92] These names are incredibly useful.
+[ 371.52- 374.40] But they are designations made in dependence on conditions.
+[ 375.02- 379.48] They are not two kinds of objective or subjective stuff that reality is made of.
+[ 379.78- 381.70] When we fail to find the sound anywhere,
+[ 382.10- 385.10] the mind attempts to turn that absence into a thing.
+[ 385.64- 388.76] It imagines a void, a silence behind the sound,
+[ 388.96- 390.76] or a mystical background reality.
+[ 390.76- 395.82] Madhyamaka philosophy calls this analysis a non-implicative negation.
+[ 396.30- 399.94] It removes the assumed thing and puts absolutely nothing in its place.
+[ 400.98- 403.26] And yet the bell rings, undeniably.
+[ 404.10- 407.04] What the search fails to find is one specific thing,
+[ 407.52- 411.40] a sound standing there by itself, with its own independent nature.
+[ 411.92- 413.28] The ringing never needed that.
+[ 413.78- 415.60] Only its own nature is denied.
+[ 416.30- 418.70] Not found does not mean does not happen.
+[ 419.42- 422.74] Vivid and unfindable are not two separate layers.
+[ 423.20- 424.76] They are not a surface and a depth.
+[ 425.20- 426.50] They happen simultaneously.
+[ 427.44- 429.28] The sound arises with its conditions.
+[ 429.80- 431.62] The bell, the air, the ear.
+[ 432.18- 434.62] But the bell is itself an appearing phenomenon.
+[ 435.16- 437.00] It arises with conditions of its own.
+[ 437.86- 439.10] Metal, fire, and a shape.
+[ 439.60- 443.58] We cannot assume the conditions are the solid reality holding the sound up.
+[ 444.06- 447.76] A condition is exactly as unfindable as the thing it conditions.
+[ 447.76- 450.18] This creates a deep unease.
+[ 450.72- 453.12] If every condition depends on further conditions,
+[ 453.56- 455.32] and nothing at the bottom is really there,
+[ 455.74- 457.30] how does anything ever get started?
+[ 457.94- 460.40] We assume reality must rest on a foundation,
+[ 460.74- 462.44] the way a building rests on bedrock.
+[ 463.22- 463.98] Look at this diagram.
+[ 464.82- 466.82] Dependence never rested on a foundation.
+[ 467.26- 469.18] It does not run downward to a floor.
+[ 469.62- 470.46] It runs across.
+[ 471.20- 474.00] A line is called short only in relation to a long one.
+[ 474.52- 475.84] Nothing is short by itself.
+[ 475.84- 479.20] Neither comes first, and neither holds the other up.
+[ 479.94- 481.80] Picture a net with no bottom thread.
+[ 482.34- 483.92] Every knot appears with the others,
+[ 484.32- 487.22] and every knot looked for on its own is not found.
+[ 487.94- 490.26] This is not a hidden, seamless reality.
+[ 490.70- 493.14] It is not a single hole that the parts belong to.
+[ 493.72- 496.66] Connection itself is not found as an independent thing.
+[ 497.06- 498.76] There is no raw object first,
+[ 499.16- 500.90] and a descriptive label applied later.
+[ 501.52- 503.78] Appearing already is dependent arising.
+[ 503.78- 507.56] Designation is not a sticker placed on top of a thing.
+[ 507.96- 509.98] It is the entire status the thing has.
+[ 510.84- 514.72] And that dependent arising is exactly what Nagarjuna calls emptiness.
+[ 515.70- 520.20] The reality of the cup functions completely through this infinite horizontal dependence.
+[ 521.00- 523.78] It bypasses the need for a foundational layer entirely.
+[ 524.86- 526.50] Does unfindable mean unreal?
+[ 527.24- 527.46] No.
+[ 528.16- 531.60] A mirage is seen, and thirsty travelers walk toward it.
+[ 531.60- 536.12] A magician's elephant walks across the stage, and the audience gasps.
+[ 536.70- 539.88] A car with no essence still injures the person it hits.
+[ 540.48- 541.08] Medicine heals.
+[ 541.92- 542.94] Grief is still grief.
+[ 543.96- 547.30] It is tempting to claim that things work because they are empty,
+[ 547.52- 550.38] as if emptiness were a hidden power or a mechanism.
+[ 551.02- 551.52] It is not.
+[ 552.12- 553.64] Emptiness does nothing at all.
+[ 554.26- 555.90] Working never needed in essence.
+[ 556.50- 561.22] In fact, a fixed, independent nature is exactly what would paralyze a thing,
+[ 561.22- 564.88] stopping it from ever changing, acting, or being affected.
+[ 566.10- 567.40] Every appearance is clear.
+[ 568.02- 568.84] The color is seen.
+[ 569.34- 570.22] The thought is known.
+[ 571.00- 574.40] Our habit tries to read this clarity as a light shining from behind.
+[ 574.88- 575.38] A witness.
+[ 575.80- 577.76] A pure consciousness watching the event.
+[ 578.34- 581.98] But look for that knower, and you find only seeing and the seen.
+[ 582.44- 584.88] You never find a viewer standing apart from both.
+[ 585.50- 587.76] The clarity belongs to the appearing itself.
+[ 588.76- 593.94] The Zogchen tradition uses specific terms for this, read without asserting any cosmic ground.
+[ 594.98- 598.02] Primordial purity means appearing was never fixed to begin with.
+[ 598.80- 602.06] Spontaneous presence means it owes nothing to a hidden source.
+[ 603.00- 605.22] Rickpa is simply the knowing of this basis,
+[ 605.90- 610.90] recognizing appearing as unfixed, dependent, and empty, without inserting a witness.
+[ 611.74- 613.36] The tradition points to recognition.
+[ 613.36- 618.38] This is not a mystical state to maintain or a profound shift to achieve.
+[ 619.06- 623.28] It is the recognition that a phenomenon is unfindable and yet vividly appears,
+[ 623.80- 625.88] both at once, in this very sound.
+[ 626.82- 628.86] When this is recognized, nothing is lost.
+[ 629.42- 630.66] The apple is still red.
+[ 631.02- 632.24] The car is still dangerous.
+[ 632.78- 634.24] A friend's voice is still warm.
+[ 634.96- 638.04] The only thing that has gone is the floor that was never there.
+[ 638.74- 639.60] Lift the cup again.
+[ 640.14- 640.84] Feel its weight.
+[ 640.84- 645.16] It appears vividly whenever its conditions come together,
+[ 645.36- 650.74] and it is found completely nowhere, magical and miraculous.
