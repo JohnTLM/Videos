@@ -1,7 +1,7 @@
 # Carrierless Continuity: revision plan
 
 > **Superseded:** the chosen route is to regenerate in NotebookLM. `notebooklm-source.md` is the current text. G4, G6
-> and the plasticity wording here were later corrected against CanonView (see `notebooklm-instructions.md`).
+> and the plasticity wording here were later corrected against CanonView (see `notebooklm-prompt.md`).
 
 Timestamps refer to the current combined video (11:39). Revised length: about 13:50.
 
