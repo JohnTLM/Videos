@@ -160,7 +160,7 @@ const Items: React.FC<{ items: It[] }> = ({ items }) => {
   const c = useCue();
   return (
     <>
-      {items.map(([cue, x, y, node, opt = {}], i) => {
+      {items.map(([cue, x, y, node, opt = {} as Opt], i) => {
         const a = c(cue) + (opt.d ?? 0);
         const out = opt.until ? 1 - ramp(t, c(opt.until) + (opt.ud ?? 0), 0.4) : 1;
         return (
