@@ -1,12 +1,9 @@
-# The Illusion of the Given (NotebookLM video)
+# The Illusion of the Given (bonus article video)
 
-Bonus article for *Intersubjectivity and Dependent Arising*. Video made by the NotebookLM route
-(`NOTEBOOKLM-VIDEOS.md`), 2026-10-24.
+Bonus article for *Intersubjectivity and Dependent Arising* (EBooks `intersubjectivity-and-dependent-arising/`).
+Two versions, `build.py` first (owner's rule, 2026-10-24).
 
-- Article: EBooks `intersubjectivity-and-dependent-arising/` (full version and the plain-English version). The
-  source follows the plain-English wording, with nothing left out.
-- `notebooklm-source.md`: the source, in 20 sections with 13 precision notes and a pronunciation list.
-- `notebooklm-prompt.md`: setup, the steering prompt (full and short), and the canon check.
-
-Status: source and prompt written; waiting for the owner's approval and the NotebookLM generation. The transcript,
-cuts, YouTube text and thumbnail are added here after the video is made.
+1. **`build.py` video (main):** `script-draft.md`, the 450–550-word narration, waiting for the owner's approval.
+   Then drawings, voice, subtitles and the MP4.
+2. **NotebookLM (optional, later):** `notebooklm-source.md` and `notebooklm-prompt.md` were written early, on
+   2026-10-24. Review them again once the owner is satisfied with the `build.py` video.
