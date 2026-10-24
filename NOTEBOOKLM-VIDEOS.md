@@ -1,8 +1,9 @@
 # Bonus-article videos made with NotebookLM
 
-The owner's process for every bonus-article video from 2026-10-24 on. It replaces the `build.py` route in
-`NEW-DOCUMENT-VIDEOS.md` for bonus articles. **There is no word limit**: the 450–550-word script rule belongs to
-`build.py` videos only. The source covers the whole article.
+The owner's process for the video of **every new bonus article**, from 2026-10-24 on. Past bonus articles keep the
+videos they have; they are not redone. For new bonus articles it replaces the `build.py` route in
+`NEW-DOCUMENT-VIDEOS.md`. **There is no word limit**: the 450–550-word script rule belongs only to `build.py`'s
+synthetic-voice drawing videos. The source covers the whole article.
 
 Worked example: `new-documents/carrierless-continuity/` (2026-10-23).
 

@@ -10,7 +10,7 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`anatta-to-emptiness/`](anatta-to-emptiness/VIDEO-SPEC.md) | *The Transition from Anatta to Emptiness* | the series' own spec (its stance rules replace the base list) |
 | [`NEW-DOCUMENT-VIDEOS.md`](NEW-DOCUMENT-VIDEOS.md) | New articles and episodes on the website | how to make one with the Drive tools (`build.py`, Remotion) |
 | [`new-documents/`](new-documents/) | Bonus articles | each video's script, drawings (`*-scenes.tsx`) and subtitles |
-| [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | Bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
+| [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | New bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
 
 ## Where the video specs live
 

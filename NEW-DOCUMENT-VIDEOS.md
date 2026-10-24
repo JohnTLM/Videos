@@ -11,8 +11,9 @@ rules, which replace the base stance list) and `Substrateless-World/Videos/SETUP
 `build.py` does it all: script -> voice (free edge-tts, Andrew) -> subtitles -> spoken title -> Remotion drawings ->
 MP4 -> check frames. Normally it runs on the owner's Windows computer (`C:\dev\video-tools`).
 
-**Bonus articles now use NotebookLM** (owner's decision, 2026-10-24): see `NOTEBOOKLM-VIDEOS.md`. That route has no
-word limit. The steps below are for `build.py` videos.
+**New bonus articles now use NotebookLM** (owner's decision, 2026-10-24): see `NOTEBOOKLM-VIDEOS.md`. That route
+has no word limit. Past bonus articles keep their videos. The steps below are for `build.py`'s synthetic-voice drawing
+videos, which keep the 450–550-word limit.
 
 Steps for one video:
 1. Write `<ep|ch>NN-script.md` (450–550 words; front matter `chapter: bonus` for a bonus, `intro: yes`, `voice: male`)
