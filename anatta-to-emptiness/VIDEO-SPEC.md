@@ -55,6 +55,9 @@ with one line that picks up the thread (no "previously").
 Script length: 450–550 words where the source allows. Short sections (ep 2, 10, 16) may be shorter (down to ~250
 words); never pad with claims that are not in the section.
 
+Bonus articles (`chapter: bonus`) follow the base spec §3.1: a `build.py` video first, 10–12 minutes or longer
+when the article is rich, and NotebookLM files only after the owner is satisfied.
+
 ## 3. Defaults (owner's choice)
 
 Every script's front matter: `intro: yes`, `voice: male` (Andrew, as in the first series). Title in front matter is the
