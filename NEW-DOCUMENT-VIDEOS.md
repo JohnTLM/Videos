@@ -12,12 +12,17 @@ rules, which replace the base stance list) and `Substrateless-World/Videos/SETUP
 MP4 -> check frames. Normally it runs on the owner's Windows computer (`C:\dev\video-tools`).
 
 **Two versions, `build.py` first** (owner's rule, 2026-10-24): every new bonus article gets a `build.py` video
-first, by the steps below (450–550-word script, Andrew's voice, Remotion drawings). `build.py` is the main route.
+first, by the steps below (Andrew's voice, Remotion drawings). `build.py` is the main route.
+
+**Length of a bonus-article video** (owner's rule, 2026-10-24): aim for **10–12 minutes** (about 1,800–2,000
+words at Andrew's pace), and run longer when the article is rich. The 450–550-word limit does not apply to bonus
+articles. Quality of content comes first: cover the whole argument rather than cut it to fit. `build.py` still
+marks longer scripts "check" in `manifest.csv`; for a bonus video that is expected, not a fault.
 Only after the owner is satisfied with that video does Claude write the two NotebookLM files
 (`NOTEBOOKLM-VIDEOS.md`). The owner may or may not then make a NotebookLM version.
 
 Steps for one video:
-1. Write `<ep|ch>NN-script.md` (450–550 words; front matter `chapter: bonus` for a bonus, `intro: yes`, `voice: male`)
+1. Write `<ep|ch>NN-script.md` (450–550 words for a chapter, 10–12 minutes or more for a bonus article; front matter `chapter: bonus` for a bonus, `intro: yes`, `voice: male`)
    following the right VIDEO-SPEC, and get the owner's approval of the script.
 2. Write the drawings `src/chapters/<AE|Ch>NN.tsx` (a `PHRASES` list copied from the script in order, plus a `Body`
    of scenes; model: `AE03.tsx` for the companion series). Phrases must not include words the pronunciation map
