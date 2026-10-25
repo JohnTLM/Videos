@@ -1,0 +1,28 @@
+---
+chapter: 7
+title: "Potentiality and Plasticity"
+source_words: 334
+script_words: 359
+intro: yes
+voice: male
+---
+
+# Chapter 7. Potentiality and Plasticity
+
+The dress is seen as white and gold. Or it is seen as blue and black.
+
+The same lines are seen as a duck, or as a rabbit. The same electron appears as a particle or a wave, depending on how it is asked. If nothing is fixed from its own side, appearances seem endlessly malleable.
+
+So a subtler idea suggests itself. Perhaps there is a store of potentials behind appearances, from which they are drawn. Aristotle spoke of potency. Heisenberg spoke of potentia. Quantum theory describes an abstract space of possibilities. On this picture, appearances are what gets actualised. The potentials are what is really there.
+
+In this book's reading, that makes a substrate, a hidden base, for emptiness. Emptiness here means the absence of any nature a thing would have from its own side. The mind sees that phenomena have no fixed nature. Then it gives their openness a home behind them. Emptiness becomes a new substance, made of possibilities instead of stuff.
+
+But a potential is known only through what it becomes, and through its partner. Salt is soluble only in relation to water. A seed is a seed only in relation to the sprout. "Could" is said within a set of conditions. It is not a thing waiting backstage. When Nāgārjuna says that for whom emptiness is possible, everything is possible, the word means "fits", or "works". It does not describe a reservoir.
+
+Nor is the openness endless. Appearances are open because they depend. They are limited for the same reason. A rope can appear as a snake in dim light. A shadow cannot be walked across as a bridge. The dress split its viewers into two colourings, not into every colour at once.
+
+A plasticity free of all conditions would be its own kind of own-nature: a power able to make anything, from its own side. That is the idealist extreme, not the Middle Way. Appearances are exactly as plastic as their conditions allow, and no more.
+
+Dzogchen has a better word than potential: ma 'gags pa, unobstructed.
+
+Nothing blocks the display. And there is no store behind it, from which the display comes.

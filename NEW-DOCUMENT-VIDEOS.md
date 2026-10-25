@@ -32,6 +32,8 @@ Steps for one video:
    -movflags +faststart <prefix>NN-preview-720p.mp4`.
 5. The owner puts both MP4s in Drive and shares them "Anyone with the link can view"; then add the Watch and Phone
    links to the site (rule 1).
+6. Save the text files (script, narration, drawings, subtitles) in this repository and push (see "Rule: save every
+   video here" in `README.md`).
 
 Built from a Claude cloud session (done for ep90, 2026-10-18):
 - The environment's network must allow `speech.platform.bing.com` (the owner added it).

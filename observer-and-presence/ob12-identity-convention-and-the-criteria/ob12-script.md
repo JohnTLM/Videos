@@ -1,0 +1,36 @@
+---
+chapter: 12
+title: "Identity, Convention and the Criteria of Truth"
+source_words: 612
+script_words: 546
+intro: yes
+voice: male
+---
+
+# Chapter 12. Identity, Convention and the Criteria of Truth
+
+A phone has a cracked screen. Is it still the same phone?
+
+Under the logic of substance, the answer is hidden in the thing itself. A thing is what its essence makes it. It stays the same for as long as the essence remains.
+
+The logic of dependency moves the question. Identity is not what a thing is in itself. It is how the thing is reliably picked out. So "is it the same?" becomes: the same by which criteria? For which purpose? Within which framework?
+
+The phone with the cracked screen is the same phone for the repair shop, and for the insurer. A ship whose every plank has been replaced is the same ship on the register. For the museum that kept the old planks, perhaps it is not. The child in an old photograph is you. You for your family, for your birth certificate, and for the story that runs from that afternoon to this one.
+
+Each answer is correct within its framework. None of them is found in the thing, apart from the framework.
+
+This does not make identity arbitrary. Criteria can be applied correctly or wrongly. They are tested against further experience. A forged passport fails. A mistaken face in a crowd is corrected when it turns. What has gone is only one further claim: that beneath the criteria lies a sameness from the thing's own side, which the criteria merely detect.
+
+Identity seemed the most undeniable thing there was. This is this. I am me. Seen through dependency, it is not less real. Its reality is of a different kind. It is the reality of a designation that works: a name, given within a framework, that does its job.
+
+The same shift changes the word "conventional". The logic of substance hears it as a demotion. What is conventional is agreed on, perhaps arbitrary, certainly less than real. The real would be there whether anyone agreed or not.
+
+For the logic of dependency, conventional truth is the only kind of validity there is. And it is fully valid. It has standards. Tsongkhapa gives three criteria, to sort sound conventions from mistaken ones. A valid convention is known to ordinary cognition. It is not overturned by further ordinary cognition. And it is not contradicted by analysis of the ultimate.
+
+Think of a rope seen as a snake. The snake fails the second test: a closer look overturns it. The rope taken as existing in itself fails the third. The rope as named and used passes all three. Convention is not the opposite of truth. It is where truth, in every usable sense, lives.
+
+What changes is the status of the undeniable. That this table is simply here. That I am simply me. That time simply flows. Each is a designation so reliable, and so habitual, that its being a designation has become invisible. Seeing this costs none of its reliability. It loses only its claim to stand outside the framework that makes it reliable.
+
+There is no second, deeper truth for convention to fall short of. Ultimate truth is not a higher world. It is the emptiness of this one. The conventional table, the conventional self and the conventional hour are not found from their own side.
+
+One appearance, seen two ways.

@@ -1,0 +1,278 @@
+1
+00:00:06,117 --> 00:00:09,583
+If there is no Given, the
+opposite answer beckons.
+
+2
+00:00:09,663 --> 00:00:12,980
+Perhaps experience is
+concept through and through.
+
+3
+00:00:13,060 --> 00:00:16,517
+Perhaps the world is simply
+what our concepts make of it.
+
+4
+00:00:17,342 --> 00:00:21,406
+The most careful modern form of
+this thought is John McDowell's.
+
+5
+00:00:21,486 --> 00:00:26,189
+Concepts, he argued, are already
+at work in perception itself.
+
+6
+00:00:26,269 --> 00:00:28,866
+That is how experience
+can give us reasons.
+
+7
+00:00:28,946 --> 00:00:32,072
+The conceptual, he wrote, is unbounded.
+
+8
+00:00:32,152 --> 00:00:35,795
+There is no outer edge where
+something non-conceptual waits.
+
+9
+00:00:35,875 --> 00:00:39,817
+Readers often sum this up as
+"conceptual all the way down",
+
+10
+00:00:39,897 --> 00:00:42,783
+though the phrase is a gloss, not his own.
+
+11
+00:00:43,602 --> 00:00:45,402
+Hubert Dreyfus objected.
+
+12
+00:00:45,491 --> 00:00:48,020
+Think of skilled, absorbed activity.
+
+13
+00:00:48,100 --> 00:00:52,028
+The chess master who sees the
+move is not applying concepts.
+
+14
+00:00:52,108 --> 00:00:53,903
+The expert simply copes.
+
+15
+00:00:53,983 --> 00:00:58,364
+Their exchange is one of the most
+instructive in recent philosophy.
+
+16
+00:00:59,169 --> 00:01:03,029
+Madhyamaka, the Middle
+Way, sides with neither.
+
+17
+00:01:03,109 --> 00:01:05,203
+McDowell is no idealist.
+
+18
+00:01:05,283 --> 00:01:08,409
+He insists the world
+constrains what we think.
+
+19
+00:01:08,489 --> 00:01:11,453
+But a mind whose concepts
+reach everywhere,
+
+20
+00:01:11,533 --> 00:01:16,276
+read as an account of what reality is,
+swaps the realist's substance for the
+
+21
+00:01:16,356 --> 00:01:18,015
+idealist's concept.
+
+22
+00:01:18,095 --> 00:01:23,831
+Read the same way, Dreyfus's absorbed
+coping restores a floor beneath concepts.
+
+23
+00:01:23,911 --> 00:01:28,002
+The Given comes back, in practical
+dress rather than perceptual.
+
+24
+00:01:28,082 --> 00:01:30,221
+Each makes one side come first.
+
+25
+00:01:31,021 --> 00:01:34,288
+What remains is a
+symmetry, with two halves.
+
+26
+00:01:35,173 --> 00:01:38,775
+First, appearance is not
+raw material for concepts.
+
+27
+00:01:38,855 --> 00:01:41,112
+Ice stings with its own sharpness.
+
+28
+00:01:41,192 --> 00:01:42,851
+No one decides the sting.
+
+29
+00:01:42,931 --> 00:01:45,147
+A shadow cannot be called a bridge.
+
+30
+00:01:45,227 --> 00:01:49,526
+What keeps naming from being
+arbitrary is the vividness itself.
+
+31
+00:01:50,338 --> 00:01:54,063
+Second, concepts are not
+a veil over appearance.
+
+32
+00:01:54,143 --> 00:01:55,843
+The cup is seen as a cup.
+
+33
+00:01:55,923 --> 00:01:57,772
+The duck is seen as a duck.
+
+34
+00:01:57,852 --> 00:02:01,128
+Designation, the picking
+out and naming of something,
+
+35
+00:02:01,208 --> 00:02:05,140
+is not a screen held in front of
+the world. It is in the appearing.
+
+36
+00:02:05,953 --> 00:02:08,047
+Neither is the ground of the other.
+
+37
+00:02:08,127 --> 00:02:12,109
+Concepts draw their content and
+their correction from what appears.
+
+38
+00:02:12,189 --> 00:02:16,240
+What appears is picked out and
+made usable through designation.
+
+39
+00:02:16,320 --> 00:02:19,772
+They are designated together,
+like long and short.
+
+40
+00:02:19,852 --> 00:02:24,202
+Even the words conceptual and
+non-conceptual depend on each other.
+
+41
+00:02:24,282 --> 00:02:27,195
+Each is known only as
+the other's contrast.
+
+42
+00:02:28,013 --> 00:02:30,338
+Dreyfus's own examples show this.
+
+43
+00:02:30,418 --> 00:02:34,047
+Riding a bicycle is not a set
+of rules stored in the head.
+
+44
+00:02:34,127 --> 00:02:37,348
+Nor is it a wordless
+reflex beneath all rules.
+
+45
+00:02:37,428 --> 00:02:40,052
+The skill is designated
+together with rider,
+
+46
+00:02:40,132 --> 00:02:44,418
+machine, slope and wind, and
+found in none of them alone.
+
+47
+00:02:45,225 --> 00:02:48,066
+And designation is wider than language.
+
+48
+00:02:48,146 --> 00:02:52,645
+To say "conceptual all the way down"
+mistakes designation for a kind of
+
+49
+00:02:52,725 --> 00:02:53,718
+sentence.
+
+50
+00:02:53,798 --> 00:02:58,677
+To say "non-conceptual at the bottom"
+mistakes the absence of words for the
+
+51
+00:02:58,757 --> 00:03:00,625
+absence of designation.
+
+52
+00:03:01,429 --> 00:03:03,781
+The ordinary distinction survives.
+
+53
+00:03:03,861 --> 00:03:06,552
+Seeing a snake is not remembering one.
+
+54
+00:03:06,632 --> 00:03:11,512
+A perception can correct a thought, as
+a lamp shows the snake to be a rope.
+
+55
+00:03:11,592 --> 00:03:17,476
+Dharmakīrti's line between perception
+and conception keeps its everyday use.
+
+56
+00:03:17,556 --> 00:03:20,751
+What it loses is the
+claim to mark two natures,
+
+57
+00:03:20,831 --> 00:03:22,467
+one beneath the other.
+
+58
+00:03:23,273 --> 00:03:26,100
+So the answer is neither
+concept at the bottom,
+
+59
+00:03:26,180 --> 00:03:28,673
+nor something without
+concept at the bottom.
+
+60
+00:03:29,506 --> 00:03:30,721
+There is no down.
+

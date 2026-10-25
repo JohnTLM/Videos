@@ -1,0 +1,38 @@
+---
+chapter: 1
+title: "The Witness Behind Experience"
+source_words: 777
+script_words: 522
+intro: yes
+voice: male
+---
+
+# Chapter 1. The Witness Behind Experience
+
+It rains. The sound fills the room. And it seems to arrive at someone.
+
+Behind the eyes, or somewhere just inside the head, there seems to be a point. From there the world is taken in. Every sight and every sound appears to belong to it.
+
+Most of us never question this point. It does not feel like a belief. It feels like the most obvious fact there is. Seeing is someone's seeing. Thinking is someone's thinking. We give this centre many names: the self, the I, the one who knows. Whatever the name, we picture a quiet witness, standing behind experience, looking out through the senses at a world out there.
+
+So here is a simple question. When you look for the witness, what do you find?
+
+Begin with a courtyard. A chariot stands in it. Its wheels are still. A horse stamps at the gravel. Ask a passer-by what it is, and they will say at once: a chariot.
+
+Now take it apart. Set the axle aside. Take away a wheel, the seat, the yoke. At each step, look for the chariot. It is not the axle. It is not a wheel. And yet the word keeps working. You still know what to do with a chariot, and what to do with a heap of wood.
+
+Then ask the last question. Is there a chariot in the arrangement, over and above the arrangement? Look for it. You will not find a further thing sitting in the wood, like a seed inside a fruit.
+
+Nothing has been denied. The chariot still stands in the courtyard. The word still works. What has gone is an expectation: that a chariot itself stood behind the parts, making them one thing. The chariot never needed it.
+
+Now turn the same looking on the witness. Look at a tree. There is the tree, bright in the afternoon light, its leaves moving. There is the seeing of it, vivid and clear. Now look for the one who sees. You find a tree, and a seeing. You do not find a viewer standing apart from both.
+
+Try it with sound. The rain is heard. Look for the hearer, apart from the hearing. What appears is the rain, and the hearing of it. The sense of someone listening is itself something that appears: a thought, an impression, coming and going. It is not the hearer.
+
+This does not mean that nobody sees. It does not mean a person has vanished. The tree is seen. The rain is heard. You are listening now, and that works well enough to act on.
+
+What the looking shows is narrower. The observer that seemed to stand behind experience is not found as a separate thing. Seeing, hearing and thinking are found. They are vivid, and they work. The one who sees is not found apart from the seeing.
+
+Many people feel a jolt here. The witness felt like the floor of experience. Without it, there seems to be nothing underneath.
+
+For now, notice only this. Each time the witness was looked for, it had already been assumed. And nothing that appeared confirmed it.

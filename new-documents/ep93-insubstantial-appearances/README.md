@@ -1,4 +1,8 @@
-# ep93: Insubstantial Appearances (2026-10-21)
+# ep93: Insubstantial Appearances (2026-10-21, earlier build, not on the website)
+
+> **Not the video on the website.** Another session made its own video of this article the same day (`ch93`, in the
+> main-book series), and that is the one the website plays. Its files are in `../ch93-insubstantial-appearances/`.
+> This folder is kept so nothing is lost.
 
 Bonus video for the article "Insubstantial Appearances" (John Tan, 2026-10-21), part of *The Transition from
 Anatta to Emptiness* series, so it follows `anatta-to-emptiness/VIDEO-SPEC.md` on top of the base spec. 3:16,
