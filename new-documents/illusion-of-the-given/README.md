@@ -40,16 +40,14 @@ Checked against CanonView on 2026-10-24.
 - **Other worlds are "not elsewhere",** never "in the same place".
 - **The water offering:** tradition, not proof, and physics gives it no support.
 
-## 2. NotebookLM (optional, later)
+## 2. NotebookLM (optional): final files written 2026-10-25
 
-Two sets of early files, both written on 2026-10-24 before the `build.py`-first rule was clear. Once the owner is
-satisfied with the `build.py` video, the final NotebookLM files are written from the approved script and the canon
-check, replacing both sets.
+Written after the owner was satisfied with the `build.py` video. They replace the two sets of early drafts from
+2026-10-24.
 
-- `the-illusion-of-the-given-notebooklm-source.md`, `the-illusion-of-the-given-notebooklm-prompt.md`: from the first
-  session.
-- `the-illusion-of-the-given-notebooklm-source-canon-checked.md`,
-  `the-illusion-of-the-given-notebooklm-prompt-canon-checked.md`: full article in 18 sections, checked against
-  CanonView. The prompt file lists what was changed to fit the canon.
+- `the-illusion-of-the-given-notebooklm-source.md`: the full article in 18 sections, with precision notes and a
+  pronunciation list. Checked against CanonView, and it includes the higher-knowledges paragraph (EBooks PR #22).
+- `the-illusion-of-the-given-notebooklm-prompt.md`: setup, the steering prompt (full and short) and the canon-check
+  record, which lists what was changed to fit the canon.
 
 File names carry the article's name (owner's rule, 2026-10-25).

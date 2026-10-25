@@ -1,54 +1,78 @@
-# Generating the video in NotebookLM
+# NotebookLM prompt: The Illusion of the Given
 
 ## Setup
 
-1. Create a **new notebook** and add only `the-illusion-of-the-given-notebooklm-source.md` as its source (upload the file, or paste its text
-   as "Copied text"). Do not add the full article, the plain-English PDF or any other source: NotebookLM draws on
-   every source in the notebook.
-2. Choose **Video Overview**, the **Cinematic** style, and paste the steering prompt below into the customisation
+1. Create a **new notebook** and add only `the-illusion-of-the-given-notebooklm-source.md` as its source: upload this file, or
+   the Google Doc made from it once it is in the video's Drive folder. Do not add the article PDF or anything else:
+   NotebookLM draws on every source in a notebook, and the article still holds wording the source corrects (see the
+   canon check below).
+2. Choose **Video Overview**, in the **Cinematic** style, and paste the steering prompt below into the customisation
    box.
-3. After generating, save the MP4 to Drive with "Anyone with the link" sharing and send Claude the link for the
-   check: transcript against the precision notes and CanonView, cuts if needed, and the YouTube text.
+3. Save the video to the video's Drive folder, turn on "Anyone with the link" while Claude downloads it, and send
+   Claude the file name. Claude checks the transcript against the precision notes and the canon, proposes cuts, and
+   writes the YouTube text.
 
 ## Steering prompt
 
-> Cover all 20 sections of the source in order, including every "precision note"; treat those notes as binding.
-> Key points: (1) the bowl of liquid seen as water, pus, air, nectar and Māmakī is the thread of the whole video:
-> return to it in each part; (2) there is no neutral substance under the appearances, and the "working reference
-> point" of section 6 only coordinates views, it is never a hidden stuff that turns into water or pus; (3) never
-> conclude "it is all in the mind": Candrakīrti answers Vasubandhu that the mind is as unfindable as the object;
-> (4) the hungry ghost's pus is normal perception for its kind, not a hallucination; (5) the basis is "primordially
-> pure", not "the Ground"; rigpa is knowing awareness, not a projector, witness or source; display has nothing
-> behind it; (6) the Mipham reading of self-knowing is the author's own, and only for everyday truth; the sword
-> image is Śāntideva's; (7) physics is an echo, not proof: never say relations are the real bedrock; (8) the water
-> offering: say both cautions; (9) emptiness is never a cause: never say it "enables", "allows" or "makes
-> possible"; MMK 24.14 is about fit; (10) end with compassion for other beings' worlds and the line "It never
-> needed one", not on "what remains". Pronounce names as in the pronunciation list. Main visuals: the bowl seen by
-> five beings, the jaundiced eye and the white conch, the river of pus, the circle of agreement, a child learning
-> "water", a reflection with nothing behind it, the tick and the spring water, dark matter passing through the
-> Earth, a neutrino in lead, the water offering, and the empty box of space taken apart.
+> Cover all 18 sections of the source in order, with every argument and example, and treat every "precision note" as
+> binding. Key points: (1) never say different beings see "the same liquid": there is no liquid underneath, and
+> relations are not the new floor either; (2) Candrakīrti turns Vasubandhu's hungry ghosts around: if the river of pus
+> is not established, neither is the mind seeing it; neither mind, karma nor matter is the ground; (3) rigpa is the
+> knowing of the basis, not the basis, not "recognition" or "pure consciousness"; the basis is a ground only
+> conventionally and never a source that emits appearances; (4) keep to Mipham's two kinds of conventional seeing,
+> with pure vision as a way of meeting appearance, not a reality behind it; (5) physics illustrates and never proves;
+> Many-Worlds is deterministic, its branches are not places and Hilbert space is not a container; (6) the other worlds
+> are "not elsewhere", never "in the same location"; no being has a view from nowhere, and the higher knowledges
+> (abhijñā), if real, only widen a view from somewhere; (7) the water offering rests on tradition, not on physics;
+> (8) emptiness is never a cause: it enables nothing and explains nothing; never "because empty, things can arise"; (9) Huayan's
+> non-obstruction is not "all is one" or a cosmic whole; (10) say what the view does not claim (section 17), and end
+> on compassion and the vivid ordinary world, not on "what remains". Pronounce names as in the pronunciation list:
+> DZOHG-chen, RIG-pah, chun-drah-KEER-tee, nah-GAR-joo-nah, TSONG-kah-pah, MEE-pahm. Main visuals: the bowl seen by
+> five beings, the white conch turning yellow, the tick and the pool, the bat, the bee's ultraviolet flower, dark matter
+> passing through the Earth, the lamp burning through the night, the empty box of space taken apart, Indra's Net, the
+> Buddha's toe touching the ground, and a stranger whose world we cannot enter.
 
 If the box has a character limit, use this shorter version:
 
-> Cover all 20 sections in order and follow every precision note. The bowl seen as water, pus and nectar is the
-> thread. No neutral substance underneath, and not "all in the mind": mind is as unfindable as the object. The
-> ghost's pus is normal for its kind. The basis is primordially pure, not a Ground; rigpa is knowing awareness,
-> not a projector. Physics is an echo, not proof. Emptiness is never a cause. End on compassion and "It never
-> needed one."
+> Cover all 18 sections in order and follow every precision note. No liquid underneath; relations are not the floor.
+> Neither mind nor matter is the ground. Rigpa is the knowing of the basis, not the basis. Physics illustrates, never
+> proves. Other worlds are "not elsewhere", never "in the same place". Emptiness is never a cause. Huayan is not "all
+> is one". Higher knowledges widen a view from somewhere. Include what the view does not claim. End on compassion, not on what remains. Say DZOHG-chen and RIG-pah.
 
 ## Canon check
 
-The source was checked against `CanonView` (`canon/nature-canonical-view.md` and
-`canon/mind-phenomena-and-luminous-clarity.md`, including Part III's list of drifts) on 2026-10-24, building on
-the canon alignment and citation verification already recorded in CanonView `reading-notes/illusion-of-the-given.md`.
+The source is the bonus article "The Illusion of the Given" (Expanded Edition), as merged in JohnTLM/EBooks
+(`the-illusion-of-the-given/source/`, PR #19, 2026-10-24, with the higher-knowledges paragraph of PR #22,
+2026-10-25). It was checked against CanonView (`canon/nature-canonical-view.md` and
+`canon/mind-phenomena-and-luminous-clarity.md`, including Part III's list of drifts) on 2026-10-24, and again on
+2026-10-25 against the `build.py` script the owner approved (ep94). Changes made for the video:
 
-- Citations: only those recorded there as confirmed are kept. The *Twenty Verses* is cited by title only, without a
-  verse number (still to check against Silk 2016). The "working reference point" is presented as the article's
-  own term, not a Gelug formula. The sword image is credited to Śāntideva (*Bodhicaryāvatāra* 9.17).
-- Canon terms: "the basis, primordially pure", not "Ground" (Part II point 4); display with nothing behind it
-  (Part II point 6); rigpa as the knowing of the basis (Part II point 12); thugs rje not explained as a cosmic
-  force; relations as empty as the things related (Part I point 10); emptiness enables nothing (Part I point 8);
-  compassion without a self behind it (Part I point 24); conventional existence does not wait on a present act of
-  designating (Part I point 27, in section 16); Mipham's conventional self-knowing (Part II point 7).
-- The source follows the article's section order, with the article's numbered subsections flattened into 20
-  sections, and the table in its section 2C written out as prose.
+- **Mipham's fourfold scheme of valid knowing** (article Part I §4D) is left out. Its two ultimate kinds amount to the
+  categorized and uncategorized ultimate, which the canon marks as unverified and not to be attributed to Mipham yet
+  (Part I points 14–15). The source keeps only his two kinds of conventional seeing, which the canon accepts through
+  Duckworth (Part I points 7 and 25).
+- **Mipham's conventional defence of reflexive awareness** (article Part I §4C) is left out, because the canon's
+  verification log bars reintroducing Mipham's lamp reply (Part II point 12). Self-knowing is stated as the canon puts
+  it: not a second act, not a self-standing knower, empty (Part II points 7 and 12).
+- **"Pure awareness (rigpa)"** becomes "rigpa, knowing awareness, the knowing of the basis" (Part II point 12).
+- **Gorampa** (article Part II §6, "Tsongkhapa and Gorampa read Candrakīrti's bowl example differently") is left out:
+  the canon does not attribute positions to Gorampa until they are confirmed (Part I point 15; Part III).
+- **"Mipham answered these charges"** about the Dzogchen basis (article Part III §6) is narrowed to Longchenpa, whose
+  statement the canon cites (Part II points 4 and 15).
+- **"Appearances are the display of the basis"** is reworded so the basis is not pictured as a source (Part II points
+  6 and 15), and the article's "because no appearance has a solid core, appearances do not block one another" is put
+  as a reductio (a core would exclude; nothing has one), so emptiness does no enabling (Part I point 8).
+- **Huayan's "each contains all the others"** gets a precision note against a cosmic whole (Part I points 21 and 23).
+- **The closing verse, MMK 24.14**, is framed as Nāgārjuna's reply to critics, a reductio, not "emptiness makes
+  things work" (Part I points 8 and 25).
+- **Candrakīrti's reply** is cited as *Entering the Middle Way* 6.71, and the *Mahāyānasaṃgraha* is cited only for
+  explaining the shared environment through the storehouse consciousness's common aspect, which secondary sources
+  confirm. The article's "common and uncommon seeds" wording is not repeated.
+
+- **The higher knowledges** (*abhijñā*, article Part II §3C, PR #22) are added to section 13, with a precision note:
+  the argument neither proves nor rules them out, and knowing another's mind is not "all minds are one" (the same line
+  as the companion video, ep95).
+- **"Emptiness enables nothing and explains nothing"**, the canon's wording (Part I point 8) and the line the ep94
+  script uses, is added to section 10.
+
+The article itself still contains the Mipham, rigpa and Gorampa wording listed above.
