@@ -1,271 +1,567 @@
-# The Illusion of the Given: Madhyamaka, Non-Foundational Dzogchen, and the Dissolution of the Referent
+# The Illusion of the Given: One Bowl, Many Worlds
 
-A source text for a video overview. It draws on Nāgārjuna's Mūlamadhyamakakārikā (MMK), Candrakīrti, Tsongkhapa, Vasubandhu, Dharmakīrti and Ratnakīrti, the Dzogchen of Longchenpa and Mipham, Wittgenstein, and, as illustrations only, Carlo Rovelli's relational quantum mechanics and Karen Barad's agential realism. Cover every section, in this order. The precision notes in each section are part of the content: they mark where a careless summary would turn the view into a different one.
+*NotebookLM source for the video of the bonus article "The Illusion of the Given" (Expanded Edition). It follows the
+article's argument in the order the video should take, with every example. Notes in italics marked "Precision note"
+say what a summary must not say; treat them as binding.*
 
----
+**The view in one paragraph.** This article follows the Middle Way (Prāsaṅgika-Madhyamaka) of Nāgārjuna, Candrakīrti
+and Tsongkhapa, and non-foundational Dzogchen as taught by Longchenpa and Ju Mipham. Everything, mind included, is
+empty of its own nature (*svabhāva*). Emptiness is a non-implicative negation: it removes a false assumption and
+installs nothing in its place. Appearances are not denied. They are vivid and they work, and they are found nowhere
+standing on their own.
 
 ## 1. The puzzle of agreement
 
-Whenever different people look at the world and describe the same things, our minds jump to a belief: the agreement must come from an objective thing that sits behind what we see. If two people look at a river, or a human, an animal and an insect cross the same patch of ground, common sense insists there must be an underlying physical something that each of them simply registers through its own senses.
+When different people look at the world and report the same features, we assume at once that the agreement must come
+from a solid object standing quietly behind what we see. If two people look at a river, or if a human, a dog and an
+ant walk across the same patch of dirt, common sense insists there must be one physical thing underneath, an
+objective bedrock, which each creature registers through its own senses.
 
-Indian and Tibetan Buddhist philosophy explores this puzzle with a famous example: a single bowl of liquid, seen by different kinds of beings.
+Indian and Tibetan Buddhist philosophy sharpens this puzzle with a famous example: a single bowl of liquid, seen by
+different kinds of beings.
 
-- To a human, it is clear, refreshing water.
-- To a hungry ghost, driven by deep habits of craving and lack, it is foul pus and blood.
-- To a fish, it is the air it breathes and the home it lives in.
-- To a god in a heavenly realm, it is delicious nectar.
-- To an awakened being, it appears as the pure wisdom-form of water: the female Buddha Māmakī.
+- To a human, it is refreshing, drinkable water.
+- To a hungry ghost (a *preta*, a being consumed by habits of craving and lack), it is burning pus and blood.
+- To a fish, it is the air it breathes and the home it swims in.
+- To a god, it is ambrosial nectar.
+- To an awakened being, it is the pure wisdom of the water element, personified as the female Buddha Māmakī.
 
-Everyday realism explains these differences with a two-layer picture. Some raw, neutral stuff (water molecules, bare matter, physical energy) sits in that spot, and each creature looks at it through different biological and mental lenses.
+Ordinary realism answers with a two-layer picture. Underneath, a neutral raw stuff (H₂O molecules, bare matter, pure
+energy) sits in a fixed place in space. On top, each kind of being looks at it through its own sensory glasses.
 
-The Middle Way of Nāgārjuna and the Great Perfection (Dzogchen), read without a foundation, both reject this picture. Examined closely, the idea of a shared thing that exists by itself, beneath all the ways it appears, falls apart.
+The Middle Way and non-foundational Dzogchen reject this picture. Examined carefully, the idea of one shared thing
+existing all by itself, beneath all the ways it appears, falls apart. Agreement does not need a hidden bedrock, and
+order does not need an ultimate floor. When conditions change, appearances change, not because different observers
+decode one untouched thing, but because the thing seen, the one seeing and the channel between them are designated
+together, in dependence on one another. The relationships are just as unfindable as the things related.
 
-Agreement does not need a hidden bedrock. Regular patterns do not need a foundation. When conditions change, how things appear changes. This is not because different observers decode one untouched object in different ways. It is because the thing seen, the one seeing and the way they meet are identified together, each depending on the others. And the relations between things are just as impossible to pin down as the things themselves.
+Modern physics and philosophy of science offer echoes of this view, notably Carlo Rovelli's relational quantum
+mechanics and Karen Barad's agential realism. They are illustrations, not proofs.
 
-*Precision note: physics appears later only as an echo, never as proof. Do not say that relations are the real bedrock or that "everything is relationships": that only builds another floor.*
+*Precision note: never say "different beings see the same liquid differently" as if there were a liquid underneath.
+That sentence is the error the article examines. Never say that relationships are the "real stuff" instead; making
+relations the new floor is the same mistake. Physics illustrates; it does not prove emptiness.*
 
 ## 2. The trap of the hidden substance
 
-Saying that different creatures "see the same liquid differently" slips in a word that has not been examined: *the liquid*. It assumes that before anyone meets it, an object is already there, with its own identity, waiting to be seen.
-
-This is the old idea, made famous by Kant, of a "thing-in-itself" hidden behind the senses. The claim is that a thing-in-itself exists beyond awareness, and living beings project their own mental categories, space and senses onto it.
-
-The Middle Way replies with a question. If this hidden thing exists before and apart from all experience, what is it like? If it has definite qualities, such as being thirst-quenching water, it cannot explain why the hungry ghost meets burning pus. If it has no qualities at all, a featureless blank cannot cause any experience whatsoever.
-
-Kant himself never said the thing-in-itself causes things the way one event causes another inside experience. But he did call it the "non-sensible cause" of appearances, and that is exactly where his critics, starting with Jacobi, found the weak point.
-
-*Precision note: do not say Kant claimed the thing-in-itself is an ordinary cause within experience. He called it the non-sensible cause, and the objection targets that.*
-
-## 3. The "wet-and-moist" objection
-
-A thoughtful person will push back: "Why must the hidden thing be water or pus? Why can't it simply be wetness, the basic quality that water and pus share?"
-
-It is a natural suggestion. Buddhist Abhidharma lists wetness and moisture as the defining mark of the water element, shared by anything liquid. But the suggestion meets a fork in the road.
-
-**If wetness is claimed as a thing that exists by itself, the argument fails.** Wetness in general is an abstraction made by thought. In real life, wetness never floats free. It only ever shows up as *this* drinkable water, *this* foul pus, or *this* water a fish lives in. And being fluid is itself a meeting between things: what is liquid to a large living body is not liquid in the same way to systems working at very different scales or through different forces.
-
-**If wetness is treated as an everyday, agreed reference point,** it is no longer a hidden thing-in-itself. It becomes a good example of an acceptable working label: a practical term that lets people compare different viewpoints, without pretending to point at a bedrock that exists apart from all observers.
-
-What Nāgārjuna's analysis targets is svabhāva: an imagined nature that a thing would have all by itself, depending on nothing. A "neutral substance" placed beneath appearances is just that imagined nature in a modest disguise.
-
-## 4. Agreement is what everyday truth is
-
-If there is no hidden object behind appearances, why do humans reliably agree that the liquid is water? Why doesn't the shared world fall apart into private fantasies?
-
-The Indian master Candrakīrti, in chapter 6 of his Entering the Middle Way (Madhyamakāvatāra), turns the question around. Agreement does not prove there is a hidden object. Shared, reliable agreement is simply what conventional truth, everyday truth, is.
-
-Candrakīrti spends many verses taking apart the Mind-Only (Yogācāra) view, which tries to solve the puzzle by getting rid of outer objects and making a truly real consciousness the only foundation. He shows that mind and object depend on each other. A seeing cannot be identified without what is seen. An object cannot be identified without the senses and concepts that pick it out.
-
-Neither mind nor matter comes first. Making the mind the container of everything is just as mistaken as making matter the container.
-
-*Precision note: never conclude that "it is all in the mind" or that the world is made of consciousness. The mind is as unfindable as matter.*
-
-## 5. Healthy and faulty senses, within each kind of being
-
-Candrakīrti distinguishes what the world itself accepts as true from what even the world sees as false, according to whether the senses are healthy or impaired, for example by an eye disease. Later writers called these correct and mistaken conventions. The standard examples are a person with jaundice who sees a white conch shell as yellow, and a person with an eye disease who sees hairs floating in the air.
-
-Whether a sense is faulty can only be judged within one kind of being. A human with jaundice sees the white conch as yellow. Because other humans with healthy eyes see it as white, the jaundiced person is mistaken by human standards.
-
-The hungry ghost, however, is not a "jaundiced human". By the standards of its own kind, its senses are working normally. It is not suffering an optical illusion of water. For it, the liquid really does function as pus.
-
-This sorting into correct and mistaken is made from the world's point of view. Candrakīrti adds that noble beings, who have let go of the deepest confusion, see all such things as like reflections: for them they are "mere conventions", not truths.
-
-*Precision note: do not call the hungry ghost's pus a hallucination or an error. Within its kind it is normal perception.*
-
-## 6. A working reference point
-
-To avoid falling into nihilism, the view that nothing exists at all, the account draws a distinction in the spirit of Tsongkhapa's reading. Tsongkhapa treats the hungry ghost's seeing of pus as a conventional perception shaped by its karma, not as a mere mistake.
-
-What is negated is a shared base that exists by itself: a physical substance with its own identity, there before anyone perceives it. What is conventionally accepted is a working reference point: a label, made in dependence on conditions, for the place where different ways of appearing meet and can be compared.
-
-What stops this reference point from sliding back into a hidden thing-in-itself? It is not a carrier of qualities that exists before its relations. It has no qualities beyond those that show up through some particular channel of contact. It is a label made from within one everyday frame, usually the human one, so that different viewpoints can be compared. Its job is to coordinate, not to sit underneath.
-
-*Precision note: the "working reference point" is the article's own term, drawn in the spirit of Tsongkhapa. Do not present it as a fixed Gelug doctrine, and never describe it as a neutral substance that turns into water, pus or nectar.*
-
-## 7. Where the bowl example came from: Vasubandhu, and Candrakīrti's reply
-
-The bowl example did not begin in the Middle Way. In his Twenty Verses (Viṃśikā), Vasubandhu used the hungry ghosts to defend the Mind-Only view. Critics asked: if there are no objects outside the mind, why do experiences agree? Why do many beings see the same thing at the same place and time? Vasubandhu answered that, just as hungry ghosts with the same karma all see a river of pus together, shared karma ripening in consciousness explains shared experience. No river outside the mind is needed.
-
-That answers the very question by making consciousness the floor. Candrakīrti turned the example around. He compared the hungry ghost seeing pus to someone with an eye disease, and concluded: just as the object does not exist on its own, neither does the mind. Object and seeing are identified together. For the hungry ghost, the river of pus and the seeing of it stand or fall together.
-
-In everyday terms, both the object and the mind are accepted. Under analysis, neither can be found existing by itself. So the bowl does not show that the world is inside the mind. It shows that neither the world nor the mind is the floor. Shared karma, the "karmic vision" that beings of one kind have in common, is still part of the explanation of why they agree. But it is one condition among many, not a storehouse consciousness in which the world is really kept.
-
-## 8. Other minds
-
-Agreement needs others to agree with. How do we know other observers exist at all? Indian philosophers debated this directly. Dharmakīrti argued that we infer other minds: other bodies move and speak with purpose, as mine does when I intend something. Later, Ratnakīrti, writing from the Mind-Only view, argued that other minds can never finally be proven.
-
-Both assumed something this account rejects: that my own experience is certain, while yours is only inferred or doubtful. The Middle Way refuses this imbalance. Examined closely, my stream of mind is no more findable than yours. Both are identified in dependence on changing physical and mental parts, and both work in daily life.
-
-The certainty I feel about "my" experience and the doubt I feel about "yours" are the same habit of solidifying things, turned inward, making the self the one unquestionable floor. In everyday life the world accepts other minds as plainly as it accepts tables, and nothing reliable contradicts it. Other observers are not a conclusion drawn from a private starting point. They are identified together with this one, as "long" is identified together with "short".
-
-## 9. Is agreement circular?
-
-A critic can press a point. Senses count as healthy when they agree with others of their kind, and the kind is defined by sharing those senses. The standards define the group, and the group defines the standards. Isn't that circular?
-
-It is, and the circle is not a flaw. It would be fatal only if agreement had to rest on something outside itself: a final judge who is not one more participant. The Middle Way denies there is any such judge. Here the dependence runs both ways, just as ways of knowing and things known are each established only in relation to the other. Nothing is being built on a foundation, so there is no missing foundation for the circle to lack.
-
-Ludwig Wittgenstein reached a similar point by another route, in the Philosophical Investigations (sections 241 and 242). What makes following a rule possible is agreement "not in opinions but in form of life", and communication through language needs agreement not only in definitions but also in judgements. Agreement is not evidence of a hidden object behind it. It is convention doing its work.
-
-The circle does not make mistakes impossible. Inside it, correction is real: the jaundiced eye is corrected by others, a misreading by a second look. What the circle rules out is only a correction from outside every point of view.
-
-## 10. Language
-
-For humans, the frame that keeps track of agreement is, to a large degree, language. Words are learned from others, corrected by others and shared with others. A child learns "water" as a word that works: say it, and a glass is brought. That is why humans agree so finely: not only that liquid is there, but that it is water, that it is cold, and that it is the same water as yesterday's.
-
-Identifying things is wider than words. Animals pick out their world by sensing and responding, without language, and their worlds are coordinated too. But language carries human agreement across times and places that no single glance could reach. It is also where the habit of solidifying is strongest: the noun "the bowl" seems to point to a solid thing standing behind every view of it. The same tool that coordinates our worlds tempts us to believe it describes one world hidden behind them.
-
-## 11. Dzogchen: the basis is not a hidden substance
-
-The Middle Way uses careful reasoning to take apart fixed beliefs, and rests content with everyday convention. Dzogchen, the Great Perfection, describes how appearances are met in experience, in a vocabulary of its own.
-
-In the Dzogchen of Longchenpa and Mipham, the basis is primordially pure, and it is carefully distinguished from the "storehouse consciousness" that keeps karmic habits. The basis is described through three inseparable aspects: its essence, which is empty (primordial purity, ka dag); its clarity, which is spontaneous presence (lhun grub), appearing without obstruction; and compassion (thugs rje). This account takes up only the first two.
-
-Primordial purity means the basis has no solid, independent existence at all. It is not a hidden block of stuff, a cosmic mind or a starting point of the world. Longchenpa says the basis is called a "ground" only from a relative point of view. In the true nature of things it is empty of being any ground, and free from every extreme. "True nature" here means simply the way things are, not an essence.
-
-*Precision note: say "the basis, primordially pure", not "the Ground". Never present it as a cosmic mind, a source, or a substance beneath appearances. Do not explain compassion as a cosmic force or as a power belonging to the basis.*
-
-## 12. Display, and rigpa
-
-Appearances are described as "display", appearing as self-display. "Display" must never be heard as the display of something standing behind it. It means dependent arising itself, vivid and unobstructed, with nothing behind it.
-
-To keep this from sliding into "everything is mind", or into a hidden mind that creates the world, Dzogchen distinguishes ordinary dualistic mind from rigpa, knowing awareness.
-
-**The grasping subject is part of the display.** The feeling of being a subject inside, looking out at a world, is itself an appearance, arising together with the object outside. Neither mind nor matter produces the other.
-
-**Awareness is not a projector.** Rigpa is not one half of the subject-object pair, not a subtle mind-stuff that sends out forms, and not a ground behind appearing. It is the knowing of the basis: knowing appearing as unfixed, dependent and empty. The clarity of appearances belongs to the appearances themselves, not to a separate knower, and like the appearances, it is empty.
-
-**Display is not cause and effect.** The basis does not produce appearances the way a cause produces an effect. Spontaneous presence is not an uncaused engine turning out conditioned things. Appearing is already complete, owing its completeness to nothing hidden, and it is empty from the very moment it appears.
-
-*Precision note: rigpa is knowing awareness, not "recognition" and not a witness or ground. Never say awareness projects, produces or contains appearances, or that the basis "manifests" the world.*
-
-## 13. Self-knowing awareness: a deliberate choice
-
-Here the traditions divide. Candrakīrti rejected self-knowing awareness, citing a sūtra on the point. Śāntideva later made the argument famous in the Way of the Bodhisattva (Bodhicaryāvatāra, 9.17) with the image of a sword that cannot cut itself. Following Candrakīrti, Tsongkhapa rejected self-knowing awareness even as an everyday convention.
-
-On this point the account deliberately follows Mipham.
-
-**Ultimately,** Mipham fully accepts the Middle Way refutation. Under analysis, no self-knowing awareness that exists by itself can be found. It is empty like everything else.
-
-**Conventionally,** Mipham keeps self-knowing as a useful everyday term, to explain memory and the immediacy of experience without an endless chain of minds watching minds. This is not the self-awareness of the Mind-Only school that Candrakīrti refuted, which was offered as proof of a truly existing consciousness. It is a convention, and empty like every convention.
-
-In Dzogchen, the self-knowing of rigpa is not a real subject looking at itself as an object. It is simply the absence of confusion: the immediate, natural clarity of knowing appearing as empty display, belonging to no one.
-
-*Precision note: this reading of Mipham is the author's own, from repeated study of his works, and it covers only the everyday status of self-knowing. Do not present it as settled for every tradition, and do not attribute the sword image to Candrakīrti: it is Śāntideva's.*
-
-## 14. Mipham's four kinds of valid knowing, and pure vision
-
-Mipham sets out four kinds of valid knowing, two for everyday truth and two for ultimate truth.
-
-1. **Ordinary everyday knowing** works within the shared karmic vision of beings in saṃsāra. The gods belong here too: their nectar is a refined karmic vision, not awakened vision.
-2. **Pure everyday knowing** belongs to awakened beings, for whom the liquid appears as Māmakī, the female Buddha of the water element.
-3. **Ultimate knowing through concepts** is the understanding of emptiness reached by reasoning.
-4. **Ultimate knowing beyond concepts** is the direct realisation of the inseparable unity of primordial purity and spontaneous presence.
-
-Mipham holds this together with Candrakīrti's account in section 5. Within ordinary vision, validity is relative to each kind of being: the hungry ghost's pus is normal by hungry-ghost standards, and the human's water by human standards. Neither has the last word over the other. But between ordinary and pure vision there is a ranking: pure vision is where how things appear matches how things really are.
-
-Does this bring back a hidden foundation? No. Pure vision is itself empty, the inseparable union of appearance and emptiness. It is appearance free of confusion and of the split into solid subjects and solid objects. It is not a window onto a bedrock behind appearance. In Mipham's presentation, pure vision meets appearances as the mandala of buddhas and wisdoms. This account does not read that as qualities already present in a ground, waiting to be uncovered. It reads it as how appearing is met when nothing in it is being fixed. Māmakī, too, has no nature of her own. Pure vision is accurate not because it finds an ultimate object, but because it sees without the distortion that splits the world into independent subjects and solid things.
-
-*Precision note: do not make Māmakī or pure vision the "true reality" behind the other views. Pure vision is clearer, not a deeper layer.*
-
-## 15. Echoes in physics: Barad and Rovelli
-
-This way of letting go of a fixed given, without falling into "everything is mind", has echoes in modern physics and philosophy of science. They are echoes, not proofs. Emptiness does not need physics, and a scientific description is itself a label, one of the most reliable we have within its own field.
-
-**Karen Barad's agential realism.** Traditional metaphysics assumes separate things exist first and then interact. For Barad, the things related do not exist before their "intra-action"; they emerge through it. Boundaries and properties are set by particular measuring arrangements. The "cut" does not slice up a world that was already there; it decides what counts as observer and what counts as observed in that situation. So there is no "liquid" sitting there before the cut. The human drinker and the water appear together, in the human situation; the suffering ghost and the pus appear together, in the ghost's.
-
-**Carlo Rovelli's relational quantum mechanics.** Physical quantities do not have values on their own. They have values only relative to another physical system, in an interaction. Critics asked how, then, two observers can agree when they compare notes. In answer, Emily Adlam and Rovelli added a rule called "cross-perspective links" (2023): if one observer measures a system and records a value, and a second observer later checks that record, the two will match, as long as the first record has not been destroyed.
-
-Some critics say this rule gives up what made the theory relational, by admitting shared facts. That is less a concession than support for the point made here. Agreement between observers does not require a hidden state that existed before any interaction. It is established through the interactions between the observers themselves, by checking across perspectives, much as healthy senses confirm one another in section 5, and not by anchoring to an absolute substrate. The working reference point of section 6 does in the Middle Way what cross-perspective links do in relational quantum mechanics.
-
-One caution applies to this whole section. Neither theory should be read as saying that relations are what is really there. Barad makes the "phenomenon" the basic unit of reality; read as a final account of what exists, that repeats, at the level of relations, the very substantialism it set out to overcome. Nāgārjuna examined contact and connection themselves (MMK chapter 14) and found that none of them can be found. Relations and the things related are identified together; neither comes first, and neither is the ground.
-
-*Precision note: do not say that physics proves emptiness or that Buddhism anticipated quantum mechanics. Say "much as", not "exactly like".*
-
-## 16. Different channels of contact
-
-If an appearance depends on particular senses, conditions and channels of contact, what happens when a being meets something it shares little or no contact with? The answer is neither "absolutely nothing", which would make reality private and erase everyday truth, nor a hidden object, which would bring back the foundation. Contact comes in degrees, and what is true for a system depends on which physical and mental channels actually connect.
-
-**Uexküll's tick.** The biologist Jakob von Uexküll showed that an animal does not live in a general, neutral environment but in its own world of meaning, shaped by what it can sense and do. The common tick responds mainly to three signals: the smell of mammal sweat, the warmth of a mammal's body, and hair. A pool of clear spring water has none of these signals, so it does not appear in the tick's world at all. Yet the water is not "nothing" for the tick: the tick can still drown in it. It is cut off from the water's sight and meaning, but still connected to its weight and surface tension. This is why everyday reality is not private to one mind: cause and effect work along particular channels, whether or not a creature is aware of them.
-
-**Dark matter.** As far as present observation shows, dark matter does not interact through light or electromagnetism, so it passes through the Earth without collision. To a light-based sensor the Earth is a solid barrier; to dark matter that barrier does not exist. Yet it is still connected through gravity: the Earth's mass bends its path.
-
-**Neutrinos.** A neutrino from the sun can pass through an enormous thickness of lead, on the order of a light-year, with only a small chance of hitting anything. The lead is neither a wall nor nothing; it is a region of very weak contact.
-
-**The old Buddhist accounts.** Subtle spirits whose bodies have no coarse density pass through mountains without resistance: solidity is not a property the stone has by itself, but a resistance that appears when two systems of similar density meet. Beings in the formless realms have no coarse senses, so physical things simply do not function in their experience.
-
-The bowl of liquid remains a working reference point. It is not erased from everyday existence just because a being without the right channels fails to register it: conventional existence does not wait on a present act of designating. But what appears there (a solid barrier, nourishment, burning pus, or an open passage) depends entirely on which channels are active in the meeting. The "reference point" is only the human frame's name for the place where these appearances are compared. It is not a hidden something that turns into them.
-
-## 17. Between realms: the water offering
-
-The hardest test of this view is contact between different worlds, which Buddhist practice assumes. In offerings to hungry ghosts, water is blessed with a mantra and given, and the tradition holds that it reaches them as nectar. If each realm's world arises within its own karmic vision, how can an act in one world reach another?
-
-Not by a substance that travels. Nothing passes from the human bowl into the ghost's mouth, just as nothing passes from the evening flame into the midnight flame. The giving is identified in the human world: water, a mantra, an intention. The relief is identified in the ghost's world: nectar where there was pus. The two are linked by dependent arising, as condition in one world and result in another, and the link is recorded from the giver's frame, the one that can compare them. This is the same pattern as the cross-perspective links of section 15: agreement and influence across perspectives, with no common object underneath.
-
-*Precision note: two cautions must both be said. The account does not claim to have proven that such practices work; it asks only what the tradition's claim would mean without a hidden substance. And the mantra is not a power living inside sounds, any more than the power to open lives in a key apart from the lock, the hand and the door. It is one condition among others.*
-
-## 18. The myth of the container
-
-Why do we cling so hard to an underlying object? The root of it is the container myth. We imagine space as an empty, ready-made three-dimensional box. We place a solid object in the middle of it. We put observers in the box and assume they must either see the real object or be fooled.
-
-Physics and the Middle Way both take this box apart. In Einstein's theory, spacetime is not an empty stage; it is the gravitational field itself, which moves and interacts with matter. In loop quantum gravity, space itself comes in tiny units and is built from relations. And in MMK chapter 5, Nāgārjuna shows that space cannot exist before its defining mark, the absence of obstruction. Space and the things in it are identified together.
-
-When space stops being an absolute warehouse, the puzzle of how one object can appear differently to different beings dissolves. Space, time, observer and observed are identified together, and none is the container of the others. The "web" that connects them is a label too, not a further thing.
-
-## 19. Why is there order at all?
-
-The last question realism asks: "If there is no ultimate ground, why is the world orderly and reliable at all? Why do things follow laws and repeat, rather than collapsing into chaos?" The Middle Way answers on two levels.
-
-**The everyday answer.** The Middle Way does not leave order unexplained. In everyday terms, order is explained by the regular way things arise in dependence on causes and conditions. Causes give matching results: barley seeds grow barley, not rice; fire burns and does not freeze. Among living beings, shared karma and shared biology shape how the world appears. Convention has its own full, working validity. Being empty of a fixed nature does not make it arbitrary or lawless. Emptiness does not cancel cause and effect. Nor is emptiness what makes cause and effect work: emptiness enables nothing and explains nothing. It is the other way round. Things never needed a fixed essence in order to work, and something with a fixed essence of its own could not arise, change or end (MMK 24.16–20).
-
-**Questioning the question.** Pressed further ("yes, but why is there a web of causes at all?"), the question makes a subtle mistake. It treats the whole web of dependent arising as if it were one bounded thing that needs an outside cause. But "the whole" is a label. A whole is not a separate thing standing next to its parts; asking for an outside ground for it is looking for a foundation outside all relations. And there is no first beginning. An invented ultimate cause would either depend on something before it, so the chain goes on, or depend on nothing, and then, having no relations, it could produce nothing. Nāgārjuna shows that dependent arising has no first beginning (MMK chapter 11). An endless chain is a problem only if we are looking for a final resting place. Once we stop demanding a floor, having no first beginning is simply what dependent arising looks like.
-
-The question does not uncover a hidden answer. It runs out of steam.
-
-*Precision note: never say emptiness "makes things possible", "allows" order, or is the reason things can arise. Emptiness is not a cause or a condition.*
-
-## 20. Working without a foundation
-
-Seeing that similar beings see a similar world because they share similar conditions, and not because of a hidden given, is not a fall into nihilism or into private fantasy. It is not idealism, because the mind is just as empty, conditioned and dependent as the things it meets. It is not "anything goes", because everyday truth works with reliable, checkable regularity along the channels beings share.
-
-What is removed is only the anxious demand for a foundation: the insistence that, beneath the living display of appearances, there must be a dead, unmoving ballast holding everything up.
-
-This view also matters beyond philosophy. If the hungry ghost's pus is really pus for the hungry ghost, its suffering is not a mistake to be explained away from a human point of view. No point of view owns the real world, so no being's world can be dismissed as "only theirs". This is not relativism: faulty senses are still corrected within each kind of being, and pure vision is still clearer than ordinary vision. But it is why compassion makes sense without a self behind it. Other beings' worlds are as real for them as ours is for us, and emptiness takes nothing away from their suffering, or from the wish to relieve it.
-
-In the Middle Way, having no foundation takes nothing away from how things work. Nāgārjuna puts it in one line (MMK 24.14), where the key word means "fits" or "works": *For whom emptiness works, everything works.*
-
-And from the experiential side of Dzogchen: when appearances are recognised as self-display, with no solid subject grasping at a solid object, appearing is met as it always was, vivid, unproduced and not found anywhere. Everyday reality does not carry on *in spite* of having no foundation, and it does not appear *because* it has none. It never needed one.
-
-*Precision note: MMK 24.14 is about fit, not cause; do not paraphrase it as "because things are empty, they can arise". Do not end on "what remains" or a hidden ground. End on "It never needed one."*
-
----
-
-## Names and terms (for correct pronunciation)
-
-- **Nāgārjuna:** nah-GAR-ju-na. Indian Buddhist philosopher, about the 2nd century CE, founder of Madhyamaka.
-- **Mūlamadhyamakakārikā (MMK):** MOO-la-MUD-hya-ma-ka-KAH-ri-kah. "Root Verses on the Middle Way".
-- **Madhyamaka:** MUD-hya-ma-ka. The "Middle Way" school.
-- **Candrakīrti:** CHUN-dra-KEER-tee. 7th-century commentator on Nāgārjuna.
-- **Madhyamakāvatāra:** MUD-hya-ma-KAH-va-TAH-ra. Candrakīrti's "Entering the Middle Way".
-- **Tsongkhapa:** TSONG-ka-pa. Tibetan master, 1357–1419, founder of the Gelug school.
-- **Gelug:** GAY-look.
-- **svabhāva:** swa-BHAH-va. Own-nature, intrinsic existence.
-- **Abhidharma:** ah-bhi-DHAR-ma. Early Buddhist systematic philosophy.
-- **Yogācāra:** YOH-gah-CHAH-ra. The Mind-Only school.
-- **Vasubandhu:** VAH-soo-BUN-doo. 4th–5th-century Yogācāra master. Viṃśikā (Twenty Verses): vim-SHEE-kah.
-- **Dharmakīrti:** DHAR-ma-KEER-tee. 7th-century logician.
-- **Ratnakīrti:** RUT-na-KEER-tee. 11th-century logician.
-- **Śāntideva:** SHAHN-tee-DAY-va. 8th-century author of the Bodhicaryāvatāra (BOH-dhi-CHAR-yah-va-TAH-ra), "The Way of the Bodhisattva".
-- **sūtra:** SOO-tra. A discourse of the Buddha.
-- **saṃsāra:** sum-SAH-ra. The cycle of conditioned existence.
-- **preta:** PRAY-ta. A hungry ghost.
-- **Māmakī:** MAH-ma-kee. Female Buddha associated with the water element.
-- **Dzogchen:** DZOG-chen. "Great Perfection".
-- **Longchenpa:** LONG-chen-pa. Tibetan Dzogchen master, 1308–1364.
-- **Mipham:** MEE-pam. Jamgön Ju Mipham, Tibetan Nyingma master, 1846–1912.
-- **Nyingma:** NYING-ma. The oldest Tibetan school.
-- **ka dag:** KAH-dahk. Primordial purity.
-- **lhun grub:** LHOON-drup. Spontaneous presence.
-- **thugs rje:** TOOK-jay. Compassion (left untranslated as an aspect of the basis).
-- **rigpa:** RIG-pa. Knowing awareness (not "recognition").
-- **Jakob von Uexküll:** YAH-kop fon OOKS-kool. Baltic-German biologist.
-- **Wittgenstein:** VIT-gen-shtine.
+The phrase "different species see the same liquid differently" slips in an unexamined noun: "the liquid". It quietly
+assumes that before anyone meets it, a finished thing already sits there, waiting to be inspected.
+
+This is the move made famous by Immanuel Kant: a hidden "thing-in-itself" lies beyond experience, and living beings
+stamp their own categories and senses onto it. The Middle Way asks what that hidden thing is like. If it has definite
+properties, such as being refreshing water, it cannot explain why the hungry ghost meets burning pus. If it has no
+properties at all, a featureless something cannot set off any experience.
+
+To be fair to Kant: he did not say the thing-in-itself is a physical cause inside experience, though he did call it
+the "non-sensible cause" of appearances, and that is exactly where his critics found the difficulty. The point holds
+either way: a substrate stripped of every relationship explains nothing.
+
+**The "wetness" reply.** Someone may say: the hidden thing is not water or pus, just wetness, the quality both share.
+Buddhist psychology does call wetness the mark of the water element. But the reply meets a fork:
+
+1. If wetness exists on its own, it is an abstraction. Wetness never floats in mid-air; it only ever shows up as this
+   drinkable water, this pus, this fish's home. And fluidity is itself a relationship: what is a fluid for a large
+   creature with cell membranes is not a fluid at subatomic scales.
+2. If wetness is a practical reference point, it is no longer a hidden thing-in-itself. It is a useful label that
+   lets people compare perspectives, with no claim to be an observer-independent floor.
+
+Nāgārjuna's target is *svabhāva*: the belief in an intrinsic nature that exists by itself, independent of anything
+else. A "neutral stuff" beneath appearances is that same belief in disguise.
+
+## 3. Agreement without a hidden substance: the Middle Way account
+
+If there is no inherently real object behind appearances, why do humans reliably agree that the liquid is water? Why
+doesn't the world collapse into private fantasy?
+
+Candrakīrti answers in Chapter 6 of *Entering the Middle Way* (*Madhyamakāvatāra*): agreement does not prove a hidden
+substrate. Shared, reliable, everyday coherence is what conventional truth is.
+
+**Mind and object depend on each other.** Candrakīrti argues at length against the Mind-Only view, which removes
+external matter and makes consciousness the one real foundation. A perceiving mind cannot be identified without an
+object perceived, and an object cannot be identified without the perceiving that picks it out. Neither comes first.
+Making mind the container is as mistaken as making matter the container.
+
+**Healthy and impaired senses, within each kind of being.** Candrakīrti separates what the world accepts as true from
+what even the world counts as error, such as a person with jaundice who sees a white conch shell as yellow, or someone
+with an eye disease who sees floating hairs. These standards hold *within* a kind of being. A jaundiced human is
+mistaken by human standards. The hungry ghost is not a jaundiced human: by the standards of its own karmic
+conditioning, its senses work normally, and for it the liquid genuinely functions as pus. Following Tsongkhapa's
+reading, the ghost's perception is a real conventional perception shaped by karma, not an optical mistake. Candrakīrti
+adds that this sorting into correct and mistaken belongs to the world's point of view; awakened beings see compounded
+things as like reflections.
+
+**A working reference point.** What is denied is an inherently established common base: a mind-independent substance
+with its own identity before anyone observes it. What is accepted is a mere working reference point: a dependently
+designated place where different appearances meet and can be compared. It has no qualities apart from those that show
+up through some channel of contact. It is a practical label, usually made from within the human frame. Its job is to
+coordinate perspectives, not to sit underneath them.
+
+**Where the bowl example came from.** The example did not begin in the Middle Way. In his *Twenty Verses*
+(*Viṃśatikā*), Vasubandhu used the hungry ghosts to defend Mind-Only. Critics asked: if there are no external objects,
+why do perceptions agree? Vasubandhu replied that hungry ghosts with the same karma all see the same river of pus;
+shared karma ripening in consciousness explains shared perception, with no river outside the mind. That makes
+consciousness the floor. Candrakīrti turns the example around (*Entering the Middle Way* 6.71): if the river of pus
+is not established on its own, neither is the mind that sees it. For the hungry ghost, the river of pus and the seeing
+of pus stand or fall together. Conventionally, both are accepted; under analysis, neither is found on its own. So the
+bowl does not show that the world is inside the mind. It shows that neither world nor mind is the floor. Shared karma
+explains why beings agree, as one condition among many, not as a mental storehouse beneath everything.
+
+*Precision note: do not make mind, consciousness or karma the ground. Do not say the hungry ghost is "hallucinating"
+or "deluded about water": its pus is conventionally real for it. Do not call the working reference point a hidden
+object under another name.*
+
+## 4. Other observers, circularity and language
+
+**Other minds.** Agreement needs others to agree with. Dharmakīrti argued that we infer other minds from purposeful
+movement and speech, as with our own. Ratnakīrti, from the Mind-Only side, held that other minds can never finally be
+proved. Both assume that my own mind is given and certain while other minds are inferred or doubtful. The Middle Way
+refuses the asymmetry. Under analysis my stream of experience is no more findable than yours; both are designated in
+dependence on changing parts, and both work in daily life. Other observers are designated together with oneself, as
+"long" is designated with "short".
+
+**Is agreement circular?** Healthy faculties are those that agree with the group, and the group is defined by sharing
+those faculties. Yes, it is circular, and the circle is not a flaw. It would be fatal only if agreement had to rest on
+an outside judge, and the Middle Way denies that any such judge exists. Ludwig Wittgenstein reached a similar point:
+following a rule rests on agreement in a shared "form of life", agreement not only in definitions but in judgments
+(*Philosophical Investigations* §§241–242). The circle still allows correction from inside: a jaundiced eye is
+corrected by healthy companions, a misreading by a second look. What it rules out is correction from outside every
+perspective.
+
+**Language.** For humans, the main tool of agreement is language. A child learns "water" as a word that works: say it,
+and a glass is brought. Language carries agreement across distances and generations. It is also where the habit of
+solid things is strongest: the noun "the bowl" tempts us to imagine one unchanging object behind every perspective.
+
+## 5. The experiential side: non-foundational Dzogchen
+
+The Middle Way uses reasoning to remove the hidden floor. Dzogchen, the Great Perfection, describes how appearing is
+met directly in experience.
+
+**The basis is not a substrate.** In the Dzogchen of Longchenpa and Ju Mipham, the basis (*gzhi*) is distinguished
+from the storehouse consciousness (*ālaya*). It is described through three inseparable aspects: an empty essence
+(primordial purity, *ka dag*), a clear nature (spontaneous presence, *lhun grub*), and compassion. Primordial purity
+means that, from the very beginning, appearing was never inherently established: nothing needed cleaning. Longchenpa
+explains that the basis is called a "ground" only from a relative point of view; in the true nature of things it is
+empty of being a ground.
+
+**Display has nothing behind it.** Appearances are called "display" (*rtsal*). The word must never be heard as the
+display of something standing behind it. It means only this: dependent arising, vivid and unobstructed, with nothing
+behind it.
+
+**The grasping subject is part of the display.** Ordinary dualistic mind, the felt sense of an inside subject looking
+out at an outside world, is itself an appearance, arising together with its objects. Neither mind nor matter makes
+the other.
+
+**Rigpa is the knowing of the basis.** Rigpa is knowing awareness: the knowing of the basis, recognising that whatever
+appears is unfixed, dependent and empty. It is not one half of the subject-object split, not a subtle mental
+substance projecting forms, not a witness, and not the basis itself. The clarity of appearances belongs to the
+appearing itself, not to a knower behind it, and like the appearing it is empty.
+
+**Not causal production.** The basis does not produce appearances the way a factory produces goods. Spontaneous
+presence is not an uncaused motor. It means appearing that owes its completeness to nothing hidden.
+
+**Self-knowing.** Buddhist traditions divide on reflexive awareness, the idea that consciousness knows itself.
+Candrakīrti rejected it with the image of a blade that cannot cut itself, and Tsongkhapa rejected it even as a
+conventional description. In Dzogchen, the self-knowing of awareness is not a subject knowing itself as an object,
+and not a second act performed on experience. It is the plain absence of confusion: the clarity of appearing,
+recognised as belonging to no one, and empty like everything else.
+
+*Precision note: never call rigpa "recognition", "pure consciousness", "the ground" or "the awareness that is the
+basis"; rigpa is the knowing of the basis. Never describe the basis as a source from which appearances emerge, flow or
+radiate. "Primordially pure" does not mean a pristine something behind appearances. Never say "self-liberation"; if
+the term is needed, say self-release.*
+
+## 6. Two kinds of conventional seeing, and pure vision
+
+Ju Mipham distinguishes two kinds of conventional seeing. Ordinary, impure seeing works within each being's karmic
+conditioning: the human's water, the hungry ghost's pus, and even the god's nectar, which is an elevated karmic
+perception, not awakened vision. Pure seeing belongs to awakened beings, for whom the liquid appears as its wisdom
+nature, Māmakī. Mipham calls pure seeing more authentic because in it the way things appear and the way they are no
+longer conflict.
+
+Within ordinary seeing, validity is relative to each kind of being, as Candrakīrti said. The ghost's pus is normal by
+ghost standards and the human's water by human standards; neither overrules the other. Between ordinary and pure
+seeing, there is a real difference.
+
+Pure vision does not bring back a hidden foundation. It is not a look behind the curtain at a metaphysical bedrock,
+and Māmakī has no inherent existence. "Authentic" names a way of meeting appearance, without the habit that splits
+it into a subject inside and solid things outside. It does not name a luminous reality hidden behind appearances.
+
+*Precision note: pure vision is not "seeing the real thing behind the illusion", and not another world competing
+with ordinary worlds. Do not present a fourfold scheme of valid cognition or attribute one to Mipham; keep to these
+two kinds of conventional seeing.*
+
+## 7. Echoes in modern physics: Barad and Rovelli
+
+These are resonances, not proofs. Emptiness does not depend on physics, and scientific models are themselves
+practical designations, among the most reliable we have within their fields.
+
+**Karen Barad's agential realism.** Traditional metaphysics assumes that objects exist first and then interact. For
+Barad, the things interacting do not exist before their "intra-action"; they emerge through it. What she calls the
+"agential cut" does not slice up a reality already there; it settles, in each situation, what counts as observer and
+what counts as observed. Read alongside the bowl: there is no liquid standing there before the meeting. The drinker
+and the water arise together in the human encounter; the ghost and the pus arise together in the ghost's.
+
+**Carlo Rovelli's relational quantum mechanics.** Physical quantities have values only relative to another physical
+system, in an interaction. Critics asked why two observers agree when they compare notes. Emily Adlam and Carlo
+Rovelli answered with the cross-perspective links postulate: if observer A measures a system, and observer B later
+interacts with both the system and A, B's result will match A's record. Agreement does not require a hidden classical
+state beforehand; it is established through physical interaction between the observers. This resembles Candrakīrti's
+healthy senses confirming one another.
+
+**A caution.** Whatever their authors' own emphasis, these theories should not be taken here as showing that
+relations are what really exists. Making relation the new primary substance repeats the foundationalism it meant to
+overcome. Relations and the things related are designated together; neither comes first, and neither is a floor.
+
+*Precision note: no "physics proves emptiness" or "quantum mechanics confirms Buddhism". Relations, fields and
+networks are not the new ground.*
+
+## 8. Different channels of contact
+
+If an appearance depends on particular senses and channels, what happens when a being meets an environment it shares
+little contact with? The answer is neither "nothing at all" (which would make reality private and erase cause and
+effect) nor a hidden classical object. Contact comes in degrees.
+
+**Uexküll's tick.** The biologist Jakob von Uexküll showed that an animal lives not in a neutral environment but in an
+*Umwelt*, a world carved out by its own sensing and acting. The tick responds to three signals: the smell of butyric
+acid in mammal sweat, the warmth of a body, and hair. A pool of clear water has none of these, so it does not exist
+in the tick's perceptual world. Yet the water is not nothing to the tick: a tick that falls in is held by its surface
+and carried along by its current. The tick is uncoupled from the water's perceptual channels, but coupled to its
+surface tension and flow. Cause and effect run along particular channels whether or not a creature is aware of them,
+so conventional reality is not trapped inside a private mind.
+
+**Channels in physics.** As far as observations show, dark matter does not interact with light, so it passes through
+the Earth without collision, yet the Earth's gravity still bends its path. A solar neutrino can cross vast thicknesses
+of lead with almost no chance of hitting an atom: for it, the lead is neither a wall nor nothing, but very weak
+coupling.
+
+**Traditional accounts.** The same range of coupling makes sense of traditional Buddhist accounts without a hidden
+substrate. Spirits whose subtle bodies lack coarse form pass through rock: solidity is not a property rock has on its
+own, but a resistance that occurs when systems sharing the relevant coupling meet. For beings in the formless
+meditative absorptions, physical objects do not function at all.
+
+**The water offering.** The hardest test is contact between worlds, which Buddhist practice takes for granted. In
+water offerings to hungry ghosts, water is blessed with a mantra and given, and tradition holds that it reaches them
+as soothing nectar. How? Not by a substance travelling between worlds. As in Nāgasena's simile of the lamp, the flame
+at midnight is neither the same as the flame at dusk nor a different one. The giving is designated in the human world
+(water, mantra, generous intention); the relief is designated in the hungry ghost's world (nectar instead of pus).
+They are linked as condition and result in dependent arising.
+
+*Precision note: that the offering relieves a hungry ghost is a claim of tradition, not something this argument
+demonstrates. Cross-perspective links in physics need physical interaction, which the offering lacks; the
+resemblance is only that neither needs a hidden substrate. Do not say physics supports offerings.*
+
+## 9. The myth of the container
+
+Why do we cling to the hidden object? Because of the "container myth", the classical picture of absolute space and
+time. We imagine space as a ready-made empty box, put a solid object in the middle, and place observers around it who
+must either see the real object or suffer an illusion.
+
+Modern physics and the Middle Way both take the box apart. In Einstein's general relativity, spacetime is not an empty
+box but the gravitational field itself, which interacts with matter and energy; and in loop quantum gravity, one
+research programme among several, space is pictured as a network of relations. In Chapter 5 of the
+*Mūlamadhyamakakārikā*, Nāgārjuna shows that space cannot exist before its defining characteristic, the absence of
+obstruction: space and what is in it are designated together. Once space stops being an absolute warehouse, the
+puzzle of how one object appears differently to different species dissolves. Space, time, observer and observed are
+designated together, and none contains the rest.
+
+## 10. Why is there order at all?
+
+The realist's last question: without an ultimate ground, why is there an orderly web of cause and effect instead of
+chaos?
+
+**Dependent regularity.** The Middle Way does not leave order unexplained. Causes produce matching effects: barley
+seeds grow barley, not rice; fire burns and does not freeze. Among living beings, shared karma and shared biology
+shape how appearances unfold. Being empty of independent existence does not make things lawless. Emptiness does not
+cancel cause and effect, and it is not an engine that makes them work: emptiness enables nothing and explains
+nothing. Things never needed an essence to function;
+something with an unchangeable essence could never change, grow or act.
+
+**Dismantling the question.** "But why is there a web of causes at all?" treats the whole web as one bounded thing
+needing an outside cause. A totality is not an extra entity beside its parts, so asking for an outside ground of
+"everything" seeks a foundation outside all relationship. And a first cause would either depend on something earlier
+or have no relations at all, in which case it could produce nothing. Nāgārjuna teaches that dependent arising has no
+first beginning. An endless series troubles us only while we demand a final floor; without that demand, no first
+beginning is simply what dependent arising looks like.
+
+*Precision note: never say "because things are empty, they can arise" or "emptiness makes cause and effect
+possible". The argument is a reductio: what had its own nature could not change. "Beyond cause and effect" is not
+claimed here.*
+
+## 11. Many worlds: what a world is
+
+The bowl leads to a larger picture. Each kind of being lives not just in a different view of one object but in a whole
+world: its own textures, distances, dangers and nourishment. Here a *world* means the whole field of appearances that
+opens when a kind of being meets its surroundings through its own senses, habits and channels of contact: a *loka* in
+Buddhist texts, an *Umwelt* in Uexküll's. "Multi-dimensional" uses "dimension" in its everyday sense, a whole side of
+reality, not the dimensions of physics.
+
+This is a conventional description, not a physical theory, and it makes no predictions. It also does not depend on
+accepting hungry ghosts or gods: the whole argument can be followed with animals alone, and readers who accept the
+traditional realms can extend it to them.
+
+**Worlds are made by channels, not walls.** The tick lives in a world of three signals. The bat finds its way by
+echolocation, in a world of returning sound. The honeybee sees ultraviolet light, and flowers that look plain to us
+carry bright landing patterns for it. The human lives among colours, mid-sized objects, words and clocks. None of
+these worlds is walled off from the others; they differ by how each being is coupled to its surroundings. In
+Buddhist terms, the six realms of rebirth differ above all by karma, the accumulated habits of intention and action.
+
+**Three sides, designated together.** Every world has a being with its senses and habits, an environment as it is
+met, and the channels joining them. None comes first. Abhidharma calls the world of beings *sattva-loka* and their
+shared environment *bhājana-loka*, the "vessel world"; but in the Buddhist account the vessel itself is shaped by the
+shared karma of those who live in it, so it is a shared environment, not a box that would exist with no one in it.
+
+**Worlds come in degrees.** A human and a dog share much (sight, hearing, touch, a little smell), so they can live
+and play together. A human and a tick meet briefly at the skin. In the traditional account, a human and a hungry ghost
+share almost no coarse channels. "Same world or different world?" has no yes-or-no answer.
+
+## 12. Where are the other worlds?
+
+The tempting answer is: "right here, in the same space as ours". It sounds open-minded, but it brings the container
+back: it assumes one neutral space underneath both worlds, in which both are placed. Where would "the same location"
+be measured from? Human rulers give a human answer. For the tick, "here" is a rising gradient of butyric acid. Each
+world has its own here, near and far.
+
+Indian and Tibetan logic distinguish two kinds of negation. An implicative negation denies one thing and implies
+another: "he is not a monk" suggests he is a layperson. A non-implicative negation (*prasajya-pratiṣedha*, Tibetan
+*med dgag*) simply denies, and implies nothing in its place; Tsongkhapa held that emptiness is a negation of this
+kind. The many-worlds view uses the second kind: the other worlds are *not elsewhere*, not far away, not behind a
+wall. It does not add "so they are in the same place". From within the human world it is fine to say "a hungry ghost
+may be right beside you"; the error is only to think this describes things from no frame at all.
+
+Buddhist traditions describe the realms with two kinds of map. The Abhidharma map, in Vasubandhu's *Abhidharmakośa*
+(*Treasury of Abhidharma*), is vertical: Mount Meru at the centre, continents around it, god realms above, hell realms
+below, each realm given its own place. The co-presence map of Huayan, Tiantai, Vajrayāna and Dzogchen stresses that
+realms and pure lands are not far away, and that what separates them is a way of seeing. Neither has to be read as the
+layout of an absolute space; each is a conventional map, useful for its own purpose.
+
+*Precision note: never say the worlds "occupy the same space", "the exact same location" or "the same coordinates".
+Say they are not elsewhere, and stop there.*
+
+## 13. How worlds touch, and what does not cross
+
+Worlds touch along shared channels: the tick reaches the human through skin and warmth; dark matter is uncoupled
+from light but feels gravity. This is ordinary and observable.
+
+They are also said to touch through conditions without a pipeline, as in the water offering (section 8). That rests
+on tradition and testimony, not observation; this framework shows only that such a link is not ruled out by the
+absence of a hidden substance.
+
+One thing never crosses: a view from nowhere. No being can step outside every world and compare them all from a
+neutral overview, because every comparison is made from somewhere, through some channel. A human can learn much about
+the bat's world, but always as a human building a human picture of the bat. This is not a failing to be fixed; it is
+what it means for every view to be a view from somewhere.
+
+This does not rule out what the Buddhist tradition calls the *higher knowledges* (*abhijñā*), such as knowing the minds
+of others or recollecting past lives. As the early texts describe them, these would widen a view from somewhere, not
+give a view from nowhere. The companion bonus article *Knowing From Somewhere* takes them up in full.
+
+*Precision note: the argument neither proves nor rules out the higher knowledges; it only says what they could not be.
+A wider view is still a view from somewhere. Never say that knowing another's mind shows "all minds are one" or a
+shared universal consciousness.*
+
+## 14. Does any world have the final say?
+
+**No master world among ordinary worlds.** Realism tempts us to treat the human world, with its colours, solid things
+and three spatial dimensions, as base reality, and other beings' worlds as reduced copies. Without a hidden original,
+the human world cannot be the original either. It keeps every practical priority for us, but no ultimate priority.
+
+**Science extends the human world; it does not leave it.** Spectrometers, microscopes and detectors couple us to things
+our senses miss, like the bee's ultraviolet and the neutrino. Science is our most reliable map within its domains. But
+every instrument is built, read and interpreted by humans, and every result is stated in human concepts.
+
+**Not everything is equal.** Within each world there are still errors: the jaundiced human, the bee with damaged eyes.
+And between ordinary seeing and pure seeing there is a real difference (section 6). The view is horizontal among
+ordinary worlds and recognises the difference between confusion and clarity. It is not relativism.
+
+## 15. Many worlds in physics: Everett, compared fairly
+
+"Many worlds" also names Hugh Everett's 1957 "relative state" interpretation of quantum mechanics.
+
+**What it says.** The wavefunction never collapses. One universal quantum state evolves smoothly and deterministically:
+Many-Worlds removes the idea that only one outcome happens, not determinism. Through decoherence, the state effectively
+divides into branches that no longer interfere, each containing a version of the observer seeing one result. On David
+Wallace's reading, branches are emergent and approximate. They are not side by side in physical space: they are
+components of one state, described in Hilbert space, an abstract space of possible states, not a place. Everettians
+still disagree about probability, about what a branch is and about how literally to take the wavefunction.
+
+**Where the views meet.** Both reject one world seen one way; both say no single observer's world is the whole story;
+and on Wallace's reading both treat worlds as emergent patterns, not building blocks.
+
+**Where they differ.** Most Everettians are realists about the universal wavefunction, the one thing that really
+exists; the Middle Way accepts no floor at all, not even a mathematical one. Everett's branches multiply over time; the
+worlds of this view arise together with the beings who live in them. Decohered branches practically never interact;
+these worlds touch through shared channels and, in tradition, through conditions such as offerings.
+
+This contrast concerns interpretation, not the equations, which all interpretations share. Physics does not decide
+between wavefunction realism and the Middle Way. The closer companion is Rovelli's relational quantum mechanics: one
+world of relative facts, not many branches, and Rovelli himself has compared it to Nāgārjuna.
+
+*Precision note: do not say Many-Worlds abandons determinism, that branches are separate places, or that Hilbert space
+is a container. Do not claim Buddhism anticipated quantum physics.*
+
+## 16. Classical Buddhist traditions on many worlds
+
+These traditions do not all say the same thing, and they are not physics. For each: what it says, where it agrees,
+where it needs care.
+
+**Abhidharma.** Vasubandhu's *Abhidharmakośa*, written from the Sarvāstivāda and Sautrāntika standpoint, maps three
+realms (desire, form, formless) on a vertical cosmos. Its fourth chapter opens: "the variety of the world is born of
+action" (*karmajaṃ lokavaicitryam*). The vessel world is formed by the shared karma of beings and decays when that
+karma is spent. Agreement: worlds are shaped by beings. Difference: the map is spatial, and Sarvāstivāda held that the
+elements of experience (*dharmas*) have their own nature, which Nāgārjuna refuted.
+
+**Yogācāra.** Asaṅga and Vasubandhu explain shared worlds through consciousness. Beings with similar karma experience
+similar worlds; the storehouse consciousness (*ālaya-vijñāna*) carries karmic seeds, and Asaṅga's *Compendium of the
+Mahāyāna* (*Mahāyānasaṃgraha*) explains the shared environment through its common aspect. Later Yogācāra writers return
+again and again to the hungry ghosts and the river. Agreement: the fullest classical account of why beings share or do
+not share a world. Difference: it grounds worlds in the storehouse consciousness, which Candrakīrti rejected. Some
+modern scholars read Yogācāra as an analysis of how experience is constructed rather than as idealism, and
+Śāntarakṣita combined it with Madhyamaka, accepting it conventionally. On the question of a foundation it remains a
+contrast, not an ally.
+
+**Huayan.** From the *Avataṃsaka Sūtra*, the Flower Ornament Scripture, where buddha-fields as numerous as atoms appear
+in a single dust mote. Dushun is credited with the *Contemplation of the Dharmadhātu*; Fazang explained mutual
+inclusion with the golden lion, the hall of mirrors and Indra's Net, a net with a jewel at every knot, each reflecting
+all the others, none the original; Chengguan set out the Four Dharmadhātus: phenomena, principle, the non-obstruction
+of principle and phenomena, and the non-obstruction of phenomena with one another. Agreement: a thing with a core of
+its own would exclude others; nothing has one, so nothing obstructs. Indra's Net, with no original jewel, pictures "no
+master world". Care: non-obstruction is not a claim that worlds are packed into one spot of space; it expresses mutual
+dependence. And Huayan's "principle" must not become a positive ground; this article reads it as emptiness.
+
+**Tiantai.** Zhiyi developed the Three Truths (emptiness, the provisional, the middle) from Nāgārjuna's verse 24.18. The
+ten realms (hell beings, hungry ghosts, animals, demigods, humans, gods, *śrāvakas*, *pratyekabuddhas*, bodhisattvas,
+buddhas) each contain all ten (*shijie huju*), and in *Great Calming and Contemplation* (*Mohe zhiguan*) three thousand
+realms are present in a single thought-moment (*yinian sanqian*). Agreement: the realms are possibilities of
+experience, not distant places; which becomes vivid depends on habit and practice. Care: a thought-moment is not a
+location. Later Tiantai's "inherent inclusion" (*xingju*), that the Buddha inherently includes even hell, is Tiantai's
+own bold claim, stronger than the Indian Middle Way.
+
+**Vajrayāna: pure vision.** In the first chapter of the *Vimalakīrti Sūtra*, Śāriputra wonders why the Buddha's land
+looks impure. The Buddha touches the ground with his toe, and the world appears as a jewelled pure land: it was always
+pure, Śāriputra had not seen it. Vajrayāna trains this as pure vision (*dag snang*): environment as mandala, beings as
+deities, sounds as mantra, the elements as wisdom energies; in the Nyingma tradition, water is Māmakī. Agreement:
+transformation is a change in seeing, not in location. Care: many Mahāyāna sources also describe pure lands as real
+places far away, such as Amitābha's Sukhāvatī to the west, and both ways of speaking coexist. Pure vision is practised
+within a lineage, with a qualified teacher; nothing here is instruction.
+
+**Dzogchen.** For Longchenpa and Mipham the basis is primordially pure in essence and spontaneously present in nature,
+and appearances are its display, not its products. Dzogchen texts call this openness *zang thal*: unimpeded,
+transparent. Appearances have no solid core with which to block one another, and the basis is not a space that could
+fill up. It is not a space at all. Agreement: the closest to this article, with no container and no cosmic mind.
+Care: critics within Tibet have argued that the language of a basis reintroduces a foundation; Longchenpa answered that
+the basis is a ground only conventionally and empty of being one. This reading is defended, not simply assumed, within
+the tradition.
+
+**What they share.** Worlds are shaped by the karma, perception or realisation of those who live in them. Worlds need
+not obstruct one another, since none has a solid core. Transformation is a change in seeing, not travel. **What they
+do not share** is an answer about a foundation: Abhidharma accepts real *dharmas*, Yogācāra a foundational
+consciousness, and Huayan and Dzogchen can be read with or without a positive ground. This article chooses the
+reading without a foundation, for the reasons of sections 2 to 10. It is a choice made for reasons, not a consensus.
+
+*Precision note: never say "Indra's Net shows that everything is one", "each moment contains the whole cosmos" or
+"all realms exist in one location": there is no cosmic whole behind the parts. Never say emptiness "allows" or
+"enables" non-obstruction. Never describe the basis as radiating or emanating appearances.*
+
+## 17. What this view does not claim
+
+1. It does not prove that other realms exist. It shows how they could be understood without a hidden container, if
+   they exist. Belief in them rests on tradition and testimony; the animal examples stand without them.
+2. Physics does not confirm it. Uexküll, dark matter, neutrinos and relational quantum mechanics illustrate patterns
+   (channels, degrees of coupling, agreement without a substrate). They are not evidence for Buddhist cosmology.
+3. It is not a scientific theory. It makes no predictions and offers no mechanism. It removes a confusion: the idea of
+   one hidden original.
+4. It is not relativism. Errors are still errors within each world, and confusion and clarity still differ.
+5. It is not idealism. Worlds are not inside minds; minds, environments and channels arise together, and none is the
+   foundation.
+6. It is one reading within Buddhism. Buddhist schools describe the realms differently. This article follows the
+   Middle Way as read through Candrakīrti and Tsongkhapa, with Dzogchen as read through Longchenpa and Mipham.
+
+## 18. Living in a world of many worlds
+
+**Humility.** If the human world is one among many, what we see is not the measure of all there is. Every creature we
+meet, from a bee to a stranger, lives in a world we cannot fully enter.
+
+**Compassion.** If the hungry ghost's pus is genuinely pus for the hungry ghost, its suffering is not an illusion to
+be dismissed from our point of view. The same holds, without any appeal to tradition, for an animal's fear or the
+loneliness of a person whose world we do not share. No single perspective owns the real world, so no being's
+experience can be brushed aside. Compassion makes full sense without a fixed self: other beings' worlds are as real
+for them as ours is for us, and emptiness takes nothing from their suffering or from our wish to relieve it. The view
+removes one excuse: "that isn't really happening".
+
+**Practice.** The shift to pure vision is not a journey to another place. Nothing needs to be moved. What changes is the
+way of meeting what is already here: not a change in what exists, but a change in how what exists is held.
+
+**No floor.** The conclusion of the bowl holds at the widest scale: the whole range of worlds needs no hidden foundation
+beneath it. Nāgārjuna's reply to his critics (*Mūlamadhyamakakārikā* 24.14) is: "For whom emptiness works, everything
+works." When appearances are met as display, with no inside subject grasping an outside object, the world is met as
+it always was: vivid, unproduced, and with nothing standing underneath.
+
+*Precision note on the ending: Nāgārjuna's verse is a reply to critics: a world of fixed own-natures could not change
+or function, so only for the empty does anything work. Do not turn it into "emptiness makes things work". End on
+compassion and the ordinary, vivid world. Do not end on "pure awareness", "the ground", "what remains when everything
+falls away" or "the one reality behind all worlds".*
+
+## Pronunciation list
+
+| Term | Say | Meaning |
+|---|---|---|
+| Abhidharma | ah-bee-DAR-mah | "higher teaching": the systematic Buddhist analysis of experience |
+| Abhidharmakośa | ah-bee-DAR-mah-KOH-shah | Vasubandhu's *Treasury of Abhidharma* |
+| abhijñā | ah-bee-GNYAH | the higher knowledges, such as knowing others' minds |
+| ālaya, ālaya-vijñāna | AH-lah-yah, AH-lah-yah vij-NYAH-nah | storehouse consciousness (Yogācāra) |
+| Amitābha | ah-mee-TAH-bah | the Buddha of the western pure land |
+| Asaṅga | ah-SUNG-gah | 4th-century Yogācāra master |
+| Avataṃsaka | ah-vah-TUM-sah-kah | the Flower Ornament Scripture |
+| bhājana-loka | BAH-jah-nah LOH-kah | the "vessel world", the shared environment |
+| Candrakīrti | chun-drah-KEER-tee | 7th-century Middle Way master |
+| Chengguan | chung-GWAHN | Huayan master, 738–839 |
+| dag snang | DAHK-nahng | pure vision (Tibetan) |
+| Dharmakīrti | dar-mah-KEER-tee | 7th-century Buddhist logician |
+| Dushun | doo-SHWUN | first Huayan patriarch |
+| Dzogchen | DZOHG-chen | the Great Perfection (not "Zogchen") |
+| Fazang | fah-DZAHNG | Huayan master, 643–712 |
+| gzhi | zhee | the basis (Dzogchen) |
+| Huayan | hwah-YEN | the Flower Ornament school of China |
+| ka dag | KAH-dahk | primordial purity |
+| karmajaṃ lokavaicitryam | KAR-mah-jum LOH-kah-vy-CHIT-ree-um | "the variety of the world is born of action" |
+| lhun grub | LHOON-droop | spontaneous presence |
+| loka | LOH-kah | world |
+| Longchenpa | LONG-chen-pah | Dzogchen master, 1308–1364 |
+| Madhyamaka | MUD-yah-mah-kah | the Middle Way school |
+| Madhyamakāvatāra | MUD-yah-mah-KAH-vah-tah-rah | Candrakīrti's *Entering the Middle Way* |
+| Mahāyānasaṃgraha | mah-HAH-yah-nah-SUNG-grah-hah | Asaṅga's *Compendium of the Mahāyāna* |
+| Māmakī | MAH-mah-kee | female Buddha of the water element |
+| med dgag | MAY-gahk | non-implicative negation (Tibetan) |
+| Mipham (Ju Mipham) | MEE-pahm (joo MEE-pahm) | Nyingma master, 1846–1912 |
+| Mohe zhiguan | moh-HUH jur-GWAHN | Zhiyi's *Great Calming and Contemplation* |
+| Mūlamadhyamakakārikā | MOO-lah-MUD-yah-mah-kah-KAH-ree-kah | Nāgārjuna's *Fundamental Verses on the Middle Way* |
+| Nāgārjuna | nah-GAR-joo-nah | founder of the Middle Way |
+| Nāgasena | nah-gah-SAY-nah | the monk of *The Questions of King Milinda* |
+| Nyingma | NYING-mah | the oldest school of Tibetan Buddhism |
+| prasajya-pratiṣedha | prah-SUJ-yah prah-tee-SHAY-dah | non-implicative negation (Sanskrit) |
+| Prāsaṅgika | prah-SUNG-gee-kah | the Middle Way as taught by Candrakīrti |
+| pratyekabuddha | prut-YAY-kah-BOOD-dah | solitary awakened one |
+| preta | PRAY-tah | hungry ghost |
+| Ratnakīrti | rut-nah-KEER-tee | 11th-century Buddhist logician |
+| rigpa | RIG-pah | knowing awareness, the knowing of the basis (not "Rickpa", not "recognition") |
+| rtsal | tsahl | display, expressive power |
+| Śāntarakṣita | SHAHN-tah-RUK-shee-tah | 8th-century master who joined Yogācāra and Madhyamaka |
+| Śāriputra | SHAH-ree-poo-trah | the Buddha's disciple |
+| sattva-loka | SUT-vah LOH-kah | the world of beings |
+| shijie huju | shur-jyeh hoo-jü | mutual inclusion of the ten realms |
+| śrāvaka | SHRAH-vah-kah | disciple, hearer |
+| Sukhāvatī | soo-KAH-vah-tee | Amitābha's pure land |
+| svabhāva | svah-BAH-vah | own nature, intrinsic nature |
+| Tiantai | tyen-TIE | Chinese school founded on Zhiyi's teaching |
+| Tsongkhapa | TSONG-kah-pah | Tibetan master, 1357–1419 |
+| Uexküll | OOKS-kül | Jakob von Uexküll, biologist |
+| Umwelt | OOM-velt | an animal's own world |
+| Vajrayāna | VUJ-rah-YAH-nah | the tantric Buddhism of India and Tibet |
+| Vasubandhu | vah-soo-BUN-doo | 4th–5th-century master |
+| Vimalakīrti | vee-mah-lah-KEER-tee | the lay sage of the *Vimalakīrti Sūtra* |
+| Viṃśatikā | vim-SHAH-tee-kah | Vasubandhu's *Twenty Verses* |
+| xingju | shing-jü | "inherent inclusion" (Tiantai) |
+| Yogācāra | yoh-gah-CHAH-rah | the "practice of yoga" school |
+| yinian sanqian | ee-nyen sahn-chyen | three thousand realms in a single thought-moment |
+| zang thal | ZAHNG-tahl | unimpeded, transparent openness |
+| Zhiyi | jur-EE | founder of Tiantai, 538–597 |
