@@ -42,4 +42,11 @@ Checked against CanonView, Part I point 20 above all.
 
 ## 2. NotebookLM (optional)
 
-Not written yet: only once the owner is satisfied with the `build.py` video (`NOTEBOOKLM-VIDEOS.md`).
+Written on 2026-10-25 at the owner's request, after the `build.py` video.
+
+- `one-flame-lights-another-notebooklm-source.md`: the whole article in 40 sections (its Parts I–VI in order, without the
+  cross-references and the three "What this Part establishes" summaries), with 21 precision notes, the sources and a
+  pronunciation list. Generated from the EBooks Markdown, then the cross-references were reworded by hand. Approved by the owner on 2026-10-25 and saved as a Google Doc in
+  `My-Book/Bonus Articles/Rebirth`: "One Flame Lights Another – NotebookLM source" (id
+  `1xoBLmQ3S6M1Np_tLHUFcVeEz7cb0vqSlLHcSRzQz390`); its text was checked against this file and matches.
+- `one-flame-lights-another-notebooklm-prompt.md`: setup, the steering prompt and a short version, and the canon check.
