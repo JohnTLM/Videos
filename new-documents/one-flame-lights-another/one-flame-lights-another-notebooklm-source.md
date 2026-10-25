@@ -125,7 +125,7 @@ The image that runs through the article is the oldest one the tradition offers. 
 
 ## 7. A Teaching Given From the Start
 
-Rebirth is not a later addition to the Buddha's teaching. It stands at its center from the night of the awakening on. But the early discourses are as careful about what rebirth is not as about what it is. Again and again the Buddha is asked who is reborn, who experiences the fruit, whether the one who acts is the one who experiences. Again and again he declines the question as posed, and answers with dependent arising. This Part follows those answers. Quotations from the discourses follow the translations of Bhikkhu Sujato where they are quoted; elsewhere the passages are paraphrased.
+Rebirth is not a later addition to the Buddha's teaching. It stands at its center from the night of the awakening on. But the early discourses are as careful about what rebirth is not as about what it is. Again and again the Buddha is asked who is reborn, who experiences the fruit, whether the one who acts is the one who experiences. Again and again he declines the question as posed, and answers with dependent arising. What follows traces those answers. Quotations from the discourses follow the translations of Bhikkhu Sujato where they are quoted; elsewhere the passages are paraphrased.
 
 ## 8. The Night of Awakening
 
@@ -247,7 +247,7 @@ The passage does not express doubt about rebirth; the Buddha teaches it everywhe
 
 The early teaching left a problem. An intention arises and passes in a moment. Its fruit may come years later, or lives later. If nothing carries the deed across the interval, what connects them? If the deed has simply ceased, how can a ceased thing produce anything? And if it has not ceased, where has it been waiting?
 
-The Indian Buddhist schools gave many answers. Each was an attempt to stay faithful to the teaching of no-self while making the link between deed and fruit intelligible. This Part sets out the main answers, then reads Nāgārjuna's treatment of the problem in the *Fundamental Verses*, and closes with the Madhyamaka of Candrakīrti and Tsongkhapa, which holds that no bridge is needed at all. The aim is not to rank the schools, but to show a single pattern: each bridge, taken as a thing with a nature of its own, becomes a carrier, and each, taken as a designation, does no harm.
+The Indian Buddhist schools gave many answers. Each was an attempt to stay faithful to the teaching of no-self while making the link between deed and fruit intelligible. What follows sets out the main answers, then reads Nāgārjuna's treatment of the problem in the *Fundamental Verses*, and closes with the Madhyamaka of Candrakīrti and Tsongkhapa, which holds that no bridge is needed at all. The aim is not to rank the schools, but to show a single pattern: each bridge, taken as a thing with a nature of its own, becomes a carrier, and each, taken as a designation, does no harm.
 
 ## 17. The Lamp and the Mango
 
@@ -377,7 +377,7 @@ The same tradition gives its own account of the person who is reborn. The person
 
 ## 23. The Same Teaching, New Emphases
 
-The later Buddhist traditions kept the teaching of karma and rebirth whole, and kept the refusal of a traveler. What they added were new emphases. In Tibet, the interval between death and rebirth, the *bardo*, became an object of detailed description and of practice, and the moment of death came to be seen as a unique opportunity for awakening. In Chan and Zen, the emphasis moved the other way: away from what happens after death and toward the moment in which birth and death are already present. This Part reads both, and shows where each can be misread as installing a carrier, and how each is read without one.
+The later Buddhist traditions kept the teaching of karma and rebirth whole, and kept the refusal of a traveler. What they added were new emphases. In Tibet, the interval between death and rebirth, the *bardo*, became an object of detailed description and of practice, and the moment of death came to be seen as a unique opportunity for awakening. In Chan and Zen, the emphasis moved the other way: away from what happens after death and toward the moment in which birth and death are already present. What follows reads both, and shows where each can be misread as installing a carrier, and how each is read without one.
 
 ## 24. The Intermediate State
 
@@ -397,7 +397,7 @@ For the tradition, this moment is decisive. One who has practiced recognizing th
 
 Some Tibetan teachers, especially in the Geluk tradition following the tantric literature, explain what continues through this process as a "very subtle mind" and its "very subtle wind": a level of mind finer than ordinary consciousness, which is said to continue from life to life and to be the basis on which the person is designated.
 
-Here the danger of Part III returns in its most refined form. Read as a thing with a nature of its own, a subtle consciousness flowing on from life to life is exactly Sāti's view, and it is exactly the "stream of consciousness flowing on like water through a series of pipes" that *Nāgārjuna's Middle Way* calls "a thing in all but name". This article does not accept such a carrier. The teachers who speak of the very subtle mind themselves hold that it is empty, that it is not found when sought, and that it changes at every moment; the person is designated on it, not identical with it. Read that way, the very subtle mind is a description of how the dependence is spoken of at the finest level the tradition distinguishes, and no more a carrier than the ordinary mind is. Read the other way, it is a soul. The article follows the first reading, and notes that the step from the one to the other is short.
+Here the danger returns in its most refined form. Read as a thing with a nature of its own, a subtle consciousness flowing on from life to life is exactly Sāti's view, and it is exactly the "stream of consciousness flowing on like water through a series of pipes" that *Nāgārjuna's Middle Way* calls "a thing in all but name". This article does not accept such a carrier. The teachers who speak of the very subtle mind themselves hold that it is empty, that it is not found when sought, and that it changes at every moment; the person is designated on it, not identical with it. Read that way, the very subtle mind is a description of how the dependence is spoken of at the finest level the tradition distinguishes, and no more a carrier than the ordinary mind is. Read the other way, it is a soul. The article follows the first reading, and notes that the step from the one to the other is short.
 
 ### D. The Clear Light Read Without a Ground
 
@@ -465,7 +465,7 @@ Baizhang's fox is a precise warning against a mistake that is easy to make once 
 
 A modern reader does not usually doubt rebirth because of a worked-out argument. The doubt comes from a picture: the mind is what the brain does, the brain stops at death, and so the mind stops too. Other doubts follow. If I remember nothing of a past life, in what sense was it mine? If the one who suffers the fruit is not the one who did the deed, is karma fair? Is there any evidence? And can one not keep everything valuable in Buddhism while setting rebirth aside?
 
-This Part takes these questions one at a time. It does not claim to settle them by argument, since it has already been said that the logic of emptiness does not prove rebirth. It aims at something narrower: to show which doubts rest on the assumption of a carrier, and so fall away when that assumption does, and which are genuine questions of evidence, to be met in the ordinary way.
+What follows takes these questions one at a time. It does not claim to settle them by argument, since it has already been said that the logic of emptiness does not prove rebirth. It aims at something narrower: to show which doubts rest on the assumption of a carrier, and so fall away when that assumption does, and which are genuine questions of evidence, to be met in the ordinary way.
 
 ## 28. "The Mind Is What the Brain Does"
 
@@ -557,7 +557,7 @@ First, the agnostic proposal often rests, without saying so, on the objection fr
 
 Second, rebirth is not a cultural ornament on the early teaching. It is woven through the night of awakening, the twelve links, the account of craving as what drives becoming, and the definition of nirvāṇa as the ending of birth. A teaching from which it has been removed has to reinterpret all of these.
 
-Third, and most important, the main reason for doubting rebirth that a Buddhist would accept, namely that there is no self to be reborn, is not a reason at all. The Buddha taught rebirth and no-self together, and the whole of Parts II and III has shown how. The doubt arises only when no-self is misread as annihilationism.
+Third, and most important, the main reason for doubting rebirth that a Buddhist would accept, namely that there is no self to be reborn, is not a reason at all. The Buddha taught rebirth and no-self together, and the early discourses and Nāgārjuna show how. The doubt arises only when no-self is misread as annihilationism.
 
 ### C. What Is Shared
 
@@ -595,7 +595,7 @@ The parting is also real. Parfit's continuity is mostly psychological and physic
 
 ## 35. What the View Changes
 
-A teaching on rebirth is not finished when its logic is clear. It has to be lived with: in the way one acts, in the way one meets death, in the way one grieves, and in the way one understands the goal of the path. This Part asks what the view of the previous Parts changes in each of these, and what it leaves exactly as it was.
+A teaching on rebirth is not finished when its logic is clear. It has to be lived with: in the way one acts, in the way one meets death, in the way one grieves, and in the way one understands the goal of the path. What follows asks what the view changes in each of these, and what it leaves exactly as it was.
 
 ## 36. Acting
 
