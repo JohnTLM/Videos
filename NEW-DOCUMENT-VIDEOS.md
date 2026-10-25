@@ -63,3 +63,6 @@ ep92 "Beyond Cause and Effect": the first build's script, drawings and subtitles
 
 ep93 "Insubstantial Appearances" (2026-10-21): script, drawings and subtitles in
 `new-documents/ep93-insubstantial-appearances/`.
+
+ep95 "Knowing From Somewhere" (2026-10-25): script, drawings, subtitles and the NotebookLM files in
+`new-documents/knowing-from-somewhere/`.
