@@ -1,1 +1,7 @@
 __pycache__/
+# video build output never goes into git (MP4s live in Drive)
+*.mp4
+*.mp3
+*.wav
+_work/
+node_modules/
