@@ -66,6 +66,7 @@ Creating folders and files is fine without asking. **Never delete or overwrite**
 | Setting | Value |
 |---|---|
 | Episode length | **3:00–4:30** of narration: aim for 3–4 min, with up to 30 s over allowed (about **450–550 words** of script) |
+| Bonus-article length | **10–12 min**, longer when the article is rich (about 1,800–2,000 words or more); see §3.1 |
 | Voice | `edge-tts`, voice `en-US-AndrewNeural`, `--rate=-8%`, `--pitch=-2Hz` |
 | Alternate voice (if asked) | `en-GB-RyanNeural` |
 | Resolution / fps | 1920×1080, 30 fps |
@@ -74,6 +75,19 @@ Creating folders and files is fine without asking. **Never delete or overwrite**
 | Title card | 5 s, at the start, silent, fade in 1 s / fade out 1 s |
 | Subtitles | Burned in; also keep the `.srt` beside the video |
 | Tail | 2 s of background after narration ends, then a 1.5 s fade to black |
+
+### 3.1 Bonus-article videos (owner's rules, 2026-10-24)
+
+- **Two versions, `build.py` first.** Every new bonus article gets a `build.py` video first (this spec: Andrew's
+  voice, subtitles, Remotion drawings). `build.py` is the main route. Only after the owner is satisfied with it does
+  Claude write the NotebookLM source and prompt (`NOTEBOOKLM-VIDEOS.md`); the owner may or may not make that version.
+- **Length.** Aim for 10–12 minutes, and run longer when the article is rich. The 450–550-word limit is for chapter
+  episodes only. Quality of content comes first: cover the whole argument rather than cut it to fit. A longer
+  script is marked "check" in `manifest.csv`; for a bonus video that is expected, not a fault.
+- The script is still written for the ear (§4) and still needs the owner's approval before the drawings are made.
+- **NotebookLM file names carry the article's name** (2026-10-25): `<article-slug>-notebooklm-source.md` and
+  `<article-slug>-notebooklm-prompt.md`, with the slug in lowercase kebab-case, e.g.
+  `the-illusion-of-the-given-notebooklm-source.md`.
 
 ---
 

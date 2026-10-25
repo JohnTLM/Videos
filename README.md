@@ -10,6 +10,7 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`anatta-to-emptiness/`](anatta-to-emptiness/VIDEO-SPEC.md) | *The Transition from Anatta to Emptiness* | the series' own spec (its stance rules replace the base list) |
 | [`NEW-DOCUMENT-VIDEOS.md`](NEW-DOCUMENT-VIDEOS.md) | New articles and episodes on the website | how to make one with the Drive tools (`build.py`, Remotion) |
 | [`new-documents/`](new-documents/) | Bonus articles | each video's script, drawings (`*-scenes.tsx`) and subtitles |
+| [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | New bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
 
 ## Rule: save every video here (owner's decision, 2026-10-21)
@@ -17,8 +18,8 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 Every Claude session that makes or remakes a video saves its **text files** in this repository before it finishes,
 in the folder for its series (table above): the approved script, the narration text, the drawings
 (`*-scenes.tsx`) and the subtitles (`.srt`), plus the series settings when they change, with a short README for a new
-video. Commit and push them (on a `claude/` branch; ask the owner before pushing). The **MP4s** never go here (too
-large): they go to the owner's Google Drive, in the series' `Videos/<video>/` folder, beside copies of the same text
+video; for a bonus article, also the NotebookLM source and prompt once written (`NOTEBOOKLM-VIDEOS.md`). Commit and
+push them (on a `claude/` branch; ask the owner before pushing). The **MP4s** never go here (too large): they go to the owner's Google Drive, in the series' `Videos/<video>/` folder, beside copies of the same text
 files, and the drawings also go to the engine backup in Drive (`_engine/explainer/src/chapters/`). The video is not
 finished until both are done.
 
