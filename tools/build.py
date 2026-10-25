@@ -227,6 +227,9 @@ def wants_intro(meta):
 
 async def tts_paragraph(text, mp3_path, voice=(VOICE, RATE, PITCH)):
     import edge_tts
+    if os.environ.get("SSL_CERT_FILE"):   # cloud sessions: edge-tts pins certifi; use the session's CA bundle instead
+        import ssl, edge_tts.communicate as etc
+        etc._SSL_CTX = ssl.create_default_context(cafile=os.environ["SSL_CERT_FILE"])
     name, rate, pitch = voice
     proxy = os.environ.get("TTS_PROXY") or None
     try:
