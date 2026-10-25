@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Create a **new notebook** and add only `notebooklm-source.md` as its source (upload the file, or paste its text
+1. Create a **new notebook** and add only `the-illusion-of-the-given-notebooklm-source.md` as its source (upload the file, or paste its text
    as "Copied text"). Do not add the full article, the plain-English PDF or any other source: NotebookLM draws on
    every source in the notebook.
 2. Choose **Video Overview**, the **Cinematic** style, and paste the steering prompt below into the customisation
