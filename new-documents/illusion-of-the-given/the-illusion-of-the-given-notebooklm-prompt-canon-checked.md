@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Create a **new notebook** and add only `notebooklm-source-canon-checked.md` as its source: upload this file, or the Google Doc
+1. Create a **new notebook** and add only `the-illusion-of-the-given-notebooklm-source-canon-checked.md` as its source: upload this file, or the Google Doc
    made from it once it is in the video's Drive folder. Do not add the article PDF or anything else: NotebookLM draws
    on every source in a notebook, and the article still holds wording the source corrects (see the canon check below).
 2. Choose **Video Overview**, in the **Cinematic** style, and paste the steering prompt below into the customisation

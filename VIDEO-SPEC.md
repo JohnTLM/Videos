@@ -85,6 +85,9 @@ Creating folders and files is fine without asking. **Never delete or overwrite**
   episodes only. Quality of content comes first: cover the whole argument rather than cut it to fit. A longer
   script is marked "check" in `manifest.csv`; for a bonus video that is expected, not a fault.
 - The script is still written for the ear (§4) and still needs the owner's approval before the drawings are made.
+- **NotebookLM file names carry the article's name** (2026-10-25): `<article-slug>-notebooklm-source.md` and
+  `<article-slug>-notebooklm-prompt.md`, with the slug in lowercase kebab-case, e.g.
+  `the-illusion-of-the-given-notebooklm-source.md`.
 
 ---
 
