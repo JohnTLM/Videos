@@ -1,0 +1,6 @@
+# Python packages for the book video system (install into C:\dev\video-tools\.venv)
+edge-tts==7.3.1        # 7.2.8 stopped working (403) when Microsoft changed its voice service, Oct 2026
+pillow==12.3.0
+python-docx==1.2.0
+# optional: only for the old Manim drawings (not used by the current Remotion videos)
+# manim==0.21.0

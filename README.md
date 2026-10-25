@@ -5,6 +5,7 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 
 | Folder | Book | Videos |
 |---|---|---|
+| [`tools/`](tools/README.md) | All series | **the video tools**: the builder (`build.py`), the drawing engine and every drawing, fonts, background, pronunciation maps and series settings; clone and run, no copying from Drive |
 | repo root + `chapter-builder/` | *The Logical Necessity of a Substrateless World* | one short narrated video per chapter |
 | [`mmk/`](mmk/README.md) | *Nāgārjuna's Middle Way* (the MMK) | 27 chapter videos; see [mmk/README.md](mmk/README.md) |
 | [`anatta-to-emptiness/`](anatta-to-emptiness/VIDEO-SPEC.md) | *The Transition from Anatta to Emptiness* | the series' own spec (its stance rules replace the base list) |
