@@ -3,6 +3,8 @@
 All the video-making for John Tan (Thusness)'s books lives here. The videos are shown on the
 Thusness website (its own repository, [thusness-website](https://github.com/JohnTLM/thusness-website)).
 
+**John: start with [OWNER-GUIDE.md](OWNER-GUIDE.md)**: what to do for a new bonus article or a new ebook.
+
 | Folder | Book | Videos |
 |---|---|---|
 | [`tools/`](tools/README.md) | All series | **the video tools**: the builder (`build.py`), the drawing engine and every drawing, fonts, background, pronunciation maps and series settings; clone and run, no copying from Drive |
