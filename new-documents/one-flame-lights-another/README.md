@@ -7,17 +7,19 @@ World* (`#rebirth`, `BONUS` n 94), so the video is in the main-book series (`ch9
 
 ## 1. `build.py` video (main)
 
-Andrew's voice (free edge-tts), Remotion drawings, built in a Claude cloud session.
+Built 2026-10-25: 19:23, Andrew's voice (free edge-tts), Remotion drawings, built in a Claude cloud session. Checked by
+31 frames across the whole video (drawings on time, subtitles readable, clean fade).
 
 - `ch94-script.md`: the narration for the whole article (Parts I–VI), approved by the owner on 2026-10-25. About 3,000
   words, so longer than the 10–12-minute aim, as the article is rich (owner's rule: quality first); `manifest.csv`
   marks it "check", which is expected for a bonus video.
 - `ch94-scenes.tsx`: the drawings, 42 scenes timed to 228 phrases (in the engine it is `src/chapters/Ch94.tsx`).
-- `ch94.srt`: the subtitles.
+- `ch94.srt`: the subtitles (325 cues). Two cues are a little short: cue 166, 1.12 s; cue 283, 1.20 s.
 - `ch94-narration.txt`: the spoken text after the pronunciation map.
 - `pronunciation.json`: this video's own terms (Sāti, Theravāda, Baizhang, nirvāṇa), to merge into the shared map.
 
-The MP4s are too large for this repository; they go to the owner for Drive, `Substrateless-World/Videos/ch94-one-flame-lights-another/`
+The MP4s (`ch94-one-flame-lights-another.mp4`, 172 MB, and `ch94-preview-720p.mp4`, 54 MB) are too large for this
+repository; they were sent to the owner for Drive, `Substrateless-World/Videos/ch94-one-flame-lights-another/`
 (or the article's folder `My-Book/Bonus Articles/Rebirth`, the owner's choice).
 
 **Builder fix (2026-10-25, committed in `tools/build.py`):** edge-tts pins its own certificate bundle (`certifi`), so in
