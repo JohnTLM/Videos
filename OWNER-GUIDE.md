@@ -12,6 +12,10 @@ finds the rules in these repositories, so there is nothing to explain.
 **Start:** put the article in Drive (`website/bonus-articles`) and say, for example:
 *"Make the video for my new bonus article The Illusion of the Given."*
 
+No session watches that folder, so **always name the article** (its title or file name), or, surest of all,
+**paste its Drive link** (in Drive: Share → Copy link). The session then finds it with the Google Drive connection;
+if it says it cannot see your Drive, turn the Google Drive connector on in the session's settings.
+
 1. **Script.** Claude writes the narration: 10–12 minutes, longer when the article is rich. **You approve it.**
 2. **Drawings and build.** Claude draws the scenes and builds the video in Andrew's voice, with subtitles.
    The voice is free.
