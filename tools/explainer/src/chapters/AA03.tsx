@@ -22,10 +22,10 @@ export const PHRASES = [
   "Here is the koan", "This moment ceases as it arises", "Does it arise, or does it cease",
   "The question hands us an it", "This step goes looking for that it", "went looking for a chariot",
   "This is the third step of The Logic", "Step one gave the test", "look for the thing apart from what it depends on",
-  "Step two said the test removes", "a thing being there from its own side, and only that", "Here the test runs on this moment",
-  "What is left is a name", "Not an empty name", "and not a sticker on something underneath", "It is the way anything at all is there",
+  "Step two said the test removes", "Here the test runs on this moment",
+  "What is left is a name", "It is the way anything at all is there",
   // the chariot
-  "how he came", "By chariot, says the king", "Then show me the chariot", "Is it the pole? The axle? The wheels",
+  "how he came", "By chariot, says the king", "Is it the pole? The axle? The wheels",
   "All of them together", "Something apart from them", "Each time, the king says no",
   "made the search complete", "He checks seven places", "The chariot is not the parts", "It is not other than them",
   "It does not own them", "It is not in them, and they are not in it", "It is not their collection", "And it is not their shape",
@@ -33,43 +33,43 @@ export const PHRASES = [
   // the moment, searched
   "Now search the same places for this moment", "Listen to whatever sound is here", "Where is its moment",
   "Is it the arising", "Is it the ceasing", "Both together? Arising and ceasing are two", "Other than them",
-  "Their owner? This is the koan's it", "That is grammar, not something found", "Their container? This is the timeless Now",
-  "it is not there",
+  "Their owner? This is the koan's it", "Their container? This is the timeless Now",
+ 
   "coming into being and passing away are not found without a thing", "And a thing is not found without coming into being",
-  "With the logic of substance, the sound is a slice of time", "and arising and ceasing happen to it",
-  "With the logic of dependency, the same sound is just as vivid", "with nothing behind the sounding",
+  "With the logic of substance, the sound is a slice of time",
+  "With the logic of dependency, the same sound is just as vivid",
   "is then a plain description", "with no it in the middle",
   // not found, still counted
   "Here is where most readers go wrong", "They hear the chariot is not found", "and take it to mean there is no chariot",
   "But the king came by chariot", "The search removes nothing the road relies on", "waiting to be found",
   "So what is the chariot", "It is designated in dependence on its parts", "Designated means picked out",
-  "In dependence means on a basis", "set up so that someone can ride", "The name, the parts and the riding come together",
+  "In dependence means on a basis", "The name, the parts and the riding come together",
   "The moment is the same", "A race is won by a hundredth of a second",
   "puts the whole Middle Way in one verse", "Whatever arises in dependence, that is emptiness", "That is designation in dependence",
   "That is the middle way", "one fact, seen from two sides", "The moment is named arising and ceasing",
-  "and that is all it ever needed to be",
+ 
   // a name is not a sticker
-  "Now a second mistake", "it pictures a sticker", "pressed onto a jar that was there before it", "But look at a cup",
+  "Now a second mistake", "it pictures a sticker", "But look at a cup",
   "It appears as a cup, already something to lift", "Peel the name off", "goes further: even the basis is named",
   "named in dependence on rim, spokes and hub", "all the way down", "We never see ourselves naming", "In the koan, that is the it",
   // not arbitrary
-  "The opposite mistake", "can I call a shadow a bridge", "A name holds or fails as it is used", "gives three checks",
+  "The opposite mistake", "can I call a shadow a bridge", "A name holds or fails as it is used",
   "It is known to ordinary seeing", "A second look does not overturn it", "And searching for how things ultimately are",
   "In dim light, you see a snake in the corner", "The lamp comes on", "The snake fails the second check",
   "A rope there from its own side fails the third", "passes all three", "but because it works",
   // the chariot everywhere
-  "The author first met the chariot", "By then the self had already gone missing", "The taste was free of substance",
-  "The view was not", "He still pictured an ear here, a bell there", "and something crossing between them",
-  "Walking is the chariot", "Hearing is the chariot", "Remove the axle", "There is no chariot",
+  "The author first met the chariot", "The taste was free of substance",
+  "He still pictured an ear here, a bell there", "and something crossing between them",
+  "Walking is the chariot", "Remove the axle", "There is no chariot",
   "Bell, striker, air, ear and sound are named together", "intimacy no longer meant closeness",
   "there was never any separation to close",
   // beyond the moment
-  "The seven places work on anything", "The self is not body and mind", "Yet we keep promises", "Pull a car apart in your mind",
+  "The seven places work on anything", "The self is not body and mind", "Pull a car apart in your mind",
   "Put it back, bolt by bolt", "Nothing called car was added", "A seed is called a cause only of its sprout", "never from barley",
   "Look for a friend apart from the face", "Yet a promise to a friend is kept",
   // try it
   "Listen to one sound", "Is the moment its arising", "Both? Other than them? Their owner",
-  "Then notice the sound is still here, heard in full", "Or pick a chair near you", "Go through the seven places, slowly",
+  "Then notice the sound is still here, heard in full", "Or pick a chair near you",
   "Then use it",
 ];
 
@@ -417,12 +417,12 @@ const IntroScene: React.FC = () => {
         ["Step one gave the test", 520, 300, <K c={TEAL} s={26}>step 1: the test</K>, { pop: true }],
         ["look for the thing apart from what it depends on", 520, 375, <W c={CHALK} s={24}>look for it apart from what it depends on</W>],
         ["Step two said the test removes", 1400, 300, <K c={TEAL} s={26}>step 2: what it removes</K>, { pop: true }],
-        ["a thing being there from its own side, and only that", 1400, 375,
-          <SK c={DIM} s={24} strikeAt={c("Here the test runs on this moment") - 0.4}>own-nature: there from its own side</SK>],
+        ["Step two said the test removes", 1400, 375,
+          <SK c={DIM} s={24} strikeAt={c("Here the test runs on this moment") - 0.4}>own-nature: there from its own side</SK>, { d: 1.6 }],
         ["Here the test runs on this moment", 960, 480, <K c={GOLD} s={30}>step 3: this moment</K>, { pop: true }],
         ["What is left is a name", 960, 590, <W c={GOLD} s={46} serif>what is left: a name</W>],
-        ["Not an empty name", 600, 680, <W c={DIM} s={26}>not an empty name</W>],
-        ["and not a sticker on something underneath", 1300, 680, <W c={DIM} s={26}>not a sticker on something underneath</W>],
+        ["What is left is a name", 600, 680, <W c={DIM} s={26}>not an empty name</W>, { d: 1.8 }],
+        ["What is left is a name", 1300, 680, <W c={DIM} s={26}>not a sticker on something underneath</W>, { d: 2.8 }],
         ["It is the way anything at all is there", 960, 780, <W c={TEAL} s={34} serif>the way anything at all is there</W>],
       ]} />
     </AbsoluteFill>
@@ -458,7 +458,7 @@ const ChariotScene: React.FC = () => {
       ))}
       <Items items={[
         ["By chariot, says the king", 330, 260, <W c={GOLD} s={28} serif>“by chariot”</W>],
-        ["Then show me the chariot", 1590, 260, <W c={TEAL} s={28} serif>“show me the chariot”</W>],
+        ["By chariot, says the king", 1590, 260, <W c={TEAL} s={28} serif>“show me the chariot”</W>, { d: 1.4 }],
       ]} />
     </AbsoluteFill>
   );
@@ -517,11 +517,11 @@ const MomentSearchScene: React.FC = () => {
         ["Other than them", 1440, 300, <K c={CHALK} s={28}>other than them?</K>, { pop: true }],
         ["Other than them", 1440, 365, <W c={DIM} s={22}>take them away: no moment left</W>, { d: 1.0 }],
         ["Their owner? This is the koan's it", 1440, 460,
-          <SK c={WARM} s={26} strikeAt={c("That is grammar, not something found") + 0.4}>an “it” beside its verb</SK>, { pop: true }],
-        ["That is grammar, not something found", 1440, 525, <W c={DIM} s={22}>grammar, not something found</W>],
+          <SK c={WARM} s={26} strikeAt={c("Their owner? This is the koan's it") + 3.4}>an “it” beside its verb</SK>, { pop: true }],
+        ["Their owner? This is the koan's it", 1440, 525, <W c={DIM} s={22}>grammar, not something found</W>, { d: 3.0 }],
         ["Their container? This is the timeless Now", 1440, 620,
-          <SK c={VIOLET} s={26} strikeAt={c("it is not there") + 0.4}>a timeless Now, holding it</SK>, { pop: true }],
-        ["it is not there", 1440, 685, <W c={DIM} s={22}>apart from what comes and goes: not there</W>],
+          <SK c={VIOLET} s={26} strikeAt={c("Their container? This is the timeless Now") + 4.4}>a timeless Now, holding it</SK>, { pop: true }],
+        ["Their container? This is the timeless Now", 1440, 685, <W c={DIM} s={22}>apart from what comes and goes: not there</W>, { d: 4.0 }],
       ]} />
     </AbsoluteFill>
   );
@@ -562,14 +562,14 @@ const BothWaysScene: React.FC = () => {
           display: "flex", alignItems: "center", justifyContent: "center" }}><W c={CHALK} s={26}>a slice of time</W></div>
       </At>
       <Items items={[
-        ["and arising and ceasing happen to it", 330, 400, <W c={GREEN} s={26}>arising →</W>],
-        ["and arising and ceasing happen to it", 800, 400, <W c={ROSE} s={26}>→ ceasing</W>, { d: 0.6 }],
+        ["With the logic of substance, the sound is a slice of time", 330, 400, <W c={GREEN} s={26}>arising →</W>, { d: 3.0 }],
+        ["With the logic of substance, the sound is a slice of time", 800, 400, <W c={ROSE} s={26}>→ ceasing</W>, { d: 3.6 }],
       ]} />
       <At x={1360} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
       <At x={1360} y={400} s={pop(t, fps, dep + 0.5)}><Bell size={130} /></At>
       <Sound x={1360} y={410} at={dep + 0.7} dur={10} r1={240} />
       <Items items={[
-        ["with nothing behind the sounding", 1360, 580, <W c={ICE} s={26}>just as vivid, nothing behind it</W>],
+        ["With the logic of dependency, the same sound is just as vivid", 1360, 580, <W c={ICE} s={26}>just as vivid, nothing behind it</W>, { d: 3.0 }],
         ["is then a plain description", 960, 690, <W c={GOLD} s={34} serif>“ceases as it arises”: a plain description</W>, { d: -1.2 }],
         ["with no it in the middle", 960, 790, <SK c={DIM} s={26} strikeAt={c("with no it in the middle") + 0.8}>an “it” in the middle</SK>],
       ]} />
@@ -613,7 +613,7 @@ const DesignatedScene: React.FC = () => {
         ["It is designated in dependence on its parts", 960, 185, <K c={GOLD} s={30}>designated in dependence on its parts</K>, { pop: true }],
         ["Designated means picked out", 960, 265, <W c={CHALK} s={26}>designated: picked out, this rather than that</W>],
         ["In dependence means on a basis", 540, 400, <K c={TEAL} s={28}>a basis: wheels, axle</K>, { pop: true }],
-        ["set up so that someone can ride", 1380, 400, <K c={GREEN} s={28}>the riding</K>, { pop: true }],
+        ["In dependence means on a basis", 1380, 400, <K c={GREEN} s={28}>the riding</K>, { pop: true, d: 3.0 }],
         ["The name, the parts and the riding come together", 960, 400, <K c={GOLD} s={32}>“chariot”</K>, { pop: true }],
         ["The name, the parts and the riding come together", 960, 490, <W c={DIM} s={26}>come together; none first</W>, { d: 1.0 }],
         ["The moment is the same", 960, 590, <W c={TEAL} s={30}>the moment: named, counted, timed</W>],
@@ -638,7 +638,7 @@ const MiddleWayScene: React.FC = () => {
         ["That is the middle way", 960, 460, <W c={GOLD} s={50} serif>the middle way</W>],
         ["one fact, seen from two sides", 960, 580, <W c={TEAL} s={34} serif>not found, still counted: one fact</W>],
         ["The moment is named arising and ceasing", 960, 690, <W c={CHALK} s={30}>the moment: named arising and ceasing, upon conditions</W>],
-        ["and that is all it ever needed to be", 960, 780, <W c={GOLD} s={32} serif>all it ever needed to be</W>],
+        ["The moment is named arising and ceasing", 960, 780, <W c={GOLD} s={32} serif>all it ever needed to be</W>, { d: 3.4 }],
       ]} />
     </AbsoluteFill>
   );
@@ -653,8 +653,8 @@ const StickerScene: React.FC = () => {
       <Title at={c("Now a second mistake")}>a name is not a sticker</Title>
       <Items items={[
         ["it pictures a sticker", 600, 400, <Jar peel={peel} />, { pop: true }],
-        ["pressed onto a jar that was there before it", 600, 600,
-          <SK c={DIM} s={24} strikeAt={c("But look at a cup") + 0.2}>a jar, finished before any name</SK>],
+        ["it pictures a sticker", 600, 600,
+          <SK c={DIM} s={24} strikeAt={c("But look at a cup") + 0.2}>a jar, finished before any name</SK>, { d: 1.6 }],
         ["But look at a cup", 1320, 390, <Cup color={TEAL} size={180} />, { pop: true }],
         ["It appears as a cup, already something to lift", 1320, 520, <W c={TEAL} s={28}>a cup: already something to lift</W>],
         ["Peel the name off", 1320, 600, <W c={DIM} s={24}>peel off the name: nothing bare beneath</W>],
@@ -696,7 +696,7 @@ const ChecksScene: React.FC = () => {
       <Items items={[
         ["can I call a shadow a bridge", 960, 195, <SK c={DIM} s={26} strikeAt={c("A name holds or fails as it is used")}>call a shadow a bridge</SK>],
         ["A name holds or fails as it is used", 960, 265, <W c={GOLD} s={30}>a name holds or fails in use</W>],
-        ["gives three checks", 500, 360, <W c={DIM} s={26}>three checks</W>],
+        ["It is known to ordinary seeing", 500, 360, <W c={DIM} s={26}>three checks</W>, { d: -1.4 }],
         ["It is known to ordinary seeing", 500, 440, <Row n="1" color={TEAL} lit={pass}>known to ordinary seeing</Row>],
         ["A second look does not overturn it", 500, 530, <Row n="2" color={TEAL} lit={pass}>not overturned by a second look</Row>],
         ["And searching for how things ultimately are", 500, 620, <Row n="3" color={TEAL} lit={pass}>not overturned by analysis</Row>],
@@ -722,15 +722,15 @@ const AuthorScene: React.FC = () => {
       <Flow x1={700} y1={390} x2={1220} y2={390} color={DIM} p={ramp(t, cross, 0.6) * (1 - ramp(t, c("Walking is the chariot"), 0.6))} dash />
       <Items items={[
         ["The author first met the chariot", 960, 185, <W c={DIM} s={26}>first, a clever argument about a cart</W>, { d: 1.2, until: "The taste was free of substance" }],
-        ["By then the self had already gone missing", 960, 245, <W c={TEAL} s={24}>the self already not found</W>, { until: "The taste was free of substance" }],
+        ["The author first met the chariot", 960, 245, <W c={TEAL} s={24}>the self already not found</W>, { d: 3.6, until: "The taste was free of substance" }],
         ["The taste was free of substance", 680, 205, <K c={GOLD} s={26}>the taste: free of substance</K>, { pop: true }],
-        ["The view was not", 1240, 205, <K c={WARM} s={26}>the view: not yet</K>, { pop: true }],
+        ["The taste was free of substance", 1240, 205, <K c={WARM} s={26}>the view: not yet</K>, { pop: true, d: 1.8 }],
         ["He still pictured an ear here, a bell there", 600, 400, <Ear />, { pop: true }],
         ["He still pictured an ear here, a bell there", 1320, 390, <Bell size={130} />, { pop: true, d: 0.8 }],
         ["and something crossing between them", 960, 320,
           <SK c={DIM} s={24} strikeAt={c("Walking is the chariot") + 0.3}>something crossing between</SK>],
         ["Walking is the chariot", 600, 590, <W c={GOLD} s={36} serif>“Walking is the chariot.”</W>],
-        ["Hearing is the chariot", 1320, 590, <W c={GOLD} s={36} serif>“Hearing is the chariot.”</W>],
+        ["Walking is the chariot", 1320, 590, <W c={GOLD} s={36} serif>“Hearing is the chariot.”</W>, { d: 1.4 }],
       ]} />
     </AbsoluteFill>
   );
@@ -772,8 +772,8 @@ const BeyondScene: React.FC = () => {
       <Title at={c("The seven places work on anything")}>beyond the moment</Title>
       <Items items={[
         ["The self is not body and mind", 500, 220, <K c={ICE} s={30}>the self</K>, { pop: true }],
-        ["The self is not body and mind", 500, 300, <SK c={DIM} s={24} strikeAt={c("Yet we keep promises") - 0.3}>an “I” found in the seven places</SK>, { d: 0.6 }],
-        ["Yet we keep promises", 500, 375, <W c={GOLD} s={26}>yet promises are kept</W>],
+        ["The self is not body and mind", 500, 300, <SK c={DIM} s={24} strikeAt={c("The self is not body and mind") + 3.0}>an “I” found in the seven places</SK>, { d: 0.6 }],
+        ["The self is not body and mind", 500, 375, <W c={GOLD} s={26}>yet promises are kept</W>, { d: 3.6 }],
         ["Pull a car apart in your mind", 1400, 200, <K c={TEAL} s={30}>an object</K>, { pop: true }],
         ["Pull a car apart in your mind", 1400, 340, <Car apart={apart} />, { d: 0.3 }],
         ["Nothing called car was added", 1400, 475, <W c={DIM} s={24}>nothing called “car” was added</W>],
@@ -805,7 +805,7 @@ const TryScene: React.FC = () => {
         ["Both? Other than them? Their owner", 960, 540, <W c={CHALK} s={30}>both? other? owner? container?</W>, { until: "Then notice the sound is still here, heard in full" }],
         ["Then notice the sound is still here, heard in full", 960, 540, <W c={GOLD} s={38} serif>the sound, still heard in full</W>, { until: "Or pick a chair near you" }],
         ["Or pick a chair near you", 960, 360, <Chair />, { pop: true, d: 0.3 }],
-        ["Go through the seven places, slowly", 960, 560, <W c={DIM} s={28}>the seven places, slowly</W>],
+        ["Or pick a chair near you", 960, 560, <W c={DIM} s={28}>the seven places, slowly</W>, { d: 2.0 }],
         ["Then use it", 960, 660, <W c={GOLD} s={42} serif>then use it</W>],
       ]} />
     </AbsoluteFill>
