@@ -309,7 +309,7 @@ const CornersScene: React.FC = () => {
   const c = useCue();
   const call = c("These are called the four corners");
   const verse = c("Nagarjuna's most famous verse has the same shape");
-  const P: [string, number, number][] = [["it is", 400, 290], ["it is not", 880, 290], ["both", 400, 590], ["neither", 880, 590]];
+  const P: [number, number, string][] = [[400, 290, "it is"], [880, 290, "it is not"], [400, 590, "both"], [880, 590, "neither"]];
   const V: [string, number][] = [["not from itself", c("Not from itself, not from another")], ["not from another", c("Not from itself, not from another") + 0.9],
     ["not from both", c("not from both, and not without a cause")], ["not without a cause", c("not from both, and not without a cause") + 1.0]];
   return (
@@ -318,7 +318,7 @@ const CornersScene: React.FC = () => {
       <Svg>
         <DrawPath d="M400 290 L880 290 L880 590 L400 590 Z" p={ramp(t, call, 1.2)} color={DIM} width={3} len={1600} glow={false} />
       </Svg>
-      {P.map(([w, x, y], i) => (
+      {P.map(([x, y, w], i) => (
         <At key={w} x={x} y={y} s={pop(t, fps, call + 0.4 + i * 0.35)}><K c={CC[i]} s={30}>{w}</K></At>
       ))}
       <Items items={[
@@ -476,12 +476,12 @@ const FireScene: React.FC = () => {
   const no = c("That does not apply");
   const apart = c("The question asks for a fire apart from its burning");
   const k = 1 - ramp(t, out + 0.8, 1.4);
-  const D: [string, number, number][] = [["north?", 760, 210], ["east?", 1020, 400], ["south?", 760, 600], ["west?", 500, 400]];
+  const D: [number, number, string][] = [[760, 210, "north?"], [1020, 400, "east?"], [760, 600, "south?"], [500, 400, "west?"]];
   return (
     <AbsoluteFill>
       <Title at={c("a wanderer named Vacchagotta")} color={WARM}>the fire that went nowhere</Title>
       <At x={760} y={390} o={ramp(t, c("a wanderer named Vacchagotta"), 0.5)}><Flame k={Math.max(0.02, k)} /></At>
-      {D.map(([w, x, y], i) => (
+      {D.map(([x, y, w], i) => (
         <At key={w} x={x} y={y} o={ramp(t, out + 1.8 + i * 0.3, 0.4) * (1 - 0.7 * ramp(t, no, 0.5))}><W c={DIM} s={30}>{w}</W></At>
       ))}
       <Items items={[
@@ -550,12 +550,12 @@ const PullScene: React.FC = () => {
   const neg = c("In the years of I AM, I negated a great deal");
   const left = c("What was left seemed beyond every description");
   const look = c("the one thing I had never looked for");
-  const N: [string, number, number][] = [["not thoughts", 560, 300], ["not sensations", 1360, 300], ["not the body", 560, 520], ["not the world", 1360, 520]];
+  const N: [number, number, string][] = [[560, 300, "not thoughts"], [1360, 300, "not sensations"], [560, 520, "not the body"], [1360, 520, "not the world"]];
   return (
     <AbsoluteFill>
       <Title at={c("The author knows this pull from the inside")} color={GOLD}>the pull, from the inside</Title>
       <At x={960} y={420} s={pop(t, fps, neg - 0.4)}><Person color={CHALK} size={170} /></At>
-      {N.map(([w, x, y], i) => (
+      {N.map(([x, y, w], i) => (
         <At key={w} x={x} y={y} o={between(t, neg + 0.8 + i * 0.5, left, 0.4)}><W c={DIM} s={28}>{w}</W></At>
       ))}
       <At x={960} y={420} o={between(t, left + 0.4, look + 1.6, 0.6) * 0.8}>
@@ -708,12 +708,12 @@ const ThoughtScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const ap = c("A thought appears");
-  const Q: [string, number, number, number][] = [["where from?", 560, 300, c("Where did it come from")], ["where does it stay?", 960, 210, c("Where did it come from") + 1.2],
-    ["where to?", 1360, 300, c("Where did it go")]];
+  const Q: [number, number, number, string][] = [[560, 300, c("Where did it come from"), "where from?"], [960, 210, c("Where did it come from") + 1.2, "where does it stay?"],
+    [1360, 300, c("Where did it go"), "where to?"]];
   return (
     <AbsoluteFill>
       <At x={960} y={400} s={pop(t, fps, ap)}><Thought /></At>
-      {Q.map(([w, x, y, at]) => (
+      {Q.map(([x, y, at, w]) => (
         <At key={w} x={x} y={y} o={ramp(t, at, 0.4) * (1 - 0.6 * ramp(t, c("Yet the thought was thought, and you acted on it"), 0.5))}><W c={DIM} s={30}>{w}</W></At>
       ))}
       <Items items={[

@@ -361,9 +361,9 @@ const SnakeScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={a}>the snake</Title>
       <At x={560} y={300} o={ramp(t, a, 0.4)}><Snake held="head" draw={ramp(t, a + 0.2, 1.2)} /></At>
-      <At x={360} y={330} o={ramp(t, a + 0.8, 0.4)}><Hand closed={1} color={CHALK} /></At>
+      <At x={400} y={310} o={ramp(t, a + 0.8, 0.4)}><Hand closed={1} color={CHALK} /></At>
       <At x={1380} y={330} o={ramp(t, b, 0.4)}><Snake held="tail" draw={ramp(t, b + 0.2, 1.4)} bite={bite} /></At>
-      <At x={1160} y={360} o={ramp(t, b + 0.4, 0.4)}><Hand closed={1} color={CHALK} /></At>
+      <At x={1170} y={330} o={ramp(t, b + 0.4, 0.4)}><Hand closed={1} color={CHALK} /></At>
       <Items items={[
         ["it is safe in his hand", 560, 470, <K c={GREEN} s={28}>held behind the head: safe</K>, { pop: true }],
         ["it turns and bites", 1380, 470, <K c={RED} s={28}>held by the tail: it bites</K>, { pop: true, d: 0.5 }],
@@ -385,8 +385,8 @@ const EndsScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("names the two ends")}>two wrong ends</Title>
-      <At x={520} y={260} s={pop(t, fps, c("It is is the grasping of permanence"))}><SK c={WARM} s={34} strikeAt={arise + 1.6}>“it is”</SK></At>
-      <At x={1400} y={260} s={pop(t, fps, c("It is not is the view of annihilation"))}><SK c={WARM} s={34} strikeAt={cease + 1.4}>“it is not”</SK></At>
+      <At x={520} y={260} s={pop(t, fps, c("It is is the grasping of permanence"))}><SK c={WARM} s={34} strikeAt={cease + 1.4}>“it is”</SK></At>
+      <At x={1400} y={260} s={pop(t, fps, c("It is not is the view of annihilation"))}><SK c={WARM} s={34} strikeAt={arise + 1.6}>“it is not”</SK></At>
       <Items items={[
         ["It is is the grasping of permanence", 520, 340, <W c={DIM} s={26}>grasping at permanence</W>, { d: 0.6 }],
         ["It is not is the view of annihilation", 1400, 340, <W c={DIM} s={26}>the view of annihilation</W>, { d: 0.6 }],
@@ -449,8 +449,8 @@ const AuthorScene: React.FC = () => {
         ["These three are subtler", 420, 560, <W c={VIOLET} s={26}>subtler: Now · Witness · Source</W>],
         ["This was my own position for years", 1150, 230, <W c={DIM} s={26}>the author, after I AM</W>],
       ]} />
-      <At x={1150} y={330} o={ramp(t, mine, 0.4)}>
-        <div style={{ maxWidth: 1100, fontFamily: SERIF, fontWeight: 600, fontSize: 38, color: CHALK, whiteSpace: "normal", lineHeight: 1.3, textShadow: `0 0 18px ${GOLD}88` }}>
+      <At x={1180} y={330} o={ramp(t, mine, 0.4)}>
+        <div style={{ width: 1000, fontFamily: SERIF, fontWeight: 600, fontSize: 38, color: CHALK, whiteSpace: "normal", lineHeight: 1.3, textShadow: `0 0 18px ${GOLD}88` }}>
           “This was my own position for years after the realisation of I AM.”
         </div>
       </At>
@@ -598,8 +598,8 @@ const RootScene: React.FC = () => {
         ["that is permanence", 560, 380, <K c={GREEN} s={28}>“it is”: eternalism</K>, { pop: true }],
         ["It existed before and does not exist now", 1360, 330, <W c={CHALK} s={26}>“existed before, not now”</W>, { d: 0.6 }],
         ["that brings annihilation", 1360, 380, <K c={ROSE} s={28}>“it is not”: nihilism</K>, { pop: true }],
-        ["Both start from a thing with a nature of its own", 960, 780, <W c={WARM} s={28}>both start here</W>],
-        ["They differ only in what happens to it", 960, 840, <W c={DIM} s={26}>they differ only in what happens to it</W>],
+        ["Both start from a thing with a nature of its own", 960, 772, <W c={WARM} s={28}>both start here</W>],
+        ["They differ only in what happens to it", 960, 828, <W c={DIM} s={26}>they differ only in what happens to it</W>],
       ]} />
       <At x={960} y={620} o={ramp(t, both, 0.5)}><Glow color={WARM} size={28}>↑</Glow></At>
     </AbsoluteFill>
@@ -665,7 +665,6 @@ const HearScene: React.FC = () => {
   const sub = c("With the logic of substance, I must pick");
   const dep = c("With the logic of dependency, the same sound rings");
   const st = c("It is like the stairs of Step one");
-  const keep = c("Nothing is kept, and nothing is lost");
   let stairs = "M1480 820 L1520 820";
   for (let k = 0; k < 4; k++) stairs += ` L${1520 + k * 60} ${780 - k * 40} L${1580 + k * 60} ${780 - k * 40}`;
   const up = ramp(t, st + 0.6, 2.4);
@@ -689,7 +688,7 @@ const HearScene: React.FC = () => {
         ["and still really climbed", 1100, 820, <W c={GREEN} s={26}>still really climbed</W>],
       ]} />
       <Svg><DrawPath d={stairs} p={ramp(t, st, 1.0)} color={CHALK} width={5} len={800} /></Svg>
-      <At x={1550 + i * 60} y={760 - i * 40 - 40} o={ramp(t, st + 0.4, 0.4) * (1 - ramp(t, keep + 30, 0.4))} s={0.6}>
+      <At x={1550 + i * 60} y={741 - i * 40} o={ramp(t, st + 0.4, 0.4)} s={0.6}>
         <Walker step={up < 1 && t > st + 0.6 ? t * 9 : 0} />
       </At>
     </AbsoluteFill>
@@ -726,7 +725,6 @@ const MedicineScene: React.FC = () => {
   const c = useCue();
   const med = c("Emptiness is a medicine");
   const leave = ramp(t, c("clears the blockage, and then leaves the body too") + 0.8, 1.4);
-  const stay = c("If it stays, it becomes a new illness");
   const cup = c("It does not lie behind the cup");
   return (
     <AbsoluteFill>
@@ -747,7 +745,6 @@ const MedicineScene: React.FC = () => {
         ["It does not lie behind the cup", 1360, 600, <SK c={DIM} s={24} strikeAt={cup + 1.4}>emptiness behind the cup</SK>],
         ["the cup's not being a cup from its own side", 1360, 690, <W c={GOLD} s={30} serif>the cup, not a cup from its own side</W>],
       ]} />
-      <At x={560} y={620} o={ramp(t, stay + 2, 0.5)}><W c={DIM} s={24}>the test: freed from needing a view</W></At>
     </AbsoluteFill>
   );
 };
@@ -756,7 +753,6 @@ const MiddleScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const mp = c("So the middle is not a midpoint");
-  const left = c("what is left when nothing is found to bear either label");
   return (
     <AbsoluteFill>
       <Title at={mp}>the middle is not a midpoint</Title>
@@ -775,7 +771,6 @@ const MiddleScene: React.FC = () => {
         ["Not found never means does not happen", 960, 790, <W c={GOLD} s={36} serif>“not found” never means “does not happen”</W>],
       ]} />
       <At x={960} y={640} s={pop(t, fps, c("Actions still bear fruit"))}><Fruit /></At>
-      <At x={960} y={360} o={0 * ramp(t, left, 0.4)}>{null}</At>
     </AbsoluteFill>
   );
 };
@@ -800,10 +795,10 @@ const BeyondScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("The two traps wait wherever an it is assumed")}>wherever an “it” is assumed</Title>
-      {col(420, self, "the self", "a soul forever", "never anyone", <Person color={ICE} size={140} />, "seeing, hearing, choosing go on", fin + 1.4)}
+      {col(420, self, "the self", "a soul forever", "never anyone", <Person color={ICE} size={140} />, "neither kept nor lost", fin + 1.4)}
       {col(780, obj, "an object", "a cup in itself", "really nothing", <Cup color={ICE} size={150} tea={ramp(t, c("Meanwhile the cup holds tea"), 0.8)} />, "the cup holds tea", c("Meanwhile the cup holds tea"))}
       {col(1140, cause, "a cause", "the seed is the sprout", "cut apart", <SeedSprout grow={ramp(t, cause + 0.4, 1.4)} />, "neither the same nor cut off", fin + 1.6)}
-      {col(1500, per, "a person", "forever the one who wronged me", "pain no longer matters", <Person color={ROSE} size={140} />, "can really change", fin + 0.4)}
+      {col(1500, per, "a person", "fixed forever", "does not matter", <Person color={ROSE} size={140} />, "can really change", fin + 0.4)}
       <Items items={[
         ["so a cruel word costs nothing", 1140, 470, <W c={DIM} s={20}>“a cruel word costs nothing”</W>, { until: "And a person held as fixed" }],
         ["No such bearer is found, and the person can really change", 960, 800, <W c={TEAL} s={30} serif>no such bearer is found</W>],
@@ -816,7 +811,6 @@ const TryScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const b = c("Listen to a sound and ask");
-  const tail = c("the snake is held by the tail");
   return (
     <AbsoluteFill>
       <Title at={b} color={GOLD}>try it</Title>
@@ -830,7 +824,6 @@ const TryScene: React.FC = () => {
         ["check whether cause and result now matter less to you", 960, 700, <W c={DIM} s={28}>“all empty anyway”? does cause and result matter less?</W>],
         ["the snake is held by the tail", 960, 790, <W c={GOLD} s={36} serif>then the snake is held by the tail</W>],
       ]} />
-      <At x={960} y={600} o={ramp(t, tail + 30, 0.3)}>{null}</At>
     </AbsoluteFill>
   );
 };
