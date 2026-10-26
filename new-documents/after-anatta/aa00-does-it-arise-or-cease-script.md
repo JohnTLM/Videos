@@ -1,0 +1,78 @@
+---
+chapter: Koan
+title: "Does It Arise or Cease?"
+series: "After Anatta, the koan"
+source: thusness-website after-anatta/koan.html (The Logic, the koan page)
+source_words: 2794
+script_words: 1775
+intro: yes
+voice: male
+---
+
+# Does It Arise or Cease?
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+A koan is not a riddle with a clever answer. It is a question built to catch a habit in the act. So read it slowly. Before we even try to answer, the question has already given us something. An "it". A moment that must either arise, or cease. Whatever we do with that "it" shows which logic we are using.
+
+This is the koan page of The Logic, from After Anatta: notes by John Tan, known as Thusness. It works through the koan twice. First with the logic of substance. Then with the logic of dependency. And then it runs the koan through Nāgārjuna's five core logics.
+
+Start with a sound. A bell, or a car going by. At no point is there a sound that stays. The sound is already passing as it sounds. Look closely at any moment of experience, and this is what is found. The arising is already the ceasing. "This moment ceases as it arises" is not a puzzle someone made up. It is what experience shows, when it is looked at closely.
+
+The ordinary picture is different. Things arise, stay for a while, and then cease. The early Buddhist schools made this exact. Every conditioned thing has three marks: arising, abiding, and ceasing. The picture needs the middle one. Only something that abides, even for an instant, can be the "it" that first arises and later ceases. The koan quietly removes the abiding. And then asks its question about the "it" anyway.
+
+The logic of substance starts with things, and asks what happens to them. So it starts with "this moment" as a thing. Arising and ceasing are events that befall it. This is the grammar of the sentence, subject then verb, taken for the shape of the world. The moment arises. The moment ceases. As if there were a moment apart from the arising and the ceasing.
+
+Given a thing, the question must be answered. There are four possible answers. Each one fails.
+
+It arises. Then it comes into being, and is there. But it ceases as it arises. So it is never there to have arisen.
+
+It ceases. Then something passes away. But what passes away, if it never stood? Nāgārjuna says that ceasing makes no sense for a thing that abides, and no sense for a thing that does not.
+
+Both. Then one thing comes into being and passes away at the same time. But these are opposites, like light and dark. They cannot belong to one thing at one time.
+
+Neither. Then there is no moment at all, and nothing happens. Yet a sound is being heard, right now.
+
+For the logic of substance, this is a paradox. So it looks for a way out. A timeless Now, in which the moments pass. An awareness behind the moments, which stays. A pure flow, where there are no things, only process. Tiny point-instants that last no time at all. Or the last resort: nothing happens, so nothing is real.
+
+All five are the same logic, one step further on. Each keeps the "it", and moves it somewhere else. The Now becomes the moment that never ends. The awareness becomes the Witness again. The flow becomes the thing that is really there. They differ only in what they say happens to the "it".
+
+The logic of dependency starts one step earlier. It does not ask what happens to the moment. It asks how "this moment" is picked out at all. A moment is designated in dependence on its arising and its ceasing. Arising is designated in dependence on ceasing. And ceasing, in dependence on arising. None comes first. None is found apart from the others.
+
+Then "ceases as it arises" is not a paradox. It is a plain description. There is no "it" standing between the arising and the ceasing, to do either. The question assumes that "it". When the "it" is looked for and not found, the question is not answered. It falls away. The koan has done its work.
+
+And nothing is lost. Sounds are still heard. Clocks still keep time. The firewood still burns. Just as the flashing is the lightning, the arising and ceasing is the moment. There is change, vivid and exact. And no changer behind it.
+
+Nāgārjuna has five core ways of taking the logic of substance apart. Each one can be run on this koan. Each time, the substance reading needs a moment that is there on its own, and fails. Each time, the dependency reading lets the same moment appear, with nothing found behind it.
+
+The first is the four corners. If this moment really arises, from what? From itself? Then it was already there, and nothing arose. From another, the moment before? Then two separate things, and nothing explains how one becomes the other. From both? That has both faults. From no cause? Then moments would appear at random. Seen with dependency, the moment is not a thing that needs a source. It is picked out with its conditions, the moment before among them. Nothing passes from one moment to the next. And nothing is missing.
+
+The second is same or different. Is the arising the same as the ceasing? Then to arise is already to cease, and nothing ever comes to be. Is it different? Then they are two events, and something must stand between them to be the moment. The abiding the koan removed. Nāgārjuna asks this of fire and fuel. If the fire were the fuel, the burner and the burned would be one. If the fire were other than the fuel, it could burn with no fuel at all. Seen with dependency, arising and ceasing are not one, and not two. They are designated together, like fire and fuel. "Ceases as it arises" says exactly this.
+
+The third is the three times. Look for the arising. What has already arisen is not arising. It is done. What has not yet arisen is not arising. It is not here. And apart from these two, no "now arising" is found. Nāgārjuna makes this search with a road being walked. The same search, run on ceasing, finds no "now ceasing". The koan's "as it arises" has no room to happen in. Seen with dependency, arisen and not yet arisen are designated in relation to each other. No present stands between past and future, holding the moment. The moment is met, vividly, without a now that contains it.
+
+The fourth is infinite regress. If the arising of this moment is a real event, it is conditioned. Then it needs its own arising, abiding and ceasing. And those need theirs, without end. Ask "does it arise?", and you must also ask "does the arising arise?", and so on, for ever. Seen with dependency, arising is not a thing that needs to arise. It is a designation, made in dependence on what it marks. There is no regress, and no first arising. In Nāgārjuna's words, what comes to be in dependence is at peace. And so is arising itself.
+
+The fifth is mutual dependence. The four logics above all fail for one reason. Each needs a moment, an arising, or a ceasing, that is established on its own before it relates to anything. Arising and ceasing cannot be established together, and cannot be established apart. So how could they be established at all? This fifth logic is not one more refutation. It is what the other four leave behind. Dependent arising is what we call emptiness. And because this moment is empty, it can appear and pass at all. As Nāgārjuna puts it: for whom emptiness is possible, everything is possible.
+
+Each logic searches a different hiding place of the "it". Its source. Its identity. Its present. Its marks. And its standing on its own. Each lands in the same place. No "it" is found. And the moment is still here.
+
+So, does it arise, or cease? Two answers can be given, and they are not in conflict.
+
+Conventionally, it arises and ceases. The sound starts and ends. We can say correctly when the bell was struck, and when the ringing stopped. Nothing in the analysis touches this.
+
+Looked for, nothing that arises and nothing that ceases is found. This is how Nāgārjuna opens his whole work. He praises the Buddha who taught dependent arising: without ceasing, without arising, without annihilation, without permanence, not one thing and not many, without coming and without going.
+
+"Without arising" is not a denial that things appear. It is said of dependent arising itself. Because nothing arises as an "it", from its own side, things can appear, change and pass at all. Not two worlds. One moment, seen two ways.
+
+So the koan is not answered by choosing a corner. It is answered when the "it" is seen never to have been there. Then each moment is simply complete where it is. Nothing carried over. Nothing left behind. Dōgen says it of firewood and ash. Each abides in its own place, with a before and an after, yet cut off from before and after. The Dzogchen tradition calls it self-release. A thought, recognised as unfixed, releases itself as it arises. Like a drawing on water, which needs no eraser.
+
+The koan holds three insights at once. The moment is vivid, and unfindable. It appears whenever conditions come together: bell, air, ear and attention. It comes from no hidden place, and goes into none. And the "it" that must either arise or cease is the habit at work. We habitually think inherently, and the grammar of the question carries the habit in.
+
+Why does this matter? If the moment is an "it", every experience is something to keep, or to lose. A clear moment in meditation must be held on to. A painful one must be got rid of. The end of a life is the end of something that was really there. Craving and fear follow from the "it", as surely as the paradox does.
+
+Seen without the "it", there is nothing to keep and nothing to lose. Each moment is wholly itself, and wholly gone, and nothing went anywhere. This is not indifference. The moment is met fully, because it is not being held on to.
+
+So, wherever you are, listen to a single sound until it ends. When did it arise? When did it cease? Look for a sound between the two, apart from the sounding.
+
+Ask what arises, and the koan is a paradox. See that no "it" is found, and the koan is simply this moment.
