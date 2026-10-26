@@ -277,16 +277,16 @@ def synthesize(paras_spoken, work, voice=(VOICE, RATE, PITCH)):
     timed, parts, t0 = [], [], 0.0
     for n, para in enumerate(paras_spoken):
         mp3 = work / f"p{n:02d}.mp3"
-        for attempt in range(4):   # the free service now and then returns no audio or drops a word; try again
+        for attempt in range(8):   # the free service now and then returns no audio or drops a word; try again, waiting longer
             try:
                 words = asyncio.run(tts_paragraph(para, mp3, voice))
                 align(para.split(), words)
                 break
             except Exception as e:
-                if attempt == 3:
+                if attempt == 7:
                     raise
                 print(f"  paragraph {n}: {type(e).__name__}, retrying")
-                import time; time.sleep(3 * (attempt + 1))
+                import time; time.sleep(5 * (attempt + 1))
         d = duration(mp3)
         for tok, s, e in align(para.split(), words):
             timed.append((tok, s + t0, e + t0, n))
