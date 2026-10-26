@@ -1,5 +1,5 @@
 ---
-chapter: aa-1
+chapter: 1
 title: "Two Logics"
 series: "After Anatta 1"
 source: thusness-website after-anatta/step-1.html (The Logic, Step 1)
