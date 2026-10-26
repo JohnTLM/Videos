@@ -34,7 +34,6 @@ export const PHRASES = [
   "Now search the same places for this moment", "Listen to whatever sound is here", "Where is its moment",
   "Is it the arising", "Is it the ceasing", "Both together? Arising and ceasing are two", "Other than them",
   "Their owner? This is the koan's it", "Their container? This is the timeless Now",
- 
   "coming into being and passing away are not found without a thing", "And a thing is not found without coming into being",
   "With the logic of substance, the sound is a slice of time",
   "With the logic of dependency, the same sound is just as vivid",
@@ -47,7 +46,6 @@ export const PHRASES = [
   "The moment is the same", "A race is won by a hundredth of a second",
   "puts the whole Middle Way in one verse", "Whatever arises in dependence, that is emptiness", "That is designation in dependence",
   "That is the middle way", "one fact, seen from two sides", "The moment is named arising and ceasing",
- 
   // a name is not a sticker
   "Now a second mistake", "it pictures a sticker", "But look at a cup",
   "It appears as a cup, already something to lift", "Peel the name off", "goes further: even the basis is named",
