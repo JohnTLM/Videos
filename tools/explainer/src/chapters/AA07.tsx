@@ -20,15 +20,15 @@ import {
 // Copied verbatim from the script, in narration order. No respelled words inside.
 export const PHRASES = [
   // the worry
-  "The koan of Step 1 ends with no moment found", "That leaves a worry, and a fair one", "how does anything happen",
+  "The koan of Step 1 ends with no moment found", "how does anything happen",
   "How is a sound heard", "How does an action bear fruit",
   "This is the seventh step of The Logic", "Its answer is not that emptiness does the work", "function never needed an it",
   // one premise
   "Two opposite conclusions are drawn from the koan", "there must be a real moment of sound", "then nothing happens",
   "But they share one premise", "happening needs an it for the happening to happen to",
-  "They only argue about whether the it is there",
+ 
   "Drop that premise, and both conclusions go", "The bell is heard", "The clock keeps time",
-  "And there is no it behind the working", "Each works as designated", "which is all that working ever was",
+  "And there is no it behind the working", "Each works as designated",
   // the bell both ways
   "Seen with the logic of substance, a moment of sound", "Its power to be heard sits inside it",
   "it looks as if the hearing has gone too",
@@ -41,28 +41,28 @@ export const PHRASES = [
   "is not an inner property", "Key, lock, hand and turning are named together", "and the door opens",
   "The sound came from no store, and went into none",
   // a moment with its own nature
-  "Now turn the koan round", "Suppose this moment existed by itself", "Could it arise or cease", "It could not",
+  "Now turn the koan round", "Suppose this moment existed by itself", "Could it arise or cease",
   "an own-nature is exactly what does not become other", "Such a moment could not change, combine or act",
   "Conditions could not reach it", "It would be sealed",
   // the baker, and karma
   "Nagarjuna makes the point with a baker", "a baker who never bakes", "the agent proceeds in dependence on the action",
-  "and the action in dependence on the agent", "so it could never have been done", "Yet actions are done, and they bear fruit",
+  "so it could never have been done", "Yet actions are done, and they bear fruit",
   // the reply to the critic
   "A critic objects", "Nagarjuna answers that the picture is backwards", "If things were not empty",
-  "It is own-nature, not emptiness, that breaks the chain", "fixed like an anvil", "Not a solid world, a frozen one",
+  "It is own-nature, not emptiness, that breaks the chain", "fixed like an anvil",
   "for whom emptiness fits, everything fits",
   "But this does not make emptiness a power", "or an open space they happen in", "Emptiness causes nothing",
-  "what dependence comes to when it is examined", "The same goes for potential", "is a substance again",
+  "what dependence comes to when it is examined", "The same goes for potential",
   "A rope can be seen as a snake in dim light", "A shadow cannot be walked across as a bridge",
   // empty is not flimsy
   "Empty is not flimsy", "A car with no essence can still hurt you", "A disc of red light stops a forty-tonne truck",
   "it is a coloured lamp", "Yet nothing is more effective", "Empty things act on empty things",
   // lightning
   "Come back to the koan's words", "sounds like a moment to which arising and ceasing happen",
-  "But there is no lightning apart from the flashing", "The flashing is the lightning", "the arising and ceasing is the moment",
+  "But there is no lightning apart from the flashing", "the arising and ceasing is the moment",
   "The clock still ticks", "Only the passenger is let go",
   // the author's lag
-  "this was where his own view lagged behind", "After 1997 the doer had gone", "Walking simply walked, hearing simply heard",
+  "this was where his own view lagged behind", "After 1997 the doer had gone",
   "he still imagined an ear here and a bell there", "as if things existed first and then met",
   "the participants are not found before the participation", "In his seven phases, this is phase six",
   // reality without a ground
@@ -360,7 +360,7 @@ const WorryScene: React.FC = () => {
       <Items items={[
         ["The koan of Step 1 ends with no moment found", 700, 360, <SK c={DIM} s={26} strikeAt={start + 2.4}>a moment that arises</SK>, { d: 1.2 }],
         ["The koan of Step 1 ends with no moment found", 1220, 360, <SK c={DIM} s={26} strikeAt={start + 2.8}>a moment that ceases</SK>, { d: 1.5 }],
-        ["That leaves a worry, and a fair one", 960, 470, <W c={WARM} s={36} serif>a fair worry</W>],
+        ["how does anything happen", 960, 470, <W c={WARM} s={36} serif>a fair worry</W>, { d: -0.8 }],
         ["how does anything happen", 960, 540, <W c={CHALK} s={32}>then how does anything happen?</W>],
       ]} />
       <At x={620} y={700} s={pop(t, fps, c("How is a sound heard"))}><Bell size={140} swing={swingOf(t, c("How is a sound heard"))} /></At>
@@ -403,7 +403,7 @@ const PremiseScene: React.FC = () => {
       <Items items={[
         ["there must be a real moment of sound", 480, 470, <K c={WARM} s={26}>a real moment, really arising</K>, { pop: true, until: "Drop that premise, and both conclusions go", ud: 0.8 }],
         ["then nothing happens", 1440, 470, <K c={VIOLET} s={26}>then nothing happens</K>, { pop: true, until: "Drop that premise, and both conclusions go", ud: 0.8 }],
-        ["They only argue about whether the it is there", 960, 330, <W c={DIM} s={28}>is the “it” there, or not?</W>, { until: "Drop that premise, and both conclusions go", ud: 0.8 }],
+        ["happening needs an it for the happening to happen to", 960, 330, <W c={DIM} s={28}>is the “it” there, or not?</W>, { d: 2.5, until: "Drop that premise, and both conclusions go", ud: 0.8 }],
       ]} />
       <Flow x1={540} y1={520} x2={860} y2={620} color={DIM} p={ramp(t, share, 0.6) * gone} pulses={false} />
       <Flow x1={1380} y1={520} x2={1060} y2={620} color={DIM} p={ramp(t, share, 0.6) * gone} pulses={false} />
@@ -433,7 +433,7 @@ const WorksScene: React.FC = () => {
         ["The clock keeps time", 1300, 540, <W c={ICE} s={30}>the clock keeps time</W>, { d: 0.3 }],
         ["And there is no it behind the working", 960, 360, <SK c={DIM} s={26} strikeAt={c("And there is no it behind the working") + 1.2}>an “it” behind</SK>],
         ["Each works as designated", 960, 660, <W c={TEAL} s={34} serif>works as designated, in dependence</W>],
-        ["which is all that working ever was", 960, 750, <W c={CHALK} s={28}>reliably: all that working ever was</W>],
+        ["Each works as designated", 960, 750, <W c={CHALK} s={28}>reliably: all that working ever was</W>, { d: 2.5 }],
       ]} />
     </AbsoluteFill>
   );
@@ -447,7 +447,7 @@ const BothWaysScene: React.FC = () => {
   const come = c("Bell, air, ear and attention come together");
   const part = c("They part, and it ceased is said");
   const apart = ramp(t, part, 1.0);
-  const C: [string, number, number][] = [["bell", -1, -1], ["air", 1, -1], ["ear", -1, 1], ["attention", 1, 1]];
+  const C: [number, number, string][] = [[-1, -1, "bell"], [1, -1, "air"], [-1, 1, "ear"], [1, 1, "attention"]];
   return (
     <AbsoluteFill>
       <Title at={sub}>the same bell, seen both ways</Title>
@@ -463,7 +463,7 @@ const BothWaysScene: React.FC = () => {
         ["it looks as if the hearing has gone too", 500, 560, <W c={DIM} s={26}>no moment, so no hearing?</W>],
       ]} />
       <At x={1380} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
-      {C.map(([w, dx, dy], i) => (
+      {C.map(([dx, dy, w], i) => (
         <At key={w} x={1380 + dx * (90 + 90 * apart)} y={400 + dy * (60 + 50 * apart)} s={pop(t, fps, come + i * 0.35)}><K c={TEAL} s={24}>{w}</K></At>
       ))}
       <Items items={[
@@ -490,7 +490,7 @@ const PowerScene: React.FC = () => {
       <Items items={[
         ["like a knife's power to cut", 620, 450, <SK c={DIM} s={26} strikeAt={look + 0.6}>power to cut, inside</SK>, { d: 0.6 }],
         ["as if it held the next one inside it", 1300, 340, <div style={{ display: "flex", gap: 18, alignItems: "center" }}>
-          <K c={WARM} s={26}>moment</K><W c={DIM} s={26}>⊃</W><K c={WARM} s={22}>next</K></div>],
+          <K c={WARM} s={26}>moment</K><W c={DIM} s={24}>holding</W><K c={WARM} s={22}>next</K></div>],
         ["as if it held the next one inside it", 1300, 450, <SK c={DIM} s={26} strikeAt={look + 1.0}>next moment, stored</SK>, { d: 0.6 }],
         ["Look for the power, and it is not found there", 960, 620, <W c={GOLD} s={38} serif>look for the power: not found there</W>],
       ]} />
@@ -502,7 +502,6 @@ const KeyScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const k = c("A key opens this lock and no other");
-  const wrong = c("In the wrong lock, it opens nothing");
   const named = c("Key, lock, hand and turning are named together");
   const opens = c("and the door opens");
   const slide = ramp(t, named + 0.2, 1.0);
@@ -523,7 +522,6 @@ const KeyScene: React.FC = () => {
         ["and the door opens", 1340, 640, <W c={GOLD} s={30} serif>the door opens</W>, { d: 0.6 }],
         ["The sound came from no store, and went into none", 960, 200, <W c={CHALK} s={28}>the sound: from no store, into none</W>],
       ]} />
-      <At x={960} y={400} o={between(t, wrong, named, 0.3) * 0}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -535,7 +533,7 @@ const SealedScene: React.FC = () => {
   const sup = c("Suppose this moment existed by itself");
   const reach = c("Conditions could not reach it");
   const seal = c("It would be sealed");
-  const conds: [string, number, number][] = [["air", 420, 300], ["ear", 420, 540], ["before", 1500, 300], ["after", 1500, 540]];
+  const conds: [number, number, string][] = [[420, 300, "air"], [420, 540, "ear"], [1500, 300, "before"], [1500, 540, "after"]];
   return (
     <AbsoluteFill>
       <Title at={round}>suppose it had its own nature</Title>
@@ -545,7 +543,7 @@ const SealedScene: React.FC = () => {
           <W c={CHALK} s={28}>this moment</W><W c={WARM} s={22}>complete on its own</W>
         </div>
       </At>
-      {conds.map(([w, x, y], i) => (
+      {conds.map(([x, y, w], i) => (
         <React.Fragment key={w}>
           <At x={x} y={y} o={ramp(t, reach - 0.4 + i * 0.2, 0.4)}><K c={TEAL} s={24}>{w}</K></At>
           <Flow x1={x + (x < 960 ? 70 : -70)} y1={y} x2={x < 960 ? 790 : 1130} y2={y < 420 ? 380 : 460} color={TEAL}
@@ -554,7 +552,7 @@ const SealedScene: React.FC = () => {
       ))}
       <Items items={[
         ["Could it arise or cease", 960, 230, <W c={CHALK} s={32}>could it arise or cease?</W>],
-        ["It could not", 960, 290, <W c={WARM} s={30} serif>it could not</W>],
+        ["Could it arise or cease", 960, 290, <W c={WARM} s={30} serif>it could not</W>, { d: 1.2 }],
         ["an own-nature is exactly what does not become other", 960, 620, <W c={DIM} s={26}>arising, ceasing: a becoming other</W>],
         ["Such a moment could not change, combine or act", 960, 690, <W c={DIM} s={26}>no change · no combining · no acting</W>],
         ["Conditions could not reach it", 960, 760, <W c={TEAL} s={26}>conditions cannot reach it</W>, { d: 0.6 }],
@@ -569,7 +567,7 @@ const BakerScene: React.FC = () => {
   const c = useCue();
   const b = c("Nagarjuna makes the point with a baker");
   const ag = c("the agent proceeds in dependence on the action");
-  const ac = c("and the action in dependence on the agent");
+  const ac = ag + 2.6;
   return (
     <AbsoluteFill>
       <Title at={b}>the baker and the baking</Title>
@@ -582,7 +580,7 @@ const BakerScene: React.FC = () => {
       <Items items={[
         ["a baker who never bakes", 620, 460, <SK c={DIM} s={24} strikeAt={c("a baker who never bakes") + 1.0}>a baker who never bakes</SK>, { until: "the agent proceeds in dependence on the action" }],
         ["the agent proceeds in dependence on the action", 960, 230, <W c={TEAL} s={24}>agent, through the action</W>, { d: 0.6 }],
-        ["and the action in dependence on the agent", 960, 500, <W c={TEAL} s={24}>action, through the agent</W>, { d: 0.6 }],
+        ["the agent proceeds in dependence on the action", 960, 500, <W c={TEAL} s={24}>action, through the agent</W>, { d: 3.2 }],
         ["so it could never have been done", 620, 660, <SK c={DIM} s={24} strikeAt={c("so it could never have been done") + 0.8}>an action with its own nature</SK>],
         ["Yet actions are done, and they bear fruit", 1300, 640, <Fruit size={150} />, { pop: true }],
         ["Yet actions are done, and they bear fruit", 1300, 790, <W c={GREEN} s={26}>actions bear fruit</W>, { d: 0.5 }],
@@ -601,7 +599,7 @@ const ReplyScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={crit}>the reply to a critic</Title>
       <Items items={[
-        ["A critic objects", 960, 200, <W c={DIM} s={28}>“if all is empty, nothing arises, no path, no fruit”</W>, { until: "Nagarjuna answers that the picture is backwards" }],
+        ["A critic objects", 960, 200, <W c={DIM} s={28}>“if all is empty: nothing arises, no noble truths, no fruits”</W>, { until: "Nagarjuna answers that the picture is backwards" }],
         ["Nagarjuna answers that the picture is backwards", 960, 200, <W c={GOLD} s={32} serif>the picture is backwards</W>],
         ["If things were not empty", 960, 270, <W c={CHALK} s={26}>if not empty: no arising, no passing away</W>],
       ]} />
@@ -609,7 +607,7 @@ const ReplyScene: React.FC = () => {
       <Items items={[
         ["It is own-nature, not emptiness, that breaks the chain", 960, 300, <SK c={WARM} s={24} strikeAt={breaks + 1.8}>own-nature</SK>, { d: 0.6, o: 0.95 }],
         ["fixed like an anvil", 620, 620, <Anvil />, { pop: true }],
-        ["Not a solid world, a frozen one", 620, 740, <W c={DIM} s={26}>not solid: frozen</W>],
+        ["fixed like an anvil", 620, 740, <W c={DIM} s={26}>not solid: frozen</W>, { d: 1.4 }],
         ["for whom emptiness fits, everything fits", 1300, 640, <W c={GOLD} s={34} serif>for whom emptiness fits,</W>],
         ["for whom emptiness fits, everything fits", 1300, 700, <W c={GOLD} s={34} serif>everything fits</W>, { d: 0.8 }],
       ]} />
@@ -621,7 +619,6 @@ const NotPowerScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const not = c("But this does not make emptiness a power");
-  const pot = c("The same goes for potential");
   const dim = ramp(t, c("A rope can be seen as a snake in dim light"), 0.8);
   return (
     <AbsoluteFill>
@@ -629,16 +626,15 @@ const NotPowerScene: React.FC = () => {
       <Items items={[
         ["But this does not make emptiness a power", 520, 260, <SK c={DIM} s={26} strikeAt={c("Emptiness causes nothing")}>emptiness as a power</SK>],
         ["or an open space they happen in", 960, 260, <SK c={DIM} s={26} strikeAt={c("Emptiness causes nothing") + 0.3}>an open space</SK>],
-        ["The same goes for potential", 1400, 260, <SK c={DIM} s={26} strikeAt={c("is a substance again") + 0.8}>a store of possibilities</SK>],
+        ["The same goes for potential", 1400, 260, <SK c={DIM} s={26} strikeAt={c("The same goes for potential") + 3.0}>a store of possibilities</SK>],
         ["Emptiness causes nothing", 960, 380, <W c={VIOLET} s={32} serif>emptiness causes nothing</W>],
         ["what dependence comes to when it is examined", 960, 450, <W c={CHALK} s={26}>only what dependence comes to, examined</W>],
-        ["is a substance again", 1400, 330, <W c={WARM} s={24}>substance again</W>],
+        ["The same goes for potential", 1400, 330, <W c={WARM} s={24}>substance again</W>, { d: 1.8 }],
         ["A rope can be seen as a snake in dim light", 620, 620, <Rope dim={dim} />, { pop: true }],
         ["A rope can be seen as a snake in dim light", 620, 720, <W c={CHALK} s={26}>a rope, seen as a snake</W>, { d: 0.5 }],
         ["A shadow cannot be walked across as a bridge", 1300, 620, <div style={{ width: 300, height: 30, borderRadius: 15, background: "#0008", filter: "blur(4px)" }} />],
         ["A shadow cannot be walked across as a bridge", 1300, 720, <W c={DIM} s={26}>a shadow is no bridge</W>, { d: 0.5 }],
       ]} />
-      <At x={960} y={800} o={ramp(t, pot + 4, 0.6)}><W c={TEAL} s={24}>as open as conditions allow</W></At>
     </AbsoluteFill>
   );
 };
@@ -681,7 +677,7 @@ const LightningScene: React.FC = () => {
       <At x={620} y={420} s={pop(t, fps, flashAt)}><Bolt size={200} flash={flash} /></At>
       <Items items={[
         ["But there is no lightning apart from the flashing", 620, 590, <SK c={DIM} s={24} strikeAt={flashAt + 2.0}>lightning apart from the flashing</SK>, { d: 0.6 }],
-        ["The flashing is the lightning", 620, 670, <W c={ICE} s={30} serif>the flashing is the lightning</W>],
+        ["But there is no lightning apart from the flashing", 620, 670, <W c={ICE} s={30} serif>the flashing is the lightning</W>, { d: 2.8 }],
         ["the arising and ceasing is the moment", 1300, 330, <W c={GOLD} s={32} serif>arising-ceasing is the moment</W>],
         ["The clock still ticks", 1300, 480, <Clock size={150} />, { pop: true }],
         ["Only the passenger is let go", 1300, 640, <SK c={DIM} s={24} strikeAt={c("Only the passenger is let go") + 0.8}>the passenger</SK>],
@@ -703,7 +699,7 @@ const LagScene: React.FC = () => {
       <Title at={lag}>where the author's view lagged</Title>
       <Items items={[
         ["After 1997 the doer had gone", 960, 200, <SK c={DIM} s={26} strikeAt={c("After 1997 the doer had gone") + 1.0}>the doer</SK>],
-        ["Walking simply walked, hearing simply heard", 960, 270, <W c={ICE} s={28} serif>walking simply walked, hearing simply heard</W>],
+        ["After 1997 the doer had gone", 960, 270, <W c={ICE} s={28} serif>walking simply walked, hearing simply heard</W>, { d: 1.6 }],
       ]} />
       <At x={600 + 220 * join} y={430} s={pop(t, fps, imag)}><Eye size={150} /></At>
       <At x={1320 - 220 * join} y={420} s={pop(t, fps, imag + 0.5)}><Bell size={130} /></At>
@@ -724,9 +720,8 @@ const GroundScene: React.FC = () => {
   const c = useCue();
   const sec = c("no longer a secondary layer");
   const under = c("There is no real thing underneath");
-  const ground = c("This is reality without a ground");
-  const N: [string, number, number][] = [["bell", 620, 330], ["ear", 860, 250], ["air", 1100, 320], ["name", 1320, 260],
-    ["moment", 760, 470], ["hearing", 1040, 460], ["before", 1280, 420]];
+  const N: [number, number, string][] = [[620, 330, "bell"], [860, 250, "ear"], [1100, 320, "air"], [1320, 260, "name"],
+    [760, 470, "moment"], [1040, 460, "hearing"], [1280, 420, "before"]];
   const E = [[0, 1], [1, 2], [2, 3], [0, 4], [4, 5], [5, 2], [5, 6], [6, 3], [1, 5], [4, 1]];
   const web = ramp(t, sec, 1.2);
   return (
@@ -734,20 +729,19 @@ const GroundScene: React.FC = () => {
       <Title at={sec}>reality without a ground</Title>
       <Svg>
         {E.map(([a, b], i) => (
-          <line key={i} x1={N[a][1]} y1={N[a][2]} x2={N[b][1]} y2={N[b][2]} stroke={TEAL} strokeOpacity={0.5 * ramp(t, sec + 0.4 + i * 0.08, 0.4)} strokeWidth={3} />
+          <line key={i} x1={N[a][0]} y1={N[a][1]} x2={N[b][0]} y2={N[b][1]} stroke={TEAL} strokeOpacity={0.5 * ramp(t, sec + 0.4 + i * 0.08, 0.4)} strokeWidth={3} />
         ))}
       </Svg>
-      {N.map(([w, x, y], i) => (
+      {N.map(([x, y, w], i) => (
         <At key={w} x={x} y={y} o={web * ramp(t, sec + i * 0.12, 0.4)}><K c={i === 4 ? GOLD : TEAL} s={22}>{w}</K></At>
       ))}
       <At x={960} y={600} o={ramp(t, sec, 0.5) * (1 - ramp(t, under + 0.8, 0.8))}><Floor w={900} dashed /></At>
       <Items items={[
         ["no longer a secondary layer", 960, 660, <SK c={DIM} s={24} strikeAt={under + 0.4}>a real thing underneath</SK>, { d: 0.8 }],
-        ["Nothing in it comes first", 960, 560, <W c={DIM} s={26}>no first, no more basic</W>],
+        ["Nothing in it comes first", 960, 560, <W c={DIM} s={26}>nothing comes first</W>, { until: "This is reality without a ground" }],
         ["This is reality without a ground", 960, 560, <W c={GOLD} s={40} serif>vivid, working, not found on its own</W>, { d: 0.2 }],
         ["Nor is dependent arising a new ground", 960, 740, <SK c={DIM} s={24} strikeAt={c("Nor is dependent arising a new ground") + 1.0}>dependent arising as a new ground</SK>],
       ]} />
-      <At x={960} y={560} o={between(t, c("Nothing in it comes first"), ground, 0.3) * 0}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -810,7 +804,6 @@ const TryScene: React.FC = () => {
   const snd = c("Listen to a single sound until it ends");
   const key = c("Hold a key, and look for the opening in it");
   const use = c("Then use it");
-  const last = c("if the thought comes that emptiness is what makes things possible");
   const bellO = 1 - ramp(t, key, 0.5) + ramp(t, c("And the sound is still heard"), 0.5);
   return (
     <AbsoluteFill>
@@ -827,7 +820,6 @@ const TryScene: React.FC = () => {
         ["if the thought comes that emptiness is what makes things possible", 960, 220, <SK c={DIM} s={26} strikeAt={c("Nothing is found doing the work") + 0.6}>emptiness doing the work</SK>],
         ["And the sound is still heard", 960, 680, <W c={GOLD} s={34} serif>and the sound is still heard</W>],
       ]} />
-      <At x={960} y={300} o={between(t, last, last + 1, 0.3) * 0}><span /></At>
     </AbsoluteFill>
   );
 };

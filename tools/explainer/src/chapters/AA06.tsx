@@ -21,65 +21,53 @@ import {
 export const PHRASES = [
   // the koan and its two traps
   "This moment ceases as it arises", "Does it arise, or does it cease", "The koan has two easy answers",
-  "and each one is a trap", "Say it arises", "finds somewhere for the moment to last", "Say it ceases",
+  "Say it arises", "finds somewhere for the moment to last", "Say it ceases",
   "nothing really happens", "These are eternalism and nihilism",
   "This is the sixth step of The Logic", "the two wrong answers grow from one root",
   // the snake
   "A snake catcher picks up a snake", "it is safe in his hand", "A beginner grabs it by the tail", "it turns and bites",
-  "Same snake, same hand", "What decides is the grip", "uses this image for emptiness itself",
-  "Seen wrongly, it ruins the one who sees it",
-  // two wrong ends
+  "What decides is the grip", "uses this image for emptiness itself",
+    // two wrong ends
   "names the two ends", "It is is the grasping of permanence", "It is not is the view of annihilation",
-  "The wise take their stand on neither", "the world mostly leans on these two ideas",
+  "the world mostly leans on these two ideas",
   "For one who sees the arising of the world", "For one who sees its ceasing", "teaches by the middle: dependent arising",
-  "That is the koan's own shape", "as a fact about an it",
-  // eternalism
+  "That is the koan's own shape",   // eternalism
   "Take the first trap", "But it cannot stay", "So the mind moves the it somewhere that lasts", "A timeless Now",
   "An awareness in which moments come and go", "Or a Source, a ground of being behind everything",
   "The plain form is the soul", "These three are subtler", "This was my own position for years",
-  "Presence was real and unmistakable", "The taste was genuine", "Turning it into a Self was the mistake",
+  "The taste was genuine", "Turning it into a Self was the mistake",
   "The test is Step one's", "Look for it apart from what it depends on", "Awareness is always awareness of something",
-  "It is not found standing behind the knowing", "A Source, looked for apart", "is not found either",
+  "A Source, looked for apart", "is not found either",
   // nihilism
   "Now the second trap", "so it was never really there", "Nothing matters, and actions have no results",
-  "opponent hears empty in just this way", "concludes that emptiness destroys the path",
-  "he has misunderstood emptiness itself",
+  "opponent hears empty in just this way",   "he has misunderstood emptiness itself",
   "Nihilism has a subtle form too", "the disease of relentless negation", "and appearance is a leftover",
   "negation removes only the idea that appearance needed an essence", "Nothing is taken away from the appearing",
-  "The red of the flower and the ring of the bell", "are empty and vivid at once",
-  "The void is not even coherent", "Try to think of absolute nothing", "a darkness, a silence, yourself looking on",
+  "The red of the flower and the ring of the bell",   "The void is not even coherent", "Try to think of absolute nothing", "a darkness, a silence, yourself looking on",
   // one root
   "Here is the root", "disagree about what befalls the moment", "They agree that there is a moment for it to befall",
-  "puts it in one verse", "What exists by its own nature does not cease to exist", "that is permanence",
-  "It existed before and does not exist now", "that brings annihilation",
-  "Both start from a thing with a nature of its own", "They differ only in what happens to it",
-  "So the void is not the opposite of substance", "It is substance in reverse",
-  "something must first have stood on its own", "The fear of death shows it", "Survival needs a bearer who carries on",
-  "Destruction needs a bearer who is wiped out", "No bearer was ever found, not at death and not now",
+  "puts it in one verse", "What exists by its own nature does not cease to exist",   "It existed before and does not exist now",   "Both start from a thing with a nature of its own",   "So the void is not the opposite of substance", "It is substance in reverse",
+  "The fear of death shows it", "Survival needs a bearer who carries on",
+  "No bearer was ever found, not at death and not now",
   "the remedy for one trap is never the other", "Tsongkhapa puts the cure in one line",
   "appearance dispels the extreme of existence", "emptiness dispels the extreme of non-existence",
   "It is only ever the emptiness of what appears",
   // seen two ways
-  "Hear it both ways", "With the logic of substance, I must pick", "or it drops into nothing",
-  "With the logic of dependency, the same sound rings", "No sound stands behind the sounding",
-  "Nothing is kept, and nothing is lost", "It is like the stairs of Step one", "and still really climbed",
-  // emptiness held wrongly
-  "one more place for the snake to bite", "the moment is not found", "can itself be grasped by either end",
-  "Grasped as something, it becomes the Unfound", "eternalism wearing the name of its cure",
+  "Hear it both ways", "With the logic of substance, I must pick",   "With the logic of dependency, the same sound rings", "No sound stands behind the sounding",
+  "Nothing is kept, and nothing is lost", "It is like the stairs of Step one",   // emptiness held wrongly
+  "one more place for the snake to bite", "the moment is not found",   "Grasped as something, it becomes the Unfound", "eternalism wearing the name of its cure",
   "Grasped as nothing, it becomes a blank to rest in", "nihilism wearing the same name",
   "those for whom emptiness becomes a view are incurable",
   "Emptiness is a medicine", "compares it to a purgative", "clears the blockage, and then leaves the body too",
-  "If it stays, it becomes a new illness", "always the emptiness of something", "It does not lie behind the cup",
+  "always the emptiness of something", "It does not lie behind the cup",
   "the cup's not being a cup from its own side",
   // the middle
   "So the middle is not a midpoint", "what is left when nothing is found to bear either label",
-  "Nor is it a thinner world", "A harsh word still hurts", "and a kind one still helps", "Actions still bear fruit",
+  "Nor is it a thinner world", "A harsh word still hurts", "Actions still bear fruit",
   "Not found never means does not happen",
   // beyond the moment
-  "The two traps wait wherever an it is assumed", "The self one keeps a soul forever", "there was never anyone",
-  "An object one says the cup is really there", "Meanwhile the cup holds tea", "A cause one makes the seed already the sprout",
-  "so a cruel word costs nothing", "And a person held as fixed", "their pain no longer mattering",
-  "No such bearer is found, and the person can really change",
+  "The two traps wait wherever an it is assumed", "The self one keeps a soul forever",   "An object one says the cup is really there", "Meanwhile the cup holds tea", "A cause one makes the seed already the sprout",
+  "And a person held as fixed",   "No such bearer is found, and the person can really change",
   // try it
   "Listen to a sound and ask", "Notice where each answer wants to put the moment",
   "Then look for the it both answers share", "check whether cause and result now matter less to you",
@@ -301,7 +289,7 @@ const KoanScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const two = c("The koan has two easy answers");
-  const trap = c("and each one is a trap");
+  const trap = c("The koan has two easy answers") + 2.0;
   return (
     <AbsoluteFill>
       <At x={960} y={170} o={ramp(t, c("This moment ceases as it arises") - 0.3, 0.3)}>
@@ -367,10 +355,10 @@ const SnakeScene: React.FC = () => {
       <Items items={[
         ["it is safe in his hand", 560, 470, <K c={GREEN} s={28}>held behind the head: safe</K>, { pop: true }],
         ["it turns and bites", 1380, 470, <K c={RED} s={28}>held by the tail: it bites</K>, { pop: true, d: 0.5 }],
-        ["Same snake, same hand", 960, 580, <W c={CHALK} s={32}>same snake, same hand</W>],
+        ["it turns and bites", 960, 580, <W c={CHALK} s={32}>same snake, same hand</W>, { d: 2.0 }],
         ["What decides is the grip", 960, 650, <W c={GOLD} s={42} serif>the grip decides</W>],
         ["uses this image for emptiness itself", 960, 740, <K c={VIOLET} s={28}>Nāgārjuna: emptiness itself</K>, { pop: true }],
-        ["Seen wrongly, it ruins the one who sees it", 960, 820, <W c={ROSE} s={28}>seen wrongly, it ruins the one who sees it</W>],
+        ["uses this image for emptiness itself", 960, 820, <W c={ROSE} s={28}>seen wrongly, it ruins the one who sees it</W>, { d: 2.2 }],
       ]} />
     </AbsoluteFill>
   );
@@ -390,13 +378,13 @@ const EndsScene: React.FC = () => {
       <Items items={[
         ["It is is the grasping of permanence", 520, 340, <W c={DIM} s={26}>grasping at permanence</W>, { d: 0.6 }],
         ["It is not is the view of annihilation", 1400, 340, <W c={DIM} s={26}>the view of annihilation</W>, { d: 0.6 }],
-        ["The wise take their stand on neither", 960, 300, <W c={CHALK} s={28}>stand on neither</W>],
+        ["It is not is the view of annihilation", 960, 300, <W c={CHALK} s={28}>stand on neither</W>, { d: 2.4 }],
         ["the world mostly leans on these two ideas", 960, 410, <K c={GOLD} s={26}>the Buddha: the world leans on these two</K>, { pop: true }],
         ["For one who sees the arising of the world", 1400, 470, <W c={GREEN} s={26}>seeing the arising undoes “it is not”</W>],
         ["For one who sees its ceasing", 520, 470, <W c={ROSE} s={26}>seeing the ceasing undoes “it is”</W>],
         ["teaches by the middle: dependent arising", 960, 590, <W c={TEAL} s={42} serif>dependent arising</W>, { d: 0.5 }],
         ["That is the koan's own shape", 960, 690, <W c={CHALK} s={28}>the koan holds both in one moment</W>],
-        ["as a fact about an it", 960, 770, <W c={WARM} s={28}>trouble: one half, taken as a fact about an “it”</W>],
+        ["That is the koan's own shape", 960, 770, <W c={WARM} s={28}>trouble: one half, taken as a fact about an “it”</W>, { d: 2.4 }],
       ]} />
       <Svg>
         <DrawPath d="M1380 500 Q1200 560 1060 580" p={ramp(t, mid, 0.6)} color={TEAL} width={3} len={400} glow={false} />
@@ -455,7 +443,7 @@ const AuthorScene: React.FC = () => {
         </div>
       </At>
       <Items items={[
-        ["Presence was real and unmistakable", 1150, 440, <W c={GOLD} s={30} serif>presence: real, unmistakable</W>],
+        ["This was my own position for years", 1150, 440, <W c={GOLD} s={30} serif>presence: real, unmistakable</W>, { d: 4.2 }],
         ["The taste was genuine", 1150, 520, <K c={GOLD} s={30}>the taste was genuine</K>, { pop: true }],
       ]} />
       <At x={1150} y={620} o={ramp(t, mis, 0.4)}><SK c={WARM} s={32} strikeAt={mis + 1.2}>a Self, on its own side</SK></At>
@@ -470,7 +458,7 @@ const TestScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const test = c("Look for it apart from what it depends on");
-  const knowing = c("It is not found standing behind the knowing");
+  const knowing = c("Awareness is always awareness of something") + 3.2;
   const either = c("is not found either");
   const b = c("Awareness is always awareness of something");
   return (
@@ -512,7 +500,7 @@ const NihilScene: React.FC = () => {
         ["Nothing matters, and actions have no results", 1340, 260, <SK c={DIM} s={28} strikeAt={1e9}>nothing matters</SK>],
         ["Nothing matters, and actions have no results", 1340, 340, <SK c={DIM} s={28} strikeAt={1e9}>actions have no results</SK>, { d: 0.9 }],
         ["opponent hears empty in just this way", 1340, 450, <W c={CHALK} s={28}>the opponent hears: empty = nothing</W>],
-        ["concludes that emptiness destroys the path", 1340, 530, <K c={ROSE} s={26}>“emptiness destroys the path”</K>, { pop: true }],
+        ["opponent hears empty in just this way", 1340, 530, <K c={ROSE} s={26}>“emptiness destroys the path”</K>, { pop: true, d: 2.2 }],
         ["he has misunderstood emptiness itself", 1340, 640, <W c={GOLD} s={32} serif>he has misunderstood emptiness</W>],
       ]} />
     </AbsoluteFill>
@@ -540,7 +528,7 @@ const NegationScene: React.FC = () => {
         ["and appearance is a leftover", 960, 300, <SK c={DIM} s={26} strikeAt={c("negation removes only the idea that appearance needed an essence") + 1.6}>appearance: a leftover</SK>],
         ["negation removes only the idea that appearance needed an essence", 960, 620, <W c={CHALK} s={28}>negation removes only the idea of an essence</W>],
         ["Nothing is taken away from the appearing", 960, 690, <W c={GREEN} s={30}>nothing taken from the appearing</W>],
-        ["are empty and vivid at once", 960, 780, <W c={GOLD} s={40} serif>empty and vivid at once</W>],
+        ["The red of the flower and the ring of the bell", 960, 780, <W c={GOLD} s={40} serif>empty and vivid at once</W>, { d: 2.6 }],
       ]} />
     </AbsoluteFill>
   );
@@ -595,11 +583,11 @@ const RootScene: React.FC = () => {
       <Items items={[
         ["puts it in one verse", 960, 270, <K c={GOLD} s={26}>Nāgārjuna, in one verse</K>, { pop: true }],
         ["What exists by its own nature does not cease to exist", 560, 330, <W c={CHALK} s={26}>“does not cease to exist”</W>, { d: 0.6 }],
-        ["that is permanence", 560, 380, <K c={GREEN} s={28}>“it is”: eternalism</K>, { pop: true }],
+        ["What exists by its own nature does not cease to exist", 560, 380, <K c={GREEN} s={28}>“it is”: eternalism</K>, { pop: true, d: 3.0 }],
         ["It existed before and does not exist now", 1360, 330, <W c={CHALK} s={26}>“existed before, not now”</W>, { d: 0.6 }],
-        ["that brings annihilation", 1360, 380, <K c={ROSE} s={28}>“it is not”: nihilism</K>, { pop: true }],
+        ["It existed before and does not exist now", 1360, 380, <K c={ROSE} s={28}>“it is not”: nihilism</K>, { pop: true, d: 2.8 }],
         ["Both start from a thing with a nature of its own", 960, 772, <W c={WARM} s={28}>both start here</W>],
-        ["They differ only in what happens to it", 960, 828, <W c={DIM} s={26}>they differ only in what happens to it</W>],
+        ["Both start from a thing with a nature of its own", 960, 828, <W c={DIM} s={26}>they differ only in what happens to it</W>, { d: 3.0 }],
       ]} />
       <At x={960} y={620} o={ramp(t, both, 0.5)}><Glow color={WARM} size={28}>↑</Glow></At>
     </AbsoluteFill>
@@ -619,13 +607,13 @@ const ReverseScene: React.FC = () => {
       <At x={1160} y={270} s={pop(t, fps, rev + 0.6)}><SK c={DIM} s={30} strikeAt={1e9}>wiped out</SK></At>
       <Flow x1={850} y1={270} x2={1060} y2={270} color={WARM} p={ramp(t, rev + 0.4, 0.6)} />
       <Items items={[
-        ["something must first have stood on its own", 960, 360, <W c={DIM} s={26}>to be wiped out, it must first have stood on its own</W>],
+        ["It is substance in reverse", 960, 360, <W c={DIM} s={26}>to be wiped out, it must first have stood on its own</W>, { d: 1.4 }],
         ["The fear of death shows it", 960, 450, <W c={CHALK} s={32} serif>the fear of death</W>],
       ]} />
       <At x={960} y={620} o={ramp(t, death + 0.4, 0.5)}><Person color={DIM} size={150} dashed /></At>
       <Items items={[
         ["Survival needs a bearer who carries on", 560, 620, <K c={GREEN} s={26}>survival: a bearer carries on</K>, { pop: true }],
-        ["Destruction needs a bearer who is wiped out", 1360, 620, <K c={ROSE} s={26}>destruction: a bearer wiped out</K>, { pop: true }],
+        ["Survival needs a bearer who carries on", 1360, 620, <K c={ROSE} s={26}>destruction: a bearer wiped out</K>, { pop: true, d: 2.4 }],
         ["No bearer was ever found, not at death and not now", 960, 780, <W c={GOLD} s={32} serif>no bearer found, at death or now</W>, { d: 0.6 }],
       ]} />
       <Crossed x={960} y={620} at={none + 0.3} size={50} />
@@ -676,7 +664,7 @@ const HearScene: React.FC = () => {
       <At x={560} y={360} s={pop(t, fps, sub + 0.2)}><Bell size={130} swing={swingAt(t, sub + 0.4)} /></At>
       <Items items={[
         ["With the logic of substance, I must pick", 400, 520, <SK c={DIM} s={24} strikeAt={1e9}>kept somewhere</SK>, { d: 1.0 }],
-        ["or it drops into nothing", 720, 520, <SK c={DIM} s={24} strikeAt={1e9}>dropped into nothing</SK>],
+        ["With the logic of substance, I must pick", 720, 520, <SK c={DIM} s={24} strikeAt={1e9}>dropped into nothing</SK>, { d: 3.2 }],
       ]} />
       <At x={1360} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
       <At x={1360} y={360} s={pop(t, fps, dep + 0.2)}><Bell size={130} swing={swingAt(t, dep + 0.4)} /></At>
@@ -685,7 +673,7 @@ const HearScene: React.FC = () => {
         ["No sound stands behind the sounding", 1360, 520, <SK c={DIM} s={24} strikeAt={c("No sound stands behind the sounding") + 1.6}>a sound behind the sounding</SK>],
         ["Nothing is kept, and nothing is lost", 960, 620, <W c={GOLD} s={36} serif>nothing kept, nothing lost</W>],
         ["It is like the stairs of Step one", 1100, 760, <W c={CHALK} s={26}>up or down: from where you stand</W>, { d: 0.4 }],
-        ["and still really climbed", 1100, 820, <W c={GREEN} s={26}>still really climbed</W>],
+        ["It is like the stairs of Step one", 1100, 820, <W c={GREEN} s={26}>still really climbed</W>, { d: 3.8 }],
       ]} />
       <Svg><DrawPath d={stairs} p={ramp(t, st, 1.0)} color={CHALK} width={5} len={800} /></Svg>
       <At x={1550 + i * 60} y={741 - i * 40} o={ramp(t, st + 0.4, 0.4)} s={0.6}>
@@ -707,7 +695,7 @@ const HeldWrongScene: React.FC = () => {
       <At x={960} y={260} o={ramp(t, more, 0.5) * 0.9} s={0.55}><Snake held="tail" draw={ramp(t, more + 0.2, 1.2)} bite={ramp(t, more + 1.6, 0.6)} color={GREEN} /></At>
       <Items items={[
         ["the moment is not found", 960, 380, <K c={TEAL} s={30}>“not found”</K>, { pop: true }],
-        ["can itself be grasped by either end", 960, 450, <W c={DIM} s={26}>grasped by either end</W>],
+        ["the moment is not found", 960, 450, <W c={DIM} s={26}>grasped by either end</W>, { d: 2.0 }],
       ]} />
       <At x={540} y={560} o={ramp(t, un, 0.4)}><SK c={VIOLET} s={28} strikeAt={c("eternalism wearing the name of its cure") + 1.6}>the Unfound: an openness behind</SK></At>
       <At x={1380} y={560} o={ramp(t, blank, 0.4)}><SK c={DIM} s={28} strikeAt={c("nihilism wearing the same name") + 1.4}>“it is all empty anyway”</SK></At>
@@ -733,7 +721,7 @@ const MedicineScene: React.FC = () => {
       <Items items={[
         ["compares it to a purgative", 560, 230, <K c={GOLD} s={26}>Candrakīrti: a purgative</K>, { pop: true }],
         ["clears the blockage, and then leaves the body too", 560, 430, <W c={TEAL} s={28}>clears the blockage, then leaves</W>],
-        ["If it stays, it becomes a new illness", 560, 520, <SK c={DIM} s={26} strikeAt={1e9}>held as “the truth”: a new illness</SK>],
+        ["clears the blockage, and then leaves the body too", 560, 520, <SK c={DIM} s={26} strikeAt={1e9}>held as “the truth”: a new illness</SK>, { d: 3.0 }],
       ]} />
       <At x={1360} y={360} s={pop(t, fps, c("always the emptiness of something"))}><Cup color={ICE} size={190} tea={1} /></At>
       <At x={1360} y={360} o={ramp(t, cup, 0.4) * (1 - ramp(t, cup + 2.2, 0.5))}>
@@ -767,7 +755,7 @@ const MiddleScene: React.FC = () => {
         ["what is left when nothing is found to bear either label", 960, 360, <W c={TEAL} s={32} serif>no “it” found to bear either label</W>, { d: 0.6 }],
         ["Nor is it a thinner world", 960, 450, <W c={CHALK} s={28}>not a thinner world</W>],
         ["A harsh word still hurts", 560, 560, <K c={RED} s={28}>a harsh word still hurts</K>, { pop: true }],
-        ["and a kind one still helps", 1360, 560, <K c={GREEN} s={28}>a kind one still helps</K>, { pop: true }],
+        ["A harsh word still hurts", 1360, 560, <K c={GREEN} s={28}>a kind one still helps</K>, { pop: true, d: 1.4 }],
         ["Not found never means does not happen", 960, 790, <W c={GOLD} s={36} serif>“not found” never means “does not happen”</W>],
       ]} />
       <At x={960} y={640} s={pop(t, fps, c("Actions still bear fruit"))}><Fruit /></At>
@@ -800,7 +788,7 @@ const BeyondScene: React.FC = () => {
       {col(1140, cause, "a cause", "the seed is the sprout", "cut apart", <SeedSprout grow={ramp(t, cause + 0.4, 1.4)} />, "neither the same nor cut off", fin + 1.6)}
       {col(1500, per, "a person", "fixed forever", "does not matter", <Person color={ROSE} size={140} />, "can really change", fin + 0.4)}
       <Items items={[
-        ["so a cruel word costs nothing", 1140, 470, <W c={DIM} s={20}>“a cruel word costs nothing”</W>, { until: "And a person held as fixed" }],
+        ["A cause one makes the seed already the sprout", 1140, 470, <W c={DIM} s={20}>“a cruel word costs nothing”</W>, { d: 3.0, until: "And a person held as fixed" }],
         ["No such bearer is found, and the person can really change", 960, 800, <W c={TEAL} s={30} serif>no such bearer is found</W>],
       ]} />
     </AbsoluteFill>
