@@ -23,7 +23,7 @@ export const PHRASES = [
   "This is the second step of The Logic", "This step is about aiming the denial exactly",
   "Aim it short, and the it survives somewhere else", "Aim it too far", "destroys the very moment it was meant to free",
   // finding the target
-  "Tsongkhapa made this the first step of the whole analysis", "as it actually works in your own mind", "however sound the reasoning",
+  "made this the first step of the whole analysis", "as it actually works in your own mind", "however sound the reasoning",
   "The author learned this the long way", "I was good at negating", "Thoughts, sensations, the body, the world",
   "not this, not that", "the one doing the setting aside", "the more solid the Witness became",
   // two ways of seeing the bell
@@ -45,7 +45,7 @@ export const PHRASES = [
   "Does the Now arise, or cease", "Does the awareness",
   // too much
   "The opposite mistake is quieter", "concludes that nothing happens at all", "Actions bring no results",
-  "Emptiness becomes a void to rest in", "Nāgārjuna refuses both sides", "is the grasping of permanence",
+  "Emptiness becomes a void to rest in", "refuses both sides", "is the grasping of permanence",
   "is the view of annihilation", "should not take their stand on existence or on non-existence",
   "Yet a harsh word still hurts", "and a kind one still helps", "it has aimed past the target",
   "Only because things are empty can they arise, change and work at all", "A moment with own-nature could never pass",
@@ -369,12 +369,12 @@ const AimScene: React.FC = () => {
 const FindScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const ts = c("Tsongkhapa made this the first step of the whole analysis");
+  const ts = c("made this the first step of the whole analysis");
   return (
     <AbsoluteFill>
       <Title at={ts}>first, find the target</Title>
       <Items items={[
-        ["Tsongkhapa made this the first step of the whole analysis", 960, 190, <W c={DIM} s={28}>Tsongkhapa</W>, { d: 0.8 }],
+        ["made this the first step of the whole analysis", 960, 190, <W c={DIM} s={28}>Tsongkhapa</W>, { d: 0.8 }],
         ["however sound the reasoning", 960, 680, <W c={WARM} s={30}>otherwise the refutation misses</W>],
       ]} />
       <At x={820} y={420} o={ramp(t, c("as it actually works in your own mind"), 0.5)}><Head color={VIOLET} /></At>
@@ -549,7 +549,7 @@ const GroundScene: React.FC = () => {
 const TooMuchScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const refuse = c("Nāgārjuna refuses both sides");
+  const refuse = c("refuses both sides");
   return (
     <AbsoluteFill>
       <Title at={c("The opposite mistake is quieter")} color={ROSE}>negating too much</Title>
@@ -557,7 +557,7 @@ const TooMuchScene: React.FC = () => {
         ["concludes that nothing happens at all", 960, 230, <SK c={DIM} s={32} strikeAt={refuse}>“nothing happens at all”</SK>],
         ["Actions bring no results", 640, 340, <SK c={DIM} s={26} strikeAt={refuse + 0.3}>no results</SK>],
         ["Emptiness becomes a void to rest in", 1280, 340, <SK c={DIM} s={26} strikeAt={refuse + 0.6}>a void to rest in</SK>],
-        ["Nāgārjuna refuses both sides", 960, 450, <W c={DIM} s={28}>Nāgārjuna</W>],
+        ["refuses both sides", 960, 450, <W c={DIM} s={28}>Nāgārjuna</W>],
         ["is the grasping of permanence", 560, 550, <W c={WARM} s={30} serif>“It is”: permanence</W>],
         ["is the view of annihilation", 1360, 550, <W c={ROSE} s={30} serif>“It is not”: annihilation</W>],
         ["should not take their stand on existence or on non-existence", 960, 680, <W c={GOLD} s={34} serif>no stand on either</W>],
@@ -783,7 +783,7 @@ export const Body: React.FC = () => {
   const c = useCue();
   const starts: [keyof typeof M, string][] = [
     ["open", "This moment ceases as it arises"], ["web", "This is the second step of The Logic"],
-    ["search", "Tsongkhapa made this the first step of the whole analysis"], ["doubt", "The author learned this the long way"],
+    ["search", "made this the first step of the whole analysis"], ["doubt", "The author learned this the long way"],
     ["open", "Start with what the koan leaves alone"], ["sea", "With the logic of substance, there is a sound first"],
     ["web", "What is denied is one thing"], ["doubt", "There are two ways to fall short"],
     ["doubt", "The opposite mistake is quieter"], ["vivid", "Yet a harsh word still hurts"],
@@ -801,7 +801,7 @@ export const Body: React.FC = () => {
   const order: [string, React.ReactNode][] = [
     ["This moment ceases as it arises", <KoanScene />],
     ["This is the second step of The Logic", <AimScene />],
-    ["Tsongkhapa made this the first step of the whole analysis", <FindScene />],
+    ["made this the first step of the whole analysis", <FindScene />],
     ["The author learned this the long way", <NegatingScene />],
     ["Start with what the koan leaves alone", <BellScene />],
     ["With the logic of substance, there is a sound first", <BothWaysScene />],

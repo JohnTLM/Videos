@@ -49,7 +49,7 @@ export const PHRASES = [
   "It existed before and does not exist now", "Both start from a thing with a nature of its own",
   "So the void is not the opposite of substance", "It is substance in reverse", "The fear of death shows it",
   "Survival needs a bearer who carries on", "No bearer was ever found, not at death and not now",
-  "the remedy for one trap is never the other", "Tsongkhapa puts the cure in one line",
+  "the remedy for one trap is never the other", "puts the cure in one line",
   "appearance dispels the extreme of existence", "emptiness dispels the extreme of non-existence",
   "It is only ever the emptiness of what appears",
   // seen two ways
@@ -631,9 +631,9 @@ const CureScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("the remedy for one trap is never the other")}>the cure is never the other trap</Title>
       <Items items={[
-        ["Tsongkhapa puts the cure in one line", 960, 200, <K c={GOLD} s={26}>Tsongkhapa</K>, { pop: true }],
-        ["Tsongkhapa puts the cure in one line", 560, 330, <K c={TEAL} s={30}>appearance</K>, { d: 0.6 }],
-        ["Tsongkhapa puts the cure in one line", 560, 560, <K c={VIOLET} s={30}>emptiness</K>, { d: 0.9 }],
+        ["puts the cure in one line", 960, 200, <K c={GOLD} s={26}>Tsongkhapa</K>, { pop: true }],
+        ["puts the cure in one line", 560, 330, <K c={TEAL} s={30}>appearance</K>, { d: 0.6 }],
+        ["puts the cure in one line", 560, 560, <K c={VIOLET} s={30}>emptiness</K>, { d: 0.9 }],
       ]} />
       <At x={1360} y={330} o={ramp(t, ap - 0.2, 0.4)}><SK c={DIM} s={28} strikeAt={ap + 1.6}>“it is”</SK></At>
       <At x={1360} y={560} o={ramp(t, em - 0.2, 0.4)}><SK c={DIM} s={28} strikeAt={em + 1.8}>“it is not”</SK></At>

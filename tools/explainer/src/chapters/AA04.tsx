@@ -52,7 +52,7 @@ export const PHRASES = [
   "They are two ways of meeting one place",
   // conventional truth
   "Conventional sounds like a demotion", "Conventional truth is fully valid", "A table, a rainbow, a thought, a moment",
-  "And convention has standards", "Tsongkhapa gives three checks", "Known to ordinary cognition",
+  "And convention has standards", "gives three checks", "Known to ordinary cognition",
   "Not overturned by another sound ordinary cognition", "Not overturned by analysis of how things ultimately are",
   "The snake fails the second", "A rope existing from its own side fails the third",
   "The everyday world can tell a rope from a snake",
@@ -776,7 +776,7 @@ const ChecksScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("And convention has standards")} color={GOLD}>convention has standards</Title>
-      <At x={960} y={170} o={ramp(t, c("Tsongkhapa gives three checks"), 0.5)}><W c={DIM} s={26}>Tsongkhapa's three checks</W></At>
+      <At x={960} y={170} o={ramp(t, c("gives three checks"), 0.5)}><W c={DIM} s={26}>Tsongkhapa's three checks</W></At>
       {C.map(([cue, w], i) => (
         <At key={cue} x={560} y={300 + i * 110} o={ramp(t, c(cue), 0.5)}>
           <div style={{ display: "flex", alignItems: "center", gap: 18 }}><Num n={String(i + 1)} color={GOLD} lit={ramp(t, c(cue), 0.4)} /><W c={CHALK} s={28}>{w}</W></div>
