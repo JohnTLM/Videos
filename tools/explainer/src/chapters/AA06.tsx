@@ -20,54 +20,55 @@ import {
 // Copied verbatim from the script, in narration order. No respelled words inside.
 export const PHRASES = [
   // the koan and its two traps
-  "This moment ceases as it arises", "Does it arise, or does it cease", "The koan has two easy answers",
-  "Say it arises", "finds somewhere for the moment to last", "Say it ceases",
-  "nothing really happens", "These are eternalism and nihilism",
+  "This moment ceases as it arises", "Does it arise, or does it cease", "The koan has two easy answers", "Say it arises",
+  "finds somewhere for the moment to last", "Say it ceases", "nothing really happens", "These are eternalism and nihilism",
   "This is the sixth step of The Logic", "the two wrong answers grow from one root",
   // the snake
   "A snake catcher picks up a snake", "it is safe in his hand", "A beginner grabs it by the tail", "it turns and bites",
   "What decides is the grip", "uses this image for emptiness itself",
-    // two wrong ends
+  // two wrong ends
   "names the two ends", "It is is the grasping of permanence", "It is not is the view of annihilation",
-  "the world mostly leans on these two ideas",
-  "For one who sees the arising of the world", "For one who sees its ceasing", "teaches by the middle: dependent arising",
-  "That is the koan's own shape",   // eternalism
+  "the world mostly leans on these two ideas", "For one who sees the arising of the world", "For one who sees its ceasing",
+  "teaches by the middle: dependent arising", "That is the koan's own shape",
+  // eternalism
   "Take the first trap", "But it cannot stay", "So the mind moves the it somewhere that lasts", "A timeless Now",
   "An awareness in which moments come and go", "Or a Source, a ground of being behind everything",
-  "The plain form is the soul", "These three are subtler", "This was my own position for years",
-  "The taste was genuine", "Turning it into a Self was the mistake",
-  "The test is Step one's", "Look for it apart from what it depends on", "Awareness is always awareness of something",
-  "A Source, looked for apart", "is not found either",
+  "The plain form is the soul", "These three are subtler", "This was my own position for years", "The taste was genuine",
+  "Turning it into a Self was the mistake", "The test is Step one's", "Look for it apart from what it depends on",
+  "Awareness is always awareness of something", "A Source, looked for apart", "is not found either",
   // nihilism
   "Now the second trap", "so it was never really there", "Nothing matters, and actions have no results",
-  "opponent hears empty in just this way",   "he has misunderstood emptiness itself",
-  "Nihilism has a subtle form too", "the disease of relentless negation", "and appearance is a leftover",
+  "opponent hears empty in just this way", "he has misunderstood emptiness itself", "Nihilism has a subtle form too",
+  "the disease of relentless negation", "and appearance is a leftover",
   "negation removes only the idea that appearance needed an essence", "Nothing is taken away from the appearing",
-  "The red of the flower and the ring of the bell",   "The void is not even coherent", "Try to think of absolute nothing", "a darkness, a silence, yourself looking on",
+  "The red of the flower and the ring of the bell", "The void is not even coherent", "Try to think of absolute nothing",
+  "a darkness, a silence, yourself looking on",
   // one root
   "Here is the root", "disagree about what befalls the moment", "They agree that there is a moment for it to befall",
-  "puts it in one verse", "What exists by its own nature does not cease to exist",   "It existed before and does not exist now",   "Both start from a thing with a nature of its own",   "So the void is not the opposite of substance", "It is substance in reverse",
-  "The fear of death shows it", "Survival needs a bearer who carries on",
-  "No bearer was ever found, not at death and not now",
+  "puts it in one verse", "What exists by its own nature does not cease to exist",
+  "It existed before and does not exist now", "Both start from a thing with a nature of its own",
+  "So the void is not the opposite of substance", "It is substance in reverse", "The fear of death shows it",
+  "Survival needs a bearer who carries on", "No bearer was ever found, not at death and not now",
   "the remedy for one trap is never the other", "Tsongkhapa puts the cure in one line",
   "appearance dispels the extreme of existence", "emptiness dispels the extreme of non-existence",
   "It is only ever the emptiness of what appears",
   // seen two ways
-  "Hear it both ways", "With the logic of substance, I must pick",   "With the logic of dependency, the same sound rings", "No sound stands behind the sounding",
-  "Nothing is kept, and nothing is lost", "It is like the stairs of Step one",   // emptiness held wrongly
-  "one more place for the snake to bite", "the moment is not found",   "Grasped as something, it becomes the Unfound", "eternalism wearing the name of its cure",
-  "Grasped as nothing, it becomes a blank to rest in", "nihilism wearing the same name",
-  "those for whom emptiness becomes a view are incurable",
-  "Emptiness is a medicine", "compares it to a purgative", "clears the blockage, and then leaves the body too",
-  "always the emptiness of something", "It does not lie behind the cup",
-  "the cup's not being a cup from its own side",
+  "Hear it both ways", "With the logic of substance, I must pick", "With the logic of dependency, the same sound rings",
+  "No sound stands behind the sounding", "Nothing is kept, and nothing is lost", "It is like the stairs of Step one",
+  // emptiness held wrongly
+  "one more place for the snake to bite", "the moment is not found", "Grasped as something, it becomes the Unfound",
+  "eternalism wearing the name of its cure", "Grasped as nothing, it becomes a blank to rest in",
+  "nihilism wearing the same name", "those for whom emptiness becomes a view are incurable", "Emptiness is a medicine",
+  "compares it to a purgative", "clears the blockage, and then leaves the body too", "always the emptiness of something",
+  "It does not lie behind the cup", "the cup's not being a cup from its own side",
   // the middle
-  "So the middle is not a midpoint", "what is left when nothing is found to bear either label",
-  "Nor is it a thinner world", "A harsh word still hurts", "Actions still bear fruit",
-  "Not found never means does not happen",
+  "So the middle is not a midpoint", "what is left when nothing is found to bear either label", "Nor is it a thinner world",
+  "A harsh word still hurts", "Actions still bear fruit", "Not found never means does not happen",
   // beyond the moment
-  "The two traps wait wherever an it is assumed", "The self one keeps a soul forever",   "An object one says the cup is really there", "Meanwhile the cup holds tea", "A cause one makes the seed already the sprout",
-  "And a person held as fixed",   "No such bearer is found, and the person can really change",
+  "The two traps wait wherever an it is assumed", "The self one keeps a soul forever",
+  "An object one says the cup is really there", "Meanwhile the cup holds tea",
+  "A cause one makes the seed already the sprout", "And a person held as fixed",
+  "No such bearer is found, and the person can really change",
   // try it
   "Listen to a sound and ask", "Notice where each answer wants to put the moment",
   "Then look for the it both answers share", "check whether cause and result now matter less to you",

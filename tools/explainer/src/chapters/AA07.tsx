@@ -26,7 +26,6 @@ export const PHRASES = [
   // one premise
   "Two opposite conclusions are drawn from the koan", "there must be a real moment of sound", "then nothing happens",
   "But they share one premise", "happening needs an it for the happening to happen to",
- 
   "Drop that premise, and both conclusions go", "The bell is heard", "The clock keeps time",
   "And there is no it behind the working", "Each works as designated",
   // the bell both ways
