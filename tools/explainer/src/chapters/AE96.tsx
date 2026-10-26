@@ -4,7 +4,7 @@
 // experience; bare attention tastes clarity but the habit reads it -> three tastes, three inventions (a witness, a world
 // out there, only mind), each struck -> the three positions; inside needs outside -> the great masters -> the koan's four
 // answers, each struck -> the ways out (a timeless Now, an awareness, a pure flow), each struck -> moment, arising and
-// ceasing designated together -> the staircase, up and down -> "it falls away" -> the eight steps -> the four questions
+// ceasing designated together -> the staircase, up and down -> "it falls away" -> the eight steps -> the four questions -> beyond the moment (self, object, cause, person)
 // -> questioning the question -> nothing lost, no floor underneath -> the bell again -> close.
 // Stance: no awareness, clarity, emptiness, relation or dependent arising is drawn as a source, ground, container or
 // backdrop. Each "way out" and each invented "it" is shown only to be struck. The bell, apple, stairs and clock stay vivid.
@@ -79,6 +79,13 @@ export const PHRASES = [
   "The seventh answers the worry", "It is because nothing stands on its own",
   "And the eighth gathers it all into four questions", "What would a substance view say", "What does dependency say instead",
   "What is affirmed conventionally", "What is never found",
+  // beyond the moment: a self, an object, a cause, a person
+  "The koan is only the sharpest case", "a self, an object, a cause, a person",
+  "Say I have changed", "Look for the one who changed, apart from the changing", "Yet a promise I made is still mine to keep",
+  "Close your hand, and a fist appears", "Open it, and the fist is gone", "There was never a fist apart from the hand closing",
+  "Yet a fist can still knock on a door",
+  "A seed is called a cause only of its sprout", "Cause and effect are named together", "never from barley",
+  "Look for a friend apart from the face", "Yet the friendship is real", "someone lived, was loved, and is missed",
   // questioning the question
   "There is one more turn", "does the self exist", "what happens when I die",
   "each question already assumes a thing with its own nature", "any answer only swaps one thing for another",
@@ -994,6 +1001,68 @@ const FourQScene: React.FC = () => {
   );
 };
 
+/** A hand, open or closed into a fist (closed: 0..1). */
+const Hand: React.FC<{ closed: number; color?: string }> = ({ closed, color = WARM }) => (
+  <svg width={130} height={130} viewBox="0 0 130 130" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <rect x={30} y={62} width={70} height={56} rx={18} fill={`${color}22`} stroke={color} strokeWidth={4} />
+    {[0, 1, 2, 3].map(i => (
+      <rect key={i} x={32 + i * 17} y={62 - 46 * (1 - closed)} width={14} height={14 + 46 * (1 - closed)} rx={7}
+        fill={`${color}22`} stroke={color} strokeWidth={3.5} />
+    ))}
+    <rect x={6 + 18 * closed} y={70} width={30 - 6 * closed} height={14} rx={7} fill={`${color}22`} stroke={color} strokeWidth={3.5} />
+  </svg>
+);
+
+/** A seed and its sprout, joined: cause and effect named together. */
+const SeedSprout: React.FC<{ grow: number }> = ({ grow }) => (
+  <svg width={200} height={130} viewBox="0 0 200 130" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${GREEN}88)` }}>
+    <ellipse cx={40} cy={100} rx={22} ry={14} fill="#b07a4566" stroke="#c99060" strokeWidth={4} />
+    <path d={`M150 118 L150 ${118 - 70 * grow}`} stroke={GREEN} strokeWidth={5} strokeLinecap="round" />
+    <path d={`M150 ${118 - 50 * grow} Q122 ${100 - 60 * grow} 132 ${110 - 70 * grow} Q146 ${108 - 52 * grow} 150 ${118 - 50 * grow} Z`}
+      fill={`${GREEN}55`} stroke={GREEN} strokeWidth={3} opacity={grow} />
+    <path d="M66 100 Q100 76 136 100" fill="none" stroke={GOLD} strokeWidth={3} strokeDasharray="6 5" opacity={grow} />
+  </svg>
+);
+
+const BeyondScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const close = ramp(t, c("Close your hand, and a fist appears"), 0.8) * (1 - ramp(t, c("Open it, and the fist is gone"), 0.8));
+  const grow = ramp(t, c("A seed is called a cause only of its sprout") + 0.6, 1.2);
+  const Q: [string, number, number, string, string][] = [
+    ["Say I have changed", 520, 250, "the self", ICE],
+    ["Close your hand, and a fist appears", 1400, 250, "an object", WARM],
+    ["A seed is called a cause only of its sprout", 520, 620, "a cause", GREEN],
+    ["Look for a friend apart from the face", 1400, 620, "the person", ROSE],
+  ];
+  return (
+    <AbsoluteFill>
+      <Title at={c("The koan is only the sharpest case")}>beyond the moment</Title>
+      {Q.map(([cue, x, y, w, col]) => (
+        <At key={w} x={x} y={y} o={ramp(t, c("a self, an object, a cause, a person"), 0.5) * (0.4 + 0.6 * ramp(t, c(cue), 0.4))}>
+          <K c={col} s={30}>{w}</K>
+        </At>
+      ))}
+      <Items items={[
+        ["Say I have changed", 520, 330, <W c={ICE} s={30} serif>“I have changed”</W>, { d: 0.3 }],
+        ["Look for the one who changed, apart from the changing", 520, 400, <SK c={DIM} s={26} strikeAt={c("Look for the one who changed, apart from the changing") + 2.2}>an “I” apart from the changing</SK>, {}],
+        ["Yet a promise I made is still mine to keep", 520, 465, <W c={GOLD} s={26}>the promise is still kept</W>, {}],
+        ["Close your hand, and a fist appears", 1290, 380, <Hand closed={close} />, { pop: true }],
+        ["Close your hand, and a fist appears", 1510, 360, <W c={WARM} s={28}>a “fist”</W>, { d: 0.6, until: "Open it, and the fist is gone", ud: 0.4 }],
+        ["There was never a fist apart from the hand closing", 1510, 400, <W c={DIM} s={24}>never apart from the closing</W>, {}],
+        ["Yet a fist can still knock on a door", 1400, 470, <W c={GOLD} s={26}>still knocks on a door</W>, {}],
+        ["A seed is called a cause only of its sprout", 520, 720, <SeedSprout grow={grow} />, { pop: true }],
+        ["Cause and effect are named together", 520, 820, <W c={GOLD} s={26}>named together</W>, {}],
+        ["never from barley", 520, 870, <W c={GREEN} s={24}>rice from rice, never barley</W>, {}],
+        ["Look for a friend apart from the face", 1310, 730, <Person color={ROSE} size={110} />, { pop: true }],
+        ["Look for a friend apart from the face", 1490, 730, <Person color={TEAL} size={110} />, { pop: true, d: 0.3 }],
+        ["Yet the friendship is real", 1400, 830, <W c={GOLD} s={26}>the friendship is real</W>, {}],
+        ["someone lived, was loved, and is missed", 1400, 880, <W c={ROSE} s={24} serif>lived, loved, and missed</W>, {}],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const QuestionScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -1087,7 +1156,7 @@ export const Body: React.FC = () => {
     ["doubt", "The author describes three ways this happens"], ["whole", "The great masters said the same"],
     ["search", "Now return to the koan"], ["doubt", "the logic of substance looks for a way out"],
     ["web", "The logic of dependency starts one step earlier"], ["vivid", "Think of a staircase"],
-    ["sea", "The eight steps of The Logic each come back"], ["search", "There is one more turn"],
+    ["sea", "The eight steps of The Logic each come back"], ["vivid", "The koan is only the sharpest case"], ["search", "There is one more turn"],
     ["whole", "Nothing is lost when the it is not found"], ["vivid", "Listen to the bell once more"],
   ];
   const moods: Mood[] = [];
@@ -1123,6 +1192,7 @@ export const Body: React.FC = () => {
     ["It is a plain description", <FallsAwayScene />],
     ["The eight steps of The Logic each come back", <StepsScene />],
     ["What would a substance view say", <FourQScene />],
+    ["The koan is only the sharpest case", <BeyondScene />],
     ["There is one more turn", <QuestionScene />],
     ["Nothing is lost when the it is not found", <NothingLostScene />],
     ["Listen to the bell once more", <BellAgainScene />],

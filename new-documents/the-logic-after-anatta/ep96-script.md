@@ -2,7 +2,7 @@
 chapter: bonus
 title: "The Logic: After Anatta"
 source_words: 21000
-script_words: 1690
+script_words: 1863
 intro: yes
 voice: male
 ---
@@ -86,6 +86,16 @@ The sixth names the two traps. Say "it arises", and the mind finds somewhere for
 The seventh answers the worry. If no moment is found, how does anything work? A moment with its own fixed nature could never arise or cease at all. It is because nothing stands on its own that things can arise, change and work.
 
 And the eighth gathers it all into four questions, ready for any question. What would a substance view say? What does dependency say instead? What is affirmed conventionally? What is never found?
+
+The koan is only the sharpest case. Each step also carries the same logic beyond the moment: to a self, an object, a cause, a person.
+
+The self. Say "I have changed." The sentence holds an "I" still, so that the changing can happen to it. Look for the one who changed, apart from the changing, and none is found. Yet a promise I made is still mine to keep.
+
+An object. Close your hand, and a fist appears. Open it, and the fist is gone. Where did it go? Nowhere. There was never a fist apart from the hand closing. Yet a fist can still knock on a door.
+
+A cause. A seed is called a cause only of its sprout. Cause and effect are named together. Still, rice grows from rice seed, never from barley.
+
+The person. Look for a friend apart from the face, the voice and the years of meeting, and no one is found. Yet the friendship is real. When they die, someone lived, was loved, and is missed.
 
 There is one more turn. We think our way of solving is logical. We bring questions like "does the self exist?" or "what happens when I die?", and try to answer them. But each question already assumes a thing with its own nature. Answered in the same frame, any answer only swaps one thing for another. The view offers something else. Not a better answer, but a way to question the question.
 
