@@ -41,7 +41,7 @@ Built from a Claude cloud session (done for ep90, 2026-10-18):
   `npm ci` in `tools/explainer` (setup and run steps: `tools/README.md`). The fonts are in `tools/assets/fonts/`.
 - Run the series' `build.py` (for example `tools/series/anatta-to-emptiness/build.py --chapter 94`) with
   `TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt
-  REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell`. Remotion needs the
+  REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell`. Remotion needs the
   headless shell, not full Chromium. A 3–4 minute video takes about 10–15 minutes to render.
 - The Drive connector cannot upload the MP4s (too large to send). Send them to the owner (SendUserFile) to put in
   Drive. Save the text files here (step 6) and also in the video's Drive folder; commit new drawings in
