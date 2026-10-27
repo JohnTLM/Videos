@@ -484,8 +484,9 @@ def speak_intro(chdir, nn, line, pron, work, voice=(VOICE, RATE, PITCH)):
     return out, duration(out)
 
 
-def render_remotion(chdir, nn, slug, label, title, title_sec, intro, narr, total, timed, cues, scenes_tsx):
-    """intro: the spoken title mp3, or None for a video that starts without chapter number and title."""
+def render_remotion(chdir, nn, slug, label, title, title_sec, intro, narr, total, timed, cues, scenes_tsx, word=None):
+    """intro: the spoken title mp3, or None for a video that starts without chapter number and title.
+    word: a script's own `label:` (e.g. "After Anatta · A koan"), shown on the title card instead of word + number."""
     pub = REMOTION / "public"
     # files shared in the Remotion project carry the series prefix, so two books never overwrite each other
     tag = "" if PREFIX == "Ch" else f"{PREFIX.lower()}-"
@@ -493,7 +494,8 @@ def render_remotion(chdir, nn, slug, label, title, title_sec, intro, narr, total
         shutil.copy(intro, pub / f"{tag}{intro.name}")
     shutil.copy(narr, pub / f"{tag}{narr.name}")
     bonus = label.lower() == "bonus"   # `chapter: bonus` → title card "BONUS", no number
-    props = {"chapter": int(nn), "chapterLabel": "" if bonus else label, "labelWord": "Bonus" if bonus else INTRO_WORD,
+    props = {"chapter": int(nn), "chapterLabel": "" if bonus or word else label,
+             "labelWord": word or ("Bonus" if bonus else INTRO_WORD),
              "title": title, "titleSec": round(title_sec, 3),
              "showTitle": intro is not None, "introAudio": f"{tag}{intro.name}" if intro else "", "introStart": INTRO_START,
              "narration": f"{tag}{narr.name}", "durationSec": round(total, 3),
@@ -605,6 +607,8 @@ def build(chdir, skip_existing=False):
         label = str(meta.get("chapter", int(nn)))
         if wants_intro(meta):
             line = f"Bonus. {meta['title']}" if label.lower() == "bonus" else f"{INTRO_WORD} {label}. {meta['title']}"
+            if meta.get("label"):   # `label: After Anatta · A koan` → spoken "After Anatta, A koan. Title."
+                line = f"{meta['label'].replace(' · ', ', ')}. {meta['title']}"
             line = line if line[-1] in ".?!" else line + "."
             intro, intro_dur = speak_intro(chdir, nn, line, pron, work, voice)
             title_sec = max(TITLE_S, INTRO_START + intro_dur + 1.4)
@@ -614,7 +618,8 @@ def build(chdir, skip_existing=False):
         write_srt(cues, chdir / f"{FP}{nn}.srt")
         problems = check_srt(cues)
         total = title_sec + narr_dur + TAIL_S + FADE_S
-        mp4 = render_remotion(chdir, nn, slug, label, meta["title"], title_sec, intro, narr, total, timed, cues, scenes_tsx)
+        mp4 = render_remotion(chdir, nn, slug, label, meta["title"], title_sec, intro, narr, total, timed, cues, scenes_tsx,
+                             word=meta.get("label"))
     else:
         cues = build_cues(timed, pron)
         write_srt(cues, chdir / f"{FP}{nn}.srt")

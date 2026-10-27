@@ -36,7 +36,7 @@ You also need `ffmpeg`. On the owner's Windows computer see `SETUP-AND-ARCHITECT
 
    ```bash
    TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt \
-   REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell \
+   REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell \
    python tools/series/observer-and-presence/build.py --chapter 20
    ```
 
