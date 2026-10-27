@@ -513,8 +513,8 @@ const GroundScene: React.FC = () => {
       {["this seeing", "this light", "this attention"].map((w, i) => (
         <At key={w} x={560 + i * 400} y={700} o={ramp(t, withC + i * 0.6, 0.4) * (1 - condOff * 0.85)}><K c={ICE} s={26}>{w}</K></At>
       ))}
-      <At x={960} y={790} o={ramp(t, bg, 0.4) * (1 - ramp(t, cond, 0.3))}><Wd c={DIM} s={28}>no background: nothing stands out</Wd></At>
-      <At x={960} y={790} o={ramp(t, cond, 0.4)}><Wd c={DIM} s={28}>no conditions: nothing singled out</Wd></At>
+      <At x={960} y={770} o={ramp(t, bg, 0.4) * (1 - ramp(t, cond - 0.6, 0.3))}><Wd c={DIM} s={28}>no background: nothing stands out</Wd></At>
+      <At x={960} y={810} o={ramp(t, cond, 0.4)}><Wd c={DIM} s={28}>no conditions: nothing singled out</Wd></At>
     </AbsoluteFill>
   );
 };
