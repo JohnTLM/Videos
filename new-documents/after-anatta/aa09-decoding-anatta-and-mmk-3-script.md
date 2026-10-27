@@ -1,6 +1,6 @@
 ---
 chapter: 9
-title: "Who Is Seeing?"
+title: "Decoding Anatta and MMK Chapter 3"
 series: "After Anatta 9"
 source: owner's brief (2026-10-27) and the talk "Decoding the Grammar of Anatta and Emptiness" (youtu.be/Kpdlx7GLfZA); thusness-website after-anatta/step-3.html, mmk chapters 2, 3 and 10
 script_words: 1084
@@ -8,7 +8,7 @@ intro: yes
 voice: male
 ---
 
-# Who Is Seeing?
+# Decoding Anatta and MMK Chapter 3
 
 The Buddha told a wandering ascetic named Bahiya: in the seen, there will be just the seen. No one behind the eyes, doing the seeing.
 
