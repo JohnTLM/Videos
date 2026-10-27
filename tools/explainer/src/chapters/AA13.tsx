@@ -711,7 +711,7 @@ const WebScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("Now the third trap")} color={WARM}>the third trap</Title>
-      <At x={960} y={220} o={ramp(t, web, 0.4) * (1 - ramp(t, diag, 0.4))}><Wd c={TEAL} s={34} serif>a web · a network</Wd></At>
+      <At x={960} y={168} o={ramp(t, web, 0.4) * (1 - ramp(t, diag, 0.4))}><Wd c={TEAL} s={34} serif>a web · a network</Wd></At>
       <Net draw={ramp(t, web, 2.5)} dotsBold={dotsBold} linesBold={linesBold}
         dashD={ramp(t, contact + 1.5, 0.5)} dashL={ramp(t, contact + 0.5, 0.5)} fade={ramp(t, laws, 1.2) * 0.85} />
       <Items items={[
@@ -732,7 +732,7 @@ const WebScene: React.FC = () => {
       </At>
       <Items items={[
         ["Contact, coming into contact, and the one who brings them into contact are not found", 960, 780, <Wd c={CHALK} s={26}>contact, coming into contact, the one who brings it: not found (MMK 14.8)</Wd>, { until: "Relation and the things related are named together" }],
-        ["The line is as unfindable as the dot", 960, 180, <Wd c={VIOLET} s={32} serif>the line, as unfindable as the dot</Wd>, { until: "Nor is the order of conditions a hidden set of laws behind things" }],
+        ["The line is as unfindable as the dot", 960, 166, <Wd c={VIOLET} s={32} serif>the line, as unfindable as the dot</Wd>, { until: "Nor is the order of conditions a hidden set of laws behind things" }],
         ["Relation and the things related are named together", 960, 780, <Wd c={CHALK} s={28}>named together; neither the ground</Wd>, { until: "Nor is the order of conditions a hidden set of laws behind things" }],
         ["Nor is the order of conditions a hidden set of laws behind things", 960, 420, <SK c={DIM} s={28} strikeAt={laws + 2.4}>hidden laws behind things</SK>],
         ["The order is fully valid", 960, 560, <K c={GREEN} s={28}>the order: fully valid</K>, { pop: true }],
