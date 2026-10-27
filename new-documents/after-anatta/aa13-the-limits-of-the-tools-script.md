@@ -68,4 +68,6 @@ Here is how to use the tools anyway. Say what the tool cannot do, while using it
 
 One word carries the whole difficulty. Real. It says that something works, and it denies that anything stands on its own. One word for two opposite jobs. So say validly functioning where it affirms, and not found where it denies.
 
-Listen to the rain again. Vivid. Changing with the wind. Following its conditions. Not found anywhere, not even nowhere. The words were never meant to hold it. They only point, and then step aside.
+Listen to the rain again. Vivid. Changing with the wind. Following its conditions. Not found anywhere, not even nowhere.
+
+The more you taste the appearances, the more you see the nature of appearances. The more you see and understand the lack and limitations of the tools, the clearer the mind becomes. And the opening turns effortless and relaxed.

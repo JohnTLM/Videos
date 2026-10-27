@@ -8,7 +8,8 @@
 // nots, not even nowhere -> not despite the vividness; emptiness does nothing -> the rainbow -> the web: dots and lines,
 // two readings, three more distortions (around, still, an onlooker), the line as unfindable as the dot; laws struck ->
 // no presentation free of tools; the mapmaker -> how to use them: say it, show by change, start inside, draw then undo
-// -> "real": two jobs, two words -> rain again.
+// -> "real": two jobs, two words -> rain again -> the owner's closing verse (taste, nature, the limits of the tools,
+// clarity, an effortless opening).
 // Stance: relation, conditions, emptiness and awareness are never drawn as a ground, field, container or background;
 // the web, a source, a raw given, a void and the onlooker appear only to be struck or dissolved. Appearing stays vivid.
 import React from "react";
@@ -133,8 +134,10 @@ export const PHRASES = [
   "So say validly functioning where it affirms", "and not found where it denies",
   // close
   "Listen to the rain again", "Changing with the wind", "Following its conditions",
-  "Not found anywhere, not even nowhere", "The words were never meant to hold it",
-  "They only point, and then step aside",
+  "Not found anywhere, not even nowhere",
+  "The more you taste the appearances", "the more you see the nature of appearances",
+  "The more you see and understand the lack and limitations of the tools", "the clearer the mind becomes",
+  "And the opening turns effortless and relaxed",
 ];
 
 const M = {
@@ -878,18 +881,25 @@ const EndScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const s = c("Listen to the rain again");
-  const w = c("The words were never meant to hold it");
-  const p = c("They only point, and then step aside");
+  const v = c("The more you taste the appearances");
+  const L: [string, string, string][] = [
+    ["The more you taste the appearances", "The more you taste the appearances,", GOLD],
+    ["the more you see the nature of appearances", "the more you see their nature,", ROSE],
+    ["The more you see and understand the lack and limitations of the tools", "the more you see the limits of the tools,", TEAL],
+    ["the clearer the mind becomes", "the clearer the mind becomes,", ICE],
+    ["And the opening turns effortless and relaxed", "and the opening turns effortless and relaxed.", GOLD],
+  ];
   return (
     <AbsoluteFill>
-      <At x={960} y={360} o={ramp(t, s, 0.8) * (1 - 0.5 * ramp(t, w, 0.8))}><Rain wind={Math.sin(t * 0.5)} n={60} h={480} /></At>
+      <At x={960} y={360} o={ramp(t, s, 0.8) * (1 - 0.7 * ramp(t, v, 0.8))}><Rain wind={Math.sin(t * 0.5)} n={60} h={480} /></At>
       <Items items={[
-        ["Changing with the wind", 560, 640, <Wd c={TEAL} s={28}>changing with the wind</Wd>, { until: "The words were never meant to hold it" }],
-        ["Following its conditions", 960, 700, <Wd c={ICE} s={28}>following its conditions</Wd>, { until: "The words were never meant to hold it" }],
-        ["Not found anywhere, not even nowhere", 1360, 640, <Wd c={VIOLET} s={28}>not found, not even nowhere</Wd>, { until: "The words were never meant to hold it" }],
+        ["Changing with the wind", 560, 640, <Wd c={TEAL} s={28}>changing with the wind</Wd>, { until: "The more you taste the appearances" }],
+        ["Following its conditions", 960, 700, <Wd c={ICE} s={28}>following its conditions</Wd>, { until: "The more you taste the appearances" }],
+        ["Not found anywhere, not even nowhere", 1360, 640, <Wd c={VIOLET} s={28}>not found, not even nowhere</Wd>, { until: "The more you taste the appearances" }],
       ]} />
-      <At x={960} y={620} o={ramp(t, w - 0.2, 0.3)}><Reveal text="The words never held it." at={w} size={54} color={GOLD} speed={0.04} /></At>
-      <At x={960} y={720} o={ramp(t, p - 0.2, 0.3)}><Reveal text="They point, and step aside." at={p} size={54} color={TEAL} speed={0.04} /></At>
+      {L.map(([cue, text, col], i) => (
+        <At key={i} x={960} y={250 + i * 105} o={ramp(t, c(cue) - 0.2, 0.3)}><Reveal text={text} at={c(cue)} size={46} color={col} speed={0.03} /></At>
+      ))}
     </AbsoluteFill>
   );
 };
