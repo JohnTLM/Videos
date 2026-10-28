@@ -4,7 +4,8 @@
 // both logics: rival reports, or nothing competes -> the rope in the garage: two kinds of correction ->
 // the two-storey picture, physical and spiritual, and the author's Witness floor -> no floor behind, none above ->
 // conventional truth fully valid, with Tsongkhapa's three checks -> ultimate truth not a hidden reality, and empty too ->
-// each needs the other: the ladder with no top -> Mipham: discordant and concordant -> self, ship, fire, friend -> try it.
+// each needs the other: the ladder with no top -> Mipham: discordant and concordant -> two watches and GPS: no single time ->
+// self, ship, fire, friend -> try it (a scale: the number correct, a weight in the body alone not found).
 // Stance: the two truths are never drawn as two floors with the ultimate underneath; the floors are drawn only to be
 // taken away. Emptiness is drawn only as the not-finding, never as a ground, source or backdrop. Awareness, the Witness,
 // the Absolute and "the ultimate" as a level are shown only to be struck. The bell, rope, ship, fire and friend stay vivid.
@@ -67,15 +68,23 @@ export const PHRASES = [
   "Mipham draws the line another way", "a cold thing over there and a feeler over here",
   "Meet the same coldness without that fixing", "After anatta, presence did not fade into some deeper truth",
   "What changed was how it was held",
+  // two watches, and GPS
+  "Raise one hand and lower the other", "For the raised hand, time passes a little faster",
+  "Carlo Rovelli once showed this with two watches", "one held high and one low",
+  "The best clocks can measure it over a height of about thirty centimetres", "GPS satellites sit high and move fast",
+  "so their clocks run about", "Left uncorrected, your map would drift by about ten kilometres a day",
+  "Your watch is right, and so is the correction", "no single time is found apart from where the clock is and how it moves",
+  "Two truths, and the map still gets you home",
   // beyond the moment
   "Every thing has the koan's two answers", "I wrote this is correct, and it can be checked", "One self, met two ways",
   "A ship whose every plank has been replaced still sails", "Fire burns, and a hand put in it is hurt",
   "Yet no power to burn is found in the fire on its own", "And the friend you love keeps promises, and grieves",
   "Seeing that takes nothing from the love", "Love, sorrow and care stay where they were",
   // try it
-  "Try it", "Clap once", "Say when the sound began and ended", "Then look for the sound apart from the sounding",
+  "Try it", "Stand on a scale and read the number", "That answer is correct",
+  "Then look for the weight in your body alone, apart from the earth that pulls it",
   "Notice that the second look takes nothing from the first", "Recall a coat on a chair, taken for a person",
-  "Notice how cleanly the second look corrected the first", "Convention has standards", "One sound, met two ways",
+  "Notice how cleanly the second look corrected the first", "Convention has standards", "One weight, met two ways",
   "And nothing extra behind it",
 ];
 
@@ -431,16 +440,54 @@ const CoatChair: React.FC = () => (
   </svg>
 );
 
-/** Two clapping hands, meeting at `at`. */
-const Clap: React.FC<{ at: number }> = ({ at }) => {
+/** A bathroom scale with its reading in a small window. */
+const Scale: React.FC<{ reading: string; lit?: number }> = ({ reading, lit = 1 }) => (
+  <svg width={300} height={200} viewBox="0 0 300 200" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${ICE}88)` }}>
+    <rect x={10} y={20} width={280} height={170} rx={34} fill={`${ICE}18`} stroke={ICE} strokeWidth={5} />
+    <rect x={95} y={42} width={110} height={50} rx={10} fill="#0009" stroke={ICE} strokeWidth={3} />
+    <text x={150} y={78} textAnchor="middle" fontFamily={SANS} fontWeight={700} fontSize={30} fill={GOLD} opacity={lit}
+      style={{ filter: `drop-shadow(0 0 6px ${GOLD})` }}>{reading}</text>
+    <path d="M60 120 Q150 112 240 120 M60 145 Q150 137 240 145" stroke={ICE} strokeWidth={3} opacity={0.4} fill="none" />
+  </svg>
+);
+
+/** A wrist watch whose hands turn at `rate` (1 = ordinary). */
+const Watch: React.FC<{ rate?: number; size?: number; color?: string; glow?: number }> = ({ rate = 1, size = 150, color = ICE, glow = 0 }) => {
   const { t } = useT();
-  const g = 60 * (1 - ramp(t, at - 0.25, 0.25)) + 60 * ramp(t, at + 0.15, 0.4);
-  const hand = (s: number) => (
-    <svg width={90} height={150} viewBox="0 0 90 150" style={{ overflow: "visible", transform: `scaleX(${s})`, filter: `drop-shadow(0 0 8px ${WARM}88)` }}>
-      <path d="M70 145 L70 30 Q70 12 56 12 Q44 12 44 30 L44 70 Q30 60 22 70 Q16 80 30 96 L50 145 Z" fill={`${WARM}22`} stroke={WARM} strokeWidth={4} strokeLinejoin="round" />
+  return (
+    <svg width={size} height={size * 1.5} viewBox="0 0 100 150" style={{ overflow: "visible", filter: `drop-shadow(0 0 ${8 + 18 * glow}px ${color})` }}>
+      <rect x={32} y={0} width={36} height={150} rx={10} fill={`${color}18`} stroke={color} strokeWidth={3} opacity={0.6} />
+      <circle cx={50} cy={75} r={40} fill="#0008" stroke={color} strokeWidth={5} />
+      {Array.from({ length: 12 }).map((_, i) => <line key={i} x1={50} y1={39} x2={50} y2={45} stroke={color} strokeWidth={3} transform={`rotate(${i * 30} 50 75)`} />)}
+      <line x1={50} y1={75} x2={50} y2={44} stroke={CHALK} strokeWidth={3} strokeLinecap="round" transform={`rotate(${t * 60 * rate} 50 75)`} />
+      <line x1={50} y1={75} x2={50} y2={52} stroke={GOLD} strokeWidth={5} strokeLinecap="round" transform={`rotate(${t * 5 * rate} 50 75)`} />
     </svg>
   );
-  return <div style={{ display: "flex", gap: g }}>{hand(1)}{hand(-1)}</div>;
+};
+
+/** The earth, with a GPS satellite going round it on a tilted orbit. */
+const Orbit: React.FC<{ x: number; y: number; at: number; o?: number }> = ({ x, y, at, o = 1 }) => {
+  const { t } = useT();
+  const a = (t - at) * 0.9 - Math.PI / 2;
+  const sx = x + 290 * Math.cos(a), sy = y + 120 * Math.sin(a);
+  return (
+    <>
+      <Svg style={{ opacity: o }}>
+        <ellipse cx={x} cy={y} rx={290} ry={120} fill="none" stroke={DIM} strokeWidth={2} strokeDasharray="10 10" />
+        <circle cx={x} cy={y} r={88} fill={`${TEAL}33`} stroke={TEAL} strokeWidth={4} style={{ filter: `drop-shadow(0 0 14px ${TEAL})` }} />
+        <path d={`M${x - 60} ${y - 30} q30 -20 50 4 q16 24 -14 40 q-30 6 -36 -44 Z M${x + 22} ${y + 10} q30 -10 40 14 q-14 30 -40 -14 Z`}
+          fill={`${GREEN}55`} stroke={GREEN} strokeWidth={2} />
+      </Svg>
+      <At x={sx} y={sy} o={o}>
+        <svg width={110} height={60} viewBox="0 0 110 60" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${GOLD})` }}>
+          <rect x={0} y={20} width={34} height={20} fill={`${ICE}44`} stroke={ICE} strokeWidth={2} />
+          <rect x={76} y={20} width={34} height={20} fill={`${ICE}44`} stroke={ICE} strokeWidth={2} />
+          <path d="M34 30 L76 30" stroke={CHALK} strokeWidth={2} />
+          <rect x={42} y={14} width={26} height={32} rx={4} fill={`${GOLD}55`} stroke={GOLD} strokeWidth={3} />
+        </svg>
+      </At>
+    </>
+  );
 };
 
 // ---------------------------------------------------------------- scenes
@@ -879,6 +926,46 @@ const MiphamScene: React.FC = () => {
   );
 };
 
+const TimeScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const raise = c("Raise one hand and lower the other");
+  const fast = c("For the raised hand, time passes a little faster");
+  const cm = c("The best clocks can measure it over a height of about thirty centimetres");
+  const gps = c("GPS satellites sit high and move fast");
+  const right = c("Your watch is right, and so is the correction");
+  const single = c("no single time is found apart from where the clock is and how it moves");
+  const hi = 270 - 30 * ramp(t, raise, 0.8), lo = 560 + 30 * ramp(t, raise, 0.8);
+  return (
+    <AbsoluteFill>
+      <Title at={raise} color={ICE}>time, high and low</Title>
+      <At x={480} y={hi} s={pop(t, fps, raise)}><Watch rate={1.06} size={120} color={GOLD} glow={ramp(t, fast, 0.6)} /></At>
+      <At x={480} y={lo} s={pop(t, fps, raise + 0.3)}><Watch rate={1} size={120} color={ICE} /></At>
+      <Svg>
+        <DrawPath d={`M620 ${hi} L620 ${lo} M605 ${hi} L635 ${hi} M605 ${lo} L635 ${lo}`} p={ramp(t, cm, 0.8)} color={DIM} width={3} len={400} glow={false} />
+      </Svg>
+      <Orbit x={1380} y={420} at={gps} o={ramp(t, gps, 0.6)} />
+      <Items items={[
+        ["Raise one hand and lower the other", 320, hi, <W c={GOLD} s={24}>raised</W>, { d: 0.6 }],
+        ["Raise one hand and lower the other", 320, lo, <W c={ICE} s={24}>lowered</W>, { d: 0.9 }],
+        ["For the raised hand, time passes a little faster", 480, 410, <K c={GOLD} s={24}>a little faster up here</K>, { pop: true }],
+        ["Carlo Rovelli once showed this with two watches", 480, 190, <W c={DIM} s={24}>Carlo Rovelli: two watches</W>],
+        ["The best clocks can measure it over a height of about thirty centimetres", 740, 415, <W c={CHALK} s={24}>about 30 cm</W>, { d: 0.6 }],
+        ["GPS satellites sit high and move fast", 1380, 185, <W c={DIM} s={24}>GPS: high, and fast</W>, { d: 0.4 }],
+        ["so their clocks run about", 1380, 238, <K c={GOLD} s={24}>+38 millionths of a second a day</K>, { pop: true }],
+        ["Left uncorrected, your map would drift by about ten kilometres a day", 1400, 620, <K c={WARM} s={24}>uncorrected: about 10 km a day off</K>, { pop: true }],
+        ["Your watch is right, and so is the correction", 480, 730, <K c={ICE} s={26}>your watch: right</K>, { pop: true }],
+        ["Your watch is right, and so is the correction", 1380, 730, <K c={GOLD} s={26}>the correction: right</K>, { pop: true, d: 0.8 }],
+        ["no single time is found apart from where the clock is and how it moves", 860, 650,
+          <SK c={DIM} s={26} strikeAt={single + 2.2}>one single time, on its own</SK>],
+        ["Two truths, and the map still gets you home", 960, 810, <W c={GOLD} s={34} serif>two truths, and the map still gets you home</W>],
+      ]} />
+      <Tick x={680} y={730} at={right + 0.4} size={22} />
+      <Tick x={1610} y={730} at={right + 1.2} size={22} />
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -913,23 +1000,25 @@ const BeyondScene: React.FC = () => {
 const TryScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const clap = c("Clap once") + 0.4;
+  const stand = c("Stand on a scale and read the number");
+  const look = c("Then look for the weight in your body alone, apart from the earth that pulls it");
   const coat = c("Recall a coat on a chair, taken for a person");
   const fade = 1 - ramp(t, coat - 0.3, 0.5);
   return (
     <AbsoluteFill>
       <Title at={c("Try it")} color={GOLD}>try it</Title>
-      <At x={960} y={340} o={ramp(t, c("Clap once") - 0.3, 0.3) * fade}><Clap at={clap} /></At>
-      {t < coat ? <Sound x={960} y={340} at={clap} dur={1.2} r1={340} /> : null}
+      <At x={960} y={340} o={ramp(t, stand - 0.3, 0.3) * fade} s={pop(t, fps, stand)}><Scale reading="70 kg" lit={ramp(t, stand + 0.8, 0.4)} /></At>
+      {t < coat ? <Tick x={1160} y={300} at={c("That answer is correct") + 0.3} size={26} /> : null}
       <Items items={[
-        ["Say when the sound began and ended", 960, 540, <K c={GOLD} s={28}>began · ended: correct</K>, { pop: true, until: "Recall a coat on a chair, taken for a person" }],
-        ["Then look for the sound apart from the sounding", 960, 620, <W c={VIOLET} s={28}>apart from the sounding: not found</W>, { until: "Recall a coat on a chair, taken for a person" }],
+        ["That answer is correct", 960, 500, <K c={GOLD} s={28}>70 kg: correct</K>, { pop: true, until: "Recall a coat on a chair, taken for a person" }],
+        ["Then look for the weight in your body alone, apart from the earth that pulls it", 960, 590,
+          <SK c={DIM} s={26} strikeAt={look + 2.6}>a weight in the body alone</SK>, { until: "Recall a coat on a chair, taken for a person" }],
         ["Notice that the second look takes nothing from the first", 960, 700, <W c={CHALK} s={30} serif>the second look takes nothing from the first</W>, { until: "Recall a coat on a chair, taken for a person" }],
         ["Recall a coat on a chair, taken for a person", 760, 360, <CoatChair />, { pop: true }],
         ["Recall a coat on a chair, taken for a person", 1160, 360, <Person color={DIM} size={180} dashed />, { d: 0.6, until: "Notice how cleanly the second look corrected the first", ud: 1.0 }],
         ["Notice how cleanly the second look corrected the first", 960, 560, <W c={CHALK} s={28}>corrected, cleanly</W>],
         ["Convention has standards", 960, 640, <K c={GOLD} s={28}>convention has standards</K>, { pop: true }],
-        ["One sound, met two ways", 960, 740, <W c={GOLD} s={40} serif>one sound, met two ways</W>],
+        ["One weight, met two ways", 960, 740, <W c={GOLD} s={40} serif>one weight, met two ways</W>],
         ["And nothing extra behind it", 960, 810, <W c={CHALK} s={28}>and nothing extra behind it</W>],
       ]} />
     </AbsoluteFill>
@@ -947,7 +1036,8 @@ export const Body: React.FC = () => {
     ["doubt", "a picture of reality in two storeys"], ["web", "The author lived in the second picture for years"],
     ["whole", "The two truths leave no room for either version"], ["vivid", "Conventional sounds like a demotion"],
     ["sea", "Ultimate truth is not a hidden particle"], ["web", "The two truths need each other"],
-    ["sea", "Mipham draws the line another way"], ["vivid", "Every thing has the koan's two answers"],
+    ["sea", "Mipham draws the line another way"], ["open", "Raise one hand and lower the other"],
+    ["vivid", "Every thing has the koan's two answers"],
     ["whole", "Try it"],
   ];
   const moods: Mood[] = [];
@@ -973,6 +1063,7 @@ export const Body: React.FC = () => {
     ["Ultimate truth is not a hidden particle", <UltimateScene />],
     ["The two truths need each other", <LadderScene />],
     ["Mipham draws the line another way", <MiphamScene />],
+    ["Raise one hand and lower the other", <TimeScene />],
     ["Every thing has the koan's two answers", <BeyondScene />],
     ["Try it", <TryScene />],
   ];
