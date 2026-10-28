@@ -41,6 +41,16 @@ and whether any chapters reuse an existing bonus-article video.
 3. Then steps 4–6 above (Drive, merge, go live), in batches.
 4. If you want the book as a PDF, say so (the website's notes, `prog-spec.md` section 9a, have the steps).
 
+## Putting new videos on YouTube
+
+1. Claude makes the videos and their YouTube texts, and sends you the files.
+2. You upload them in **YouTube Studio** as **Unlisted**: select all the files at once.
+3. You tell Claude Code on your server: **"Put the texts on the new videos."** It adds the titles, descriptions, tags
+   and playlist, and saves the links in GitHub.
+4. You tell Claude: **"The new videos are up."** It updates the websites and the ebook.
+
+No links to copy. (Uploads stay by hand because Google's approval for automatic uploads was skipped.)
+
 ## Your short checklist
 
 - Select **both repositories** when you start a session.
