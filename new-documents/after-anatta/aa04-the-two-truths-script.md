@@ -45,12 +45,14 @@ The two truths need each other. Without relying on convention, the ultimate cann
 
 Mipham draws the line another way. Meet the cold of ice as a cold thing over there and a feeler over here, and the experience is discordant. Meet the same coldness without that fixing, and it is concordant. Nothing different appears. What differs is whether the appearance is misread. After anatta, presence did not fade into some deeper truth. It became more vivid, because it was no longer pushed behind experience. What changed was how it was held.
 
+Raise one hand and lower the other. For the raised hand, time passes a little faster. Carlo Rovelli once showed this with two watches, one held high and one low. The best clocks can measure it over a height of about thirty centimetres. GPS satellites sit high and move fast, so their clocks run about thirty-eight millionths of a second a day ahead. Left uncorrected, your map would drift by about ten kilometres a day. Your watch is right, and so is the correction. Looked for, no single time is found apart from where the clock is and how it moves. Two truths, and the map still gets you home.
+
 Every thing has the koan's two answers. The self: "I wrote this" is correct, and it can be checked. Looked for, no I is found apart from the body, the mind and the history it is named on. Not a false self with a true one hiding behind. One self, met two ways.
 
 A ship whose every plank has been replaced still sails. Looked for, no ship is found apart from its planks, its use and its name. Fire burns, and a hand put in it is hurt. Yet no power to burn is found in the fire on its own. And the friend you love keeps promises, and grieves. Looked for, they are not found as a self standing on its own. Seeing that takes nothing from the love. Love, sorrow and care stay where they were.
 
-Try it. Clap once. Say when the sound began and ended. That answer is correct. Then look for the sound apart from the sounding. Notice that the second look takes nothing from the first.
+Try it. Stand on a scale and read the number. That answer is correct. Then look for the weight in your body alone, apart from the earth that pulls it. Notice that the second look takes nothing from the first.
 
 Recall a coat on a chair, taken for a person. Notice how cleanly the second look corrected the first. Convention has standards.
 
-One sound, met two ways. And nothing extra behind it.
+One weight, met two ways. And nothing extra behind it.

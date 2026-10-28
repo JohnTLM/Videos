@@ -47,6 +47,8 @@ The same logic works beyond the moment. The self: "I am the one who decides." Lo
 
 So, try it. Tap a glass, and listen until the sound ends. Then ask the four questions, one line each. What does the substance view say about this sound? How is it picked out? What is still true of it? What was not found? Check the last line. Has a Now or an awareness slipped in?
 
+Run them on your own weight. One: the weight is in me. Two: it is picked out with the earth's pull, the floor and the scale. Three: the number is true, and the knees still ache after the stairs. Four: never found is a heaviness sitting in the body on its own. And check that "the whole universe" has not slipped in as a new floor.
+
 Run them slowly, in what is in front of you. Nothing needs to be held. What appears goes on appearing.
 
 And the koan, one last time. This moment ceases as it arises. Does it arise, or does it cease? The question has nothing to hold on to. And the sound is no less clear.

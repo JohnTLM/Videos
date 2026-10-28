@@ -59,6 +59,8 @@ Then the same test had to be turned on everything that appears. The scenery, the
 
 And in the last phase there is nothing left to turn the logic on. Awareness was never a witness standing apart. In his words: "Anatta is a seal, not a stage." Presence was vivid from the start. What changed was the logic through which it was read.
 
+How fast are you going? Sitting still, it seems: zero. But you are still only against the room. With the earth's turning you are moving at over a thousand kilometres an hour, and around the sun at about a hundred and seven thousand. Which is your real speed? The logic of substance wants one, sitting in you. The logic of dependency sees that speed is only picked out against something: the room, the ground, the sun. Yet it is not arbitrary. A car doing a hundred and twenty still gets a fine.
+
 The koan is only the sharpest case. Say "I have changed", and look for the one who changed, apart from the changing. Close your hand, and look for the fist apart from the closing. None is found. Yet a promise is still yours to keep, and a fist can still knock on a door.
 
 So, for a moment, wherever you are. Say the koan once. Notice the "it" the question hands you. Then look for that moment, apart from its arising and its ceasing, in the sound or sight in front of you.

@@ -47,6 +47,10 @@ We taste luminous clarity, and we invent a Witness: a knower behind the knowing.
 
 The author met all three on his own path. It was the logic of dependency that got him out. A knower that exists only together with the known is not an inside looking out. And an inside that depends on an outside is not truly inside. In his words: "The taste was right. The something we made of it was not."
 
+Stand on a scale. Your weight seems to be yours, sitting in the body like a stone in a pocket. But weight is a pull between your body and the earth. On the Moon you would weigh a sixth as much. In orbit you would weigh nothing, and not a gram of you would be gone. Ernst Mach argued that even the body's resistance to being pushed comes from its relation to all the matter in the universe. Dogen would say the whole universe is exerted in this one heaviness, not as a floor holding it up. The scale still reads seventy kilos. Only a heaviness sitting in the body, on its own, is denied.
+
+Once dependent arising is seen, this lightness spreads. Mind or matter, subjective or objective, each loses its weight and its fixed identity. Not because anything is taken away, but because nothing was ever inside it to be heavy. Things become light: magical and plastic, a display that works perfectly and holds nothing.
+
 The koan is only the sharpest case. The same aim works wherever the habit lands.
 
 The self. When you are falsely accused, an "I" appears, vivid and solid. Look for it apart from the heat in the face and the racing thoughts, and it is not found. Yet the one who speaks, decides and answers is not denied.
