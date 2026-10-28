@@ -38,7 +38,7 @@ was uploaded again anyway, it is a duplicate: tell the owner.
 | 10 | `10-carrierless-continuity` | Carrierless Continuity | 13:17 |
 | 11 | `11-book4-ch01-witness-behind-experience` | Book 4, Ch. 1: The Witness Behind Experience | 3:19 |
 | 12 | `12-book4-ch02-vividness-without-a-viewer` | Book 4, Ch. 2: Vividness Without a Viewer | 3:28 |
-| 13 | `13-book4-ch23-recognition-not-effort` | Book 4, Ch. 23: Recognition, Not Effort | 3:16 |
+| 13 | `13-book4-ch23-recognition-not-effort` | Book 4, Ch. 23: Recognition, Not Effort (the video says "Chapter 22, Recognition, Not Achievement") | 3:16 |
 | 14 | `14-the-world-itself` | The World Itself (AA10) | 7:44 |
 | 15 | `15-ethics-and-compassion` | Ethics and Compassion (AA11) | 7:34 |
 

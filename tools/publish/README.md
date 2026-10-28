@@ -85,6 +85,9 @@ $PY tools/publish/publish_youtube.py upload aa01-two-logics.mp4 --meta new-docum
 # put the texts on a video already uploaded in YouTube Studio
 $PY tools/publish/publish_youtube.py update QA9yrHNx5To --meta new-documents/after-anatta/youtube-after-anatta.md --entry 2
 
+# find videos just uploaded in YouTube Studio (their titles are still the file names), with their lengths
+$PY tools/publish/publish_youtube.py uploads -n 20
+
 # check a playlist's order
 $PY tools/publish/publish_youtube.py playlist "The Logic After Anatta"
 
@@ -98,6 +101,12 @@ Each command prints one line of JSON per video or file (id, link, title or size)
 The texts come from the usual YouTube Markdown files: headings *Title*, *Description* and *Tags* (`##` or `###`), tags
 on one line, comma-separated. The tool refuses texts over YouTube's limits (title 100, description 5,000, tags 500
 characters) and descriptions with `<` or `>`.
+
+## Second job: 14 more After Anatta videos (2026-10-28)
+
+`TASK-after-anatta-batch2-texts.md` in this folder: the videos the website still played from Drive, uploaded by the
+owner in YouTube Studio; texts in `new-documents/after-anatta/youtube-after-anatta-batch2.md`; all into the playlist
+Logic After Anatta. Comments are turned off by the owner in Studio (the API cannot).
 
 ## First job once set up
 

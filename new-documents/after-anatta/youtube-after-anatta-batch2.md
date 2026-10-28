@@ -287,7 +287,56 @@ knowing from somewhere, six higher knowledges, abhijna, psychic powers, divine e
 
 ## 8. The Illusion of the Given (bonus article, 20:56)
 
-PLACEHOLDER-8
+### Title
+
+The Illusion of the Given: One Bowl, Many Worlds | Candrakīrti, Dzogchen and Relational Physics
+
+### Description
+
+Picture a single bowl of liquid, set down where many kinds of beings can see it. A god sees nectar, a human sees water, a hungry ghost sees pus and blood, and an awakened being sees the pure wisdom of water. What is really in the bowl? The usual answer is that a liquid sits there, and each creature looks at it through its own lens. Madhyamaka and Dzogchen, read without a foundation, both take this picture apart.
+
+The liquid is the Given: a thing in itself, before anyone meets it. Candrakīrti refuses it, and refuses the opposite move too: making the mind the container of everything. Then Vasubandhu's hungry ghosts and Mind-Only; other minds, and agreement without a final judge (with a nod to Wittgenstein); Dzogchen's display and rigpa as the knowing of appearing, not a projector; Karen Barad's agential realism and Carlo Rovelli's relational quantum mechanics; the tick, the bat and the human, each in its own world (Uexküll's Umwelt); the container myth and where the other worlds are; Everett's branches; and why worlds need not obstruct one another. What difference it makes: humility, and care.
+
+0:00 One bowl of liquid
+0:38 What is really in the bowl?
+1:00 Two views that take the picture apart
+1:22 The liquid: the Given
+2:33 Own nature, and a real question that remains
+2:57 Candrakīrti: no Given, and no mind-only
+3:40 Jaundice and the conch shell
+4:28 Vasubandhu's hungry ghosts and Mind-Only
+5:16 Other minds, and agreement without a judge
+6:39 Dzogchen: appearing never fixed
+7:11 Display
+7:33 Rigpa is not a projector
+8:22 Pure vision is not a window onto bedrock
+8:54 Karen Barad: no liquid before the meeting
+9:14 Rovelli: relational quantum mechanics
+9:55 Weak contact: the tick and the water
+10:50 Contact between worlds
+11:43 The container myth
+12:15 Why is the world so orderly?
+13:12 Each being in a world of its own: the Umwelt
+14:40 Then where are the other worlds?
+14:57 Two kinds of negation
+15:28 The realms are not far away
+16:01 No master copy, not even science
+16:55 Everett's many worlds
+18:08 Worlds need not obstruct one another
+19:03 One reading within a living tradition
+19:35 What difference does it make?
+20:31 Vivid, unproduced, and found nowhere
+
+Read the article: The Illusion of the Given, on the website: https://atr-passerby.com/#illusion
+It is the video of the After Anatta question Many Worlds, Many Realms: https://atr-passerby.com/#aa-realms
+
+A bonus article by John Tan (Thusness). Narrated with a synthetic voice, with animated drawings; the script is drawn from the article.
+
+#Buddhism #Madhyamaka #Emptiness
+
+### Tags
+
+the illusion of the given, many worlds, six realms, hungry ghosts, one water seen four ways, Candrakirti, Vasubandhu, Mind-Only, Dzogchen, rigpa, Karen Barad, Carlo Rovelli, relational quantum mechanics, Umwelt, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
 
 ---
 
@@ -367,6 +416,111 @@ Narration and visuals: AI-generated with Google NotebookLM, lightly edited.
 ### Tags
 
 carrierless continuity, personal identity, what is a phenomenon, no self, anatta, emptiness, Madhyamaka, Middle Way, Nagarjuna, Mulamadhyamakakarika, dependent designation, dependent arising, svabhava, Abhidharma, Candrakirti, Tsongkhapa, mere I, Dogen, Genjokoan, firewood and ash, Dzogchen, rigpa, luminosity, substantialism, Buddhist philosophy, philosophy of mind, metaphysics, impermanence, anesthesia, death
+
+---
+
+## 11. The Witness Behind Experience (Book 4, Chapter 1, 3:19)
+
+### Title
+
+The Witness Behind Experience: Looking for the One Who Sees | Book 4, Ch. 1 · Thusness
+
+### Description
+
+It rains. The sound fills the room, and it seems to arrive at someone: a point behind the eyes, from which the world is taken in. It does not feel like a belief. It feels like the most obvious fact there is. So here is a simple question: when you look for the witness, what do you find?
+
+The chariot in the courtyard is taken apart, and no chariot is found over and above its parts, yet the word keeps working. Then the same looking is turned on the witness: a tree, and the seeing of it; the rain, and the hearing of it; and no viewer found apart from both. Nobody has vanished. What has gone is an expectation.
+
+0:00 It rains: the sense of a witness
+0:23 The most obvious fact there is
+0:53 The chariot in the courtyard
+1:36 Nothing has been denied
+1:51 Looking for the one who sees
+2:11 Looking for the hearer
+2:28 This does not mean that nobody sees
+2:57 Without a floor underneath
+
+Read the chapter: Book 4, Chapter 1, on the website: https://atr-passerby.com/#ob-1
+It is the video of the After Anatta question Mind and Consciousness: https://atr-passerby.com/#aa-mind
+
+From the book The Observer and the Taste of Presence (Book 4) by John Tan (Thusness). Narrated with a synthetic voice, with animated drawings; the script is drawn from the book.
+
+#Buddhism #Dzogchen #Emptiness
+
+### Tags
+
+the witness behind experience, observer, witness, no observer, who sees, chariot, Milindapanha, seer and seen, no self, The Observer and the Taste of Presence, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+
+---
+
+## 12. Vividness Without a Viewer (Book 4, Chapter 2, 3:28)
+
+### Title
+
+Vividness Without a Viewer: Luminosity Without a Ground | Book 4, Ch. 2 · Thusness
+
+### Description
+
+When the witness is not found, experience does not go blank. The tree is more vivid, not less; the rain sounds closer, not further away. What changes is not the vividness but the architecture: the pairs of viewer and view, hearer and sound, and the distance between them.
+
+The colour red is not the wavelength, the cells of the eye, the surface or the attention, and not apart from any of them: it appears in a relation, complete as the appearance it is. Then luminosity, the Dzogchen word for the clarity of an appearance: not a bright substance behind the display, but the knowing clarity of the appearance itself. So no carrier is needed, and experience can be vivid without being owned, and end without being taken from anyone.
+
+0:00 Experience does not go blank
+0:28 What changes is the architecture
+1:04 What is the red?
+1:35 The same grey, lighter and darker
+1:45 Dependence, seen directly
+2:03 Luminosity, and how it is misread
+2:31 No carrier needed
+2:51 Vivid without being owned
+3:05 In the seen, only the seen
+
+Read the chapter: Book 4, Chapter 2, on the website: https://atr-passerby.com/#ob-2
+It is the video of the After Anatta question Luminosity: https://atr-passerby.com/#aa-luminosity
+
+From the book The Observer and the Taste of Presence (Book 4) by John Tan (Thusness). Narrated with a synthetic voice, with animated drawings; the script is drawn from the book.
+
+#Buddhism #Dzogchen #Emptiness
+
+### Tags
+
+vividness without a viewer, luminosity, clarity, colour, red, dependence, Dzogchen, no carrier, in the seen just the seen, non-dual, The Observer and the Taste of Presence, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+
+---
+
+## 13. Recognition, Not Achievement (Book 4, Chapter 23 on the website, 3:16)
+
+### Title
+
+Recognition, Not Achievement: What Practice Cannot Produce | Book 4 · Thusness
+
+### Description
+
+There is one thing effort cannot do: it cannot produce what is already complete. The natural state is not produced by stopping thought or pushing appearances away. Thought is recognised as already empty, already not fixed, and in that recognition it stops fixing.
+
+Lhun grub, spontaneous presence, means already complete: not a state one gets more of by trying harder. The same caution applies to negation: a way out that negates appearances until nothing is left is still a fixer. Recognition denies and puts nothing in its place. Then the three recognitions practice turns around: conditions are what work; openness is simply what dependence means; and there is nothing to hold, and no one apart from the holding. Openness, too, is empty. The book ends where it began.
+
+The video calls it Chapter 22, Recognition, Not Achievement, its earlier name; in the book on the website it is Chapter 23, Recognition, Not Effort.
+
+0:00 What effort cannot do
+0:26 Recognition: lhun grub, already complete
+0:51 The same caution for negation
+1:17 Two kinds of negation
+1:42 Three recognitions
+2:14 The trap: openness held as a thing
+2:33 Even writing about this
+2:47 The book ends where it began
+
+Read the chapter: Book 4, Chapter 23, on the website: https://atr-passerby.com/#ob-23
+It is the video of the After Anatta question Practice and Realisation: https://atr-passerby.com/#aa-practice
+
+From the book The Observer and the Taste of Presence (Book 4) by John Tan (Thusness). Narrated with a synthetic voice, with animated drawings; the script is drawn from the book.
+
+#Buddhism #Dzogchen #Emptiness
+
+### Tags
+
+recognition not achievement, recognition not effort, natural state, effortlessness, spontaneous presence, lhun grub, Dzogchen, practice, negation, non-implicative negation, openness, reification, The Observer and the Taste of Presence, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
 
 ---
 
