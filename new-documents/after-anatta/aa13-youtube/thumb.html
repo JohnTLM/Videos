@@ -1,0 +1,38 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Corm;src:url(../../../tools/assets/fonts/CormorantGaramond-Var.ttf)}
+@font-face{font-family:Sans;src:url(../../../tools/assets/fonts/SourceSans3-Var.ttf)}
+html,body{margin:0;background:#0b0d18}
+#c{position:relative;width:1280px;height:720px;overflow:hidden;
+ background:radial-gradient(circle at 78% 48%,rgba(205,150,65,.38),transparent 38%),
+ radial-gradient(circle at 12% 20%,rgba(95,65,175,.55),transparent 45%),
+ radial-gradient(circle at 30% 95%,rgba(40,120,130,.35),transparent 45%),#0b0d18}
+svg{position:absolute;inset:0}
+.k{position:absolute;left:64px;top:70px;font:600 24px Sans;letter-spacing:.22em;color:#E4C27A}
+.t{position:absolute;left:58px;top:110px;font:700 128px/0.92 Corm;color:#F7F1E3;text-shadow:0 0 30px rgba(228,194,122,.35)}
+.t em{font-style:normal;color:#E4C27A}
+.s{position:absolute;left:64px;top:420px;font:400 33px/1.3 Sans;color:#CFE9F2;max-width:640px}
+.s b{color:#fff;font-weight:600}
+.n{position:absolute;left:64px;bottom:44px;font:600 26px Sans;color:#A49E90;letter-spacing:.06em}
+</style></head><body><div id="c">
+<svg width="1280" height="720" viewBox="0 0 1280 720" id="art"></svg>
+<div class="k">AFTER ANATTA · THE LOGIC</div>
+<div class="t">The Limits<br>of the <em>Tools</em></div>
+<div class="s"><b>Vivid. Not found. Following its conditions.</b><br>Why words and diagrams can't hold what appears.</div>
+<div class="n">JOHN TAN · THUSNESS</div>
+</div><script>
+const s=document.getElementById('art'),NS='http://www.w3.org/2000/svg';
+const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);s.appendChild(e);return e};
+let r=1;const rnd=()=>(r=(r*9301+49297)%233280)/233280;
+const defs=el('defs',{});defs.innerHTML='<radialGradient id="g" cx="40%" cy="35%"><stop offset="0" stop-color="#FFF6DD"/><stop offset=".45" stop-color="#E4C27A"/><stop offset=".78" stop-color="#FF8FA3" stop-opacity=".75"/><stop offset="1" stop-color="#5FD3C6" stop-opacity=".3"/></radialGradient><filter id="b"><feGaussianBlur stdDeviation="6"/></filter><filter id="b2"><feGaussianBlur stdDeviation="28"/></filter>';
+// rain
+for(let i=0;i<90;i++){const x=700+rnd()*580,y=rnd()*720,l=18+rnd()*30;el('line',{x1:x,y1:y,x2:x+6,y2:y+l,stroke:'#A9DDF2','stroke-width':2+rnd()*1.5,'stroke-linecap':'round',opacity:.18+rnd()*.35})}
+// the net, dissolving toward the right
+const N=[[760,150],[900,110],[1060,140],[1200,200],[820,300],[1150,330],[790,470],[930,560],[1100,520],[1220,450]];
+const E=[[0,1],[1,2],[2,3],[0,4],[1,4],[2,5],[3,5],[4,6],[6,7],[7,8],[8,9],[5,9],[5,8],[4,7]];
+E.forEach(([a,b],i)=>{const[x1,y1]=N[a],[x2,y2]=N[b];const far=(x1+x2)/2>1050;el('line',{x1,y1,x2,y2,stroke:'#5FD3C6','stroke-width':3,opacity:far?.35:.7,'stroke-dasharray':far?'8 10':'none'})});
+N.forEach(([x,y])=>{const far=x>1050;el('circle',{cx:x,cy:y,r:far?11:13,fill:far?'none':'#E4C27A',stroke:'#E4C27A','stroke-width':3,'stroke-dasharray':far?'5 5':'none',opacity:far?.6:.9})});
+// sound rings and the vivid appearing
+[150,190,235,285].forEach((rr,i)=>el('circle',{cx:985,cy:345,r:rr,fill:'none',stroke:'#E4C27A','stroke-width':3,opacity:.5-i*.1}));
+el('circle',{cx:985,cy:345,r:150,fill:'#E4C27A',opacity:.35,filter:'url(#b2)'});
+el('circle',{cx:985,cy:345,r:118,fill:'url(#g)'});
+</script></body></html>
