@@ -64,6 +64,10 @@ export const PHRASES = [
   "And singling out is already dependence", "A this stands out only against what it is not",
   "Only with this seeing, this light, this attention", "Take away the background, and nothing stands out",
   "Take away the conditions, and nothing is singled out",
+  // a world of only blue
+  "Picture a world where there is only blue", "one hue, everywhere", "and nothing else", "No one there would see blue",
+  "Nothing would let it stand out", "so it would never be singled out as blue", "We would be blind to blueness",
+  "Blue is seen only with what is not blue",
   // the chain
   "So singling out is not something done to an appearance that was there first", "It is already dependence",
   "And dependence is already emptiness", "Look for the this apart from its conditions, and it is not found",
@@ -519,6 +523,41 @@ const GroundScene: React.FC = () => {
   );
 };
 
+const BLUE = "#4A7BE0";
+
+const BlueScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const pic = c("Picture a world where there is only blue");
+  const see = c("No one there would see blue");
+  const blind = c("We would be blind to blueness");
+  const seen = c("Blue is seen only with what is not blue");
+  const patch = ramp(t, seen + 0.4, 1.0);
+  return (
+    <AbsoluteFill>
+      <Title at={pic} color={BLUE}>a world of only blue</Title>
+      <At x={960} y={420} o={ramp(t, pic + 0.3, 0.8)}>
+        <div style={{ position: "relative", width: 900, height: 400, borderRadius: 18, overflow: "hidden", background: BLUE,
+          border: `3px solid ${BLUE}`, boxShadow: patch > 0.05 ? `0 0 ${40 * patch}px ${BLUE}` : undefined }}>
+          <div style={{ position: "absolute", right: 0, top: 0, bottom: 0, width: 360 * patch,
+            background: `radial-gradient(circle at 40% 40%, #FFF6DD, ${GOLD} 55%, ${ROSE}cc)` }} />
+        </div>
+      </At>
+      <At x={960} y={420} s={pop(t, fps, see)} o={ramp(t, see, 0.4) * (1 - ramp(t, seen, 0.4))}><Eye color={CHALK} size={170} /></At>
+      <At x={960} y={300} o={ramp(t, see + 0.8, 0.4) * (1 - ramp(t, seen, 0.4))}><Wd c={CHALK} s={56} serif>?</Wd></At>
+      <At x={780} y={420} o={ramp(t, seen + 1.2, 0.4)}><Pick at={seen + 1.2} label="blue" color={CHALK} /></At>
+      <At x={1230} y={420} o={ramp(t, seen + 1.6, 0.4)}><Wd c="#3a2a10" s={30} serif>not blue</Wd></At>
+      <Items items={[
+        ["one hue, everywhere", 960, 680, <Wd c={CHALK} s={28}>one hue, everywhere, and nothing else</Wd>, { until: "No one there would see blue" }],
+        ["No one there would see blue", 960, 680, <Wd c={CHALK} s={28}>no one there would see blue</Wd>, { d: 0.3, until: "Blue is seen only with what is not blue" }],
+        ["Nothing would let it stand out", 960, 740, <Wd c={DIM} s={26}>nothing to stand out against: never singled out</Wd>, { until: "Blue is seen only with what is not blue" }],
+        ["We would be blind to blueness", 960, 805, <SK c={DIM} s={26} strikeAt={blind + 1.0}>blue, on its own</SK>, { until: "Blue is seen only with what is not blue", ud: 0.6 }],
+        ["Blue is seen only with what is not blue", 960, 720, <Wd c={GOLD} s={36} serif>blue is seen only with what is not blue</Wd>, { d: 1.0 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const ChainScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -713,6 +752,7 @@ export const Body: React.FC = () => {
     ["Now the second point, and it is easy to miss", "doubt", <LayersScene />],
     ["How can that be", "open", <SingleScene />],
     ["And singling out is already dependence", "web", <GroundScene />],
+    ["Picture a world where there is only blue", "sea", <BlueScene />],
     ["So singling out is not something done to an appearance that was there first", "search", <ChainScene />],
     ["None of this makes the world thin", "sea", <MirrorScene />],
     ["Then the clarity", "vivid", <ClarityScene />],
