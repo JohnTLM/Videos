@@ -112,3 +112,12 @@ All 14 go into the existing playlist **Logic After Anatta**, in entry order, aft
    it yourself).
 
 ## Done
+
+- 2026-10-28: texts on and in the playlist **Logic After Anatta** (`PLPlnPvDUj6mE`), all Unlisted. The uploads kept the
+  date as their title, so they were matched by length only. Entries 4 and 10 were missing at first; the owner uploaded
+  them. Ids: 1 `aJnvvc1wfxY`, 2 `3cxKQa7zLJI`, 3 `a5DV2fTb-OI`, 4 `SWzRREz4QmY`, 6 `JuigRhfVuGo`, 7 `Q1gwOAySqFs`,
+  8 `ZGnlj6vMcrk`, 9 `_9t_vZSYhzI`, 10 `LjlIhrEBpFs`, 11 `_9H6ysEthkg`, 12 `LZIRkexcJU0`, 13 `c4eMBO-04sQ`,
+  14 `UTQThEl748M`, 15 `JQ9cXPZBSjg`. The owner had already put entries 1–3 in the playlist during upload, so the loop
+  added them twice; the second copies were removed. Two uploads of The Limits of the Tools came in by mistake: the owner
+  had `ZKJ5lqX24pg` deleted and kept `np9_QAJyEag` (no texts yet; it is in the playlist where the public original
+  `QqAbkXRRqqY` used to be). Comments: the owner turns them off in YouTube Studio (step 6).
