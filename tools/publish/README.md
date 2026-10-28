@@ -99,6 +99,8 @@ characters) and descriptions with `<` or `>`.
 
 ## First job once set up
 
+The full, step-by-step version for Claude Code on the server is `TASK-after-anatta-texts.md` in this folder.
+
 The ten After Anatta videos of 2026-10-28 were uploaded in YouTube Studio with no texts (their titles are the date).
 Put the texts on them, in the order of `new-documents/after-anatta/youtube-after-anatta.md`:
 
