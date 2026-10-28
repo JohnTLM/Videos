@@ -4,16 +4,17 @@
 // Nagarjuna's verse -> the koan both ways -> not found is not "no chariot" -> designated in dependence (name, basis, riding) ->
 // one verse: dependent arising, emptiness, designation, the middle way -> a name is not a sticker (jar, cup, the basis named
 // all the way down) -> not arbitrary: three checks, snake and rope -> the chariot everywhere (ear and bell, walking, hearing,
-// remove the axle, named together, intimacy) -> self, car, seed, friend -> try it (a sound, a chair).
+// remove the axle, named together, intimacy) -> the sunrise (named from where we stand; the newspaper's time is right)
+// -> self, car, seed, friend -> try it (a sound, a chair).
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container or backdrop. Only invented things are
 // struck: own-nature, the "it" beside its verb, the timeless Now as container, the jar finished before any name, the snake,
-// a rope from its own side, "no chariot at all". The chariot, the parts, the sound, the cup, the rope, the car, the seed and
+// a rope from its own side, "no chariot at all", a rising found in the sun. The chariot, the parts, the sound, the cup, the rope, the car, the seed and
 // the friend stay vivid and working.
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
   At, Background, Bokeh, Chip, CHALK, DIM, DrawPath, Flow, GOLD, Glow, GREEN, ICE, Mood, Orb, ROSE, Reveal, Ring,
-  SANS, Scene, SERIF, Strike, Svg, TEAL, VIOLET, WARM, between, pop, ramp, useCue, useT,
+  SANS, Scene, SERIF, Strike, Sun, Svg, TEAL, VIOLET, WARM, between, pop, ramp, useCue, useT,
 } from "../lib";
 
 // Copied verbatim from the script, in narration order. No respelled words (names) inside.
@@ -61,6 +62,11 @@ export const PHRASES = [
   "Walking is the chariot", "Remove the axle", "There is no chariot",
   "Bell, striker, air, ear and sound are named together", "intimacy no longer meant closeness",
   "there was never any separation to close",
+  // the sunrise
+  "Every morning we say the sun rises", "Look for the rising in the sun, and it is not there",
+  "Sunrise is picked out from where we stand", "on a turning earth", "against a horizon",
+  "Yet the newspaper prints tomorrow's sunrise to the minute", "and it is right",
+  "A name that works exactly", "with nothing rising behind it", "that is designation",
   // beyond the moment
   "The seven places work on anything", "The self is not body and mind", "Pull a car apart in your mind",
   "Put it back, bolt by bolt", "Nothing called car was added", "A seed is called a cause only of its sprout", "never from barley",
@@ -758,6 +764,57 @@ const AxleScene: React.FC = () => {
   );
 };
 
+/** A newspaper corner with tomorrow's sunrise printed in it. */
+const Paper: React.FC<{ time: string }> = ({ time }) => (
+  <div style={{ width: 250, padding: "12px 18px", borderRadius: 6, background: "#F1EBDD18", border: `3px solid ${CHALK}aa`,
+    boxShadow: `0 0 20px ${GOLD}55`, textAlign: "left", fontFamily: SANS, color: CHALK }}>
+    <div style={{ fontFamily: SERIF, fontSize: 26, borderBottom: `2px solid ${CHALK}66`, marginBottom: 8 }}>The Morning News</div>
+    <div style={{ height: 6, width: "80%", background: `${CHALK}44`, borderRadius: 3, marginBottom: 6 }} />
+    <div style={{ height: 6, width: "60%", background: `${CHALK}44`, borderRadius: 3, marginBottom: 10 }} />
+    <div style={{ fontSize: 24, color: GOLD }}>Sunrise tomorrow: {time}</div>
+  </div>
+);
+
+const SunriseScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const st = c("Every morning we say the sun rises");
+  const look = c("Look for the rising in the sun, and it is not there");
+  const where = c("Sunrise is picked out from where we stand");
+  const turn = c("on a turning earth");
+  const rise = ramp(t, st + 0.3, 4.0);
+  const sunY = 560 - 210 * rise;
+  return (
+    <AbsoluteFill>
+      <Title at={st}>the sun rises</Title>
+      {/* the sun coming up over the horizon (clipped at the horizon line) */}
+      <div style={{ position: "absolute", left: 0, top: 0, width: 1920, height: 480, overflow: "hidden" }}>
+        <At x={1200} y={sunY} o={ramp(t, st, 0.4)}><Sun size={150} rot={t * 8} /></At>
+      </div>
+      <Svg>
+        <DrawPath d="M380 480 L1560 480" p={ramp(t, st, 0.8)} color={CHALK} width={4} len={1200} />
+        {/* the ground we stand on, turning */}
+        <DrawPath d="M520 530 Q960 600 1400 530" p={ramp(t, turn, 0.8)} color={TEAL} width={4} len={900} />
+        <DrawPath d="M1400 530 L1372 516 M1400 530 L1380 554" p={ramp(t, turn + 0.7, 0.3)} color={TEAL} width={4} len={60} />
+      </Svg>
+      <At x={760} y={428} o={ramp(t, where, 0.4)} s={pop(t, fps, where)}><Person color={ICE} size={100} /></At>
+      <At x={1330} y={300} o={between(t, look, where + 0.4, 0.4)}><Magnifier /></At>
+      <Items items={[
+        ["Look for the rising in the sun, and it is not there", 1200, 190,
+          <SK c={DIM} s={26} strikeAt={look + 1.8}>a rising in the sun</SK>, { d: 0.6 }],
+        ["Sunrise is picked out from where we stand", 760, 330, <W c={ICE} s={24}>from where we stand</W>, { d: 0.6 }],
+        ["on a turning earth", 960, 610, <W c={TEAL} s={26}>a turning earth</W>, { d: 0.4 }],
+        ["against a horizon", 1560, 440, <W c={DIM} s={24}>against a horizon</W>],
+        ["Yet the newspaper prints tomorrow's sunrise to the minute", 600, 735, <Paper time="6:58" />, { pop: true }],
+        ["and it is right", 820, 735, <K c={GREEN} s={28}>right</K>, { pop: true }],
+        ["A name that works exactly", 1320, 680, <W c={GOLD} s={32} serif>a name that works exactly</W>],
+        ["with nothing rising behind it", 1320, 745, <SK c={DIM} s={24} strikeAt={c("with nothing rising behind it") + 0.9}>something rising behind it</SK>],
+        ["that is designation", 1320, 815, <K c={TEAL} s={30}>designation</K>, { pop: true }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -820,7 +877,7 @@ export const Body: React.FC = () => {
     ["search", "With the logic of substance, the sound is a slice of time"], ["doubt", "Here is where most readers go wrong"],
     ["web", "So what is the chariot"], ["whole", "puts the whole Middle Way in one verse"], ["doubt", "Now a second mistake"],
     ["sea", "goes further: even the basis is named"], ["search", "The opposite mistake"], ["vivid", "The author first met the chariot"],
-    ["whole", "Remove the axle"], ["vivid", "The seven places work on anything"], ["whole", "Listen to one sound"],
+    ["whole", "Remove the axle"], ["sea", "Every morning we say the sun rises"], ["vivid", "The seven places work on anything"], ["whole", "Listen to one sound"],
   ];
   const moods: Mood[] = [];
   starts.forEach(([k, cue], i) => {
@@ -844,6 +901,7 @@ export const Body: React.FC = () => {
     ["The opposite mistake", <ChecksScene />],
     ["The author first met the chariot", <AuthorScene />],
     ["Remove the axle", <AxleScene />],
+    ["Every morning we say the sun rises", <SunriseScene />],
     ["The seven places work on anything", <BeyondScene />],
     ["Listen to one sound", <TryScene />],
   ];

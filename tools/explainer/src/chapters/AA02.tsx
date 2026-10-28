@@ -4,7 +4,8 @@
 // own-nature (svabhava): not made, not dependent, the whole target -> falling short: only theories / a ground behind the self,
 // a timeless Now -> going too far: "nothing happens" -> a harsh word still hurts; empty, so things can work ->
 // nothing put in its place; emptiness empty too -> presence never the target -> "something there" -> three tastes,
-// three inventions -> dependency removes the inside -> self, ice, seed, person -> try it.
+// three inventions -> dependency removes the inside -> your own weight (Earth, Moon, orbit; Mach; Dogen) -> the lightness
+// spreads: mind and matter light, magical and plastic -> self, ice, seed, person -> try it.
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container or backdrop. Struck chips are only
 // for invented things and wrong views (own-nature, the abiding moment, a ground, a timeless Now, "nothing happens",
 // the Witness, "all in my mind"). The bell, the ice, the seed, the person and presence itself stay vivid and are never struck.
@@ -61,6 +62,17 @@ export const PHRASES = [
   "The experience was true, and the reading was false", "So better experience cannot cure it",
   "The author met all three on his own path", "It was the logic of dependency that got him out",
   "is not an inside looking out", "is not truly inside", "The taste was right", "The something we made of it was not",
+  // your own weight
+  "Stand on a scale", "Your weight seems to be yours", "like a stone in a pocket",
+  "But weight is a pull between your body and the earth", "On the Moon you would weigh a sixth as much",
+  "In orbit you would weigh nothing", "and not a gram of you would be gone", "Ernst Mach argued",
+  "its relation to all the matter in the universe", "Dogen would say the whole universe is exerted in this one heaviness",
+  "not as a floor holding it up", "The scale still reads seventy kilos", "Only a heaviness sitting in the body, on its own, is denied",
+  // the lightness spreads
+  "Once dependent arising is seen, this lightness spreads", "Mind or matter, subjective or objective",
+  "each loses its weight and its fixed identity", "Not because anything is taken away",
+  "because nothing was ever inside it to be heavy", "Things become light", "magical and plastic",
+  "a display that works perfectly and holds nothing",
   // beyond the moment
   "The koan is only the sharpest case", "When you are falsely accused", "Yet the one who speaks, decides and answers is not denied",
   "Hold a cube of ice", "It is not found in any of them", "Yet the hand is still cold",
@@ -722,6 +734,120 @@ const InsideScene: React.FC = () => {
   );
 };
 
+/** A bathroom scale with a lit read-out. */
+const Scale: React.FC<{ reading: string; glow?: number; color?: string }> = ({ reading, glow = 0, color = GOLD }) => (
+  <div style={{ width: 210, height: 54, borderRadius: 14, border: `4px solid ${CHALK}aa`, background: `${CHALK}14`,
+    display: "flex", alignItems: "center", justifyContent: "center", boxShadow: `0 0 ${10 + 30 * glow}px ${color}88` }}>
+    <div style={{ padding: "2px 14px", borderRadius: 6, background: "#0009", border: `2px solid ${color}`, fontFamily: SANS,
+      fontSize: 26, color, textShadow: `0 0 ${6 + 14 * glow}px ${color}` }}>{reading}</div>
+  </div>
+);
+
+/** A small body (earth, moon) with its pull shown as an arrow down onto it; orbit = a ring with a floating dot. */
+const Body3: React.FC<{ kind: "earth" | "moon" | "orbit"; at: number }> = ({ kind, at }) => {
+  const { t } = useT();
+  if (kind === "orbit") {
+    const a = Math.max(0, t - at) * 1.2;
+    return (
+      <svg width={180} height={140} viewBox="-90 -70 180 140" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${TEAL}88)` }}>
+        <circle r={30} fill={`${TEAL}22`} stroke={TEAL} strokeWidth={3} />
+        <ellipse rx={80} ry={34} fill="none" stroke={ICE} strokeOpacity={0.6} strokeWidth={2} strokeDasharray="7 6" />
+        <circle cx={80 * Math.cos(a)} cy={34 * Math.sin(a)} r={7} fill={CHALK} />
+      </svg>
+    );
+  }
+  const col = kind === "earth" ? TEAL : "#C9CED8";
+  const r = kind === "earth" ? 46 : 28;
+  return (
+    <svg width={180} height={140} viewBox="-90 -70 180 140" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${col}88)` }}>
+      <circle cy={20} r={r} fill={`${col}2a`} stroke={col} strokeWidth={3.5} />
+      {kind === "moon" && [[-8, 12, 6], [10, 26, 4], [4, 6, 3]].map(([x, y, rr], i) => <circle key={i} cx={x} cy={y} r={rr} fill="none" stroke={col} strokeWidth={2} />)}
+      <circle cy={20 - r - 22} r={8} fill={CHALK} />
+      <path d={`M0 ${20 - r - 12} L0 ${20 - r - 2}`} stroke={GOLD} strokeWidth={3} />
+    </svg>
+  );
+};
+
+const WeightScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const st = c("Stand on a scale");
+  const pull = c("But weight is a pull between your body and the earth");
+  const reads = c("The scale still reads seventy kilos");
+  const only = c("Only a heaviness sitting in the body, on its own, is denied");
+  return (
+    <AbsoluteFill>
+      <Title at={st}>your own weight</Title>
+      {/* the person on the scale, the earth curving beneath */}
+      <At x={480} y={330} s={pop(t, fps, st + 0.2)}>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 2 }}>
+          <Person color={CHALK} size={170} />
+          <Scale reading="70 kg" glow={between(t, reads, reads + 3.5, 0.4)} />
+        </div>
+      </At>
+      <Svg>
+        <DrawPath d="M250 560 Q480 505 710 560" p={ramp(t, pull, 0.8)} color={TEAL} width={5} len={520} />
+      </Svg>
+      <Flow x1={480} y1={470} x2={480} y2={520} color={TEAL} p={ramp(t, pull + 0.5, 0.5)} width={4} />
+      <Items items={[
+        ["Your weight seems to be yours", 480, 200, <SK c={DIM} s={24} strikeAt={only + 0.4}>a heaviness sitting in the body</SK>, { d: 0.4 }],
+        ["like a stone in a pocket", 480, 140, <W c={DIM} s={22}>like a stone in a pocket</W>, { until: "But weight is a pull between your body and the earth" }],
+        ["But weight is a pull between your body and the earth", 480, 600, <W c={TEAL} s={26}>a pull, with the earth</W>, { d: 0.6 }],
+        // Earth, Moon, orbit
+        ["On the Moon you would weigh a sixth as much", 1110, 290, <Body3 kind="earth" at={0} />],
+        ["On the Moon you would weigh a sixth as much", 1110, 390, <K c={TEAL} s={24}>Earth: 70 kg</K>, { d: 0.2 }],
+        ["On the Moon you would weigh a sixth as much", 1390, 290, <Body3 kind="moon" at={0} />, { d: 0.6 }],
+        ["On the Moon you would weigh a sixth as much", 1390, 390, <K c={CHALK} s={24}>Moon: a sixth</K>, { pop: true, d: 1.2 }],
+        ["In orbit you would weigh nothing", 1670, 290, <Body3 kind="orbit" at={c("In orbit you would weigh nothing")} />],
+        ["In orbit you would weigh nothing", 1670, 390, <K c={ICE} s={24}>orbit: nothing</K>, { pop: true, d: 0.6 }],
+        ["and not a gram of you would be gone", 1390, 455, <W c={GOLD} s={26}>not a gram of you gone</W>],
+        ["Ernst Mach argued", 1390, 525, <W c={VIOLET} s={24}>Mach: even inertia is a relation</W>],
+        ["its relation to all the matter in the universe", 1390, 570, <W c={DIM} s={22}>with all the matter there is</W>],
+        // Dogen
+        ["Dogen would say the whole universe is exerted in this one heaviness", 960, 670,
+          <W c={GOLD} s={30} serif>the whole universe exerted in this one heaviness</W>, { until: "The scale still reads seventy kilos" }],
+        ["not as a floor holding it up", 960, 745,
+          <SK c={DIM} s={24} strikeAt={c("not as a floor holding it up") + 0.8}>the universe as a floor beneath it</SK>, { until: "The scale still reads seventy kilos" }],
+        ["The scale still reads seventy kilos", 960, 680, <W c={GOLD} s={38} serif>the scale still reads 70 kg</W>, { d: 0.3 }],
+        ["Only a heaviness sitting in the body, on its own, is denied", 960, 760, <W c={CHALK} s={28}>denied: only a heaviness on its own</W>, { d: 0.6 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const LightScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const st = c("Once dependent arising is seen, this lightness spreads");
+  const mm = c("Mind or matter, subjective or objective");
+  const none = c("because nothing was ever inside it to be heavy");
+  const light = ramp(t, c("Things become light"), 1.4);
+  const plastic = ramp(t, c("magical and plastic"), 0.8);
+  const bob = (ph: number) => -40 * light + Math.sin(t * 1.3 + ph) * 10 * light;
+  const morph = (ph: number) => 1 + 0.06 * plastic * Math.sin(t * 2.1 + ph);
+  return (
+    <AbsoluteFill>
+      <Title at={st}>the lightness spreads</Title>
+      <At x={640} y={330 + bob(0)} s={pop(t, fps, mm) * morph(0)} o={ramp(t, mm, 0.4)}>
+        <div style={{ filter: `drop-shadow(0 0 ${18 * light}px ${GOLD})` }}><Thought color={VIOLET} /></div>
+      </At>
+      <At x={1280} y={330 + bob(1.7)} s={pop(t, fps, mm + 0.8) * morph(1.7)} o={ramp(t, mm + 0.8, 0.4)}>
+        <div style={{ filter: `drop-shadow(0 0 ${18 * light}px ${GOLD})` }}><Cup color={ICE} size={170} /></div>
+      </At>
+      <Items items={[
+        ["Mind or matter, subjective or objective", 640, 470, <K c={VIOLET} s={26}>mind · subjective</K>, { d: 0.3 }],
+        ["Mind or matter, subjective or objective", 1280, 470, <K c={ICE} s={26}>matter · objective</K>, { d: 1.1 }],
+        ["each loses its weight and its fixed identity", 640, 545, <SK c={DIM} s={24} strikeAt={none + 0.3}>its own weight</SK>],
+        ["each loses its weight and its fixed identity", 1280, 545, <SK c={DIM} s={24} strikeAt={none + 0.6}>a fixed identity</SK>, { d: 0.8 }],
+        ["Not because anything is taken away", 960, 620, <W c={DIM} s={28}>nothing taken away</W>, { until: "because nothing was ever inside it to be heavy" }],
+        ["because nothing was ever inside it to be heavy", 960, 620, <W c={TEAL} s={30}>nothing was ever inside it to be heavy</W>],
+        ["magical and plastic", 960, 700, <W c={GOLD} s={42} serif>light: magical and plastic</W>],
+        ["a display that works perfectly and holds nothing", 960, 780, <W c={CHALK} s={30}>a display that works perfectly and holds nothing</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -789,7 +915,8 @@ export const Body: React.FC = () => {
     ["doubt", "The opposite mistake is quieter"], ["vivid", "Yet a harsh word still hurts"],
     ["whole", "When own-nature is negated, nothing is put in its place"], ["vivid", "Presence was never the target"],
     ["search", "the logic of substance is not about matter"], ["web", "We taste luminous clarity, and we invent a Witness"],
-    ["sea", "The author met all three on his own path"], ["vivid", "The koan is only the sharpest case"],
+    ["sea", "The author met all three on his own path"], ["vivid", "Stand on a scale"],
+    ["whole", "Once dependent arising is seen, this lightness spreads"], ["vivid", "The koan is only the sharpest case"],
     ["whole", "So try it"],
   ];
   const moods: Mood[] = [];
@@ -815,6 +942,8 @@ export const Body: React.FC = () => {
     ["the logic of substance is not about matter", <SomethingScene />],
     ["We taste luminous clarity, and we invent a Witness", <TastesScene />],
     ["The author met all three on his own path", <InsideScene />],
+    ["Stand on a scale", <WeightScene />],
+    ["Once dependent arising is seen, this lightness spreads", <LightScene />],
     ["The koan is only the sharpest case", <BeyondScene />],
     ["So try it", <TryScene />],
   ];
