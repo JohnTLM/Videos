@@ -949,7 +949,7 @@ const TimeScene: React.FC = () => {
         ["Raise one hand and lower the other", 320, hi, <W c={GOLD} s={24}>raised</W>, { d: 0.6 }],
         ["Raise one hand and lower the other", 320, lo, <W c={ICE} s={24}>lowered</W>, { d: 0.9 }],
         ["For the raised hand, time passes a little faster", 480, 410, <K c={GOLD} s={24}>a little faster up here</K>, { pop: true }],
-        ["Carlo Rovelli once showed this with two watches", 480, 190, <W c={DIM} s={24}>Carlo Rovelli: two watches</W>],
+        ["Carlo Rovelli once showed this with two watches", 480, 128, <W c={DIM} s={24}>Carlo Rovelli: two watches</W>],
         ["The best clocks can measure it over a height of about thirty centimetres", 740, 415, <W c={CHALK} s={24}>about 30 cm</W>, { d: 0.6 }],
         ["GPS satellites sit high and move fast", 1380, 185, <W c={DIM} s={24}>GPS: high, and fast</W>, { d: 0.4 }],
         ["so their clocks run about", 1380, 238, <K c={GOLD} s={24}>+38 millionths of a second a day</K>, { pop: true }],
