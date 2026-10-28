@@ -69,7 +69,7 @@ Check it works (lists the channel's playlists):
 ~/.venvs/publish/bin/python tools/publish/publish_youtube.py playlists
 ```
 
-**Decision (owner, 2026-10-28): no Google approval for now.** The approval form asks for a Terms of Service document, screenshots and a screen recording, too much for what it adds. So uploads stay in YouTube Studio (Unlisted, all files at once), and Claude Code on the server puts on the texts and the playlist with `update` (works without approval). `upload` would only give Private videos.
+**Decision (owner, 2026-10-28): the Google approval form is given up** ("We have given up the Google approval form"); do not suggest it again. The approval form asks for a Terms of Service document, screenshots and a screen recording, too much for what it adds. So uploads stay in YouTube Studio (Unlisted, all files at once), and Claude Code on the server puts on the texts and the playlist with `update` (works without approval). `upload` would only give Private videos.
 
 ## Use
 
