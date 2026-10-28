@@ -61,7 +61,9 @@ a revision create a new Doc and rename the old one "(superseded <date>)". Delete
    needs each chapter to be at least 10 s), tags within 500 characters, and a 1280×720 thumbnail. The thumbnail
    uses a frame from the video beside a dark panel: Cormorant Garamond title in `#ece7da`, Source Sans 3 kicker in
    `#b9b4a6`.
-6. **Hand over and save.** Send the MP4, thumbnail and YouTube text to the owner (SendUserFile). Commit the two
+6. **Hand over and save.** On the owner's server, upload the MP4, thumbnail and YouTube text to the video's Drive
+   folder with `tools/publish/publish_drive.py` (the owner saves NotebookLM's download into `G:\My Drive\` on the
+   HP, so it reaches Drive by itself). Commit the two
    Markdown files, the render script, the transcript, the YouTube text and the thumbnail to `new-documents/<slug>/`
    with a README listing the cuts, then open and merge a pull request when the owner says so. The MP4 is not
    committed.

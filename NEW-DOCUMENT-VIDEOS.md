@@ -43,8 +43,8 @@ Built from a Claude cloud session (done for ep90, 2026-10-18):
   `TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt
   REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell`. Remotion needs the
   headless shell, not full Chromium. A 3–4 minute video takes about 10–15 minutes to render.
-- The Drive connector cannot upload the MP4s (too large to send). Send them to the owner (SendUserFile) to put in
-  Drive. Save the text files here (step 6) and also in the video's Drive folder; commit new drawings in
+- Build on the owner's server (README.md, "build on the owner's server") and upload the MP4s there with
+  `tools/publish/publish_drive.py <folder id> <files>`; never send them to the owner. Save the text files here (step 6) and also in the video's Drive folder; commit new drawings in
   `tools/explainer/src/chapters/` and add them to Drive's engine backup `_engine/explainer/src/chapters/`.
 
 **Book 4 series** (2026-10-21, owner chose the drawing style, reuse of the five bonus-article videos, and "two first,

@@ -28,6 +28,13 @@ cd tools/explainer && npm ci
 You also need `ffmpeg`. On the owner's Windows computer see `SETUP-AND-ARCHITECTURE.md`. In a Claude cloud session
 `ffmpeg` and a headless Chromium are already installed, and the network must allow `speech.platform.bing.com`.
 
+**On the owner's server** (`instance-20261026-235807`, Debian 13, set up 2026-10-28; where videos are built since
+then, `README.md`): `ffmpeg` 7.1, `pandoc`, Node 20 and the Noto/DejaVu fonts from apt; Python packages in
+`~/.venvs/build` (this file's requirements plus `markdown-it-py`, `beautifulsoup4`, `lxml`, `pymupdf`, `playwright`
+for the EBooks builders); `npm ci` done in `tools/explainer` and its headless shell fetched with
+`npx remotion browser ensure`. Run builds with `~/.venvs/build/bin/python`, then upload with
+`~/.venvs/publish/bin/python tools/publish/publish_drive.py <Drive folder id> <files>`. Disk 40 GB.
+
 ## Make a video
 
 1. Put the approved script in a new folder: for the Anatta series `tools/series/anatta-to-emptiness/ep94-<slug>/ep94-script.md`,
