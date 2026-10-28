@@ -15,15 +15,15 @@ This moment ceases as it arises. Does it arise, or does it cease?
 
 This is the fourth step of The Logic, from After Anatta: notes by John Tan, known as Thusness. The koan has two answers, and they do not conflict.
 
-Conventionally, the moment arises and ceases. The bell is struck, the ringing stops, and we can say when. Looked for, nothing that arises and nothing that ceases is found. The tradition calls these the two truths. They are not two worlds, and not two levels. There is one moment, met two ways.
+Conventionally, the moment arises and ceases. The train leaves and arrives, and we can say when. Looked for, nothing that arises and nothing that ceases is found. The tradition calls these the two truths. They are not two worlds, and not two levels. There is one moment, met two ways.
 
 Nagarjuna introduces them at the turning point of his work. The Buddhas teach by relying on two truths: the conventional truth of the world, and the truth in the ultimate sense. Miss the difference, he says, and the deep teaching is missed.
 
 The old word for "conventional" carries three meanings. Concealment: ordinary seeing hides how things are, by presenting them as existing from their own side. Dependence: what is conventional exists only in dependence on other things. And worldly convention: the names and agreements we live by. Conventional truth is valid as dependence and as convention. It is mistaken only in the concealment. That habit is the real target.
 
-Listen to a bell. We can say when it was struck, and when it stopped. Now look for the ringing apart from its sounding, its conditions and its name. Nothing is found. Nagarjuna opens his whole work this way: without ceasing, without arising, without coming and without going. "Without arising" is not a denial that the bell rang. Not found never means did not happen.
+Look at a station clock. We can say when the train left, and when it arrived. Now look for the leaving apart from the train, the platform, the clock and its name. Nothing is found. Nagarjuna opens his whole work this way: without ceasing, without arising, without coming and without going. "Without arising" is not a denial that the train left. Not found never means did not happen.
 
-Seen with the logic of substance, the ringing is a thing, and arising and ceasing happen to it. So the two answers seem to compete. If analysis finds nothing, the ringing must be unreal. Seen with the logic of dependency, the ringing is merely designated as arising or ceasing, upon conditions. "Arising" is picked out against the silence before, "ceasing" against the silence after. Both are correct, like the stairs of Step 1, up for someone climbing and down for someone coming down. Nothing competes.
+Seen with the logic of substance, the departure is a thing, and arising and ceasing happen to it. So the two answers seem to compete. If analysis finds nothing, the journey must be unreal. Seen with the logic of dependency, the moment is merely designated as arising or ceasing, upon conditions. "Leaving" is picked out against the train standing at the platform before, "arriving" against the train at the next platform after. Both are correct, like the stairs of Step 1, up for someone climbing and down for someone coming down. Nothing competes.
 
 Walk into a garage at dusk. In the corner something lies coiled, and for a moment it is a snake. Someone switches on the lamp. It is a rope. The fright goes. You pick the rope up and tie down the load on the car. Later, you look for the rope apart from its strands, its twist, its use and its name. You do not find one. The load stays tied.
 

@@ -1,6 +1,6 @@
 // After Anatta 7: Function Without Substance (The Logic, Step 7). Explainer drawings timed to the narration.
 // Arc: the koan leaves a worry (how does anything happen?) -> function never needed an "it" -> two opposite conclusions
-// share one premise -> drop it: the bell is heard, the clock keeps time -> the bell both ways, and the stairs ->
+// share one premise -> drop it: a suitcase is heavy, the clock keeps time -> the suitcase both ways, and the stairs ->
 // where the power is not: the knife, the key and the lock, the door opens -> a moment with its own nature would be sealed ->
 // the baker and the baking, actions bear fruit -> the critic's objection reversed, the anvil -> emptiness is not a power,
 // a space or a store of potential -> empty is not flimsy: the red light and the truck -> lightning and flashing ->
@@ -26,13 +26,13 @@ export const PHRASES = [
   // one premise
   "Two opposite conclusions are drawn from the koan", "there must be a real moment of sound", "then nothing happens",
   "But they share one premise", "happening needs an it for the happening to happen to",
-  "Drop that premise, and both conclusions go", "The bell is heard", "The clock keeps time",
+  "Drop that premise, and both conclusions go", "A suitcase is heavy", "The clock keeps time",
   "And there is no it behind the working", "Each works as designated",
-  // the bell both ways
-  "Seen with the logic of substance, a moment of sound", "Its power to be heard sits inside it",
-  "it looks as if the hearing has gone too",
-  "Seen with the logic of dependency, it is the same bell", "Bell, air, ear and attention come together",
-  "They part, and it ceased is said", "The hearing is complete", "It is like the stairs of Step 1", "yet really climbed",
+  // the suitcase both ways
+  "Seen with the logic of substance, I lift a suitcase", "Its power to pull sits inside the case",
+  "it looks as if the weight has gone too",
+  "Seen with the logic of dependency, it is the same suitcase", "Case, earth, arm and attention come together",
+  "The case is set down, and it stopped is said", "The pull on the arm is complete", "It is like the stairs of Step 1", "yet really climbed",
   // where the power is not
   "We habitually treat function as a power inside the thing", "like a knife's power to cut",
   "as if it held the next one inside it",
@@ -485,15 +485,15 @@ const PremiseScene: React.FC = () => {
 const WorksScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const bell = c("The bell is heard");
+  const bell = c("A suitcase is heavy");
+  const lift = ramp(t, bell + 0.3, 0.8);
   return (
     <AbsoluteFill>
       <Title at={bell} color={TEAL}>it still works</Title>
-      <At x={620} y={360} s={pop(t, fps, bell - 0.2)}><Bell size={170} swing={swingOf(t, bell)} /></At>
-      <Sound x={620} y={370} at={bell + 0.3} dur={7} r1={300} />
+      <At x={620} y={380 - 40 * lift} s={pop(t, fps, bell - 0.2)}><Suitcase size={170} /></At>
       <At x={1300} y={360} s={pop(t, fps, c("The clock keeps time"))}><Clock size={190} /></At>
       <Items items={[
-        ["The bell is heard", 620, 540, <W c={GOLD} s={30}>the bell is heard</W>, { d: 0.3 }],
+        ["A suitcase is heavy", 620, 540, <W c={GOLD} s={30}>a suitcase is heavy</W>, { d: 0.3 }],
         ["The clock keeps time", 1300, 540, <W c={ICE} s={30}>the clock keeps time</W>, { d: 0.3 }],
         ["And there is no it behind the working", 960, 360, <SK c={DIM} s={26} strikeAt={c("And there is no it behind the working") + 1.2}>an “it” behind</SK>],
         ["Each works as designated", 960, 660, <W c={TEAL} s={34} serif>works as designated, in dependence</W>],
@@ -506,34 +506,34 @@ const WorksScene: React.FC = () => {
 const BothWaysScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const sub = c("Seen with the logic of substance, a moment of sound");
-  const dep = c("Seen with the logic of dependency, it is the same bell");
-  const come = c("Bell, air, ear and attention come together");
-  const part = c("They part, and it ceased is said");
+  const sub = c("Seen with the logic of substance, I lift a suitcase");
+  const dep = c("Seen with the logic of dependency, it is the same suitcase");
+  const come = c("Case, earth, arm and attention come together");
+  const part = c("The case is set down, and it stopped is said");
   const apart = ramp(t, part, 1.0);
-  const C: [number, number, string][] = [[-1, -1, "bell"], [1, -1, "air"], [-1, 1, "ear"], [1, 1, "attention"]];
+  const C: [number, number, string][] = [[-1, -1, "case"], [1, -1, "earth"], [-1, 1, "arm"], [1, 1, "attention"]];
   return (
     <AbsoluteFill>
-      <Title at={sub}>the same bell, seen both ways</Title>
+      <Title at={sub}>the same suitcase, seen both ways</Title>
       <At x={500} y={200} o={ramp(t, sub, 0.5)}><K c={WARM} s={26}>substance</K></At>
       <At x={500} y={400} s={pop(t, fps, sub + 0.8)}>
         <div style={{ width: 220, height: 140, borderRadius: 14, background: `${WARM}33`, border: `4px solid ${WARM}`, boxShadow: `0 0 30px ${WARM}88`,
           display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 6 }}>
-          <W c={CHALK} s={28}>moment of sound</W>
-          <div style={{ opacity: ramp(t, c("Its power to be heard sits inside it"), 0.5) }}><W c={WARM} s={22}>power inside</W></div>
+          <W c={CHALK} s={28}>heaviness</W>
+          <div style={{ opacity: ramp(t, c("Its power to pull sits inside the case"), 0.5) }}><W c={WARM} s={22}>pull inside</W></div>
         </div>
       </At>
       <Items items={[
-        ["it looks as if the hearing has gone too", 500, 560, <W c={DIM} s={26}>no moment, so no hearing?</W>],
+        ["it looks as if the weight has gone too", 500, 560, <W c={DIM} s={26}>no moment, so no weight?</W>],
       ]} />
       <At x={1380} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
       {C.map(([dx, dy, w], i) => (
         <At key={w} x={1380 + dx * (90 + 90 * apart)} y={400 + dy * (60 + 50 * apart)} s={pop(t, fps, come + i * 0.35)}><K c={TEAL} s={24}>{w}</K></At>
       ))}
       <Items items={[
-        ["Bell, air, ear and attention come together", 1380, 400, <W c={GREEN} s={26}>“it arose”</W>, { d: 1.8, until: "They part, and it ceased is said" }],
-        ["They part, and it ceased is said", 1380, 400, <W c={ROSE} s={26}>“it ceased”</W>, { d: 0.4 }],
-        ["The hearing is complete", 1380, 560, <W c={GOLD} s={30} serif>the hearing is complete</W>],
+        ["Case, earth, arm and attention come together", 1380, 400, <W c={GREEN} s={26}>“it got heavy”</W>, { d: 1.8, until: "The case is set down, and it stopped is said" }],
+        ["The case is set down, and it stopped is said", 1380, 400, <W c={ROSE} s={26}>“it stopped”</W>, { d: 0.4 }],
+        ["The pull on the arm is complete", 1380, 560, <W c={GOLD} s={30} serif>the pull on the arm is complete</W>],
         ["It is like the stairs of Step 1", 960, 700, <Stairs p={ramp(t, c("It is like the stairs of Step 1"), 1.2)} />],
         ["It is like the stairs of Step 1", 760, 700, <W c={DIM} s={24}>not up or down in themselves</W>, { d: 0.8 }],
         ["yet really climbed", 1170, 700, <W c={CHALK} s={26}>yet really climbed</W>],
@@ -967,8 +967,8 @@ export const Body: React.FC = () => {
   const c = useCue();
   const starts: [keyof typeof M, string][] = [
     ["doubt", "The koan of Step 1 ends with no moment found"], ["web", "This is the seventh step of The Logic"],
-    ["doubt", "Two opposite conclusions are drawn from the koan"], ["vivid", "The bell is heard"],
-    ["sea", "Seen with the logic of substance, a moment of sound"], ["search", "We habitually treat function as a power inside the thing"],
+    ["doubt", "Two opposite conclusions are drawn from the koan"], ["vivid", "A suitcase is heavy"],
+    ["sea", "Seen with the logic of substance, I lift a suitcase"], ["search", "We habitually treat function as a power inside the thing"],
     ["open", "A key opens this lock and no other"], ["doubt", "Now turn the koan round"], ["web", "Nagarjuna makes the point with a baker"],
     ["search", "A critic objects"], ["doubt", "But this does not make emptiness a power"], ["vivid", "Empty is not flimsy"],
     ["sea", "Come back to the koan's words"], ["web", "this was where his own view lagged behind"],
@@ -985,8 +985,8 @@ export const Body: React.FC = () => {
     ["The koan of Step 1 ends with no moment found", <WorryScene />],
     ["This is the seventh step of The Logic", <StepScene />],
     ["Two opposite conclusions are drawn from the koan", <PremiseScene />],
-    ["The bell is heard", <WorksScene />],
-    ["Seen with the logic of substance, a moment of sound", <BothWaysScene />],
+    ["A suitcase is heavy", <WorksScene />],
+    ["Seen with the logic of substance, I lift a suitcase", <BothWaysScene />],
     ["We habitually treat function as a power inside the thing", <PowerScene />],
     ["A key opens this lock and no other", <KeyScene />],
     ["Now turn the koan round", <SealedScene />],

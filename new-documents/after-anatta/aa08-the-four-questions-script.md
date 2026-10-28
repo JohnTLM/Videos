@@ -27,9 +27,9 @@ And it has to be asked of the one asking. Moments come and go, says the habit, b
 
 The second question. What does dependency say instead? Look for the thing apart from what it depends on. Check three kinds of dependence. Causes: a sprout depends on a seed, water and warmth. Parts: a chariot depends on its wheels and axle. And designation: as long depends on short, and knower on known.
 
-In the koan, the sound of a bell depends on the striking, the air, the ear and attention. Most of all, the moment depends on designation. "This moment" is picked out together with its arising and its ceasing. None comes first. Look for the moment apart from them, and it is not found. Look for it as the two together, and there is no one thing for them to belong to. So the answer is not "it is all connected", which can become a new floor. It says how the thing is picked out. Then "ceases as it arises" is a plain description, not a paradox.
+In the koan, a sound depends on its source, the air, the ear and attention. Most of all, the moment depends on designation. "This moment" is picked out together with its arising and its ceasing. None comes first. Look for the moment apart from them, and it is not found. Look for it as the two together, and there is no one thing for them to belong to. So the answer is not "it is all connected", which can become a new floor. It says how the thing is picked out. Then "ceases as it arises" is a plain description, not a paradox.
 
-The third question. What is affirmed conventionally? This question protects the world. In the koan, everything is kept. We can say when the bell was struck, and when the ringing ended. Clocks keep time. Actions bear fruit.
+The third question. What is affirmed conventionally? This question protects the world. In the koan, everything is kept. We can say when the car came, and when it had gone. Clocks keep time. Actions bear fruit.
 
 There is a caution here. Removing a bad argument against something is not a good argument for it. So what is affirmed comes from where conventions come from: ordinary knowing, the tradition, and evidence. That a clock keeps time is ordinary knowing. That actions bear fruit beyond this life is the tradition, and the author says so. He does not derive rebirth from emptiness.
 
@@ -37,7 +37,7 @@ The fourth question. What is never found? Name it plainly: a moment with a natur
 
 Then check what has been put in its place. A timeless Now in which the moments pass. An awareness behind them that stays. A pure flow. Each keeps the "it", and moves it somewhere else. That is the eternalist trap, and it goes back to question one. Emptiness gets the same treatment. It is not a backdrop the moments flash against. Held as the final truth, the medicine would have become a new illness.
 
-Ask what arises, and the koan is a paradox. Run the four questions, and no "it" is found, nothing is put in its place, and the bell still rings.
+Ask what arises, and the koan is a paradox. Run the four questions, and no "it" is found, nothing is put in its place, and the sound is still heard.
 
 Yet we usually go about it the wrong way. We keep trying to answer, under the influence of the very habit we want to undo. Does the self exist or not? What happens to me when I die? Each question already assumes a thing with its own nature. Any answer in the same frame swaps one thing for another: the self for a Witness, the Witness for pure Awareness, a thing for nothing. What feels like logic is a habit that has never been checked.
 

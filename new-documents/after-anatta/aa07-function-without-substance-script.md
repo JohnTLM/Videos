@@ -17,11 +17,11 @@ This is the seventh step of The Logic, from After Anatta: notes by John Tan, kno
 
 Two opposite conclusions are drawn from the koan. One person reasons: sounds are heard, so there must be a real moment of sound that really arises and really ceases. Another finds no such moment, and reasons: then nothing happens, and the sound is a kind of illusion. But they share one premise: that happening needs an "it" for the happening to happen to. They only argue about whether the "it" is there.
 
-Drop that premise, and both conclusions go. The bell is heard. The clock keeps time. And there is no "it" behind the working. Each works as designated, in dependence on what it is picked out with. And it works reliably, which is all that working ever was.
+Drop that premise, and both conclusions go. A suitcase is heavy. The clock keeps time. And there is no "it" behind the working. Each works as designated, in dependence on what it is picked out with. And it works reliably, which is all that working ever was.
 
-Seen with the logic of substance, a moment of sound is a thing in its own right. Its power to be heard sits inside it. So when the koan finds no moment, it looks as if the hearing has gone too.
+Seen with the logic of substance, I lift a suitcase, and the heaviness of this moment feels like a thing in its own right. Its power to pull sits inside the case. So when the koan finds no moment, it looks as if the weight has gone too.
 
-Seen with the logic of dependency, it is the same bell. Bell, air, ear and attention come together, and "it arose" is said. They part, and "it ceased" is said. The hearing is complete. Nothing in it was waiting for an "it" to carry it out. It is like the stairs of Step 1: not up or down in themselves, yet really climbed.
+Seen with the logic of dependency, it is the same suitcase. Case, earth, arm and attention come together, and "it got heavy" is said. The case is set down, and "it stopped" is said. The pull on the arm is complete. Nothing in it was waiting for an "it" to carry it out. It is like the stairs of Step 1: not up or down in themselves, yet really climbed.
 
 We habitually treat function as a power inside the thing, like a knife's power to cut. We treat a moment the same way, as if it held the next one inside it.
 

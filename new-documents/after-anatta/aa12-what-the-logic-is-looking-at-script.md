@@ -46,6 +46,16 @@ Nothing appears first and turns out empty later. This is what Nagarjuna means wh
 
 None of this makes the world thin. Singling out is not the mistake. A mirror shows every reflection, clear and distinct, and holds none of them. The mistake is one step further: taking what is singled out as standing on its own. The singling out goes on, vivid and exact. Only the extra "on its own" is not found.
 
+Take something you can hold. Someone passes you an apple, and you hold it in your hand. It seems plain that you are holding a solid apple, out there, on its own. Look again.
+
+The hardness is not stored in the apple. It arises when skin meets fruit, the fingers press, and touch is there. Press lightly and it is firm. Press with the thumb and it gives. The coolness depends on the warmth of your hand. The weight in your palm is a pull with the earth, met by your arm.
+
+The red depends on light, on the skin of the fruit, and on the eye. Under candlelight it turns orange. At dusk it goes grey. The scent needs the air and the breath. The crunch needs teeth and an ear. The sweetness needs the tongue: right after brushing your teeth, it is another apple. Even the word "apple" comes with memory and language.
+
+Each sense gives only its own appearing. This hardness, this red, this crunch, this sweetness. None of them gives an apple standing out there on its own. Mental formation, from the habits of the inherent framework, does the rest. It ties the appearings into one solid thing, puts it out there, and puts a "me" in here, holding it.
+
+Look for the apple apart from its conditions, and it is not found. Look for the holder apart from the holding, and that is not found either. Nothing is missing. You can still eat it, share it, and plant its seeds. Untied, it is just this: vivid, and light.
+
 Then the clarity. Every appearing is clear: seen, heard, known. This clear, vivid knowing is what the tradition calls the nature of mind. When it is mistaken, it becomes me, the one who sees. When that is seen through, it is easily mistaken again, as a capital S Self: a pure witness, a vast awareness, the background the world appears in.
 
 But the clarity is the appearing's own. It is not a light shining from behind. It too is singled out, with its conditions, and looked for, it is not found apart from what appears. Not a seer behind the seen, and not found apart from it. Clear, knowing and empty, with no one knowing it, and no ground beneath it.
@@ -55,6 +65,8 @@ So the taste and the logic meet here. Direct taste meets the appearing as vivid,
 When you look at any phenomenon, what it actually is, is just this. Its being not found, and its arising in dependence. Not a property it has. What it is.
 
 Try it now. Hear a sound. Notice it is already this sound, picked out, before any word. Notice what it stands out against, and what it comes with. Is there a sound left over, apart from those?
+
+Pick up a piece of fruit. Go through the senses one by one. Then look for the fruit apart from them, and for the one holding it.
 
 Then notice the clarity. Everything is already known, without effort. Is the knowing behind the scene? Or is it just the scene, bright and clear?
 
