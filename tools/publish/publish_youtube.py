@@ -15,6 +15,8 @@ the tags as one comma-separated line. A file holding several videos ("## 1. …"
   python3 tools/publish/publish_youtube.py playlists
   # title, privacy and length of videos (to check an order)
   python3 tools/publish/publish_youtube.py info wxhsA6xKIQM QA9yrHNx5To
+  # the latest uploads (to find videos just uploaded in YouTube Studio: their titles are still the file names)
+  python3 tools/publish/publish_youtube.py uploads -n 20
 
 Each command prints one line of JSON per video (id, link, title, privacy). Nothing secret is printed.
 Until Google approves the project (README.md, step 6), YouTube keeps every video uploaded this way Private.
@@ -139,8 +141,14 @@ def update(args):
         sys.exit(f"No video {args.video_id} on this channel")
     yt.videos().update(part="snippet", body={"id": args.video_id, "snippet": snippet}).execute()
     if args.playlist:
-        add_to_playlist(yt, find_playlist(yt, args.playlist), args.video_id)
+        add_to_playlist(yt, find_playlist(yt, args.playlist, "unlisted" if args.create_playlist else None), args.video_id)
     report(args.video_id, snippet["title"], items[0]["status"]["privacyStatus"])
+
+
+def length_of(v):
+    m = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", v["contentDetails"]["duration"])
+    h, mi, se = (int(x or 0) for x in m.groups())
+    return f"{h}:{mi:02d}:{se:02d}" if h else f"{mi}:{se:02d}"
 
 
 def info(args):
@@ -151,10 +159,21 @@ def info(args):
         if not v:
             print(json.dumps({"id": vid, "found": False}))
             continue
-        m = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", v["contentDetails"]["duration"])
-        h, mi, se = (int(x or 0) for x in m.groups())
-        length = f"{h}:{mi:02d}:{se:02d}" if h else f"{mi}:{se:02d}"
-        report(vid, v["snippet"]["title"], v["status"]["privacyStatus"], length=length)
+        report(vid, v["snippet"]["title"], v["status"]["privacyStatus"], length=length_of(v))
+
+
+def uploads(args):
+    """The channel's latest uploads, newest first: id, title (a Studio upload keeps its file name), privacy, length."""
+    yt = service("youtube", "v3")
+    ch = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0]
+    pid = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+    ids = [it["contentDetails"]["videoId"] for it in yt.playlistItems().list(
+        part="contentDetails", playlistId=pid, maxResults=min(args.n, 50)).execute().get("items", [])]
+    found = {v["id"]: v for v in yt.videos().list(part="snippet,status,contentDetails", id=",".join(ids)).execute().get("items", [])} if ids else {}
+    for vid in ids:
+        v = found.get(vid)
+        if v:
+            report(vid, v["snippet"]["title"], v["status"]["privacyStatus"], length=length_of(v))
 
 
 def show_playlist(args):
@@ -202,6 +221,7 @@ def main():
     p.add_argument("--meta", required=True)
     p.add_argument("--entry", type=int)
     p.add_argument("--playlist", help="also add it to this playlist")
+    p.add_argument("--create-playlist", action="store_true", help="make the playlist (Unlisted) if it does not exist")
     p.set_defaults(fn=update)
     s = sub.add_parser("playlist")
     s.add_argument("name", help="playlist title, id or link")
@@ -210,6 +230,9 @@ def main():
     i = sub.add_parser("info", help="title, privacy and length of videos")
     i.add_argument("ids", nargs="+")
     i.set_defaults(fn=info)
+    r = sub.add_parser("uploads", help="the channel's latest uploads with title, privacy and length")
+    r.add_argument("-n", type=int, default=30, help="how many (at most 50)")
+    r.set_defaults(fn=uploads)
     args = ap.parse_args()
     args.fn(args)
 
