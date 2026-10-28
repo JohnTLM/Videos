@@ -5,6 +5,7 @@
 // relentless negation, the flower and the bell still vivid -> the void is not coherent -> one root: a thing with own-nature,
 // two branches -> substance in reverse; the bearer at death -> Tsongkhapa's crossed cure -> the sound heard both ways, the
 // stairs -> emptiness held wrongly (the Unfound, the shrug) -> the medicine that leaves -> the middle is not a midpoint ->
+// warm or cool water: not warm in itself, not only in the mind; the baby's bath still right ->
 // self, object, cause, person -> try it.
 // Stance: emptiness is drawn only as the not-finding and as the emptiness OF what appears, never as a ground, container or
 // backdrop. Eternalism and nihilism are drawn as two branches from ONE root (a thing with own-nature), not as two ends with
@@ -64,6 +65,12 @@ export const PHRASES = [
   // the middle
   "So the middle is not a midpoint", "what is left when nothing is found to bear either label", "Nor is it a thinner world",
   "A harsh word still hurts", "Actions still bear fruit", "Not found never means does not happen",
+  // warm or cool water
+  "Put one hand in ice water", "and the other in hot water", "Then put both in the same lukewarm basin",
+  "One hand finds it warm, the other cool", "The eternalist says the water really is warm in itself",
+  "The nihilist says warmth is nothing, only in the mind", "Neither fits",
+  "The warmth is felt with the water, the hand, and what the hand was in before",
+  "And the bath is still run at the right heat for a baby",
   // beyond the moment
   "The two traps wait wherever an it is assumed", "The self one keeps a soul forever",
   "An object one says the cup is really there", "Meanwhile the cup holds tea",
@@ -284,6 +291,50 @@ const Pill: React.FC<{ color?: string }> = ({ color = TEAL }) => (
     <div style={{ flex: 1, background: `${color}88` }} /><div style={{ flex: 1, background: "#F1ECE033" }} />
   </div>
 );
+
+/** A basin of water: cold shows ice, hot shows steam, lukewarm plain. */
+const Basin: React.FC<{ color: string; kind: "ice" | "hot" | "luke"; w?: number }> = ({ color, kind, w = 280 }) => {
+  const { t } = useT();
+  return (
+    <svg width={w} height={w * 0.62} viewBox="0 0 280 174" style={{ overflow: "visible", filter: `drop-shadow(0 0 12px ${color}88)` }}>
+      {kind === "hot" && [0, 1, 2].map(i => (
+        <path key={i} d={`M${90 + i * 50} 40 q-14 -16 0 -30 q14 -14 0 -30`} fill="none" stroke={CHALK} strokeWidth={4} strokeLinecap="round"
+          opacity={0.25 + 0.25 * Math.sin(t * 2 + i)} transform={`translate(0 ${-6 * Math.sin(t * 1.5 + i)})`} />
+      ))}
+      <path d="M10 50 L270 50 L240 164 Q140 180 40 164 Z" fill={`${color}18`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+      <path d="M22 76 L258 76 L238 156 Q140 170 42 156 Z" fill={`${color}44`} />
+      {kind === "ice" && [[70, 72], [130, 80], [190, 70]].map(([x, y], i) => (
+        <rect key={i} x={x} y={y} width={34} height={30} rx={5} fill={`${ICE}66`} stroke={ICE} strokeWidth={3} transform={`rotate(${i * 17 - 12} ${x + 17} ${y + 15})`} />
+      ))}
+    </svg>
+  );
+};
+
+/** An open hand pointing down, as when put into water. */
+const DownHand: React.FC<{ color?: string }> = ({ color = WARM }) => (
+  <svg width={90} height={150} viewBox="0 0 90 150" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}aa)` }}>
+    <rect x={28} y={0} width={34} height={50} rx={10} fill={`${color}22`} stroke={color} strokeWidth={4} />
+    <rect x={14} y={44} width={62} height={52} rx={16} fill={`${color}33`} stroke={color} strokeWidth={4} />
+    {[0, 1, 2, 3].map(i => <rect key={i} x={16 + i * 15} y={86} width={12} height={i === 0 || i === 3 ? 40 : 52} rx={6} fill={`${color}33`} stroke={color} strokeWidth={3} />)}
+  </svg>
+);
+
+/** A baby's bath with a toy duck floating in it. */
+const BabyBath: React.FC = () => {
+  const { t } = useT();
+  return (
+    <svg width={320} height={190} viewBox="0 0 320 190" style={{ overflow: "visible", filter: `drop-shadow(0 0 12px ${GOLD}88)` }}>
+      <path d="M10 60 L310 60 Q300 170 160 176 Q20 170 10 60 Z" fill={`${TEAL}33`} stroke={TEAL} strokeWidth={5} strokeLinejoin="round" />
+      <path d="M24 84 L296 84 Q284 160 160 164 Q36 160 24 84 Z" fill={`${TEAL}44`} />
+      <g transform={`translate(${150 + 16 * Math.sin(t * 0.9)} ${62 + 3 * Math.sin(t * 2)})`}>
+        <ellipse cx={0} cy={18} rx={30} ry={16} fill={`${GOLD}cc`} stroke={GOLD} strokeWidth={3} />
+        <circle cx={18} cy={-2} r={13} fill={`${GOLD}cc`} stroke={GOLD} strokeWidth={3} />
+        <path d="M30 -2 L42 2 L30 6 Z" fill={WARM} />
+        <circle cx={21} cy={-5} r={2.5} fill="#111" />
+      </g>
+    </svg>
+  );
+};
 
 // ---------------------------------------------------------------- scenes
 const KoanScene: React.FC = () => {
@@ -764,6 +815,50 @@ const MiddleScene: React.FC = () => {
   );
 };
 
+const WaterScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const st = c("Put one hand in ice water");
+  const hot = c("and the other in hot water");
+  const both = c("Then put both in the same lukewarm basin");
+  const neither = c("Neither fits");
+  const felt = c("The warmth is felt with the water, the hand, and what the hand was in before");
+  const bath = c("And the bath is still run at the right heat for a baby");
+  const m = ramp(t, both, 1.2);
+  const b = ramp(t, bath, 0.8);
+  const BY = 470;
+  return (
+    <AbsoluteFill>
+      <Title at={st} color={TEAL}>warm, or cool?</Title>
+      <At x={420} y={BY} o={ramp(t, st, 0.5) * (1 - 0.6 * m + 0.3 * ramp(t, felt + 1.6, 0.5) * (1 - b))} s={pop(t, fps, st) * (1 - 0.3 * m)}>
+        <Basin color={ICE} kind="ice" />
+      </At>
+      <At x={1500} y={BY} o={ramp(t, hot, 0.5) * (1 - 0.6 * m + 0.3 * ramp(t, felt + 1.6, 0.5) * (1 - b))} s={pop(t, fps, hot) * (1 - 0.3 * m)}>
+        <Basin color={WARM} kind="hot" />
+      </At>
+      <At x={960} y={BY} o={ramp(t, both, 0.6) * (1 - b)} s={pop(t, fps, both)}><Basin color={TEAL} kind="luke" w={340} /></At>
+      <At x={960} y={BY - 20} o={b} s={pop(t, fps, bath)}><BabyBath /></At>
+      <At x={420 + 480 * m} y={BY - 90} o={ramp(t, st + 0.4, 0.5) * (1 - b)}><DownHand color={ICE} /></At>
+      <At x={1500 - 480 * m} y={BY - 90} o={ramp(t, hot + 0.4, 0.5) * (1 - b)}><DownHand color={WARM} /></At>
+      <Items items={[
+        ["Put one hand in ice water", 420, 250, <K c={ICE} s={26}>ice water</K>, { pop: true, until: "Then put both in the same lukewarm basin" }],
+        ["and the other in hot water", 1500, 250, <K c={WARM} s={26}>hot water</K>, { pop: true, until: "Then put both in the same lukewarm basin" }],
+        ["Then put both in the same lukewarm basin", 960, 220, <W c={TEAL} s={28}>one lukewarm basin</W>, { d: 0.6, until: "And the bath is still run at the right heat for a baby" }],
+        ["One hand finds it warm, the other cool", 760, 330, <K c={WARM} s={26}>warm!</K>, { pop: true, until: "And the bath is still run at the right heat for a baby" }],
+        ["One hand finds it warm, the other cool", 1160, 330, <K c={ICE} s={26}>cool!</K>, { pop: true, d: 0.9, until: "And the bath is still run at the right heat for a baby" }],
+        ["The eternalist says the water really is warm in itself", 540, 640,
+          <SK c={GREEN} s={26} strikeAt={neither}>really warm, in itself</SK>],
+        ["The nihilist says warmth is nothing, only in the mind", 1380, 640,
+          <SK c={ROSE} s={26} strikeAt={neither + 0.3}>nothing, only in the mind</SK>],
+        ["The warmth is felt with the water, the hand, and what the hand was in before", 600, 730, <K c={TEAL} s={24}>the water</K>, { pop: true, d: 0.6 }],
+        ["The warmth is felt with the water, the hand, and what the hand was in before", 900, 730, <K c={WARM} s={24}>the hand</K>, { pop: true, d: 1.2 }],
+        ["The warmth is felt with the water, the hand, and what the hand was in before", 1280, 730, <K c={ICE} s={24}>what the hand was in before</K>, { pop: true, d: 1.8 }],
+        ["And the bath is still run at the right heat for a baby", 960, 810, <W c={GOLD} s={34} serif>and the bath is still run just right for a baby</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -828,7 +923,8 @@ export const Body: React.FC = () => {
     ["web", "Here is the root"], ["doubt", "So the void is not the opposite of substance"],
     ["sea", "the remedy for one trap is never the other"], ["vivid", "Hear it both ways"],
     ["doubt", "one more place for the snake to bite"], ["sea", "Emptiness is a medicine"],
-    ["vivid", "So the middle is not a midpoint"], ["web", "The two traps wait wherever an it is assumed"],
+    ["vivid", "So the middle is not a midpoint"], ["open", "Put one hand in ice water"],
+    ["web", "The two traps wait wherever an it is assumed"],
     ["whole", "Listen to a sound and ask"],
   ];
   const moods: Mood[] = [];
@@ -855,6 +951,7 @@ export const Body: React.FC = () => {
     ["one more place for the snake to bite", <HeldWrongScene />],
     ["Emptiness is a medicine", <MedicineScene />],
     ["So the middle is not a midpoint", <MiddleScene />],
+    ["Put one hand in ice water", <WaterScene />],
     ["The two traps wait wherever an it is assumed", <BeyondScene />],
     ["Listen to a sound and ask", <TryScene />],
   ];

@@ -49,6 +49,8 @@ Emptiness is a medicine. Chandrakirti compares it to a purgative. If it works, i
 
 So the middle is not a midpoint, where the moment arises a little and ceases a little. It is what is left when nothing is found to bear either label. Nor is it a thinner world. A harsh word still hurts, and a kind one still helps. Actions still bear fruit. "Not found" never means "does not happen".
 
+Put one hand in ice water and the other in hot water. Then put both in the same lukewarm basin. One hand finds it warm, the other cool. The eternalist says the water really is warm in itself. The nihilist says warmth is nothing, only in the mind. Neither fits. The warmth is felt with the water, the hand, and what the hand was in before. And the bath is still run at the right heat for a baby.
+
 The two traps wait wherever an "it" is assumed. The self: one keeps a soul forever, the other says there was never anyone. An object: one says the cup is really there, the other takes it apart and calls it nothing. Meanwhile the cup holds tea. A cause: one makes the seed already the sprout, the other cuts them apart, so a cruel word costs nothing. And a person: held as fixed, forever the one who wronged me, or held as nothing, their pain no longer mattering. No such bearer is found, and the person can really change.
 
 Try it. Listen to a sound and ask: does it arise, or does it cease? Notice where each answer wants to put the moment. Then look for the "it" both answers share. And when "it's all empty anyway" comes up, check whether cause and result now matter less to you. If so, the snake is held by the tail.

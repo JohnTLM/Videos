@@ -45,6 +45,8 @@ None of this makes the four corners forbidden words. Nagarjuna uses them as medi
 
 What is left when the four corners fall is not a blank. Nagarjuna's word for what stops is elaboration: the mind spinning out "it is", "it is not", "it came", "it went", around something it takes to be there. When that "it" is not found, the spinning stops by itself. That stopping is called peace. A thought appears. Where did it come from? Where does it stay? Where did it go? Nothing has the whereabouts the questions ask for. Yet the thought was thought, and you acted on it. One caution: a quiet mind is not the same as this. Stillness with the habit intact has only paused.
 
+An ambulance passes. Its siren is high as it comes and drops as it goes, while for the driver it never changes. So what is its pitch? High? Low? Both? Neither? Each answer looks for a pitch sitting in the siren on its own. There is none. Yet the siren is heard, and cars pull aside.
+
 The four corners can be asked of anything. The self. Does it exist? Then it could never learn or change. Does it not? Then who remembers and keeps promises? Each answer looks for a self found on its own. Thinking, choosing and caring go on as before.
 
 An object. Sit down, and you have a lap. Stand up, and a child asks: where did your lap go? Every answer sounds a little foolish. There never was a lap apart from the sitting, and nothing was lost.

@@ -3,7 +3,8 @@
 // falls (permanence; annihilation and the empty jug; both; neither, built from the two) -> one assumption under all four:
 // a findable "it", the extreme as an edge to stand on -> the fire that went nowhere, the king of France -> the fifth corner
 // (the Absolute, Pure Awareness, a timeless Now) and the author's own pull -> Nagarjuna closes the door -> the koan seen
-// two ways -> the corners as medicine -> the spinning stops; the thought with no whereabouts -> self, lap, sprout, person -> try it.
+// two ways -> the corners as medicine -> the spinning stops; the thought with no whereabouts -> the siren: high? low? both?
+// neither? no pitch in the siren on its own, yet heard -> self, lap, sprout, person -> try it.
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container, backdrop or fifth corner. "Beyond",
 // the Absolute, Pure Awareness and a timeless Now appear only as a fifth corner to be struck; awareness is never drawn
 // as a hidden substance. Only the invented "it" and the wrong views are struck; the sound, the bell, the thought, the lap,
@@ -63,6 +64,10 @@ export const PHRASES = [
   "it is, it is not, it came, it went", "the spinning stops by itself", "That stopping is called peace",
   "A thought appears", "Where did it come from", "Where did it go", "Yet the thought was thought, and you acted on it",
   "a quiet mind is not the same as this", "Stillness with the habit intact has only paused",
+  // the siren
+  "An ambulance passes", "Its siren is high as it comes", "and drops as it goes", "while for the driver it never changes",
+  "So what is its pitch", "High? Low? Both? Neither", "Each answer looks for a pitch sitting in the siren on its own",
+  "There is none", "Yet the siren is heard, and cars pull aside",
   // beyond the moment
   "The four corners can be asked of anything", "The self", "Then it could never learn or change",
   "Thinking, choosing and caring go on as before", "An object", "Sit down, and you have a lap", "where did your lap go",
@@ -256,6 +261,29 @@ const Sprout: React.FC<{ grow: number }> = ({ grow }) => (
       fill={`${GREEN}88`} stroke={GREEN} strokeWidth={3} />
     <path d={`M100 ${170 - 100 * grow} Q${100 + 50 * grow} ${170 - 130 * grow} ${100 + 60 * grow} ${170 - 100 * grow} Q${100 + 30 * grow} ${170 - 90 * grow} 100 ${170 - 100 * grow} Z`}
       fill={`${GREEN}88`} stroke={GREEN} strokeWidth={3} />
+  </svg>
+);
+
+/** An ambulance seen side-on, facing right, with a flashing light bar. */
+const Ambulance: React.FC<{ flash?: number }> = ({ flash = 0 }) => (
+  <svg width={230} height={120} viewBox="0 0 230 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${CHALK}66)` }}>
+    <rect x={8} y={18} width={150} height={78} rx={8} fill={`${CHALK}22`} stroke={CHALK} strokeWidth={4} />
+    <path d="M158 40 L196 40 L222 66 L222 96 L158 96 Z" fill={`${CHALK}22`} stroke={CHALK} strokeWidth={4} strokeLinejoin="round" />
+    <path d="M168 48 L192 48 L210 66 L168 66 Z" fill={`${ICE}44`} stroke={ICE} strokeWidth={2} />
+    <path d="M70 38 L96 38 L96 50 L108 50 L108 76 L96 76 L96 88 L70 88 Z" transform="translate(-6 -6) scale(0.9)" fill={`${ROSE}cc`} />
+    <rect x={60} y={6} width={22} height={12} rx={3} fill={flash > 0.5 ? ROSE : `${ROSE}44`} style={{ filter: flash > 0.5 ? `drop-shadow(0 0 14px ${ROSE})` : undefined }} />
+    <rect x={86} y={6} width={22} height={12} rx={3} fill={flash <= 0.5 ? ICE : `${ICE}44`} style={{ filter: flash <= 0.5 ? `drop-shadow(0 0 14px ${ICE})` : undefined }} />
+    <circle cx={50} cy={100} r={15} fill="#000a" stroke={CHALK} strokeWidth={4} />
+    <circle cx={186} cy={100} r={15} fill="#000a" stroke={CHALK} strokeWidth={4} />
+  </svg>
+);
+
+/** A small car seen side-on. */
+const Car: React.FC<{ color?: string }> = ({ color = TEAL }) => (
+  <svg width={130} height={64} viewBox="0 0 130 64" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M6 44 L14 26 L40 24 L54 8 L92 8 L108 26 L124 30 L124 46 Z" fill={`${color}33`} stroke={color} strokeWidth={3.5} strokeLinejoin="round" />
+    <circle cx={34} cy={48} r={11} fill="#000a" stroke={color} strokeWidth={3} />
+    <circle cx={98} cy={48} r={11} fill="#000a" stroke={color} strokeWidth={3} />
   </svg>
 );
 
@@ -726,6 +754,59 @@ const ThoughtScene: React.FC = () => {
   );
 };
 
+const SirenScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const st = c("An ambulance passes");
+  const none = c("There is none");
+  const aside = c("Yet the siren is heard, and cars pull aside");
+  const LANE = 360, X0 = 160, SPAN = 1600, V = 190, SOUND = 520;
+  const xAt = (u: number) => X0 + (((u - st) * V) % SPAN + SPAN) % SPAN;
+  const ax = xAt(t);
+  const edge = Math.min(1, (ax - X0) / 120, (X0 + SPAN - ax) / 120);
+  // Doppler: rings sent out from where the ambulance was; crowded ahead (high), spread behind (low)
+  const rings: React.ReactNode[] = [];
+  if (t > st) {
+    for (let k = 0; k < 14; k++) {
+      const te = Math.floor((t - st) / 0.3) * 0.3 - k * 0.3 + st;
+      if (te < st) break;
+      const age = t - te, r = SOUND * age;
+      const ex = xAt(te);
+      if (Math.abs(ex - ax) > SPAN / 2) continue; // skip rings from before the wrap
+      rings.push(<circle key={k} cx={ex} cy={LANE} r={r} fill="none" stroke={GOLD} strokeWidth={3}
+        opacity={Math.max(0, 0.75 - age / 2.2) * ramp(t, st, 0.5)} />);
+    }
+  }
+  const pull = ramp(t, aside + 0.4, 0.9);
+  return (
+    <AbsoluteFill>
+      <Title at={st} color={ROSE}>an ambulance passes</Title>
+      <Svg>
+        <defs><clipPath id="aa05road"><rect x={0} y={170} width={1920} height={400} /></clipPath></defs>
+        <g clipPath="url(#aa05road)">{rings}</g>
+        <path d={`M120 ${LANE + 70} L1800 ${LANE + 70}`} stroke={DIM} strokeWidth={3} strokeDasharray="26 22" opacity={ramp(t, st, 0.5)} />
+      </Svg>
+      <At x={ax} y={LANE} o={ramp(t, st, 0.4) * Math.max(0, edge)}><Ambulance flash={Math.floor(t * 3) % 2} /></At>
+      <At x={760} y={LANE + 120 + 36 * pull} o={ramp(t, st + 0.6, 0.5)}><Car color={TEAL} /></At>
+      <At x={1240} y={LANE + 120 + 36 * pull} o={ramp(t, st + 0.9, 0.5)}><Car color={VIOLET} /></At>
+      <Items items={[
+        ["Its siren is high as it comes", 1560, 200, <K c={ICE} s={26}>coming: high</K>, { pop: true }],
+        ["and drops as it goes", 360, 200, <K c={ROSE} s={26}>going: low</K>, { pop: true }],
+        ["while for the driver it never changes", 960, 200, <K c={GOLD} s={26}>for the driver: never changes</K>, { pop: true }],
+        ["So what is its pitch", 960, 600, <W c={CHALK} s={32} serif>so what is its pitch?</W>, { until: "High? Low? Both? Neither" }],
+        ["Each answer looks for a pitch sitting in the siren on its own", 960, 720,
+          <SK c={DIM} s={26} strikeAt={none}>a pitch in the siren, on its own</SK>, { d: 0.4 }],
+        ["Yet the siren is heard, and cars pull aside", 960, 810, <W c={GOLD} s={34} serif>yet the siren is heard, and cars pull aside</W>],
+      ]} />
+      {["high?", "low?", "both?", "neither?"].map((w, i) => (
+        <At key={w} x={600 + i * 240} y={630} o={ramp(t, c("High? Low? Both? Neither") + i * 0.45, 0.4)}>
+          <SK c={CC[i]} s={26} strikeAt={none + 0.2 + i * 0.15}>{w}</SK>
+        </At>
+      ))}
+    </AbsoluteFill>
+  );
+};
+
 const SelfLapScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -820,7 +901,8 @@ export const Body: React.FC = () => {
     ["doubt", "Then the moment is there, from its own side"], ["search", "So the four corners fall together"],
     ["vivid", "a wanderer named Vacchagotta"], ["doubt", "Here the habit makes its most refined move"], ["web", "Nagarjuna closes this door himself"],
     ["search", "With the logic of substance, a moment is here"], ["whole", "None of this makes the four corners forbidden words"],
-    ["sea", "What is left when the four corners fall is not a blank"], ["vivid", "The four corners can be asked of anything"],
+    ["sea", "What is left when the four corners fall is not a blank"], ["open", "An ambulance passes"],
+    ["vivid", "The four corners can be asked of anything"],
     ["whole", "So, try it"],
   ];
   const moods: Mood[] = [];
@@ -846,6 +928,7 @@ export const Body: React.FC = () => {
     ["None of this makes the four corners forbidden words", <MedicineScene />],
     ["What is left when the four corners fall is not a blank", <SpinScene />],
     ["A thought appears", <ThoughtScene />],
+    ["An ambulance passes", <SirenScene />],
     ["The four corners can be asked of anything", <SelfLapScene />],
     ["A cause", <CausePersonScene />],
     ["So, try it", <TryScene />],

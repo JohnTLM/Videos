@@ -81,6 +81,9 @@ export const PHRASES = [
   "So, try it", "Tap a glass, and listen until the sound ends",
   "What does the substance view say about this sound", "How is it picked out", "What is still true of it", "What was not found",
   "Has a Now or an awareness slipped in",
+  "Run them on your own weight", "the weight is in me", "it is picked out with the earth's pull", "the floor and the scale",
+  "the number is true", "the knees still ache after the stairs", "never found is a heaviness sitting in the body on its own",
+  "has not slipped in as a new floor",
   "Run them slowly, in what is in front of you", "Nothing needs to be held", "What appears goes on appearing",
   "And the koan, one last time", "The question has nothing to hold on to", "And the sound is no less clear",
 ];
@@ -888,6 +891,49 @@ const TryScene: React.FC = () => {
   );
 };
 
+/** A bathroom scale with its number. */
+const Scale: React.FC<{ lit: number }> = ({ lit }) => (
+  <div style={{ width: 220, height: 60, borderRadius: 12, border: `4px solid ${ICE}`, background: `${ICE}18`, boxShadow: `0 0 16px ${ICE}66`,
+    display: "flex", alignItems: "center", justifyContent: "center" }}>
+    <div style={{ fontFamily: SANS, fontSize: 28, color: lit > 0.5 ? GOLD : CHALK, padding: "2px 14px", borderRadius: 6, background: "#0008",
+      boxShadow: lit > 0.5 ? `0 0 18px ${GOLD}` : undefined }}>70 kg</div>
+  </div>
+);
+
+const WeightScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const run = c("Run them on your own weight");
+  const two = c("it is picked out with the earth's pull");
+  const three = c("the number is true");
+  const four = c("never found is a heaviness sitting in the body on its own");
+  const floor = c("has not slipped in as a new floor");
+  const line = (i: number, at: number, node: React.ReactNode) => (
+    <At x={1240} y={250 + i * 110} o={ramp(t, at, 0.4)} s={pop(t, fps, at)}>
+      <div style={{ display: "flex", alignItems: "center", gap: 16 }}><Num n={String(i + 1)} color={Q4[i][2]} lit={1} />{node}</div>
+    </At>
+  );
+  return (
+    <AbsoluteFill>
+      <Title at={run} color={GOLD}>the four questions, on your own weight</Title>
+      <At x={420} y={380} s={pop(t, fps, run + 0.3)}><Person color={CHALK} size={200} /></At>
+      <At x={420} y={510} o={ramp(t, run + 0.3, 0.4)}><Scale lit={ramp(t, three, 0.3)} /></At>
+      <Flow x1={420} y1={560} x2={420} y2={660} color={TEAL} p={ramp(t, two + 0.3, 0.6)} />
+      <Items items={[
+        ["it is picked out with the earth's pull", 420, 700, <W c={TEAL} s={24}>the earth's pull</W>, { d: 0.6 }],
+        ["the knees still ache after the stairs", 420, 770, <W c={GOLD} s={24}>the knees still ache after the stairs</W>, { d: 0.3 }],
+      ]} />
+      {line(0, c("the weight is in me"), <K c={WARM} s={24}>the weight is in me</K>)}
+      {line(1, two, <K c={TEAL} s={24}>picked out with the earth's pull, the floor, the scale</K>)}
+      {line(2, three, <K c={GOLD} s={24}>the number is true; the knees still ache</K>)}
+      {line(3, four, <SK c={DIM} s={24} strikeAt={four + 2.0}>a heaviness in the body, on its own</SK>)}
+      <Items items={[
+        ["has not slipped in as a new floor", 1240, 730, <SK c={DIM} s={26} strikeAt={floor + 1.2}>“the whole universe” as a new floor</SK>, { d: -0.8 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const LastScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -924,7 +970,7 @@ export const Body: React.FC = () => {
     ["search", "There is a caution here"], ["doubt", "The fourth question"], ["search", "Then check what has been put in its place"],
     ["vivid", "Ask what arises, and the koan is a paradox"], ["doubt", "Yet we usually go about it the wrong way"],
     ["web", "Nagarjuna's Middle Way gives an alternative"], ["vivid", "The same logic works beyond the moment"],
-    ["whole", "So, try it"], ["open", "And the koan, one last time"],
+    ["whole", "So, try it"], ["sea", "Run them on your own weight"], ["open", "And the koan, one last time"],
   ];
   const moods: Mood[] = [];
   starts.forEach(([k, cue], i) => {
@@ -951,6 +997,7 @@ export const Body: React.FC = () => {
     ["Nagarjuna's Middle Way gives an alternative", <MiddleScene />],
     ["The same logic works beyond the moment", <BeyondScene />],
     ["So, try it", <TryScene />],
+    ["Run them on your own weight", <WeightScene />],
     ["Run them slowly, in what is in front of you", <LastScene />],
   ];
   return (

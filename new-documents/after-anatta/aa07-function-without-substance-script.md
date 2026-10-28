@@ -45,6 +45,8 @@ Then dependent arising is no longer a secondary layer, an illusion laid over the
 
 Dogen turns over an old Zen saying, that a painted rice cake does not satisfy hunger. In his words: "there is no remedy for satisfying hunger other than a painted rice-cake." There is no unpainted cake behind the painting. And the painted cake feeds.
 
+Knock on a table: nothing feels more solid. Yet at the scale of atoms it is almost all empty space. A neutrino passes straight through it, and through the whole earth. The solidity is not a stuff packed in the wood. It is the table and the hand together. And still the cup stands on it. Weight is the same: a suitcase is a sixth as heavy on the Moon, and floats in orbit. Its heaviness is named with the earth that pulls it, as the key is named with its lock.
+
 The same logic runs beyond the moment. A self decides, and the deciding is real, yet no decider is found before the decision. A chair holds you, yet no chair-power is found in the wood. A seed sprouts with soil, water and warmth, but not in a dry jar; no sprout was stored inside it. And the mere I, found nowhere, keeps a promise for forty years. Nothing about the person is anchored, and everything a person does still counts.
 
 So, try it. Listen to a single sound until it ends. Ask the koan: does it arise, or does it cease? Then notice that, while no "it" is found, the sound was heard in full.

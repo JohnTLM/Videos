@@ -71,6 +71,12 @@ export const PHRASES = [
   "Dogen turns over an old Zen saying", "a painted rice cake does not satisfy hunger",
   "no remedy for satisfying hunger other than a painted rice-cake", "There is no unpainted cake behind the painting",
   "And the painted cake feeds",
+  // solidity and weight
+  "Knock on a table", "nothing feels more solid", "at the scale of atoms it is almost all empty space",
+  "A neutrino passes straight through it", "and through the whole earth", "The solidity is not a stuff packed in the wood",
+  "It is the table and the hand together", "And still the cup stands on it", "Weight is the same",
+  "a suitcase is a sixth as heavy on the Moon", "and floats in orbit", "Its heaviness is named with the earth that pulls it",
+  "as the key is named with its lock",
   // beyond the moment
   "The same logic runs beyond the moment", "A self decides", "no decider is found before the decision", "A chair holds you",
   "no chair-power is found in the wood", "A seed sprouts with soil, water and warmth", "but not in a dry jar",
@@ -342,6 +348,65 @@ const RiceCake: React.FC<{ glow?: number }> = ({ glow = 0 }) => (
       <path d="M70 60 Q100 44 140 56" stroke="#fff" strokeWidth={5} strokeLinecap="round" fill="none" opacity={0.5} />
     </svg>
   </div>
+);
+
+/** A table, side-on. */
+const Table: React.FC<{ color?: string }> = ({ color = WOOD }) => (
+  <svg width={380} height={190} viewBox="0 0 380 190" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <rect x={10} y={20} width={360} height={26} rx={6} fill={`${color}55`} stroke={color} strokeWidth={5} />
+    <path d="M44 46 L44 184 M336 46 L336 184" stroke={color} strokeWidth={12} strokeLinecap="round" />
+  </svg>
+);
+
+/** A fist, knuckles down. */
+const Fist: React.FC<{ color?: string }> = ({ color = WARM }) => (
+  <svg width={90} height={70} viewBox="0 0 90 70" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M30 0 L30 18" stroke={color} strokeWidth={14} strokeLinecap="round" />
+    <rect x={6} y={18} width={78} height={48} rx={16} fill={`${color}44`} stroke={color} strokeWidth={4} />
+    <path d="M26 50 L26 66 M45 50 L45 66 M64 50 L64 66" stroke={color} strokeWidth={3} opacity={0.7} />
+  </svg>
+);
+
+/** A small cup. */
+const SmallCup: React.FC<{ color?: string }> = ({ color = ICE }) => (
+  <svg width={80} height={80} viewBox="0 0 80 80" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}99)` }}>
+    <path d="M8 10 L62 10 L56 76 L14 76 Z" fill={`${color}33`} stroke={color} strokeWidth={4} strokeLinejoin="round" />
+    <path d="M60 24 Q80 28 74 46 Q70 56 58 54" fill="none" stroke={color} strokeWidth={4} />
+  </svg>
+);
+
+/** A magnified view of the wood: a few tiny nuclei with faint orbits, almost all empty space. */
+const Atoms: React.FC<{ color?: string; size?: number }> = ({ color = ICE, size = 340 }) => {
+  const { t } = useT();
+  const N: [number, number][] = [[-70, -50], [60, -20], [-20, 70]];
+  return (
+    <svg width={size} height={size} viewBox="-170 -170 340 340" style={{ overflow: "visible" }}>
+      <circle r={166} fill="#0005" stroke={color} strokeWidth={3} strokeDasharray="10 8" />
+      {N.map(([x, y], i) => (
+        <g key={i}>
+          <ellipse cx={x} cy={y} rx={46} ry={22} fill="none" stroke={color} strokeOpacity={0.3} strokeWidth={1.5} transform={`rotate(${30 * i} ${x} ${y})`} />
+          <circle cx={x} cy={y} r={3.5} fill={GOLD} style={{ filter: `drop-shadow(0 0 6px ${GOLD})` }} />
+          <circle cx={x + 46 * Math.cos(t * 3 + i)} cy={y + 22 * Math.sin(t * 3 + i)} r={2} fill={color} />
+        </g>
+      ))}
+    </svg>
+  );
+};
+
+/** A suitcase. */
+const Suitcase: React.FC<{ color?: string; size?: number }> = ({ color = WARM, size = 150 }) => (
+  <svg width={size} height={size * 0.8} viewBox="0 0 150 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M55 26 L55 12 Q55 6 61 6 L89 6 Q95 6 95 12 L95 26" fill="none" stroke={color} strokeWidth={6} />
+    <rect x={8} y={26} width={134} height={90} rx={12} fill={`${color}33`} stroke={color} strokeWidth={5} />
+    <path d="M40 26 L40 116 M110 26 L110 116" stroke={color} strokeWidth={4} opacity={0.7} />
+  </svg>
+);
+
+/** A curve of ground: the earth or the Moon. */
+const Ground: React.FC<{ color: string }> = ({ color }) => (
+  <svg width={320} height={60} viewBox="0 0 320 60" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M0 50 Q160 0 320 50 L320 60 L0 60 Z" fill={`${color}33`} stroke={color} strokeWidth={4} strokeLinejoin="round" />
+  </svg>
 );
 
 // ---------------------------------------------------------------- scenes
@@ -764,6 +829,80 @@ const RiceCakeScene: React.FC = () => {
   );
 };
 
+const SolidScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const k = c("Knock on a table");
+  const atoms = c("at the scale of atoms it is almost all empty space");
+  const nu = c("A neutrino passes straight through it");
+  const earth = c("and through the whole earth");
+  const cup = c("And still the cup stands on it");
+  const wgt = c("Weight is the same");
+  const moon = c("a suitcase is a sixth as heavy on the Moon");
+  const orbit = c("and floats in orbit");
+  const pull = c("Its heaviness is named with the earth that pulls it");
+  const out1 = 1 - ramp(t, wgt, 0.5);
+  const tap = (t0: number) => { const u = t - t0; return u > 0 && u < 0.3 ? Math.sin((u / 0.3) * Math.PI) : 0; };
+  const hit = Math.max(tap(k + 0.5), tap(k + 1.0));
+  const nx = 1110 + 690 * ramp(t, nu + 0.3, 2.4);
+  const bob = Math.sin((t - orbit) * 1.6);
+  return (
+    <AbsoluteFill>
+      <Title at={k} o={out1}>how solid is a table?</Title>
+      <Title at={wgt} color={GOLD}>weight is the same</Title>
+      {/* solidity */}
+      <At x={560} y={470} o={ramp(t, k, 0.5) * out1}><Table /></At>
+      <At x={660} y={330 + 30 * hit} o={ramp(t, k, 0.4) * (1 - ramp(t, cup - 0.6, 0.4))}><Fist /></At>
+      <Sound x={660} y={400} at={k + 0.55} dur={0.9} color={WOOD} r1={150} />
+      <At x={470} y={358} s={pop(t, fps, cup)} o={ramp(t, cup, 0.3) * out1}><SmallCup /></At>
+      <At x={1320} y={380} s={pop(t, fps, atoms)} o={ramp(t, atoms, 0.4) * out1}><Atoms /></At>
+      <Svg>
+        <g opacity={out1}>
+          <DrawPath d="M740 410 L1150 380" p={ramp(t, atoms, 0.6)} color={DIM} width={2} len={420} glow={false} />
+          <DrawPath d="M1110 380 L1800 380" p={ramp(t, nu + 0.3, 2.4)} color={GREEN} width={2} len={700} />
+          {t > nu + 0.3 && <circle cx={nx} cy={380} r={7} fill={GREEN} style={{ filter: `drop-shadow(0 0 10px ${GREEN})` }} />}
+        </g>
+      </Svg>
+      <At x={1690} y={380} s={pop(t, fps, earth)} o={ramp(t, earth, 0.4) * out1}>
+        <div style={{ width: 110, height: 110, borderRadius: "50%", background: `radial-gradient(circle at 35% 35%, ${TEAL}88, ${ICE}33)`,
+          border: `3px solid ${TEAL}`, boxShadow: `0 0 20px ${TEAL}88` }} />
+      </At>
+      <Items items={[
+        ["nothing feels more solid", 560, 630, <W c={WOOD} s={30} serif>nothing feels more solid</W>, { until: "Weight is the same" }],
+        ["at the scale of atoms it is almost all empty space", 1320, 600, <W c={DIM} s={26}>at the scale of atoms: almost all empty space</W>, { d: 0.6, until: "Weight is the same" }],
+        ["A neutrino passes straight through it", 1320, 200, <W c={GREEN} s={28}>a neutrino passes straight through</W>, { d: 0.3, until: "Weight is the same" }],
+        ["and through the whole earth", 1690, 480, <W c={TEAL} s={24}>and the whole earth</W>, { d: 0.3, until: "Weight is the same" }],
+        ["The solidity is not a stuff packed in the wood", 560, 710, <SK c={DIM} s={26} strikeAt={c("The solidity is not a stuff packed in the wood") + 1.4}>solidity packed in the wood</SK>, { until: "Weight is the same" }],
+        ["It is the table and the hand together", 1320, 700, <div style={{ display: "flex", gap: 14 }}><K c={WOOD} s={26}>table</K><K c={WARM} s={26}>hand</K></div>, { pop: true, until: "Weight is the same" }],
+        ["It is the table and the hand together", 1320, 770, <W c={TEAL} s={26}>solid: the two together</W>, { d: 0.6, until: "Weight is the same" }],
+        ["And still the cup stands on it", 960, 810, <W c={GOLD} s={34} serif>and still the cup stands</W>, { d: 0.4, until: "Weight is the same" }],
+      ]} />
+      {/* weight */}
+      <Items items={[
+        ["Weight is the same", 480, 240, <K c={TEAL} s={26}>on Earth</K>, { d: 0.4 }],
+        ["Weight is the same", 480, 400, <Suitcase />, { d: 0.6, pop: true }],
+        ["Weight is the same", 480, 490, <Ground color={TEAL} />, { d: 0.6 }],
+        ["Weight is the same", 480, 560, <W c={WARM} s={28}>heavy</W>, { d: 1.0 }],
+        ["a suitcase is a sixth as heavy on the Moon", 960, 240, <K c={ICE} s={26}>on the Moon</K>],
+        ["a suitcase is a sixth as heavy on the Moon", 960, 400, <Suitcase />, { d: 0.2, pop: true }],
+        ["a suitcase is a sixth as heavy on the Moon", 960, 490, <Ground color={DIM} />, { d: 0.2 }],
+        ["a suitcase is a sixth as heavy on the Moon", 960, 560, <W c={ICE} s={28}>a sixth as heavy</W>, { d: 1.2 }],
+        ["and floats in orbit", 1440, 240, <K c={VIOLET} s={26}>in orbit</K>],
+        ["and floats in orbit", 1440, 560, <W c={VIOLET} s={28}>floats</W>, { d: 0.8 }],
+      ]} />
+      <At x={1440} y={390 + 14 * bob} r={12 * bob} s={pop(t, fps, orbit + 0.2)} o={ramp(t, orbit + 0.2, 0.4)}><Suitcase /></At>
+      <Flow x1={590} y1={350} x2={590} y2={470} color={TEAL} p={ramp(t, pull, 0.6)} />
+      <Items items={[
+        ["Its heaviness is named with the earth that pulls it", 960, 640, <SK c={DIM} s={26} strikeAt={pull + 1.6}>heaviness in the suitcase, on its own</SK>],
+        ["Its heaviness is named with the earth that pulls it", 960, 710, <W c={TEAL} s={28}>named with the earth that pulls it</W>, { d: 1.2 }],
+        ["as the key is named with its lock", 960, 790, <div style={{ display: "flex", gap: 20, alignItems: "center" }}>
+          <Key size={130} /><div style={{ width: 55, height: 75, display: "flex", alignItems: "center", justifyContent: "center" }}>
+          <div style={{ transform: "scale(0.5)" }}><Lock /></div></div><W c={GOLD} s={26}>as the key, with its lock</W></div>, { pop: true }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -834,7 +973,7 @@ export const Body: React.FC = () => {
     ["search", "A critic objects"], ["doubt", "But this does not make emptiness a power"], ["vivid", "Empty is not flimsy"],
     ["sea", "Come back to the koan's words"], ["web", "this was where his own view lagged behind"],
     ["whole", "no longer a secondary layer"], ["vivid", "Dogen turns over an old Zen saying"],
-    ["web", "The same logic runs beyond the moment"], ["whole", "So, try it"],
+    ["search", "Knock on a table"], ["web", "The same logic runs beyond the moment"], ["whole", "So, try it"],
   ];
   const moods: Mood[] = [];
   starts.forEach(([k, cue], i) => {
@@ -859,6 +998,7 @@ export const Body: React.FC = () => {
     ["this was where his own view lagged behind", <LagScene />],
     ["no longer a secondary layer", <GroundScene />],
     ["Dogen turns over an old Zen saying", <RiceCakeScene />],
+    ["Knock on a table", <SolidScene />],
     ["The same logic runs beyond the moment", <BeyondScene />],
     ["So, try it", <TryScene />],
   ];

@@ -41,6 +41,8 @@ The opposite mistake: if things are only named, can I call a shadow a bridge and
 
 The author first met the chariot as a clever argument about a cart. By then the self had already gone missing when he looked for it. The chariot gave him a way to understand the world as he had already tasted it. The taste was free of substance. The view was not. He still pictured an ear here, a bell there, and something crossing between them. In the author's words: "Walking is the chariot. Hearing is the chariot." Remove the axle, and there is not a lesser chariot. There is no chariot. Bell, striker, air, ear and sound are named together. After this, in his words, "intimacy no longer meant closeness. It meant there was never any separation to close."
 
+Every morning we say the sun rises. Look for the rising in the sun, and it is not there. Sunrise is picked out from where we stand, on a turning earth, against a horizon. Yet the newspaper prints tomorrow's sunrise to the minute, and it is right. A name that works exactly, with nothing rising behind it: that is designation.
+
 The seven places work on anything. The self is not body and mind, nor other than them. Yet we keep promises and answer to our names. Pull a car apart in your mind: wheels on the lawn, engine in the garage. Put it back, bolt by bolt, and it is there again. Nothing called "car" was added on the last turn of the spanner. A seed is called a cause only of its sprout. Still, rice grows from rice seed, never from barley. Look for a friend apart from the face and the voice, and no one is found. Yet a promise to a friend is kept.
 
 Try it. Listen to one sound. Is the moment its arising? Its ceasing? Both? Other than them? Their owner? Their container? Then notice the sound is still here, heard in full.

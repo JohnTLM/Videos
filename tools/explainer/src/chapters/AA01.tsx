@@ -3,14 +3,15 @@
 // substance (a thing first, then events) / dependency (how a thing is picked out: parts, causes, contrast, name) ->
 // moment, arising and ceasing designated together -> different worlds -> the koan both ways -> the staircase ->
 // grammar holds a subject still -> a habit, where it switches on -> the test, the sound and the whirlpool -> both halves ->
-// three misreadings, each struck -> the seven phases read through the two logics -> the self and the fist -> try it.
+// three misreadings, each struck -> the seven phases read through the two logics -> speed, picked out against room, earth
+// and sun (one speed "sitting in you" struck; the fine still given) -> the self and the fist -> try it.
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container or backdrop. Each invented "it",
 // each misreading and the Witness/Mirror are shown only to be struck. The bell, stairs, whirlpool and hand stay vivid.
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
   At, Background, Bokeh, Chip, CHALK, DIM, DrawPath, Flow, GOLD, Glow, GREEN, ICE, Mood, ROSE, Reveal, Ring,
-  SANS, Scene, SERIF, Strike, Svg, TEAL, VIOLET, WARM, between, pop, ramp, useCue, useT,
+  SANS, Scene, SERIF, Strike, Sun, Svg, TEAL, VIOLET, WARM, between, pop, ramp, useCue, useT,
 } from "../lib";
 
 // Copied verbatim from the script, in narration order. No respelled words inside.
@@ -61,6 +62,11 @@ export const PHRASES = [
   "Anatta removes the one who watches the moment", "That is why the koan belongs here",
   "And in the last phase there is nothing left to turn the logic on", "Anatta is a seal, not a stage",
   "What changed was the logic through which it was read",
+  // speed: picked out against something
+  "How fast are you going", "Sitting still, it seems: zero", "But you are still only against the room",
+  "With the earth's turning", "over a thousand kilometres an hour", "and around the sun at about a hundred and seven thousand",
+  "Which is your real speed", "The logic of substance wants one, sitting in you", "speed is only picked out against something",
+  "the room, the ground, the sun", "Yet it is not arbitrary", "A car doing a hundred and twenty still gets a fine",
   // the self and the fist
   "The koan is only the sharpest case", "Say I have changed", "Close your hand", "None is found",
   "Yet a promise is still yours to keep", "a fist can still knock on a door",
@@ -693,6 +699,99 @@ const PhasesScene: React.FC = () => {
   );
 };
 
+/** A small turning earth with a dot for "you" riding on it. */
+const TurningEarth: React.FC<{ size?: number; spin: number }> = ({ size = 140, spin }) => {
+  const a = spin % 360;
+  const x = Math.sin((a * Math.PI) / 180) * 54;
+  const front = Math.cos((a * Math.PI) / 180) > 0;
+  return (
+    <svg width={size} height={size} viewBox="-70 -70 140 140" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${TEAL}88)` }}>
+      <circle r={58} fill={`${TEAL}22`} stroke={TEAL} strokeWidth={4} />
+      {[0, 1].map((_, i) => (
+        <ellipse key={i} rx={Math.abs(Math.cos(((a + i * 90) * Math.PI) / 180)) * 58} ry={58} fill="none" stroke={TEAL} strokeOpacity={0.45} strokeWidth={2} />
+      ))}
+      <path d="M-58 0 L58 0" stroke={TEAL} strokeOpacity={0.4} strokeWidth={2} />
+      <circle cx={x} cy={-18} r={8} fill={GOLD} opacity={front ? 1 : 0.3} />
+    </svg>
+  );
+};
+
+/** The sun with an orbit and the earth carried round it. */
+const SunOrbit: React.FC<{ at: number }> = ({ at }) => {
+  const { t } = useT();
+  const a = Math.max(0, t - at) * 0.9;
+  return (
+    <div style={{ position: "relative", width: 260, height: 160 }}>
+      <svg width={260} height={160} viewBox="-130 -80 260 160" style={{ position: "absolute", left: 0, top: 0, overflow: "visible" }}>
+        <ellipse rx={118} ry={52} fill="none" stroke={ICE} strokeOpacity={0.55} strokeWidth={2.5} strokeDasharray="8 7" />
+        <circle cx={118 * Math.cos(a)} cy={52 * Math.sin(a)} r={11} fill={`${TEAL}aa`} stroke={TEAL} strokeWidth={3} />
+      </svg>
+      <div style={{ position: "absolute", left: 130 - 45, top: 80 - 45 }}><Sun size={90} rot={t * 10} /></div>
+    </div>
+  );
+};
+
+/** A small car, side view, with turning wheels. */
+const Car: React.FC<{ color?: string; roll?: number }> = ({ color = ICE, roll = 0 }) => (
+  <svg width={220} height={100} viewBox="0 0 220 100" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}22`} stroke={color} strokeWidth={4} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={2.5} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx} transform={`rotate(${roll} ${cx} 72)`}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={4} />
+        <line x1={cx - 14} y1={72} x2={cx + 14} y2={72} stroke={color} strokeWidth={2.5} />
+      </g>
+    ))}
+  </svg>
+);
+
+const SpeedScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const room = c("But you are still only against the room");
+  const earth = c("With the earth's turning");
+  const sun = c("and around the sun at about a hundred and seven thousand");
+  const picked = c("speed is only picked out against something");
+  const three = c("the room, the ground, the sun");
+  const car = c("A car doing a hundred and twenty still gets a fine");
+  return (
+    <AbsoluteFill>
+      <Title at={c("How fast are you going")}>how fast are you going?</Title>
+      {/* against the room */}
+      <At x={480} y={300} s={pop(t, fps, c("Sitting still, it seems: zero"))} o={ramp(t, c("Sitting still, it seems: zero"), 0.3)}>
+        <div style={{ width: 210, height: 170, borderRadius: 12, border: `3px solid ${WARM}`, background: `${WARM}12`,
+          display: "flex", alignItems: "flex-end", justifyContent: "center", paddingBottom: 6, boxSizing: "border-box",
+          boxShadow: `0 0 ${30 * between(t, three, three + 1.8, 0.3)}px ${WARM}` }}>
+          <Person color={CHALK} size={120} />
+        </div>
+      </At>
+      {/* with the earth's turning */}
+      <At x={960} y={300} s={pop(t, fps, earth)} o={ramp(t, earth, 0.3)}><TurningEarth spin={(t - earth) * 40} /></At>
+      {/* around the sun */}
+      <At x={1440} y={300} s={pop(t, fps, sun)} o={ramp(t, sun, 0.3)}><SunOrbit at={sun} /></At>
+      <Items items={[
+        ["Sitting still, it seems: zero", 480, 440, <K c={WARM} s={30}>0 km/h</K>, { pop: true, d: 0.6 }],
+        ["But you are still only against the room", 480, 500, <W c={DIM} s={24}>against the room</W>],
+        ["over a thousand kilometres an hour", 960, 440, <K c={TEAL} s={30}>over 1,000 km/h</K>, { pop: true }],
+        ["With the earth's turning", 960, 500, <W c={DIM} s={24}>against the turning ground</W>, { d: 0.6 }],
+        ["and around the sun at about a hundred and seven thousand", 1440, 440, <K c={GOLD} s={30}>about 107,000 km/h</K>, { pop: true, d: 1.4 }],
+        ["and around the sun at about a hundred and seven thousand", 1440, 500, <W c={DIM} s={24}>against the sun</W>, { d: 1.8 }],
+        ["Which is your real speed", 960, 580, <W c={CHALK} s={34} serif>which is the real one?</W>, { until: "The logic of substance wants one, sitting in you" }],
+        ["The logic of substance wants one, sitting in you", 960, 580,
+          <SK c={DIM} s={28} strikeAt={picked + 0.4}>one speed, sitting in you</SK>],
+        ["speed is only picked out against something", 960, 655, <W c={TEAL} s={32} serif>speed is picked out against something</W>, { d: 0.6 }],
+        ["Yet it is not arbitrary", 960, 715, <W c={DIM} s={26}>yet not arbitrary</W>],
+        ["A car doing a hundred and twenty still gets a fine", 760, 795, <Car roll={(t - car) * 400} />],
+        ["A car doing a hundred and twenty still gets a fine", 980, 795, <K c={WARM} s={30}>120</K>, { pop: true, d: 0.8 }],
+        ["A car doing a hundred and twenty still gets a fine", 1180, 795, <K c={GOLD} s={30}>still a fine</K>, { pop: true, d: 2.0 }],
+      ]} />
+      {/* the three frames light up together as they are named */}
+      <At x={960} y={300} o={between(t, three + 0.5, three + 2.2, 0.3)}><div style={{ width: 170, height: 170, borderRadius: 85, boxShadow: `0 0 40px ${TEAL}` }} /></At>
+      <At x={1440} y={300} o={between(t, three + 1.0, three + 2.6, 0.3)}><div style={{ width: 120, height: 120, borderRadius: 60, boxShadow: `0 0 40px ${GOLD}` }} /></At>
+    </AbsoluteFill>
+  );
+};
+
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -746,7 +845,7 @@ export const Body: React.FC = () => {
     ["sea", "Read this way, the koan asks something else"], ["search", "Seen with the logic of substance, a moment is there"],
     ["vivid", "It is like a staircase"], ["doubt", "Ask people whether moments are things"],
     ["search", "comes down to one simple test"], ["whole", "Both halves matter"], ["doubt", "Three misreadings keep the koan's it"],
-    ["web", "reads his own seven phases of insight"], ["vivid", "The koan is only the sharpest case"],
+    ["web", "reads his own seven phases of insight"], ["sea", "How fast are you going"], ["vivid", "The koan is only the sharpest case"],
     ["whole", "So, for a moment, wherever you are"],
   ];
   const moods: Mood[] = [];
@@ -770,6 +869,7 @@ export const Body: React.FC = () => {
     ["Both halves matter", <HalvesScene />],
     ["Three misreadings keep the koan's it", <MisreadScene />],
     ["reads his own seven phases of insight", <PhasesScene />],
+    ["How fast are you going", <SpeedScene />],
     ["The koan is only the sharpest case", <BeyondScene />],
     ["So, for a moment, wherever you are", <TryScene />],
   ];

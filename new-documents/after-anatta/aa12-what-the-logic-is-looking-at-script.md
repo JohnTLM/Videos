@@ -36,6 +36,8 @@ How can that be? Because designation needs no words. It needs only singling out.
 
 And singling out is already dependence. A this stands out only against what it is not. Only with this seeing, this light, this attention. Take away the background, and nothing stands out. Take away the conditions, and nothing is singled out.
 
+Picture a world where there is only blue: one hue, everywhere, and nothing else. No one there would see blue. Nothing would let it stand out, so it would never be singled out as blue. We would be blind to blueness. Blue is seen only with what is not blue.
+
 So singling out is not something done to an appearance that was there first. It is already dependence. And dependence is already emptiness. Look for the this apart from its conditions, and it is not found.
 
 Singling out is dependence. Dependence is emptiness. So by appearing, a thing is already empty.
