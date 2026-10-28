@@ -98,4 +98,10 @@ Anything more means the order is wrong.
 
 ## Done
 
-(nothing yet)
+- 2026-10-28: done, with the owner. The owner's list was out of order and had Step 7 twice and Step 4 missing.
+  The owner uploaded Step 4 (`sMa1ajWETec`, 8:28) and asked to delete the duplicates: `qn8SZaV1Akc` (same file as
+  `HX7xwtsSYjs`) and `-n3GbTOG8-s` (9:34, an untitled copy of The Limits of the Tools) were deleted. Texts put on, by
+  length: 1 `ERBH0_9vwVU`, 2 `F0P_kfwAloE`, 3 `BXINN2sg_Z0`, 4 `LmlHbrwg1xk`, 5 `sMa1ajWETec`, 6 `QA9yrHNx5To`,
+  7 `wxhsA6xKIQM`, 8 `HX7xwtsSYjs`, 9 `6BAD37Dk_lw`, 10 `lLkWbd2MoRw` (all still Unlisted). The playlist is called
+  **Logic After Anatta** (`PLPlnPvDUj6mE`, Unlisted): the ten now in order 1 to 10, then Beyond Cause and Effect and
+  The Limits of the Tools, as the owner chose.
