@@ -16,13 +16,23 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | New bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
 
+## Rule: build on the owner's server (owner's decision, 2026-10-28)
+
+Build videos and ebooks on the owner's Google Cloud server (`instance-20261026-235807`, Claude Code in `~/videos`),
+not in a cloud session and not on the HP. The server has every tool installed (`tools/README.md`, "On the owner's
+server") and its own Google sign-in, so it uploads finished files of any size straight into Drive with
+`tools/publish/publish_drive.py`. **Never send an MP4 or other file to the owner to upload** (no SendUserFile for
+Drive). A cloud session cannot reach Drive with large files: it writes and commits the text files (script, drawings,
+YouTube text) and leaves the build to the server. Only YouTube uploads stay with the owner (YouTube Studio), because
+Google locks API uploads to Private without its approval (`tools/publish/README.md`).
+
 ## Rule: save every video here (owner's decision, 2026-10-21)
 
 Every Claude session that makes or remakes a video saves its **text files** in this repository before it finishes,
 in the folder for its series (table above): the approved script, the narration text, the drawings
 (`*-scenes.tsx`) and the subtitles (`.srt`), plus the series settings when they change, with a short README for a new
 video; for a bonus article, also the NotebookLM source and prompt once written (`NOTEBOOKLM-VIDEOS.md`). Commit and
-push them (on a `claude/` branch; ask the owner before pushing). The **MP4s** never go here (too large): they go to the owner's Google Drive, in the series' `Videos/<video>/` folder, beside copies of the same text
+push them (on a `claude/` branch; ask the owner before pushing). The **MP4s** never go here (too large): the server uploads them (`tools/publish/publish_drive.py`) to the owner's Google Drive, in the series' `Videos/<video>/` folder, beside copies of the same text
 files, and the drawings also go to the engine backup in Drive (`_engine/explainer/src/chapters/`). The video is not
 finished until both are done.
 
