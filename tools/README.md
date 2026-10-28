@@ -11,6 +11,7 @@ which is now the backup; this folder is the master copy of the tools.
 | `assets/` | Background image and the title and subtitle fonts |
 | `explainer/` | The drawing engine (Remotion): `package.json`, `package-lock.json`, `src/lib.tsx`, `src/Root.tsx`, `src/Chapter.tsx`, `public/fonts/`, and every video's drawings in `src/chapters/` (`ChNN` main book, `AENN` Anatta to Emptiness, `OBNN` Book 4) |
 | `series/<name>/` | One folder per series: a small `build.py` that runs the builder for that series, `series.json` (drawing prefix, folder prefix, spoken word) and the series' `pronunciation.json` |
+| `publish/` | Upload finished videos to YouTube and copy files to Drive from the owner's server, after a one-time Google sign-in (`publish/README.md`) |
 | `requirements-video.txt` | Python packages (edge-tts **7.3.1**: older versions no longer reach the voice service) |
 | `SETUP-AND-ARCHITECTURE.md` | The full guide from Drive: how the parts fit together and how to set up the owner's Windows computer |
 
