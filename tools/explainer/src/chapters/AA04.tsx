@@ -1,6 +1,6 @@
 // After Anatta 4: The Two Truths (The Logic, Step 4). Explainer drawings timed to the narration.
 // Arc: the koan has two answers that do not conflict -> the two truths, one moment met two ways -> Nagarjuna's verse ->
-// the three meanings of "conventional" (only the concealment is mistaken) -> the bell: said when, and not found ->
+// the three meanings of "conventional" (only the concealment is mistaken) -> the train: said when, and not found ->
 // both logics: rival reports, or nothing competes -> the rope in the garage: two kinds of correction ->
 // the two-storey picture, physical and spiritual, and the author's Witness floor -> no floor behind, none above ->
 // conventional truth fully valid, with Tsongkhapa's three checks -> ultimate truth not a hidden reality, and empty too ->
@@ -8,7 +8,7 @@
 // self, ship, fire, friend -> try it (a scale: the number correct, a weight in the body alone not found).
 // Stance: the two truths are never drawn as two floors with the ultimate underneath; the floors are drawn only to be
 // taken away. Emptiness is drawn only as the not-finding, never as a ground, source or backdrop. Awareness, the Witness,
-// the Absolute and "the ultimate" as a level are shown only to be struck. The bell, rope, ship, fire and friend stay vivid.
+// the Absolute and "the ultimate" as a level are shown only to be struck. The train, rope, ship, fire and friend stay vivid.
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
@@ -21,7 +21,7 @@ export const PHRASES = [
   // the koan, two answers
   "This moment ceases as it arises", "Does it arise, or does it cease", "This is the fourth step of The Logic",
   "The koan has two answers, and they do not conflict", "Conventionally, the moment arises and ceases",
-  "The bell is struck, the ringing stops, and we can say when", "nothing that arises and nothing that ceases is found",
+  "The train leaves and arrives, and we can say when", "nothing that arises and nothing that ceases is found",
   "The tradition calls these the two truths", "They are not two worlds, and not two levels", "There is one moment, met two ways",
   // the verse, and the three meanings
   "Nagarjuna introduces them at the turning point of his work", "the conventional truth of the world",
@@ -30,14 +30,14 @@ export const PHRASES = [
   "Dependence: what is conventional exists only in dependence on other things",
   "And worldly convention: the names and agreements we live by", "Conventional truth is valid as dependence and as convention",
   "It is mistaken only in the concealment", "That habit is the real target",
-  // the bell
-  "Listen to a bell", "Now look for the ringing apart from its sounding", "Nothing is found",
+  // the station clock and the train
+  "Look at a station clock", "Now look for the leaving apart from the train", "Nothing is found",
   "Nagarjuna opens his whole work this way", "without ceasing, without arising, without coming and without going",
-  "is not a denial that the bell rang", "Not found never means did not happen",
+  "is not a denial that the train left", "Not found never means did not happen",
   // both logics
-  "Seen with the logic of substance, the ringing is a thing", "So the two answers seem to compete",
+  "Seen with the logic of substance, the departure is a thing", "So the two answers seem to compete",
   "Seen with the logic of dependency", "merely designated as arising or ceasing, upon conditions",
-  "is picked out against the silence before", "ceasing against the silence after", "like the stairs of Step 1", "Nothing competes",
+  "is picked out against the train standing at the platform before", "arriving against the train at the next platform after", "like the stairs of Step 1", "Nothing competes",
   // the rope
   "Walk into a garage at dusk", "for a moment it is a snake", "Someone switches on the lamp", "It is a rope",
   "tie down the load on the car", "you look for the rope apart from its strands", "The load stays tied",
@@ -150,6 +150,19 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
+/** A small train seen from the side; `x` shifts it along the track (pixels). */
+const Train: React.FC<{ w?: number; x?: number; color?: string }> = ({ w = 300, x = 0, color = ICE }) => (
+  <svg width={w} height={w * 0.42} viewBox="0 0 300 126" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${color}99)` }}>
+    <line x1={-200} y1={118} x2={500} y2={118} stroke={DIM} strokeWidth={3} />
+    <g transform={`translate(${x} 0)`}>
+      <path d="M10 30 Q10 14 26 14 L250 14 Q290 14 292 60 L292 100 L10 100 Z" fill={`${color}22`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+      {[40, 100, 160].map((xx) => <rect key={xx} x={xx} y={30} width={44} height={30} rx={6} fill="#0008" stroke={color} strokeWidth={3} />)}
+      <path d="M232 30 L272 30 Q282 40 282 60 L232 60 Z" fill="#0008" stroke={color} strokeWidth={3} />
+      {[50, 120, 190, 250].map((cx) => <circle key={cx} cx={cx} cy={106} r={11} fill={`${GOLD}55`} stroke={GOLD} strokeWidth={3} />)}
+    </g>
+  </svg>
+);
+
 /** A temple bell; swing (degrees) rocks it from the top. */
 const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
   <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
@@ -518,15 +531,13 @@ const TwoTruthsScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const conv = c("Conventionally, the moment arises and ceases");
-  const strike = c("The bell is struck, the ringing stops, and we can say when");
-  const swing = 8 * Math.sin((t - strike) * 5) * Math.exp(-Math.max(0, t - strike) * 0.6) * (t > strike ? 1 : 0);
+  const strike = c("The train leaves and arrives, and we can say when");
   const one = c("There is one moment, met two ways");
   const merge = ramp(t, one, 1.0);
   return (
     <AbsoluteFill>
       <Title at={c("The tradition calls these the two truths")} color={GOLD}>the two truths</Title>
-      <At x={560 + 400 * merge} y={380} s={pop(t, fps, conv)} o={1}><Bell size={170} swing={swing} /></At>
-      <Sound x={560 + 400 * merge} y={400} at={strike + 0.3} dur={4} r1={260} />
+      <At x={560 + 400 * merge} y={380} s={pop(t, fps, conv)} o={1}><Train w={300} x={80 * ramp(t, strike, 2.5)} /></At>
       <At x={560} y={590} o={ramp(t, conv + 0.4, 0.5) * (1 - merge)}><K c={GOLD} s={28}>arises · ceases · we can say when</K></At>
       <At x={1360} y={380} o={ramp(t, c("nothing that arises and nothing that ceases is found"), 0.5) * (1 - merge)}><Magnifier /></At>
       <At x={1360} y={590} o={ramp(t, c("nothing that arises and nothing that ceases is found") + 0.4, 0.5) * (1 - merge)}><K c={VIOLET} s={28}>looked for: nothing found</K></At>
@@ -588,24 +599,24 @@ const MeaningsScene: React.FC = () => {
   );
 };
 
-const BellScene: React.FC = () => {
+const StationScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const strike = c("Listen to a bell");
-  const swing = 8 * Math.sin((t - strike) * 5) * Math.exp(-Math.max(0, t - strike) * 0.6) * (t > strike ? 1 : 0);
-  const look = c("Now look for the ringing apart from its sounding");
+  const strike = c("Look at a station clock");
+  const look = c("Now look for the leaving apart from the train");
+  const go = ramp(t, strike + 2.0, 3.0);
   const homage = c("without ceasing, without arising, without coming and without going");
   return (
     <AbsoluteFill>
-      <At x={620} y={340} s={pop(t, fps, strike - 0.3)}><Bell swing={swing} size={190} /></At>
-      <Sound x={620} y={360} at={strike + 0.4} dur={5} r1={300} />
+      <At x={620} y={250} s={pop(t, fps, strike - 0.3)}><Clock size={150} /></At>
+      <At x={620} y={430} o={ramp(t, strike + 0.6, 0.5)}><Train w={320} x={180 * go} /></At>
       <At x={620 + 180 * ramp(t, look, 1.2)} y={360} o={ramp(t, look, 0.4) * (1 - ramp(t, homage - 1, 0.5))}><Magnifier /></At>
       <Items items={[
-        ["Listen to a bell", 620, 560, <K c={GOLD} s={28}>struck · stopped · we can say when</K>, { d: 1.0, until: "Nagarjuna opens his whole work this way" }],
-        ["Now look for the ringing apart from its sounding", 1320, 300, <W c={ICE} s={28}>apart from sounding, conditions, name</W>, { d: 0.6, until: "Nagarjuna opens his whole work this way" }],
-        ["Nothing is found", 1320, 380, <SK c={DIM} s={26} strikeAt={c("Nothing is found") + 0.6}>a ringing on its own</SK>, { until: "Nagarjuna opens his whole work this way" }],
+        ["Look at a station clock", 620, 560, <K c={GOLD} s={28}>left · arrived · we can say when</K>, { d: 1.0, until: "Nagarjuna opens his whole work this way" }],
+        ["Now look for the leaving apart from the train", 1320, 300, <W c={ICE} s={28}>apart from train, platform, clock, name</W>, { d: 0.6, until: "Nagarjuna opens his whole work this way" }],
+        ["Nothing is found", 1320, 380, <SK c={DIM} s={26} strikeAt={c("Nothing is found") + 0.6}>a leaving on its own</SK>, { until: "Nagarjuna opens his whole work this way" }],
         ["Nagarjuna opens his whole work this way", 1260, 240, <W c={DIM} s={26}>the homage of the Middle Way</W>],
-        ["is not a denial that the bell rang", 960, 660, <W c={GOLD} s={30}>the bell rang</W>],
+        ["is not a denial that the train left", 960, 660, <W c={GOLD} s={30}>the train left</W>],
         ["Not found never means did not happen", 960, 750, <W c={CHALK} s={34} serif>not found never means did not happen</W>],
       ]} />
       <At x={1260} y={360} o={ramp(t, homage - 0.3, 0.3)}>
@@ -620,7 +631,7 @@ const BellScene: React.FC = () => {
 const LogicsScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const sub = c("Seen with the logic of substance, the ringing is a thing");
+  const sub = c("Seen with the logic of substance, the departure is a thing");
   const comp = c("So the two answers seem to compete");
   const dep = c("Seen with the logic of dependency");
   const shake = t > comp && t < dep ? 6 * Math.sin(t * 18) : 0;
@@ -630,7 +641,7 @@ const LogicsScene: React.FC = () => {
       <At x={560} y={170} o={ramp(t, sub, 0.5)}><K c={WARM} s={26}>logic of substance</K></At>
       <At x={560} y={340} s={pop(t, fps, sub + 0.6)} r={shake}>
         <div style={{ width: 200, height: 110, borderRadius: 14, background: `${WARM}44`, border: `4px solid ${WARM}`, boxShadow: `0 0 30px ${WARM}88`,
-          display: "flex", alignItems: "center", justifyContent: "center" }}><W c={CHALK} s={30}>ringing</W></div>
+          display: "flex", alignItems: "center", justifyContent: "center" }}><W c={CHALK} s={30}>departure</W></div>
       </At>
       <Items items={[
         ["So the two answers seem to compete", 340, 500, <K c={GREEN} s={26}>really arises?</K>, { pop: true }],
@@ -645,12 +656,12 @@ const LogicsScene: React.FC = () => {
         <div style={{ width: 240, height: 70, borderRadius: 35, background: `${GOLD}44`, border: `3px solid ${GOLD}`, boxShadow: `0 0 26px ${GOLD}` }} />
       </At>
       <Items items={[
-        ["Seen with the logic of dependency", bx - 230, 300, <W c={DIM} s={22}>silence</W>, { d: 0.8 }],
-        ["Seen with the logic of dependency", bx + 230, 300, <W c={DIM} s={22}>silence</W>, { d: 0.8 }],
-        ["Seen with the logic of dependency", bx, 340, <W c={CHALK} s={26}>sounding</W>, { d: 0.8 }],
+        ["Seen with the logic of dependency", bx - 230, 300, <W c={DIM} s={22}>at the platform</W>, { d: 0.8 }],
+        ["Seen with the logic of dependency", bx + 230, 300, <W c={DIM} s={22}>at the next one</W>, { d: 0.8 }],
+        ["Seen with the logic of dependency", bx, 340, <W c={CHALK} s={26}>journey</W>, { d: 0.8 }],
         ["merely designated as arising or ceasing, upon conditions", bx, 230, <W c={GOLD} s={26}>merely designated, upon conditions</W>],
-        ["is picked out against the silence before", bx - 130, 430, <K c={GREEN} s={24}>“arising”</K>, { pop: true }],
-        ["ceasing against the silence after", bx + 130, 430, <K c={ROSE} s={24}>“ceasing”</K>, { pop: true }],
+        ["is picked out against the train standing at the platform before", bx - 130, 430, <K c={GREEN} s={24}>“leaving”</K>, { pop: true }],
+        ["arriving against the train at the next platform after", bx + 130, 430, <K c={ROSE} s={24}>“arriving”</K>, { pop: true }],
         ["like the stairs of Step 1", bx, 540, <W c={TEAL} s={26}>up for one climbing, down for one coming down</W>],
         ["Nothing competes", 960, 720, <W c={CHALK} s={42} serif>nothing competes</W>],
       ]} />
@@ -1031,7 +1042,7 @@ export const Body: React.FC = () => {
   const starts: [keyof typeof M, string][] = [
     ["open", "This moment ceases as it arises"], ["whole", "Conventionally, the moment arises and ceases"],
     ["web", "Nagarjuna introduces them at the turning point of his work"], ["sea", "carries three meanings"],
-    ["open", "Listen to a bell"], ["search", "Seen with the logic of substance, the ringing is a thing"],
+    ["open", "Look at a station clock"], ["search", "Seen with the logic of substance, the departure is a thing"],
     ["doubt", "Walk into a garage at dusk"], ["search", "Two corrections happened there"],
     ["doubt", "a picture of reality in two storeys"], ["web", "The author lived in the second picture for years"],
     ["whole", "The two truths leave no room for either version"], ["vivid", "Conventional sounds like a demotion"],
@@ -1051,8 +1062,8 @@ export const Body: React.FC = () => {
     ["Conventionally, the moment arises and ceases", <TwoTruthsScene />],
     ["Nagarjuna introduces them at the turning point of his work", <VerseScene />],
     ["carries three meanings", <MeaningsScene />],
-    ["Listen to a bell", <BellScene />],
-    ["Seen with the logic of substance, the ringing is a thing", <LogicsScene />],
+    ["Look at a station clock", <StationScene />],
+    ["Seen with the logic of substance, the departure is a thing", <LogicsScene />],
     ["Walk into a garage at dusk", <RopeScene />],
     ["Two corrections happened there", <CorrectionsScene />],
     ["a picture of reality in two storeys", <StoreysScene />],

@@ -17,7 +17,7 @@ Read it slowly. Before any answer comes, the question has already handed us an "
 
 This is the first step of The Logic, from After Anatta: notes by John Tan, known as Thusness. The step names two ways of reasoning, and reads the koan through both. Everything that follows uses them, because the difference between them is the difference his own practice turned on.
 
-Listen to a bell. The answer comes before any thought: the sound is fading. Something is there, and something is happening to it.
+Listen to a car going by. The answer comes before any thought: the sound is fading. Something is there, and something is happening to it.
 
 That answer follows a pattern. Call it the logic of substance. It starts with things, and then asks what happens to them. The thing comes first. Its arising and its ending are events that befall it. Read this way, the koan starts with "this moment" as a thing. And it demands an answer, because a thing that is there has to be doing one or the other.
 
@@ -41,7 +41,7 @@ The logic of dependency comes down to one simple test. Look for the thing apart 
 
 Try it on the koan. Listen to a sound until it ends. It is already passing as it sounds. Look for the moment apart from its arising and its ceasing, and none is found. A whirlpool is the same. It is not found apart from the water passing through. Yet leaves thrown into it still spin.
 
-Both halves matter. Nothing is found when the moment is looked for on its own. That is emptiness. And the moment still works. The bell is heard, and we can say when it was struck and when the ringing stopped. That is conventional truth. The logic of dependency keeps both. Dependence and unfindability are one fact, seen from two sides.
+Both halves matter. Nothing is found when the moment is looked for on its own. That is emptiness. And the moment still works. The sound is heard, and we can say when the car came and when it had gone. That is conventional truth. The logic of dependency keeps both. Dependence and unfindability are one fact, seen from two sides.
 
 Three misreadings keep the koan's "it", and move it somewhere else.
 

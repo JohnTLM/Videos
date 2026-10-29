@@ -2,9 +2,9 @@
 // Arc: the koan once more -> Steps 1 to 7 gathered into four questions -> the koan's method made portable ->
 // a test, not a conclusion: a checklist against a habit that retreats -> the four, numbered ->
 // 1 substance: find the "it" (and ask it of the one asking: the Witness) -> 2 dependency: causes, parts, designation,
-// then the bell and the moment picked out with arising and ceasing -> 3 convention: bell, clock, fruit kept; the caution
+// then a sound and the moment picked out with arising and ceasing -> 3 convention: car, clock, fruit kept; the caution
 // and its three sources -> 4 never found: the own-nature named, the nihilist trap; what is put in its place struck,
-// the eternalist trap; emptiness is no backdrop -> the four run on the koan: the bell still rings -> the wrong way:
+// the eternalist trap; emptiness is no backdrop -> the four run on the koan: the sound is still heard -> the wrong way:
 // questions that swap one thing for another -> the Middle Way examines the frame -> self, cup, cause, home ->
 // try it with a glass -> the koan, one last time.
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container or backdrop; "a backdrop" appears
@@ -44,13 +44,13 @@ export const PHRASES = [
   "The second question", "Look for the thing apart from what it depends on",
   "a sprout depends on a seed, water and warmth", "a chariot depends on its wheels and axle",
   "as long depends on short, and knower on known",
-  "the sound of a bell depends on the striking", "the moment depends on designation",
+  "a sound depends on its source", "the moment depends on designation",
   "is picked out together with its arising and its ceasing", "Look for the moment apart from them, and it is not found",
   "there is no one thing for them to belong to", "So the answer is not it is all connected",
   "is a plain description, not a paradox",
   // 3 convention
   "The third question", "This question protects the world", "In the koan, everything is kept",
-  "when the bell was struck, and when the ringing ended", "Clocks keep time", "Actions bear fruit",
+  "when the car came, and when it had gone", "Clocks keep time", "Actions bear fruit",
   "There is a caution here", "Removing a bad argument against something is not a good argument for it",
   "ordinary knowing, the tradition, and evidence", "is the tradition, and the author says so",
   "He does not derive rebirth from emptiness",
@@ -63,7 +63,7 @@ export const PHRASES = [
   "the medicine would have become a new illness",
   // the four, run on the koan
   "Ask what arises, and the koan is a paradox", "Run the four questions, and no it is found", "nothing is put in its place",
-  "and the bell still rings",
+  "and the sound is still heard",
   // the wrong way, and the alternative
   "Yet we usually go about it the wrong way",
   "Does the self exist or not", "What happens to me when I die", "Each question already assumes a thing with its own nature",
@@ -150,6 +150,20 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
+/** A small car, side view, with turning wheels. */
+const Car: React.FC<{ color?: string; roll?: number }> = ({ color = ICE, roll = 0 }) => (
+  <svg width={220} height={100} viewBox="0 0 220 100" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}22`} stroke={color} strokeWidth={4} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={2.5} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx} transform={`rotate(${roll} ${cx} 72)`}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={4} />
+        <line x1={cx - 14} y1={72} x2={cx + 14} y2={72} stroke={color} strokeWidth={2.5} />
+      </g>
+    ))}
+  </svg>
+);
+
 /** A temple bell; swing (degrees) rocks it from the top. */
 const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
   <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
@@ -615,15 +629,15 @@ const Q2Scene: React.FC = () => {
 const Q2KoanScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const b = c("the sound of a bell depends on the striking");
+  const b = c("a sound depends on its source");
   const des = c("the moment depends on designation");
   const tog = c("is picked out together with its arising and its ceasing");
   const nf = c("Look for the moment apart from them, and it is not found");
-  const S = ["striking", "air", "ear", "attention"];
+  const S = ["source", "air", "ear", "attention"];
   return (
     <AbsoluteFill>
       <Title at={b} color={TEAL}>in the koan</Title>
-      <At x={420} y={340} s={pop(t, fps, b - 0.3)}><Bell size={130} swing={swingOf(t, b)} /></At>
+      <At x={300 + 240 * ramp(t, b - 0.3, 4)} y={340} o={ramp(t, b - 0.3, 0.4)}><Car roll={t * 400} /></At>
       <Sound x={420} y={350} at={b + 0.3} dur={4} r1={200} />
       {S.map((w, i) => (
         <At key={w} x={420} y={480 + i * 62} o={ramp(t, b + 0.5 + i * 0.4, 0.4)}><K c={ICE} s={22}>{w}</K></At>
@@ -650,7 +664,7 @@ const Q2KoanScene: React.FC = () => {
 const Q3Scene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const st = c("when the bell was struck, and when the ringing ended");
+  const st = c("when the car came, and when it had gone");
   return (
     <AbsoluteFill>
       <QHead i={2} at={c("The third question")} text="what is affirmed conventionally?" />
@@ -658,10 +672,10 @@ const Q3Scene: React.FC = () => {
         ["This question protects the world", 960, 210, <W c={GOLD} s={30} serif>this question protects the world</W>],
         ["In the koan, everything is kept", 960, 280, <W c={CHALK} s={28}>everything is kept</W>],
       ]} />
-      <At x={520} y={450} s={pop(t, fps, st - 0.2)}><Bell size={150} swing={swingOf(t, st)} /></At>
+      <At x={400 + 240 * ramp(t, st - 0.2, 3)} y={450} o={ramp(t, st - 0.2, 0.4) * (1 - ramp(t, st + 3.2, 0.6))}><Car roll={t * 400} /></At>
       <Sound x={520} y={460} at={st + 0.2} dur={2.4} r1={220} />
       <Items items={[
-        ["when the bell was struck, and when the ringing ended", 520, 620, <W c={GOLD} s={26}>struck · ended</W>, { d: 0.8 }],
+        ["when the car came, and when it had gone", 520, 620, <W c={GOLD} s={26}>came · gone</W>, { d: 0.8 }],
         ["Clocks keep time", 960, 450, <Clock />, { pop: true }],
         ["Clocks keep time", 960, 620, <W c={ICE} s={26}>clocks keep time</W>, { d: 0.4 }],
         ["Actions bear fruit", 1400, 440, <Fruit />, { pop: true }],
@@ -712,7 +726,7 @@ const Q4Scene: React.FC = () => {
         ["a moment with a nature of its own", 960, 400, <W c={VIOLET} s={28}>named plainly: never found</W>, { d: 3.0 }],
         ["Naming it keeps the result from blurring into nothing happens", 600, 540, <SK c={DIM} s={26} strikeAt={nh + 2.6}>“nothing happens”</SK>],
         ["That is the nihilist trap", 600, 620, <W c={WARM} s={26}>the nihilist trap</W>],
-        ["A sound is being heard right now", 1320, 540, <Bell size={110} swing={swingOf(t, snd)} />, { pop: true }],
+        ["A sound is being heard right now", 1320, 540, <Car roll={t * 400} />, { pop: true }],
         ["A sound is being heard right now", 1320, 660, <W c={GOLD} s={28}>a sound is heard right now</W>, { d: 0.4 }],
       ]} />
       <Sound x={1320} y={550} at={snd + 0.3} dur={4} r1={180} />
@@ -754,7 +768,7 @@ const RunScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const run = c("Run the four questions, and no it is found");
-  const rings = c("and the bell still rings");
+  const rings = c("and the sound is still heard");
   return (
     <AbsoluteFill>
       <Items items={[
@@ -769,9 +783,8 @@ const RunScene: React.FC = () => {
         ["Run the four questions, and no it is found", 620, 430, <SK c={DIM} s={26} strikeAt={run + 1.8}>“it”</SK>, { d: 1.2 }],
         ["nothing is put in its place", 1300, 430, <W c={VIOLET} s={26}>nothing put in its place</W>],
       ]} />
-      <At x={960} y={560} s={pop(t, fps, rings - 0.2)}><Bell size={150} swing={swingOf(t, rings)} /></At>
-      <Sound x={960} y={570} at={rings + 0.3} dur={6} r1={360} />
-      <At x={960} y={740} o={ramp(t, rings + 0.6, 0.5)}><W c={GOLD} s={36} serif>and the bell still rings</W></At>
+      <Sound x={960} y={570} at={rings} dur={6} r1={360} />
+      <At x={960} y={740} o={ramp(t, rings + 0.6, 0.5)}><W c={GOLD} s={36} serif>and the sound is still heard</W></At>
     </AbsoluteFill>
   );
 };
@@ -949,7 +962,7 @@ const LastScene: React.FC = () => {
       <At x={960} y={220} o={ramp(t, k + 0.6, 0.3) * (1 - ramp(t, nh, 0.6) * 0.5)}>
         <Reveal text="This moment ceases as it arises. Does it arise, or does it cease?" at={k + 1.0} size={44} speed={0.03} />
       </At>
-      <At x={960} y={460} s={pop(t, fps, nh - 0.2)} o={ramp(t, nh - 0.2, 0.3)}><Bell size={160} swing={swingOf(t, nh)} /></At>
+      <At x={960} y={460} s={pop(t, fps, nh - 0.2)} o={ramp(t, nh - 0.2, 0.3)}><Car roll={t * 400} /></At>
       <Sound x={960} y={480} at={nh + 0.3} dur={9} r1={480} />
       <Items items={[
         ["The question has nothing to hold on to", 960, 660, <W c={DIM} s={30}>nothing for the question to hold</W>],
@@ -966,7 +979,7 @@ export const Body: React.FC = () => {
     ["open", "Here is the koan once more"], ["web", "This is the eighth and last step of The Logic"],
     ["sea", "The four questions are the koan's method, made portable"], ["doubt", "They are a test, not a conclusion"],
     ["whole", "The four are these"], ["doubt", "The first question"], ["search", "And it has to be asked of the one asking"],
-    ["web", "The second question"], ["sea", "the sound of a bell depends on the striking"], ["vivid", "The third question"],
+    ["web", "The second question"], ["sea", "a sound depends on its source"], ["vivid", "The third question"],
     ["search", "There is a caution here"], ["doubt", "The fourth question"], ["search", "Then check what has been put in its place"],
     ["vivid", "Ask what arises, and the koan is a paradox"], ["doubt", "Yet we usually go about it the wrong way"],
     ["web", "Nagarjuna's Middle Way gives an alternative"], ["vivid", "The same logic works beyond the moment"],
@@ -987,7 +1000,7 @@ export const Body: React.FC = () => {
     ["The first question", <Q1Scene />],
     ["And it has to be asked of the one asking", <WitnessScene />],
     ["The second question", <Q2Scene />],
-    ["the sound of a bell depends on the striking", <Q2KoanScene />],
+    ["a sound depends on its source", <Q2KoanScene />],
     ["The third question", <Q3Scene />],
     ["There is a caution here", <CautionScene />],
     ["The fourth question", <Q4Scene />],

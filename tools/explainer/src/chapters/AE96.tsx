@@ -18,7 +18,7 @@ import {
 // Copied verbatim from the script, in narration order. No respelled words inside.
 export const PHRASES = [
   // the bell and the koan
-  "Strike a bell and listen", "it is already passing as it sounds", "is there a sound that stays",
+  "Listen to a car going by", "it is already passing as it sounds", "is there a sound that stays",
   "Here is a koan to hold in mind", "This moment ceases as it arises", "Does it arise, or does it cease",
   "two different ways of thinking", "not only for philosophy, but for practice",
   "It draws on The Logic", "These notes set out the logic behind it",
@@ -74,7 +74,7 @@ export const PHRASES = [
   "The eight steps of The Logic each come back", "The first sets the two logics side by side",
   "The second asks what exactly is denied", "Deny too little, and a timeless Now takes its place", "Deny too much",
   "The third goes looking for the moment", "Yet moments are named, counted and timed",
-  "The fourth gives the koan two answers", "Conventionally, the bell starts and stops", "One moment, met two ways",
+  "The fourth gives the koan two answers", "Conventionally, the train leaves and arrives", "One moment, met two ways",
   "The fifth shows why all four answers fall together", "The sixth names the two traps", "the eternalist trap", "the nihilist trap",
   "The seventh answers the worry", "It is because nothing stands on its own",
   "And the eighth gathers it all into four questions", "What would a substance view say", "What does dependency say instead",
@@ -91,9 +91,9 @@ export const PHRASES = [
   "each question already assumes a thing with its own nature", "any answer only swaps one thing for another",
   "a way to question the question",
   // nothing lost, and the close
-  "Nothing is lost when the it is not found", "The bell is still heard", "The clock still keeps time", "Actions still bear fruit",
+  "Nothing is lost when the it is not found", "The sound is still heard", "The clock still keeps time", "Actions still bear fruit",
   "Mutual dependence has no first and no higher", "No substrate underneath", "There is nothing more real underneath for it to cover",
-  "Listen to the bell once more", "It is vivid", "And nothing went anywhere",
+  "Listen to a sound once more", "It is vivid", "And nothing went anywhere",
   "Ask what arises, and the koan is a paradox", "the koan is simply this moment",
 ];
 
@@ -159,14 +159,31 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A train on its track; x moves it along. */
+const Train: React.FC<{ w?: number; x?: number; color?: string }> = ({ w = 300, x = 0, color = ICE }) => (
+  <svg width={w} height={w * 0.42} viewBox="0 0 300 126" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${color}99)` }}>
+    <line x1={-200} y1={118} x2={500} y2={118} stroke={DIM} strokeWidth={3} />
+    <g transform={`translate(${x} 0)`}>
+      <path d="M10 30 Q10 14 26 14 L250 14 Q290 14 292 60 L292 100 L10 100 Z" fill={`${color}22`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+      {[40, 100, 160].map((xx) => <rect key={xx} x={xx} y={30} width={44} height={30} rx={6} fill="#0008" stroke={color} strokeWidth={3} />)}
+      <path d="M232 30 L272 30 Q282 40 282 60 L232 60 Z" fill="#0008" stroke={color} strokeWidth={3} />
+      {[50, 120, 190, 250].map((cx) => <circle key={cx} cx={cx} cy={106} r={11} fill={`${GOLD}55`} stroke={GOLD} strokeWidth={3} />)}
+    </g>
+  </svg>
+);
+
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -295,14 +312,14 @@ const Num: React.FC<{ n: string; color: string; lit: number }> = ({ n, color, li
 const BellScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const strike = c("Strike a bell and listen");
+  const strike = c("Listen to a car going by");
   const swing = 8 * Math.sin((t - strike) * 5) * Math.exp(-Math.max(0, t - strike) * 0.6) * (t > strike ? 1 : 0);
   return (
     <AbsoluteFill>
-      <At x={960} y={400} s={pop(t, fps, strike - 0.4)}><Bell swing={swing} /></At>
+      <At x={960} y={400} s={pop(t, fps, strike - 0.4)}><PassingCar swing={swing} /></At>
       <Sound x={960} y={420} at={strike + 0.4} dur={6} />
       <Items items={[
-        ["Strike a bell and listen", 960, 640, <W c={GOLD} s={36} serif>bright and clear</W>, { d: 1.6 }],
+        ["Listen to a car going by", 960, 640, <W c={GOLD} s={36} serif>bright and clear</W>, { d: 1.6 }],
         ["it is already passing as it sounds", 960, 710, <W c={ICE} s={32}>already passing, as it sounds</W>],
         ["is there a sound that stays", 960, 780, <W c={DIM} s={30}>no sound that stays</W>],
       ]} />
@@ -359,7 +376,7 @@ const ClaimScene: React.FC = () => {
         ["cannot be understood clearly by reasoning alone", 960, 230, <W c={DIM} s={32}>not by reasoning alone</W>],
         ["It needs a direct insight", 960, 340, <Eye color={GOLD} size={150} />, { pop: true }],
         ["It needs a direct insight", 960, 430, <W c={GOLD} s={34} serif>a direct insight into what a thing is</W>, { d: 0.5 }],
-        ["A sound, a thought, a cup", 560, 620, <Bell size={120} />, { pop: true }],
+        ["A sound, a thought, a cup", 560, 620, <PassingCar size={120} />, { pop: true }],
         ["A sound, a thought, a cup", 960, 620, <Thought />, { pop: true, d: 0.5 }],
         ["A sound, a thought, a cup", 1360, 620, <Cup />, { pop: true, d: 1.0 }],
       ]} />
@@ -601,7 +618,7 @@ const TasteScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("These practices do something real")} color={GREEN}>they do something real</Title>
       <Items items={[
-        ["the clarity of appearances can be tasted directly", 560, 380, <Bell size={150} />, { pop: true }],
+        ["the clarity of appearances can be tasted directly", 560, 380, <PassingCar size={150} />, { pop: true }],
         ["the clarity of appearances can be tasted directly", 560, 540, <W c={GOLD} s={30}>clarity, tasted directly</W>, { d: 0.6 }],
         ["The habit of thinking inherently does not need words to work", 1360, 300, <SK c={DIM} s={30} strikeAt={habit + 0.8}>words</SK>, { pop: true }],
         ["The habit of thinking inherently does not need words to work", 1360, 540, <W c={WARM} s={30}>the habit carries on, wordless</W>, { d: 1.6 }],
@@ -768,7 +785,7 @@ const AnswersScene: React.FC = () => {
         ["it is never there to have arisen", 420, 500, <W c={DIM} s={24}>never there to have arisen</W>, { until: "It ceases? Then something passes away", ud: 1.5 }],
         ["what passes away, if it never stood", 780, 500, <W c={DIM} s={24}>what passes, if it never stood?</W>],
         ["Coming into being and passing away are opposites", 1140, 500, <W c={DIM} s={24}>opposites, in one thing?</W>, { d: 1.0 }],
-        ["Yet a sound is being heard right now", 1500, 500, <Bell size={80} />, { pop: true }],
+        ["Yet a sound is being heard right now", 1500, 500, <PassingCar size={80} />, { pop: true }],
         ["Yet a sound is being heard right now", 1500, 580, <W c={DIM} s={24}>yet a sound is heard</W>, { d: 0.4 }],
         ["Every answer fails", 960, 760, <W c={WARM} s={40} serif>every answer fails</W>, { d: 0.6 }],
       ]} />
@@ -964,8 +981,8 @@ const StepsScene: React.FC = () => {
         ["Deny too much", 1400, 420, <W c={DIM} s={26}>too much: nothing happens</W>, { until: "The third goes looking for the moment" }],
         ["The third goes looking for the moment", 1400, 300, <W c={CHALK} s={26}>arising? ceasing? owner? container?</W>, { d: 1.2, until: "The fourth gives the koan two answers" }],
         ["Yet moments are named, counted and timed", 1400, 380, <Clock size={120} />, { pop: true, until: "The fourth gives the koan two answers" }],
-        ["Conventionally, the bell starts and stops", 1400, 300, <Bell size={110} />, { pop: true, until: "The fifth shows why all four answers fall together" }],
-        ["Conventionally, the bell starts and stops", 1400, 410, <W c={GOLD} s={26}>conventionally: starts and stops</W>, { d: 0.6, until: "The fifth shows why all four answers fall together" }],
+        ["Conventionally, the train leaves and arrives", 1400, 300, <Train w={170} />, { pop: true, until: "The fifth shows why all four answers fall together" }],
+        ["Conventionally, the train leaves and arrives", 1400, 410, <W c={GOLD} s={26}>conventionally: leaves and arrives</W>, { d: 0.6, until: "The fifth shows why all four answers fall together" }],
         ["One moment, met two ways", 1400, 480, <W c={TEAL} s={28} serif>one moment, met two ways</W>, { until: "The fifth shows why all four answers fall together" }],
         ["The fifth shows why all four answers fall together", 1400, 340, <W c={CHALK} s={28}>each one assumed an “it”</W>, { d: 1.6, until: "The sixth names the two traps" }],
         ["the eternalist trap", 1400, 300, <K c={WARM} s={26}>“it arises”: eternalism</K>, { pop: true, until: "The seventh answers the worry" }],
@@ -1096,8 +1113,8 @@ const NothingLostScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("Nothing is lost when the it is not found")}>nothing is lost</Title>
       <Items items={[
-        ["The bell is still heard", 520, 360, <Bell size={150} />, { pop: true }],
-        ["The bell is still heard", 520, 500, <W c={GOLD} s={28}>still heard</W>, { d: 0.4 }],
+        ["The sound is still heard", 520, 360, <PassingCar size={150} />, { pop: true }],
+        ["The sound is still heard", 520, 500, <W c={GOLD} s={28}>still heard</W>, { d: 0.4 }],
         ["The clock still keeps time", 960, 360, <Clock />, { pop: true }],
         ["The clock still keeps time", 960, 500, <W c={ICE} s={28}>still keeps time</W>, { d: 0.4 }],
         ["Actions still bear fruit", 1400, 350, <Fruit />, { pop: true }],
@@ -1116,11 +1133,11 @@ const NothingLostScene: React.FC = () => {
 const BellAgainScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const b = c("Listen to the bell once more");
+  const b = c("Listen to a sound once more");
   const swing = 8 * Math.sin((t - b) * 5) * Math.exp(-Math.max(0, t - b) * 0.6) * (t > b ? 1 : 0);
   return (
     <AbsoluteFill>
-      <At x={960} y={380} s={pop(t, fps, b - 0.3)}><Bell swing={swing} /></At>
+      <At x={960} y={380} s={pop(t, fps, b - 0.3)}><PassingCar swing={swing} /></At>
       <Sound x={960} y={400} at={b + 0.4} dur={5} />
       <Items items={[
         ["It is vivid", 700, 640, <K c={GOLD} s={32}>vivid</K>, { pop: true }],
@@ -1139,7 +1156,7 @@ const CloseScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <At x={960} y={260} o={ramp(t, ask, 0.5) * (1 - 0.6 * ramp(t, end, 0.6))}><W c={WARM} s={40} serif>ask what arises: a paradox</W></At>
-      <At x={960} y={420} s={pop(t, fps, end - 0.6)}><Bell size={150} /></At>
+      <At x={960} y={420} s={pop(t, fps, end - 0.6)}><PassingCar size={150} /></At>
       <Sound x={960} y={440} at={end} dur={4} r1={520} />
       <At x={960} y={640} s={pop(t, fps, end + 0.4, 16)} o={ramp(t, end + 0.4, 0.8)}><W c={GOLD} s={56} serif>simply this moment</W></At>
     </AbsoluteFill>
@@ -1150,14 +1167,14 @@ const CloseScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const starts: [keyof typeof M, string][] = [
-    ["open", "Strike a bell and listen"], ["web", "two different ways of thinking"], ["doubt", "The logic of substance is not a belief we hold"],
+    ["open", "Listen to a car going by"], ["web", "two different ways of thinking"], ["doubt", "The logic of substance is not a belief we hold"],
     ["vivid", "Every appearance is vivid, and it cannot be found"], ["sea", "Appearance arises whenever its conditions come together"],
     ["doubt", "We habitually and intuitively think inherently"], ["search", "it reshapes them before we notice"],
     ["doubt", "The author describes three ways this happens"], ["whole", "The great masters said the same"],
     ["search", "Now return to the koan"], ["doubt", "the logic of substance looks for a way out"],
     ["web", "The logic of dependency starts one step earlier"], ["vivid", "Think of a staircase"],
     ["sea", "The eight steps of The Logic each come back"], ["vivid", "The koan is only the sharpest case"], ["search", "There is one more turn"],
-    ["whole", "Nothing is lost when the it is not found"], ["vivid", "Listen to the bell once more"],
+    ["whole", "Nothing is lost when the it is not found"], ["vivid", "Listen to a sound once more"],
   ];
   const moods: Mood[] = [];
   starts.forEach(([k, cue], i) => {
@@ -1166,7 +1183,7 @@ export const Body: React.FC = () => {
     moods.push({ t: s + (i ? 1.2 : 0), ...M[k] }, { t: next - 0.3, ...M[k] });
   });
   const order: [string, React.ReactNode][] = [
-    ["Strike a bell and listen", <BellScene />],
+    ["Listen to a car going by", <BellScene />],
     ["Here is a koan to hold in mind", <KoanScene />],
     ["two different ways of thinking", <TwoWaysScene />],
     ["Start with the claim the author puts first", <ClaimScene />],
@@ -1195,7 +1212,7 @@ export const Body: React.FC = () => {
     ["The koan is only the sharpest case", <BeyondScene />],
     ["There is one more turn", <QuestionScene />],
     ["Nothing is lost when the it is not found", <NothingLostScene />],
-    ["Listen to the bell once more", <BellAgainScene />],
+    ["Listen to a sound once more", <BellAgainScene />],
     ["Ask what arises, and the koan is a paradox", <CloseScene />],
   ];
   return (

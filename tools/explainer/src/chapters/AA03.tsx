@@ -3,7 +3,7 @@
 // Chandrakirti's seven places, not found, still carrying passengers -> the same places searched for this moment ->
 // Nagarjuna's verse -> the koan both ways -> not found is not "no chariot" -> designated in dependence (name, basis, riding) ->
 // one verse: dependent arising, emptiness, designation, the middle way -> a name is not a sticker (jar, cup, the basis named
-// all the way down) -> not arbitrary: three checks, snake and rope -> the chariot everywhere (ear and bell, walking, hearing,
+// all the way down) -> not arbitrary: three checks, snake and rope -> the chariot everywhere (eye and sunrise, walking, hearing,
 // remove the axle, named together, intimacy) -> the sunrise (named from where we stand; the newspaper's time is right)
 // -> self, car, seed, friend -> try it (a sound, a chair).
 // Stance: emptiness is drawn only as the not-finding, never as a ground, container or backdrop. Only invented things are
@@ -58,9 +58,9 @@ export const PHRASES = [
   "A rope there from its own side fails the third", "passes all three", "but because it works",
   // the chariot everywhere
   "The author first met the chariot", "The taste was free of substance",
-  "He still pictured an ear here, a bell there", "and something crossing between them",
+  "He still pictured an eye here, a sunrise there", "and something crossing between them",
   "Walking is the chariot", "Remove the axle", "There is no chariot",
-  "Bell, striker, air, ear and sound are named together", "intimacy no longer meant closeness",
+  "Sun, turning earth, horizon and the one watching are named together", "intimacy no longer meant closeness",
   "there was never any separation to close",
   // the sunrise
   "Every morning we say the sun rises", "Look for the rising in the sun, and it is not there",
@@ -729,8 +729,8 @@ const AuthorScene: React.FC = () => {
         ["The author first met the chariot", 960, 245, <W c={TEAL} s={24}>the self already not found</W>, { d: 3.6, until: "The taste was free of substance" }],
         ["The taste was free of substance", 680, 205, <K c={GOLD} s={26}>the taste: free of substance</K>, { pop: true }],
         ["The taste was free of substance", 1240, 205, <K c={WARM} s={26}>the view: not yet</K>, { pop: true, d: 1.8 }],
-        ["He still pictured an ear here, a bell there", 600, 400, <Ear />, { pop: true }],
-        ["He still pictured an ear here, a bell there", 1320, 390, <Bell size={130} />, { pop: true, d: 0.8 }],
+        ["He still pictured an eye here, a sunrise there", 600, 400, <Eye size={150} />, { pop: true }],
+        ["He still pictured an eye here, a sunrise there", 1320, 390, <Sun size={130} rot={t * 8} />, { pop: true, d: 0.8 }],
         ["and something crossing between them", 960, 320,
           <SK c={DIM} s={24} strikeAt={c("Walking is the chariot") + 0.3}>something crossing between</SK>],
         ["Walking is the chariot", 600, 590, <W c={GOLD} s={36} serif>“Walking is the chariot.”</W>],
@@ -745,15 +745,15 @@ const AxleScene: React.FC = () => {
   const c = useCue();
   const rm = ramp(t, c("Remove the axle") + 0.6, 0.6);
   const gone = ramp(t, c("There is no chariot"), 0.8);
-  const N = ["bell", "striker", "air", "ear", "sound"];
-  const tog = c("Bell, striker, air, ear and sound are named together");
+  const N = ["sun", "turning earth", "horizon", "watcher", "sunrise"];
+  const tog = c("Sun, turning earth, horizon and the one watching are named together");
   return (
     <AbsoluteFill>
       <Title at={c("Remove the axle")}>remove the axle</Title>
       <At x={960} y={330} o={1 - gone}><Chariot size={400} axle={1 - rm} /></At>
       <At x={960} y={330} o={gone}><W c={CHALK} s={32} serif>not a lesser chariot: no chariot</W></At>
       {N.map((w, i) => (
-        <At key={w} x={560 + i * 200} y={540} o={ramp(t, tog + i * 0.35, 0.4)}><K c={i === 4 ? GOLD : TEAL} s={28}>{w}</K></At>
+        <At key={w} x={520 + i * 220} y={540} o={ramp(t, tog + i * 0.35, 0.4)}><K c={i === 4 ? GOLD : TEAL} s={28}>{w}</K></At>
       ))}
       <At x={960} y={620} o={ramp(t, tog + 2.0, 0.5)}><W c={GOLD} s={30}>named together, one happening</W></At>
       <Items items={[

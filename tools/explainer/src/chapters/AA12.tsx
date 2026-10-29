@@ -6,7 +6,8 @@
 // object are dharmas, one vivid appearing -> two layers (a label over a bare appearance) taken apart: the appearing
 // itself is the designation -> designation is singling out, no words needed -> a figure stands out only against its
 // ground and with its conditions -> singling out is dependence, dependence is emptiness: by appearing, already empty ->
-// the mirror: singling out is not the mistake -> the clarity mistaken as me and as Self, both struck -> taste and logic
+// the mirror: singling out is not the mistake -> holding an apple: each sense its own appearing, the knot of the habit,
+// untied with nothing missing -> the clarity mistaken as me and as Self, both struck -> taste and logic
 // meet in one appearing -> what a phenomenon is -> try it -> close.
 // Stance: emptiness and awareness are never drawn as a ground, field, container or background; the bare given, "Self",
 // a pure witness and a vast awareness appear only to be struck. The appearing (sound, colour, hand) stays vivid.
@@ -14,7 +15,7 @@ import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
   At, Background, Bokeh, Chip, CHALK, DIM, DrawPath, GOLD, Glow, GREEN, ICE, Mood, ROSE, Reveal,
-  Scene, Strike, Svg, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
+  Hand, Scene, Strike, Svg, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
 } from "../lib";
 
 // Copied verbatim from the script, in narration order. No respelled words inside.
@@ -79,6 +80,23 @@ export const PHRASES = [
   "None of this makes the world thin", "Singling out is not the mistake",
   "A mirror shows every reflection, clear and distinct, and holds none of them",
   "taking what is singled out as standing on its own", "The singling out goes on, vivid and exact",
+  // holding an apple
+  "Take something you can hold", "Someone passes you an apple, and you hold it in your hand",
+  "It seems plain that you are holding a solid apple", "out there, on its own", "Look again",
+  "The hardness is not stored in the apple", "It arises when skin meets fruit", "Press lightly and it is firm",
+  "Press with the thumb and it gives", "The coolness depends on the warmth of your hand",
+  "The weight in your palm is a pull with the earth, met by your arm",
+  "The red depends on light, on the skin of the fruit, and on the eye", "Under candlelight it turns orange",
+  "At dusk it goes grey", "The scent needs the air and the breath", "The crunch needs teeth and an ear",
+  "The sweetness needs the tongue", "it is another apple", "Even the word apple comes with memory and language",
+  // the knot
+  "Each sense gives only its own appearing", "This hardness, this red, this crunch, this sweetness",
+  "None of them gives an apple standing out there on its own",
+  "Mental formation, from the habits of the inherent framework, does the rest", "It ties the appearings into one solid thing",
+  "puts it out there", "and puts a me in here, holding it",
+  "Look for the apple apart from its conditions, and it is not found",
+  "Look for the holder apart from the holding, and that is not found either", "Nothing is missing",
+  "You can still eat it, share it, and plant its seeds", "Untied, it is just this: vivid, and light",
   // the clarity
   "Then the clarity", "Every appearing is clear: seen, heard, known", "what the tradition calls the nature of mind",
   "it becomes me, the one who sees", "it is easily mistaken again, as a capital S Self",
@@ -97,6 +115,8 @@ export const PHRASES = [
   // try it
   "Try it now", "Hear a sound", "Notice it is already this sound, picked out, before any word",
   "Notice what it stands out against, and what it comes with", "Is there a sound left over, apart from those",
+  "Pick up a piece of fruit", "Go through the senses one by one",
+  "Then look for the fruit apart from them, and for the one holding it",
   "Then notice the clarity", "Everything is already known, without effort", "Is the knowing behind the scene",
   "Or is it just the scene, bright and clear",
   // close
@@ -205,6 +225,17 @@ const Pick: React.FC<{ at: number; label: string; color: string }> = ({ at, labe
     </div>
   );
 };
+
+/** An apple, vivid; `tint` is a CSS filter for the light it is seen in (candlelight, dusk). */
+const APPLE = "#E5484D";
+const Apple: React.FC<{ size?: number; tint?: string }> = ({ size = 220, tint = "none" }) => (
+  <svg width={size} height={size} viewBox="0 0 200 200" style={{ overflow: "visible", filter: `${tint === "none" ? "" : tint + " "}drop-shadow(0 0 16px ${APPLE})` }}>
+    <path d="M100 56 C70 30 22 46 26 104 C30 160 70 190 100 172 C130 190 170 160 174 104 C178 46 130 30 100 56 Z" fill={`${APPLE}cc`} stroke={APPLE} strokeWidth={5} />
+    <path d="M60 80 Q52 100 58 122" stroke="#fff" strokeWidth={6} strokeLinecap="round" opacity={0.45} fill="none" />
+    <path d="M100 56 Q98 34 108 18" stroke="#8a5a2b" strokeWidth={6} strokeLinecap="round" fill="none" />
+    <path d="M106 30 Q130 8 152 22 Q132 44 106 30 Z" fill={`${GREEN}aa`} stroke={GREEN} strokeWidth={3} />
+  </svg>
+);
 
 // ---------------------------------------------------------------- scenes
 const SoundScene: React.FC = () => {
@@ -621,6 +652,81 @@ const MirrorScene: React.FC = () => {
   );
 };
 
+const AppleScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const pass = c("Someone passes you an apple, and you hold it in your hand");
+  const solid = c("It seems plain that you are holding a solid apple");
+  const again = c("Look again");
+  const candle = c("Under candlelight it turns orange");
+  const dusk = c("At dusk it goes grey");
+  const scent = c("The scent needs the air and the breath");
+  const tint = t < candle ? "none" : t < dusk ? "sepia(0.7) saturate(1.6) hue-rotate(-10deg)" : t < scent ? "grayscale(0.85) brightness(0.8)" : "none";
+  const press = t > c("Press with the thumb and it gives") && t < c("The coolness depends on the warmth of your hand") ? 0.94 : 1;
+  return (
+    <AbsoluteFill>
+      <Title at={c("Take something you can hold")} color={GOLD}>holding an apple</Title>
+      <At x={960} y={430} s={pop(t, fps, pass) * press}><Apple size={210} tint={tint} /></At>
+      <At x={960} y={600} o={ramp(t, pass + 0.6, 0.5)}><Hand size={190} /></At>
+      <At x={960} y={230} o={ramp(t, solid, 0.4) * (1 - ramp(t, again, 0.4))}><Wd c={WARM} s={28}>a solid apple, out there, on its own?</Wd></At>
+      <Items items={[
+        ["The hardness is not stored in the apple", 480, 260, <K c={ROSE} s={28}>hardness</K>, { pop: true }],
+        ["It arises when skin meets fruit", 480, 330, <Wd c={DIM} s={22}>skin · fingers · touch</Wd>],
+        ["Press lightly and it is firm", 480, 390, <Wd c={CHALK} s={22}>lightly: firm</Wd>],
+        ["Press with the thumb and it gives", 480, 440, <Wd c={CHALK} s={22}>the thumb: it gives</Wd>],
+        ["The coolness depends on the warmth of your hand", 480, 520, <K c={ICE} s={26}>coolness · your warm hand</K>, { pop: true }],
+        ["The weight in your palm is a pull with the earth, met by your arm", 480, 610, <K c={TEAL} s={26}>weight · earth · arm</K>, { pop: true }],
+        ["The red depends on light, on the skin of the fruit, and on the eye", 1440, 260, <K c={APPLE} s={28}>red</K>, { pop: true }],
+        ["The red depends on light, on the skin of the fruit, and on the eye", 1440, 330, <Wd c={DIM} s={22}>light · skin · eye</Wd>, { d: 0.8 }],
+        ["Under candlelight it turns orange", 1440, 390, <Wd c={WARM} s={22}>candlelight: orange</Wd>],
+        ["At dusk it goes grey", 1440, 440, <Wd c={DIM} s={22}>dusk: grey</Wd>],
+        ["The scent needs the air and the breath", 1440, 520, <K c={GREEN} s={24}>scent · air · breath</K>, { pop: true }],
+        ["The crunch needs teeth and an ear", 1440, 590, <K c={GOLD} s={24}>crunch · teeth · ear</K>, { pop: true }],
+        ["The sweetness needs the tongue", 1440, 660, <K c={ROSE} s={24}>sweetness · tongue</K>, { pop: true }],
+        ["it is another apple", 1440, 720, <Wd c={DIM} s={22}>after brushing: another apple</Wd>],
+        ["Even the word apple comes with memory and language", 960, 800, <Wd c={VIOLET} s={28} serif>even “apple”: memory and language</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const KnotScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const each = c("Each sense gives only its own appearing");
+  const form = c("Mental formation, from the habits of the inherent framework, does the rest");
+  const tie = c("It ties the appearings into one solid thing");
+  const out = c("puts it out there");
+  const me = c("and puts a me in here, holding it");
+  const look = c("Look for the apple apart from its conditions, and it is not found");
+  const holder = c("Look for the holder apart from the holding, and that is not found either");
+  const none = c("Nothing is missing");
+  const light = c("Untied, it is just this: vivid, and light");
+  const A: [string, string][] = [["this hardness", ROSE], ["this red", APPLE], ["this crunch", GOLD], ["this sweetness", GREEN]];
+  const knot = ramp(t, tie, 1.2) * (1 - ramp(t, none, 0.8));
+  return (
+    <AbsoluteFill>
+      <Title at={each}>the knot</Title>
+      {A.map(([w, col], i) => {
+        const x0 = 480 + i * 320, x = x0 + (960 + (i % 2 ? 140 : -140) - x0) * knot;
+        return <At key={w} x={x} y={250 + (i < 2 ? 30 : 100) * knot} s={pop(t, fps, each + 0.6 + i * 0.35)}><K c={col} s={26}>{w}</K></At>;
+      })}
+      <At x={960} y={340} o={ramp(t, c("None of them gives an apple standing out there on its own"), 0.4) * (1 - ramp(t, form, 0.4))}>
+        <Wd c={DIM} s={26}>none gives an apple out there on its own</Wd>
+      </At>
+      <At x={960} y={180} o={ramp(t, form, 0.5) * (1 - ramp(t, none, 0.5))}><Wd c={WARM} s={26}>mental formation: the habit</Wd></At>
+      <At x={1360} y={520} s={pop(t, fps, out)} o={1 - ramp(t, none, 0.5)}><SK c={WARM} s={28} strikeAt={look + 1.2}>an apple out there</SK></At>
+      <At x={560} y={520} s={pop(t, fps, me)} o={1 - ramp(t, none, 0.5)}><SK c={WARM} s={28} strikeAt={holder + 1.4}>a “me” in here, holding</SK></At>
+      <At x={960} y={460} o={ramp(t, none, 0.6)} s={pop(t, fps, none)}><Apple size={180} /></At>
+      <Items items={[
+        ["You can still eat it, share it, and plant its seeds", 960, 640, <Wd c={GREEN} s={28}>eat it · share it · plant its seeds</Wd>],
+        ["Untied, it is just this: vivid, and light", 960, 760, <Wd c={GOLD} s={36} serif>untied: vivid, and light</Wd>],
+      ]} />
+      <At x={960} y={460} o={ramp(t, light, 0.8) * 0.6}><Appearing size={260} o={0.35} /></At>
+    </AbsoluteFill>
+  );
+};
+
 const ClarityScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -713,6 +819,10 @@ const TryScene: React.FC = () => {
         ["Notice what it stands out against, and what it comes with", 560, 650, <Wd c={TEAL} s={24}>what it stands out against, what it comes with</Wd>],
       ]} />
       <At x={560} y={730} o={ramp(t, left, 0.4)}><SK c={DIM} s={24} strikeAt={left + 1.8}>a sound left over</SK></At>
+      <Items items={[
+        ["Pick up a piece of fruit", 960, 790, <Wd c={ROSE} s={26}>a piece of fruit: the senses one by one</Wd>, { until: "Then notice the clarity" }],
+        ["Then look for the fruit apart from them, and for the one holding it", 960, 845, <Wd c={DIM} s={22}>the fruit apart from them? the one holding?</Wd>, { until: "Then notice the clarity" }],
+      ]} />
       <At x={1380} y={400} o={ramp(t, cl, 0.6)}><Appearing size={170} /></At>
       <Items items={[
         ["Everything is already known, without effort", 1380, 560, <Wd c={CHALK} s={26}>already known, without effort</Wd>],
@@ -755,6 +865,8 @@ export const Body: React.FC = () => {
     ["Picture a world where there is only blue", "sea", <BlueScene />],
     ["So singling out is not something done to an appearance that was there first", "search", <ChainScene />],
     ["None of this makes the world thin", "sea", <MirrorScene />],
+    ["Take something you can hold", "vivid", <AppleScene />],
+    ["Each sense gives only its own appearing", "whole", <KnotScene />],
     ["Then the clarity", "vivid", <ClarityScene />],
     ["So the taste and the logic meet here", "whole", <MeetScene />],
     ["When you look at any phenomenon, what it actually is, is just this", "open", <WhatScene />],

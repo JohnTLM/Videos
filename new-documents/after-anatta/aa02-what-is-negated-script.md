@@ -21,7 +21,7 @@ Tsongkhapa made this the first step of the whole analysis. Unless the target is 
 
 The author learned this the long way. In his words: "In the years of I AM I was good at negating. Thoughts, sensations, the body, the world: not this, not that." What he never put through the test was the one doing the setting aside. "The more I negated, the more solid the Witness became."
 
-Start with what the koan leaves alone. The bell is struck, and the ringing fades. The sound is vivid while it sounds. This is fully valid, and nothing in the analysis makes it fainter. What differs is how the same sound is seen.
+Start with what the koan leaves alone. A car goes by, and its sound fades. The sound is vivid while it sounds. This is fully valid, and nothing in the analysis makes it fainter. What differs is how the same sound is seen.
 
 With the logic of substance, there is a sound first, and arising and ceasing happen to it. So every answer needs the sound to stand still, for at least an instant, between the two. With the logic of dependency, the sounding is heard, and nothing standing behind it is found. "Arising" and "ceasing" are how the sounding is picked out, against what came before and what comes after. Nothing is missing from it.
 

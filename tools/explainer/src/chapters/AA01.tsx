@@ -21,7 +21,7 @@ export const PHRASES = [
   "Read it slowly", "the question has already handed us an it", "that must do one thing or the other",
   "This is the first step of The Logic", "The step names two ways of reasoning", "the difference his own practice turned on",
   // the bell, and the two starting points
-  "Listen to a bell", "the sound is fading", "Something is there, and something is happening to it",
+  "Listen to a car going by", "the sound is fading", "Something is there, and something is happening to it",
   "Call it the logic of substance", "It starts with things, and then asks what happens to them", "The thing comes first",
   "it demands an answer",
   "The logic of dependency starts one step earlier", "it asks how anything is picked out as a thing at all",
@@ -138,14 +138,18 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -356,11 +360,11 @@ const TwoWaysScene: React.FC = () => {
 const BellScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const strike = c("Listen to a bell");
+  const strike = c("Listen to a car going by");
   const swing = 8 * Math.sin((t - strike) * 5) * Math.exp(-Math.max(0, t - strike) * 0.6) * (t > strike ? 1 : 0);
   return (
     <AbsoluteFill>
-      <At x={960} y={380} s={pop(t, fps, strike - 0.3)}><Bell swing={swing} /></At>
+      <At x={960} y={380} s={pop(t, fps, strike - 0.3)}><PassingCar swing={swing} /></At>
       <Sound x={960} y={400} at={strike + 0.4} dur={6} />
       <Items items={[
         ["the sound is fading", 960, 620, <W c={ICE} s={34} serif>“the sound is fading”</W>],
@@ -483,7 +487,7 @@ const BothWaysScene: React.FC = () => {
         ["the moment feels solid", 560, 560, <W c={WARM} s={28}>it feels solid</W>],
       ]} />
       <At x={1360} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
-      <At x={1360} y={400} s={pop(t, fps, dep + 0.6)}><Bell size={130} /></At>
+      <At x={1360} y={400} s={pop(t, fps, dep + 0.6)}><PassingCar size={130} /></At>
       <Sound x={1360} y={410} at={dep + 0.8} dur={8} r1={260} />
       <Items items={[
         ["Seen with the logic of dependency, there is the sounding", 1360, 560, <SK c={DIM} s={24} strikeAt={dep + 3.2}>a moment inside it</SK>, { d: 1.6 }],
@@ -603,7 +607,7 @@ const TestScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("comes down to one simple test")} color={TEAL}>one simple test</Title>
       <At x={960} y={220} s={pop(t, fps, test, 14)} o={ramp(t, test, 0.4)}><W c={GOLD} s={42} serif>look for the thing apart from what it depends on</W></At>
-      <At x={560} y={460} s={pop(t, fps, snd - 0.2)} o={1 - ramp(t, wp + 0.4, 0.6) * 0.4}><Bell size={120} /></At>
+      <At x={560} y={460} s={pop(t, fps, snd - 0.2)} o={1 - ramp(t, wp + 0.4, 0.6) * 0.4}><PassingCar size={120} /></At>
       <Sound x={560} y={470} at={snd + 0.3} dur={4} r1={200} />
       <At x={560} y={620} o={ramp(t, c("and none is found"), 0.5)}><SK c={DIM} s={24} strikeAt={c("and none is found") + 1.0}>a moment apart from arising and ceasing</SK></At>
       <At x={1360} y={460} o={ramp(t, wp, 0.6)}><Whirlpool at={wp} leaf={ramp(t, c("Yet leaves thrown into it still spin"), 0.6)} /></At>
@@ -625,7 +629,7 @@ const HalvesScene: React.FC = () => {
       <Title at={c("Both halves matter")}>both halves</Title>
       <At x={620 + 200 * join} y={360} s={pop(t, fps, c("That is emptiness") - 0.6)}><K c={VIOLET} s={30}>nothing found on its own</K></At>
       <At x={620 + 200 * join} y={440} o={ramp(t, c("That is emptiness"), 0.5) * (1 - join)}><W c={VIOLET} s={28}>emptiness</W></At>
-      <At x={1300 - 200 * join} y={360} s={pop(t, fps, c("And the moment still works"))}><K c={GOLD} s={30}>the bell is heard</K></At>
+      <At x={1300 - 200 * join} y={360} s={pop(t, fps, c("And the moment still works"))}><K c={GOLD} s={30}>the sound is heard</K></At>
       <At x={1300 - 200 * join} y={440} o={ramp(t, c("That is conventional truth"), 0.5) * (1 - join)}><W c={GOLD} s={28}>conventional truth</W></At>
       <Items items={[
         ["Dependence and unfindability are one fact, seen from two sides", 960, 560, <W c={TEAL} s={40} serif>one fact, seen from two sides</W>, { d: 1.0 }],
@@ -825,7 +829,7 @@ const TryScene: React.FC = () => {
         ["Say the koan once", 960, 210, <W c={CHALK} s={32} serif>This moment ceases as it arises. Does it arise, or does it cease?</W>],
         ["Notice the it the question hands you", 960, 290, <K c={WARM} s={28}>notice the “it”</K>, { pop: true, until: "Do not try to reach an answer" }],
       ]} />
-      <At x={960} y={430} s={pop(t, fps, b - 0.3)}><Bell swing={swing} size={170} /></At>
+      <At x={960} y={430} s={pop(t, fps, b - 0.3)}><PassingCar swing={swing} size={170} /></At>
       <Sound x={960} y={450} at={b + 0.4} dur={8} r1={480} />
       <Items items={[
         ["Do not try to reach an answer", 960, 620, <W c={DIM} s={28}>no answer to reach</W>],
@@ -840,7 +844,7 @@ const TryScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const starts: [keyof typeof M, string][] = [
-    ["open", "Here is a koan"], ["web", "This is the first step of The Logic"], ["open", "Listen to a bell"],
+    ["open", "Here is a koan"], ["web", "This is the first step of The Logic"], ["open", "Listen to a car going by"],
     ["doubt", "Call it the logic of substance"], ["web", "The logic of dependency starts one step earlier"],
     ["sea", "Read this way, the koan asks something else"], ["search", "Seen with the logic of substance, a moment is there"],
     ["vivid", "It is like a staircase"], ["doubt", "Ask people whether moments are things"],
@@ -857,7 +861,7 @@ export const Body: React.FC = () => {
   const order: [string, React.ReactNode][] = [
     ["Here is a koan", <KoanScene />],
     ["This is the first step of The Logic", <TwoWaysScene />],
-    ["Listen to a bell", <BellScene />],
+    ["Listen to a car going by", <BellScene />],
     ["Call it the logic of substance", <SubstanceScene />],
     ["The logic of dependency starts one step earlier", <DependencyScene />],
     ["Read this way, the koan asks something else", <DesignateScene />],
