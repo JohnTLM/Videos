@@ -29,7 +29,7 @@ export const PHRASES = [
   "But agreeing changes very little", "The logic of substance is not a belief we hold", "The cup is simply there, on its own side",
   "even the new logic is quietly read through the old one",
   // three insights
-  "So the author names three insights", "the logic stays a clever argument",
+  "So the author names four insights", "the logic stays a clever argument",
   "Every appearance is vivid, and it cannot be found", "Look at a red apple", "Now look for it",
   "Is it in the skin, in the light, in the eye", "Yet the apple is still red", "The tradition calls this emptiness",
   "Not a void, and not a ground behind the appearing",
@@ -37,7 +37,15 @@ export const PHRASES = [
   "Nothing comes out of a hidden place", "The tradition calls this dependent origination",
   "We habitually and intuitively think inherently", "A sentence wants a subject and a verb", "So we say lightning flashes",
   "The flashing is the lightning", "The tradition calls this habit ignorance",
+  "There is no given", "One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish",
+  "a neutral stuff each being merely filters", "Look for it, and it is not found",
+  "What appears, and how it is picked out, arise together", "Nor is the mind the floor instead",
   "The first two are one fact, seen from two sides", "The third is what hides that fact",
+  "The fourth takes away its last hiding place",
+  "Anatta is the first door", "no doer behind the doing", "Nagarjuna takes the same insight through every thing",
+  "And where do the four insights lead", "nothing is making the appearing", "It is already complete, by itself",
+  "The tradition calls this spontaneous presence", "Not uncaused, and not a source behind things",
+  "Dependent arising itself, met without the fixing",
   // the habit and bare attention
   "it reshapes them before we notice", "So practice becomes the removal of concepts", "Bare attention",
   "These practices do something real", "the clarity of appearances can be tasted directly",
@@ -434,18 +442,18 @@ const SubstanceScene: React.FC = () => {
 const ThreeScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const n = c("So the author names three insights");
+  const n = c("So the author names four insights");
   return (
     <AbsoluteFill>
-      <Title at={n}>three insights after anatta</Title>
-      {[["vivid, and not found", GOLD], ["arising on conditions", TEAL], ["the habit of thinking inherently", WARM]].map(([w, col], i) => (
+      <Title at={n}>four insights after anatta</Title>
+      {[["vivid, and not found", GOLD], ["arising on conditions", TEAL], ["the habit of thinking inherently", WARM], ["there is no given", VIOLET]].map(([w, col], i) => (
         <React.Fragment key={i}>
-          <At x={420 + i * 540} y={380} s={pop(t, fps, n + 0.6 + i * 0.5)}><Num n={String(i + 1)} color={col} lit={1} /></At>
-          <At x={420 + i * 540} y={470} o={ramp(t, n + 0.9 + i * 0.5, 0.5)}><W c={col} s={30}>{w}</W></At>
+          <At x={300 + i * 440} y={380} s={pop(t, fps, n + 0.6 + i * 0.5)}><Num n={String(i + 1)} color={col} lit={1} /></At>
+          <At x={300 + i * 440} y={470} o={ramp(t, n + 0.9 + i * 0.5, 0.5)}><W c={col} s={28}>{w}</W></At>
         </React.Fragment>
       ))}
       <Items items={[
-        ["So the author names three insights", 960, 600, <W c={CHALK} s={30}>seen clearly, confirmed again and again</W>, { d: 2.6 }],
+        ["So the author names four insights", 960, 600, <W c={CHALK} s={30}>seen clearly, confirmed again and again</W>, { d: 2.6 }],
         ["the logic stays a clever argument", 960, 700, <W c={DIM} s={32}>otherwise: a clever argument</W>],
       ]} />
     </AbsoluteFill>
@@ -549,6 +557,63 @@ const SentenceScene: React.FC = () => {
   );
 };
 
+/** A bowl of liquid, seen three ways. */
+const Bowl: React.FC<{ size?: number; color?: string }> = ({ size = 200, color = ICE }) => (
+  <svg width={size} height={size * 0.6} viewBox="0 0 200 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${color}88)` }}>
+    <path d="M10 30 Q100 50 190 30 Q180 112 100 116 Q20 112 10 30 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <ellipse cx={100} cy={30} rx={90} ry={14} fill={`${color}55`} stroke={color} strokeWidth={4} />
+  </svg>
+);
+
+const GivenScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const bowl = c("One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish");
+  const stuff = c("a neutral stuff each being merely filters");
+  const nf = c("Look for it, and it is not found");
+  const views: [string, string][] = [["water, to us", ICE], ["pus, to a hungry ghost", ROSE], ["a home, to a fish", TEAL]];
+  return (
+    <AbsoluteFill>
+      <Title at={c("There is no given")} color={VIOLET}>4. there is no given</Title>
+      {views.map(([w, col], i) => (
+        <React.Fragment key={w}>
+          <At x={420 + i * 540} y={360} s={pop(t, fps, bowl + 0.6 + i * 1.4)}><Bowl color={col} /></At>
+          <At x={420 + i * 540} y={470} o={ramp(t, bowl + 0.9 + i * 1.4, 0.5)}><W c={col} s={28}>{w}</W></At>
+        </React.Fragment>
+      ))}
+      <At x={960} y={600} o={ramp(t, stuff, 0.5) * (1 - ramp(t, c("What appears, and how it is picked out, arise together"), 0.5))}>
+        <SK c={DIM} s={28} strikeAt={nf + 0.5}>a real bowl of neutral stuff, underneath</SK>
+      </At>
+      <Items items={[
+        ["What appears, and how it is picked out, arise together", 960, 600, <W c={CHALK} s={32} serif>what appears and how it is picked out: together</W>],
+        ["Nor is the mind the floor instead", 960, 700, <W c={DIM} s={28}>nor is the mind the floor: neither comes first</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const DoorScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const lead = c("And where do the four insights lead");
+  return (
+    <AbsoluteFill>
+      <Title at={c("Anatta is the first door")} color={GOLD}>anatta, the first door</Title>
+      <Items items={[
+        ["no doer behind the doing", 960, 230, <SK c={DIM} s={28} strikeAt={c("no doer behind the doing") + 1.0}>a doer behind the doing</SK>, { until: "And where do the four insights lead" }],
+        ["Nagarjuna takes the same insight through every thing", 960, 330, <W c={ICE} s={30}>Nagarjuna: the same insight, through every thing</W>, { until: "And where do the four insights lead" }],
+        ["Nagarjuna takes the same insight through every thing", 960, 420, <W c={DIM} s={26}>the walker · the fire · the cause · even the seeing</W>, { d: 1.4, until: "And where do the four insights lead" }],
+        ["nothing is making the appearing", 960, 300, <W c={CHALK} s={30}>no doer anywhere, nothing in its place: nothing making the appearing</W>],
+        ["It is already complete, by itself", 960, 400, <W c={CHALK} s={30}>complete, by itself, as its conditions meet</W>],
+        ["The tradition calls this spontaneous presence", 960, 520, <W c={GOLD} s={46} serif>spontaneous presence</W>, { pop: true }],
+        ["Not uncaused, and not a source behind things", 960, 620, <W c={DIM} s={28}>not uncaused · not a source</W>],
+        ["Dependent arising itself, met without the fixing", 960, 720, <W c={GOLD} s={32}>dependent arising itself, met without the fixing</W>],
+      ]} />
+      <At x={960} y={540} o={ramp(t, lead, 0.5) * 0}><span /></At>
+    </AbsoluteFill>
+  );
+};
+
 const OneFactScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -566,6 +631,7 @@ const OneFactScene: React.FC = () => {
         <div style={{ width: 1100, height: 180, borderRadius: 30, background: `${WARM}30`, border: `3px solid ${WARM}88`, backdropFilter: "blur(6px)" }} />
       </At>
       <At x={960} y={620} o={ramp(t, hide + 1.2, 0.5)}><W c={WARM} s={32}>the third: what hides it</W></At>
+      <At x={960} y={720} o={ramp(t, c("The fourth takes away its last hiding place"), 0.5)}><W c={VIOLET} s={32}>the fourth: no given world beneath it all</W></At>
     </AbsoluteFill>
   );
 };
@@ -1169,7 +1235,8 @@ export const Body: React.FC = () => {
   const starts: [keyof typeof M, string][] = [
     ["open", "Listen to a car going by"], ["web", "two different ways of thinking"], ["doubt", "The logic of substance is not a belief we hold"],
     ["vivid", "Every appearance is vivid, and it cannot be found"], ["sea", "Appearance arises whenever its conditions come together"],
-    ["doubt", "We habitually and intuitively think inherently"], ["search", "it reshapes them before we notice"],
+    ["doubt", "We habitually and intuitively think inherently"], ["web", "There is no given"], ["vivid", "Anatta is the first door"],
+    ["search", "it reshapes them before we notice"],
     ["doubt", "The author describes three ways this happens"], ["whole", "The great masters said the same"],
     ["search", "Now return to the koan"], ["doubt", "the logic of substance looks for a way out"],
     ["web", "The logic of dependency starts one step earlier"], ["vivid", "Think of a staircase"],
@@ -1189,11 +1256,13 @@ export const Body: React.FC = () => {
     ["Start with the claim the author puts first", <ClaimScene />],
     ["The two logics can be learned as ideas", <LogicsScene />],
     ["The logic of substance is not a belief we hold", <SubstanceScene />],
-    ["So the author names three insights", <ThreeScene />],
+    ["So the author names four insights", <ThreeScene />],
     ["Every appearance is vivid, and it cannot be found", <AppleScene />],
     ["Appearance arises whenever its conditions come together", <ConditionsScene />],
     ["We habitually and intuitively think inherently", <SentenceScene />],
+    ["There is no given", <GivenScene />],
     ["The first two are one fact, seen from two sides", <OneFactScene />],
+    ["Anatta is the first door", <DoorScene />],
     ["it reshapes them before we notice", <HabitScene />],
     ["These practices do something real", <TasteScene />],
     ["The author describes three ways this happens", <InventionsScene />],
