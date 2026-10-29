@@ -489,12 +489,12 @@ const PremiseScene: React.FC = () => {
 const WorksScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const bell = c("A suitcase is heavy");
-  const lift = ramp(t, bell + 0.3, 0.8);
+  const lifted = c("A suitcase is heavy");
+  const lift = ramp(t, lifted + 0.3, 0.8);
   return (
     <AbsoluteFill>
-      <Title at={bell} color={TEAL}>it still works</Title>
-      <At x={620} y={380 - 40 * lift} s={pop(t, fps, bell - 0.2)}><Suitcase size={170} /></At>
+      <Title at={lifted} color={TEAL}>it still works</Title>
+      <At x={620} y={380 - 40 * lift} s={pop(t, fps, lifted - 0.2)}><Suitcase size={170} /></At>
       <At x={1300} y={360} s={pop(t, fps, c("The clock keeps time"))}><Clock size={190} /></At>
       <Items items={[
         ["A suitcase is heavy", 620, 540, <W c={GOLD} s={30}>a suitcase is heavy</W>, { d: 0.3 }],

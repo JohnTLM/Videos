@@ -629,7 +629,7 @@ const HalvesScene: React.FC = () => {
       <Title at={c("Both halves matter")}>both halves</Title>
       <At x={620 + 200 * join} y={360} s={pop(t, fps, c("That is emptiness") - 0.6)}><K c={VIOLET} s={30}>nothing found on its own</K></At>
       <At x={620 + 200 * join} y={440} o={ramp(t, c("That is emptiness"), 0.5) * (1 - join)}><W c={VIOLET} s={28}>emptiness</W></At>
-      <At x={1300 - 200 * join} y={360} s={pop(t, fps, c("And the moment still works"))}><K c={GOLD} s={30}>the bell is heard</K></At>
+      <At x={1300 - 200 * join} y={360} s={pop(t, fps, c("And the moment still works"))}><K c={GOLD} s={30}>the sound is heard</K></At>
       <At x={1300 - 200 * join} y={440} o={ramp(t, c("That is conventional truth"), 0.5) * (1 - join)}><W c={GOLD} s={28}>conventional truth</W></At>
       <Items items={[
         ["Dependence and unfindability are one fact, seen from two sides", 960, 560, <W c={TEAL} s={40} serif>one fact, seen from two sides</W>, { d: 1.0 }],
