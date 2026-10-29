@@ -119,3 +119,7 @@ recent, whose titles are still a file name or a date, never one of the ids in th
   `lLkWbd2MoRw`. Playlist Logic After Anatta now 30 entries; the seven new videos are at the end (positions 24–30),
   and five "Deleted video" entries from earlier deletions are still at the top (`ERBH0_9vwVU`, `LmlHbrwg1xk`,
   `sMa1ajWETec`, `HX7xwtsSYjs`, `6BAD37Dk_lw`).
+- **2026-10-29, playlist tidied (owner: "go ahead and fix the playlist").** The five old "Deleted video" entries
+  removed; *The Limits of the Tools* (`QqAbkXRRqqY`) added (it was missing); order set and checked, 26 videos, no
+  duplicates: overview, What the Logic Is Looking At, Steps 1–8, The Logic in full, Beyond Cause and Effect, The
+  Limits of the Tools, then the batch 2 page videos in entry order (koan … Ethics and Compassion).
