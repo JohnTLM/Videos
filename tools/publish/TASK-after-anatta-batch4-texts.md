@@ -113,3 +113,9 @@ recent, whose titles are still a file name or a date, never one of the ids in th
   the seven new ids is in it once (37 videos; the seven old versions still there for the owner to remove in Studio).
   The seven new ids in table order: 1 `HB_-bl1Jf2Q`, 2 `EGSuFCoBwUc`, 3 `ntuzf3pHcgw`, 4 `Rf7BRLgxfMg`,
   5 `aLZriJgtSns`, 6 `vh81K4RwTko`, 7 `8xMTijGVNk8`.
+- **2026-10-29, old versions deleted (owner: "The old videos can be deleted").** Checked first: nothing on the website,
+  the ebook or any of the channel's 106 video descriptions linked to them. Deleted from YouTube and their playlist
+  entries removed: `aJnvvc1wfxY`, `F0P_kfwAloE`, `BXINN2sg_Z0`, `QA9yrHNx5To`, `wxhsA6xKIQM`, `q-YMWnYr2CI`,
+  `lLkWbd2MoRw`. Playlist Logic After Anatta now 30 entries; the seven new videos are at the end (positions 24–30),
+  and five "Deleted video" entries from earlier deletions are still at the top (`ERBH0_9vwVU`, `LmlHbrwg1xk`,
+  `sMa1ajWETec`, `HX7xwtsSYjs`, `6BAD37Dk_lw`).
