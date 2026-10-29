@@ -1,8 +1,9 @@
-"""Join "The Logic in full": the overview's opening, Steps 1-8 whole, and the overview's close.
+"""Join "The Logic in full": the overview's opening, What the Logic Is Looking At, Steps 1-8 whole, and the overview's close.
 
 Usage: python3 tools/series/after-anatta/make_full.py <out.mp4>
 
-Reads the finished videos in tools/series/anatta-to-emptiness/ep96-*/ and tools/series/after-anatta/aa0N-*/.
+Reads the finished videos in tools/series/anatta-to-emptiness/ep96-*/ and tools/series/after-anatta/aa0N-*/ and aa12-*/
+(What the Logic Is Looking At comes after the overview, as on the website; owner, 2026-10-29).
 The overview (ep96) is cut by its subtitles: from the start to the end of the cue holding OPEN_END, and from the cue
 starting with CLOSE_START to the end. Prints the YouTube chapter list (start of each part) when it is done.
 Re-encodes everything to one 1080p H.264 + AAC file, so the parts may have been built at different times.
@@ -57,7 +58,8 @@ def main(out):
     open_end = next(b for a, b, x in c if OPEN_END in flat(x)) + 0.6
     close_start = next(a for a, b, x in c if flat(x).startswith(CLOSE_START)) - 0.4
     steps = [one(HERE / f"aa0{n}-*" / f"aa0{n}-*.mp4") for n in range(1, 9)]
-    parts = [(ep, 0, open_end)] + [(s, 0, length(s)) for s in steps] + [(ep, close_start, length(ep))]
+    looking = one(HERE / "aa12-*" / "aa12-*.mp4")
+    parts = [(ep, 0, open_end), (looking, 0, length(looking))] + [(s, 0, length(s)) for s in steps] + [(ep, close_start, length(ep))]
     args, chains = [], []
     for i, (f, a, b) in enumerate(parts):
         args += ["-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-i", f]
@@ -66,9 +68,9 @@ def main(out):
     n = len(parts)
     graph = "".join(chains) + "".join(f"[v{i}][a{i}]" for i in range(n)) + f"concat=n={n}:v=1:a=1[v][a]"
     subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-y", *args, "-filter_complex", graph,
-                    "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                    "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
                     "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", out], check=True)
-    t, names = 0.0, ["Overview: The Logic, After Anatta"] + [f"Step {k}: {x}" for k, x in enumerate(TITLES, 1)] + ["A sound, once more"]
+    t, names = 0.0, ["Overview: The Logic, After Anatta", "What the Logic Is Looking At"] + [f"Step {k}: {x}" for k, x in enumerate(TITLES, 1)] + ["A sound, once more"]
     for (f, a, b), name in zip(parts, names):
         print(f"{stamp(t)} {name}")
         t += b - a
