@@ -102,3 +102,7 @@ date, never one of the ids in the last column.
 
 ## Done
 
+- 2026-10-29, Claude Code on the server: the owner uploaded the five from the phone as **Private** (already added to
+  the playlist, at the end). Texts put on with `update` (no `--playlist`). New ids: 1 `uMGOHMZe0Qo` (AA12, 8:58),
+  2 `r19TZFJq1tw` (AA3, 7:41), 3 `LNCGiDu_gcA` (AA4, 8:32), 4 `q-YMWnYr2CI` (AA7, 8:03), 5 `Kby_7lYZZPA` (AA8, 7:33).
+  Still Private; the playlist still has the old versions in their places and the new ones at positions 25–29.
