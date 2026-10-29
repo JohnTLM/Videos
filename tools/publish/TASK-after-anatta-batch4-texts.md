@@ -108,3 +108,8 @@ recent, whose titles are still a file name or a date, never one of the ids in th
   playlist Logic After Anatta (the owner added them while uploading), so `update` ran without `--playlist`. New ids:
   1 `HB_-bl1Jf2Q`, 2 `EGSuFCoBwUc`, 3 `ntuzf3pHcgw`, 4 `Rf7BRLgxfMg`, 5 `aLZriJgtSns`, 6 `vh81K4RwTko` (each one
   second longer than the table, as allowed). **Entry 7 (The Logic in full, 1:19:53) not done yet:** still uploading.
+- **2026-10-29, entry 7 (owner: "The last video is loaded").** Texts put on and added to the playlist Logic After
+  Anatta: 7 `8xMTijGVNk8` (1:19:54, one second over, as allowed). **All seven are done.** Playlist checked: each of
+  the seven new ids is in it once (37 videos; the seven old versions still there for the owner to remove in Studio).
+  The seven new ids in table order: 1 `HB_-bl1Jf2Q`, 2 `EGSuFCoBwUc`, 3 `ntuzf3pHcgw`, 4 `Rf7BRLgxfMg`,
+  5 `aLZriJgtSns`, 6 `vh81K4RwTko`, 7 `8xMTijGVNk8`.
