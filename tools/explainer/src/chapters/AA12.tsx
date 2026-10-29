@@ -708,8 +708,8 @@ const KnotScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={each}>the knot</Title>
       {A.map(([w, col], i) => {
-        const x0 = 480 + i * 320, x = x0 + (960 - x0) * 0.55 * knot;
-        return <At key={w} x={x} y={250 + 120 * knot} s={pop(t, fps, each + 0.6 + i * 0.35)}><K c={col} s={26}>{w}</K></At>;
+        const x0 = 480 + i * 320, x = x0 + (960 + (i % 2 ? 140 : -140) - x0) * knot;
+        return <At key={w} x={x} y={250 + (i < 2 ? 30 : 100) * knot} s={pop(t, fps, each + 0.6 + i * 0.35)}><K c={col} s={26}>{w}</K></At>;
       })}
       <At x={960} y={340} o={ramp(t, c("None of them gives an apple standing out there on its own"), 0.4) * (1 - ramp(t, form, 0.4))}>
         <Wd c={DIM} s={26}>none gives an apple out there on its own</Wd>
