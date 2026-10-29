@@ -9,7 +9,7 @@ voice: male
 
 # The Logic: After Anatta
 
-Strike a bell and listen. The sound is bright and clear. And it is already passing as it sounds. At no point is there a sound that stays.
+Listen to a car going by. The sound is bright and clear. And it is already passing as it sounds. At no point is there a sound that stays.
 
 Here is a koan to hold in mind. This moment ceases as it arises. Does it arise, or does it cease?
 
@@ -77,7 +77,7 @@ The second asks what exactly is denied. Only the "it", the moment standing on it
 
 The third goes looking for the moment, the way the old masters looked for a chariot. Is it the arising? The ceasing? Both? Their owner? Their container? It is not found in any of them. Yet moments are named, counted and timed.
 
-The fourth gives the koan two answers that do not conflict. Conventionally, the bell starts and stops, and we can say when. Looked for, nothing that arises or ceases is found. Not two worlds. One moment, met two ways.
+The fourth gives the koan two answers that do not conflict. Conventionally, the train leaves and arrives, and we can say when. Looked for, nothing that arises or ceases is found. Not two worlds. One moment, met two ways.
 
 The fifth shows why all four answers fall together. Each one assumed an "it".
 
@@ -99,8 +99,8 @@ The person. Look for a friend apart from the face, the voice and the years of me
 
 There is one more turn. We think our way of solving is logical. We bring questions like "does the self exist?" or "what happens when I die?", and try to answer them. But each question already assumes a thing with its own nature. Answered in the same frame, any answer only swaps one thing for another. The view offers something else. Not a better answer, but a way to question the question.
 
-Nothing is lost when the "it" is not found. The bell is still heard. The clock still keeps time. Actions still bear fruit. Mutual dependence has no first and no higher. No substrate underneath, and no power hidden inside things. Dependent arising is not a lesser layer over something more real. There is nothing more real underneath for it to cover.
+Nothing is lost when the "it" is not found. The sound is still heard. The clock still keeps time. Actions still bear fruit. Mutual dependence has no first and no higher. No substrate underneath, and no power hidden inside things. Dependent arising is not a lesser layer over something more real. There is nothing more real underneath for it to cover.
 
-Listen to the bell once more. It is vivid. It is gone. And nothing went anywhere.
+Listen to a sound once more. It is vivid. It is gone. And nothing went anywhere.
 
 Ask what arises, and the koan is a paradox. See that no "it" is found, and the koan is simply this moment.

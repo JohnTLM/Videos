@@ -39,7 +39,7 @@ Empty is not flimsy. A car with no essence can still hurt you. A disc of red lig
 
 Come back to the koan's words. "This moment ceases as it arises" sounds like a moment to which arising and ceasing happen. But there is no lightning apart from the flashing. The flashing is the lightning. In the same way, the arising and ceasing is the moment. The clock still ticks. Only the passenger is let go.
 
-The author says this was where his own view lagged behind. After 1997 the doer had gone. Walking simply walked, hearing simply heard. Yet for years he still imagined an ear here and a bell there, as if things existed first and then met. In the author's words: seeing that the participants are not found before the participation is what let the working of the world make sense. In his seven phases, this is phase six.
+The author says this was where his own view lagged behind. After 1997 the doer had gone. Walking simply walked, hearing simply heard. Yet for years he still imagined an ear here and a sound there, as if things existed first and then met. In the author's words: seeing that the participants are not found before the participation is what let the working of the world make sense. In his seven phases, this is phase six.
 
 Then dependent arising is no longer a secondary layer, an illusion laid over the real thing. There is no real thing underneath. Nothing in it comes first. This is reality without a ground: vivid, working, and not found standing on its own. Nor is dependent arising a new ground.
 

@@ -28,7 +28,7 @@ export const PHRASES = [
   "The author learned this the long way", "I was good at negating", "Thoughts, sensations, the body, the world",
   "not this, not that", "the one doing the setting aside", "the more solid the Witness became",
   // two ways of seeing the bell
-  "Start with what the koan leaves alone", "The bell is struck, and the ringing fades", "This is fully valid",
+  "Start with what the koan leaves alone", "A car goes by, and its sound fades", "This is fully valid",
   "What differs is how the same sound is seen",
   "With the logic of substance, there is a sound first", "for at least an instant, between the two",
   "With the logic of dependency, the sounding is heard", "nothing standing behind it is found",
@@ -145,14 +145,18 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -434,12 +438,12 @@ const NegatingScene: React.FC = () => {
 const BellScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const strike = c("The bell is struck, and the ringing fades");
+  const strike = c("A car goes by, and its sound fades");
   const swing = 8 * Math.sin((t - strike) * 5) * Math.exp(-Math.max(0, t - strike) * 0.6) * (t > strike ? 1 : 0);
   return (
     <AbsoluteFill>
       <Title at={c("Start with what the koan leaves alone")} color={GOLD}>what the koan leaves alone</Title>
-      <At x={960} y={400} s={pop(t, fps, strike - 0.3)}><Bell swing={swing} /></At>
+      <At x={960} y={400} s={pop(t, fps, strike - 0.3)}><PassingCar swing={swing} /></At>
       <Sound x={960} y={420} at={strike + 0.4} dur={5} />
       <Items items={[
         ["This is fully valid", 960, 640, <W c={GOLD} s={34} serif>fully valid, no fainter</W>],
@@ -471,7 +475,7 @@ const BothWaysScene: React.FC = () => {
         ["for at least an instant, between the two", 560, 560, <W c={WARM} s={28}>held still, between the two</W>],
       ]} />
       <At x={1360} y={210} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
-      <At x={1360} y={400} s={pop(t, fps, dep + 0.4)}><Bell size={130} /></At>
+      <At x={1360} y={400} s={pop(t, fps, dep + 0.4)}><PassingCar size={130} /></At>
       <Sound x={1360} y={410} at={dep + 0.6} dur={9} r1={260} />
       <Items items={[
         ["nothing standing behind it is found", 1360, 560, <SK c={DIM} s={24} strikeAt={c("nothing standing behind it is found") + 1.0}>something behind the sounding</SK>],
@@ -621,7 +625,7 @@ const RemainsScene: React.FC = () => {
           <SK c={DIM} s={26} strikeAt={no + i * 0.6 + 0.5}>{w}</SK>
         </At>
       ))}
-      <At x={960} y={380} s={pop(t, fps, snd)}><Bell size={150} /></At>
+      <At x={960} y={380} s={pop(t, fps, snd)}><PassingCar size={150} /></At>
       <Sound x={960} y={395} at={snd + 0.3} dur={8} r1={320} />
       <Items items={[
         ["The sound is simply sounding", 960, 560, <W c={ICE} s={32} serif>simply sounding</W>, { d: 0.6 }],
@@ -642,7 +646,7 @@ const PresenceScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={b} color={GOLD}>presence was never the target</Title>
       <At x={960} y={400} s={pop(t, fps, b + 0.3)}>
-        <div style={{ filter: `drop-shadow(0 0 ${10 + 40 * viv}px ${GOLD}) brightness(${1 + 0.4 * viv})` }}><Bell size={170} /></div>
+        <div style={{ filter: `drop-shadow(0 0 ${10 + 40 * viv}px ${GOLD}) brightness(${1 + 0.4 * viv})` }}><PassingCar size={170} /></div>
       </At>
       <Sound x={960} y={420} at={b + 0.6} dur={12} r1={380 + 160 * viv} color={GOLD} />
       <Items items={[
@@ -721,7 +725,7 @@ const InsideScene: React.FC = () => {
       <Title at={c("The author met all three on his own path")}>met on his own path</Title>
       <At x={700} y={420} o={ramp(t, c("The author met all three on his own path") + 0.6, 0.5) * wall}><Head color={VIOLET} /></At>
       <At x={720} y={410} o={ramp(t, c("The author met all three on his own path") + 0.9, 0.5)}><Eye size={110} /></At>
-      <At x={1260} y={410} o={ramp(t, c("The author met all three on his own path") + 1.2, 0.5)}><Bell size={120} /></At>
+      <At x={1260} y={410} o={ramp(t, c("The author met all three on his own path") + 1.2, 0.5)}><PassingCar size={120} /></At>
       <Flow x1={790} y1={410} x2={1190} y2={410} color={TEAL} p={ramp(t, out, 0.8)} pulses />
       <Items items={[
         ["It was the logic of dependency that got him out", 960, 200, <K c={TEAL} s={30}>the logic of dependency</K>, { pop: true }],
@@ -892,7 +896,7 @@ const TryScene: React.FC = () => {
       <Items items={[
         ["Listen to a sound until it ends", 960, 200, <W c={CHALK} s={32} serif>Does it arise, or does it cease?</W>, { d: 1.0 }],
       ]} />
-      <At x={960} y={400} s={pop(t, fps, b - 0.3)}><Bell swing={swing} size={170} /></At>
+      <At x={960} y={400} s={pop(t, fps, b - 0.3)}><PassingCar swing={swing} size={170} /></At>
       <Sound x={960} y={420} at={b + 0.4} dur={6} r1={460} />
       <Items items={[
         ["The sounding is not in doubt", 960, 610, <W c={ICE} s={30}>the sounding: not in doubt</W>],

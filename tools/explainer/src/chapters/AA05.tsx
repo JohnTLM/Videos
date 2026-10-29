@@ -57,7 +57,7 @@ export const PHRASES = [
   "It gives the it no status of its own at all", "And the sound is fully heard",
   // the corners as medicine
   "None of this makes the four corners forbidden words", "Nagarjuna uses them as medicine",
-  "Chandrakirti reads these as steps for different people", "The bell began at noon is still true",
+  "Chandrakirti reads these as steps for different people", "The car went by at noon is still true",
   "What fails is an it found doing the starting",
   // the spinning stops
   "What is left when the four corners fall is not a blank", "Nagarjuna's word for what stops is elaboration",
@@ -155,14 +155,18 @@ const FallenRow: React.FC<{ y: number; at: number; labels?: string[] }> = ({ y, 
 };
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -655,7 +659,7 @@ const TwoWaysScene: React.FC = () => {
         ["the koan feels like a trap", 520, 640, <W c={WARM} s={28}>one must be true: a trap</W>],
       ]} />
       <At x={1400} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
-      <At x={1400} y={400} s={pop(t, fps, snd - 0.2)}><Bell size={130} /></At>
+      <At x={1400} y={400} s={pop(t, fps, snd - 0.2)}><PassingCar size={130} /></At>
       <Sound x={1400} y={410} at={snd + 0.2} dur={9} r1={240} />
       <Items items={[
         ["With the logic of dependency, no moment is found standing there first", 1400, 290, <SK c={DIM} s={22} strikeAt={dep + 2.6}>a moment there first</SK>, { d: 1.2, until: "A sound is sounding", ud: 0.6 }],
@@ -674,7 +678,7 @@ const MedicineScene: React.FC = () => {
   const c = useCue();
   const med = c("Nagarjuna uses them as medicine");
   const steps = c("Chandrakirti reads these as steps for different people");
-  const noon = c("The bell began at noon is still true");
+  const noon = c("The car went by at noon is still true");
   const R = ["real", "not real", "both", "neither"];
   return (
     <AbsoluteFill>
@@ -693,10 +697,10 @@ const MedicineScene: React.FC = () => {
       ))}
       <Items items={[
         ["Chandrakirti reads these as steps for different people", 960, 190, <W c={TEAL} s={28}>steps for different people</W>, { d: 0.4 }],
-        ["The bell began at noon is still true", 960, 640, <W c={GOLD} s={32} serif>“the bell began at noon”: true</W>, { d: 0.6 }],
+        ["The car went by at noon is still true", 960, 640, <W c={GOLD} s={32} serif>“the car went by at noon”: true</W>, { d: 0.6 }],
         ["What fails is an it found doing the starting", 1400, 740, <SK c={DIM} s={24} strikeAt={c("What fails is an it found doing the starting") + 1.4}>an “it” doing the starting</SK>],
       ]} />
-      <At x={600} y={620} s={pop(t, fps, noon)}><Bell size={110} /></At>
+      <At x={600} y={620} s={pop(t, fps, noon)}><PassingCar size={110} /></At>
       <Sound x={600} y={630} at={noon + 0.3} dur={4} r1={200} />
     </AbsoluteFill>
   );
@@ -877,7 +881,7 @@ const TryScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("So, try it")} color={GOLD}>try it</Title>
-      <At x={960} y={340} s={pop(t, fps, b - 0.3)}><Bell swing={swing} size={160} /></At>
+      <At x={960} y={340} s={pop(t, fps, b - 0.3)}><PassingCar swing={swing} size={160} /></At>
       <Sound x={960} y={360} at={b + 0.4} dur={7} r1={440} />
       {A.map((w, i) => (
         <At key={w} x={420 + i * 360} y={560} o={ramp(t, q - 1.2 + i * 0.6, 0.4) * (1 - ramp(t, beyond, 0.5))}><K c={CC[i]} s={28}>{w}</K></At>

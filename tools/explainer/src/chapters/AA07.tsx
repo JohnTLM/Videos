@@ -62,7 +62,7 @@ export const PHRASES = [
   "The clock still ticks", "Only the passenger is let go",
   // the author's lag
   "this was where his own view lagged behind", "After 1997 the doer had gone",
-  "he still imagined an ear here and a bell there", "as if things existed first and then met",
+  "he still imagined an ear here and a sound there", "as if things existed first and then met",
   "the participants are not found before the participation", "In his seven phases, this is phase six",
   // reality without a ground
   "no longer a secondary layer", "There is no real thing underneath", "Nothing in it comes first",
@@ -140,14 +140,18 @@ const SK: React.FC<{ c?: string; s?: number; strikeAt: number; children: React.R
 );
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -427,7 +431,7 @@ const WorryScene: React.FC = () => {
         ["how does anything happen", 960, 470, <W c={WARM} s={36} serif>a fair worry</W>, { d: -0.8 }],
         ["how does anything happen", 960, 540, <W c={CHALK} s={32}>then how does anything happen?</W>],
       ]} />
-      <At x={620} y={700} s={pop(t, fps, c("How is a sound heard"))}><Bell size={140} swing={swingOf(t, c("How is a sound heard"))} /></At>
+      <At x={620} y={700} s={pop(t, fps, c("How is a sound heard"))}><PassingCar size={140} swing={swingOf(t, c("How is a sound heard"))} /></At>
       <Sound x={620} y={700} at={c("How is a sound heard") + 0.3} dur={4} r1={220} />
       <At x={1300} y={700} s={pop(t, fps, c("How does an action bear fruit"))}><Fruit size={150} /></At>
       <At x={960} y={700} o={ramp(t, q + 0.8, 0.5)}><W c={DIM} s={60} serif>?</W></At>
@@ -754,7 +758,7 @@ const LagScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const lag = c("this was where his own view lagged behind");
-  const imag = c("he still imagined an ear here and a bell there");
+  const imag = c("he still imagined an ear here and a sound there");
   const seen = c("the participants are not found before the participation");
   const phase = c("In his seven phases, this is phase six");
   const join = ramp(t, seen + 0.4, 1.2);
@@ -766,7 +770,7 @@ const LagScene: React.FC = () => {
         ["After 1997 the doer had gone", 960, 270, <W c={ICE} s={28} serif>walking simply walked, hearing simply heard</W>, { d: 1.6 }],
       ]} />
       <At x={600 + 220 * join} y={430} s={pop(t, fps, imag)}><Eye size={150} /></At>
-      <At x={1320 - 220 * join} y={420} s={pop(t, fps, imag + 0.5)}><Bell size={130} /></At>
+      <At x={1320 - 220 * join} y={420} s={pop(t, fps, imag + 0.5)}><PassingCar size={130} /></At>
       <Items items={[
         ["as if things existed first and then met", 960, 430, <SK c={DIM} s={24} strikeAt={seen + 0.2}>first things, then meeting</SK>, { until: "the participants are not found before the participation", ud: 1.0 }],
         ["the participants are not found before the participation", 960, 600, <W c={GOLD} s={30} serif>participants not found before the participation</W>],
@@ -784,7 +788,7 @@ const GroundScene: React.FC = () => {
   const c = useCue();
   const sec = c("no longer a secondary layer");
   const under = c("There is no real thing underneath");
-  const N: [number, number, string][] = [[620, 330, "bell"], [860, 250, "ear"], [1100, 320, "air"], [1320, 260, "name"],
+  const N: [number, number, string][] = [[620, 330, "source"], [860, 250, "ear"], [1100, 320, "air"], [1320, 260, "name"],
     [760, 470, "moment"], [1040, 460, "hearing"], [1280, 420, "before"]];
   const E = [[0, 1], [1, 2], [2, 3], [0, 4], [4, 5], [5, 2], [5, 6], [6, 3], [1, 5], [4, 1]];
   const web = ramp(t, sec, 1.2);
@@ -946,7 +950,7 @@ const TryScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("So, try it")} color={GOLD}>try it</Title>
-      <At x={960} y={400} s={pop(t, fps, snd - 0.3)} o={Math.min(1, bellO)}><Bell size={170} swing={swingOf(t, snd)} /></At>
+      <At x={960} y={400} s={pop(t, fps, snd - 0.3)} o={Math.min(1, bellO)}><PassingCar size={170} swing={swingOf(t, snd)} /></At>
       <Sound x={960} y={420} at={snd + 0.4} dur={6} r1={420} />
       <Sound x={960} y={420} at={c("And the sound is still heard") + 0.2} dur={6} r1={420} />
       <Items items={[

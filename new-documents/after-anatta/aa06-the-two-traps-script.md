@@ -31,7 +31,7 @@ The test is Step one's. Look for it apart from what it depends on. Awareness is 
 
 Now the second trap. The moment ceases, so it was never really there. Nothing matters, and actions have no results. Nagarjuna's opponent hears "empty" in just this way, and concludes that emptiness destroys the path. Nagarjuna replies that he has misunderstood emptiness itself.
 
-Nihilism has a subtle form too: the disease of relentless negation. It assumes that once every essence is taken apart, wisdom is complete, and appearance is a leftover. But negation removes only the idea that appearance needed an essence. Nothing is taken away from the appearing. The red of the flower and the ring of the bell are empty and vivid at once.
+Nihilism has a subtle form too: the disease of relentless negation. It assumes that once every essence is taken apart, wisdom is complete, and appearance is a leftover. But negation removes only the idea that appearance needed an essence. Nothing is taken away from the appearing. The red of the flower and the warmth of the water are empty and vivid at once.
 
 The void is not even coherent. Try to think of absolute nothing, and you think of something: a darkness, a silence, yourself looking on.
 

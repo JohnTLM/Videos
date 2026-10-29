@@ -42,7 +42,7 @@ export const PHRASES = [
   "opponent hears empty in just this way", "he has misunderstood emptiness itself", "Nihilism has a subtle form too",
   "the disease of relentless negation", "and appearance is a leftover",
   "negation removes only the idea that appearance needed an essence", "Nothing is taken away from the appearing",
-  "The red of the flower and the ring of the bell", "The void is not even coherent", "Try to think of absolute nothing",
+  "The red of the flower and the warmth of the water", "The void is not even coherent", "Try to think of absolute nothing",
   "a darkness, a silence, yourself looking on",
   // one root
   "Here is the root", "disagree about what befalls the moment", "They agree that there is a moment for it to befall",
@@ -144,14 +144,18 @@ const Crossed: React.FC<{ x: number; y: number; at: number; size?: number }> = (
 };
 
 // ---------------------------------------------------------------- drawings
-/** A temple bell; swing (degrees) rocks it from the top. */
-const Bell: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
-  <svg width={size} height={size * 1.1} viewBox="0 0 200 220" style={{ overflow: "visible", transform: `rotate(${swing}deg)`, transformOrigin: "50% 5%",
+/** A car going by: the sound source (it replaced the bell, owner 2026-10-29); swing nudges it along the road. */
+const PassingCar: React.FC<{ size?: number; swing?: number; color?: string }> = ({ size = 220, swing = 0, color = GOLD }) => (
+  <svg width={size} height={size * 0.45} viewBox="0 0 220 100" style={{ overflow: "visible", transform: `translateX(${swing * 4}px)`,
     filter: `drop-shadow(0 0 12px ${color}99)` }}>
-    <path d="M90 8 Q100 0 110 8 L110 22 L90 22 Z" fill={`${color}55`} stroke={color} strokeWidth={4} />
-    <path d="M100 22 Q52 24 48 90 L42 160 Q30 172 22 180 L178 180 Q170 172 158 160 L152 90 Q148 24 100 22 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <path d="M52 140 L148 140" stroke={color} strokeWidth={3} opacity={0.7} />
-    <circle cx={100} cy={196} r={14} fill={`${color}66`} stroke={color} strokeWidth={4} />
+    <path d="M12 70 L22 46 L66 40 L90 16 L150 16 L176 42 L206 48 L208 70 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <path d="M96 22 L146 22 L166 42 L84 42 Z" fill={`${color}18`} stroke={color} strokeWidth={3} strokeLinejoin="round" />
+    {[56, 166].map(cx => (
+      <g key={cx}>
+        <circle cx={cx} cy={72} r={18} fill="#0008" stroke={color} strokeWidth={5} />
+        <circle cx={cx} cy={72} r={5} fill={color} />
+      </g>
+    ))}
   </svg>
 );
 
@@ -517,7 +521,7 @@ const TestScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("The test is Step one's")} color={TEAL}>the test of Step 1</Title>
       <At x={960} y={210} s={pop(t, fps, test, 14)} o={ramp(t, test, 0.4)}><W c={GOLD} s={40} serif>look for it apart from what it depends on</W></At>
-      <At x={560} y={420} s={pop(t, fps, b)}><Bell size={130} swing={swingAt(t, b + 0.3)} /></At>
+      <At x={560} y={420} s={pop(t, fps, b)}><PassingCar size={130} swing={swingAt(t, b + 0.3)} /></At>
       <Sound x={560} y={430} at={b + 0.4} dur={5} r1={220} />
       <Items items={[
         ["Awareness is always awareness of something", 560, 580, <W c={ICE} s={26}>awareness: of something, through something</W>, { d: 0.4 }],
@@ -563,7 +567,7 @@ const NegationScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const dis = c("the disease of relentless negation");
-  const red = c("The red of the flower and the ring of the bell");
+  const red = c("The red of the flower and the warmth of the water");
   const leftover = c("and appearance is a leftover");
   const vivid = ramp(t, c("Nothing is taken away from the appearing"), 0.8);
   return (
@@ -573,14 +577,13 @@ const NegationScene: React.FC = () => {
       <At x={620} y={430} o={ramp(t, dis + 0.6, 0.5) * (0.35 + 0.65 * Math.max(vivid, 1 - ramp(t, leftover, 0.6)))}
         s={pop(t, fps, red)}><Flower size={150} /></At>
       <At x={1300} y={420} o={ramp(t, dis + 0.6, 0.5) * (0.35 + 0.65 * Math.max(vivid, 1 - ramp(t, leftover, 0.6)))}>
-        <Bell size={150} swing={swingAt(t, red + 1.6)} />
+        <Cup size={150} tea={ramp(t, red + 1.6, 0.8)} />
       </At>
-      <Sound x={1300} y={430} at={red + 1.8} dur={5} r1={260} />
       <Items items={[
         ["and appearance is a leftover", 960, 300, <SK c={DIM} s={26} strikeAt={c("negation removes only the idea that appearance needed an essence") + 1.6}>appearance: a leftover</SK>],
         ["negation removes only the idea that appearance needed an essence", 960, 620, <W c={CHALK} s={28}>negation removes only the idea of an essence</W>],
         ["Nothing is taken away from the appearing", 960, 690, <W c={GREEN} s={30}>nothing taken from the appearing</W>],
-        ["The red of the flower and the ring of the bell", 960, 780, <W c={GOLD} s={40} serif>empty and vivid at once</W>, { d: 2.6 }],
+        ["The red of the flower and the warmth of the water", 960, 780, <W c={GOLD} s={40} serif>empty and vivid at once</W>, { d: 2.6 }],
       ]} />
     </AbsoluteFill>
   );
@@ -713,13 +716,13 @@ const HearScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("Hear it both ways")}>the sound, heard both ways</Title>
       <At x={560} y={200} o={ramp(t, sub, 0.5)}><K c={WARM} s={26}>substance</K></At>
-      <At x={560} y={360} s={pop(t, fps, sub + 0.2)}><Bell size={130} swing={swingAt(t, sub + 0.4)} /></At>
+      <At x={560} y={360} s={pop(t, fps, sub + 0.2)}><PassingCar size={130} swing={swingAt(t, sub + 0.4)} /></At>
       <Items items={[
         ["With the logic of substance, I must pick", 400, 520, <SK c={DIM} s={24} strikeAt={1e9}>kept somewhere</SK>, { d: 1.0 }],
         ["With the logic of substance, I must pick", 720, 520, <SK c={DIM} s={24} strikeAt={1e9}>dropped into nothing</SK>, { d: 3.2 }],
       ]} />
       <At x={1360} y={200} o={ramp(t, dep, 0.5)}><K c={TEAL} s={26}>dependency</K></At>
-      <At x={1360} y={360} s={pop(t, fps, dep + 0.2)}><Bell size={130} swing={swingAt(t, dep + 0.4)} /></At>
+      <At x={1360} y={360} s={pop(t, fps, dep + 0.2)}><PassingCar size={130} swing={swingAt(t, dep + 0.4)} /></At>
       <Sound x={1360} y={370} at={dep + 0.6} dur={9} r1={280} />
       <Items items={[
         ["No sound stands behind the sounding", 1360, 520, <SK c={DIM} s={24} strikeAt={c("No sound stands behind the sounding") + 1.6}>a sound behind the sounding</SK>],
@@ -898,7 +901,7 @@ const TryScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={b} color={GOLD}>try it</Title>
-      <At x={960} y={330} s={pop(t, fps, b - 0.3)}><Bell swing={swingAt(t, b)} size={160} /></At>
+      <At x={960} y={330} s={pop(t, fps, b - 0.3)}><PassingCar swing={swingAt(t, b)} size={160} /></At>
       <Sound x={960} y={350} at={b + 0.4} dur={8} r1={460} />
       <Items items={[
         ["Listen to a sound and ask", 960, 200, <W c={CHALK} s={32} serif>does it arise, or does it cease?</W>, { d: 0.8 }],
