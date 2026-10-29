@@ -261,3 +261,41 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 ### Tags
 
 function without substance, causal efficacy, emptiness and function, MMK 24, Dogen, painted rice cake, solidity, atoms, key and lock, conventional validity, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+
+---
+
+## 7. The Logic in full (1:19:53)
+
+### Title
+
+The Logic After Anatta, in Full: Eight Steps from Substance to Dependency | Nāgārjuna's Middle Way
+
+### Description
+
+This moment ceases as it arises. Does it arise, or does it cease? Before any answer comes, the question has already handed us an "it".
+
+The whole of The Logic in one video: the overview from After Anatta, What the Logic Is Looking At, then all eight steps, joined. Two ways of reasoning, the logic of substance and the logic of dependency; what is negated and what is not; the chariot and the seven places; the two truths; the four corners; the two traps of eternalism and nihilism; function without substance; and the four questions to ask of anything that appears. Each step comes back to the same koan from one side, and each runs the same logic beyond the moment, through everyday examples: an apple in your hand, your speed, your own weight, the sunrise, Rovelli's two watches, a siren's pitch, warm or cold water, the solidity of a table.
+
+Each step is also a video of its own, in this playlist.
+
+0:00 Overview: The Logic, After Anatta
+5:47 What the Logic Is Looking At
+14:45 Step 1: Two Logics
+22:56 Step 2: What Is Negated
+31:38 Step 3: Designated, Not Found
+39:18 Step 4: The Two Truths
+47:49 Step 5: The Four Corners
+55:55 Step 6: The Two Traps
+1:03:59 Step 7: Function Without Substance
+1:12:01 Step 8: The Four Questions
+1:19:34 A sound, once more
+
+Read it on the website (After Anatta · The Logic): https://atr-passerby.com/#aa-intro
+
+From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
+
+#Buddhism #Madhyamaka #Emptiness
+
+### Tags
+
+the logic after anatta, full course, two logics, logic of substance, logic of dependency, koan, does it arise or cease, two truths, four corners, tetralemma, eternalism and nihilism, function without substance, four questions, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
