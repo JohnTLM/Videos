@@ -137,12 +137,22 @@ export const PHRASES = [
   "in its most beautiful coat",
   "So when I say that dependent arising is spontaneous presence", "They are one appearing, described in two ways",
   "is how it is described when we analyse", "is the same appearing when the habit of fixing stops",
+  // clarity is never missing
+  "One thing must be said plainly here", "You cannot talk about phenomena without clarity", "A sound is clear as sound",
+  "A colour is vivid as colour", "A thought is known as it appears", "never a machine working in the dark",
+  "The clarity is always there", "So the question is never whether there is clarity", "abstracted out and reified",
+  "The mind notices this sameness and lifts it out", "the background that everything appears in",
+  "the witness that knows it all", "the Mind that gives off appearances", "The substrate is back, now made of clarity",
+  "Left as it is, the clarity is not lifted out", "It stays the appearing's own", "It is not a second thing the sound has",
+  "The same lifting out, done to other things, is the same mistake", "Abstract the conditions", "Abstract the appearing",
+  "Abstract emptiness", "It only stops it from being made into a thing", "When nothing is abstracted",
+  "no maker, no knower, no background", "clear by itself and complete by itself",
   // nothing taken away
   "None of this takes anything away", "The tree is still green", "read road signs and catch a ball",
   "things can change, meet and work",
   // in one line
   "In one line", "anatta finds no doer in seeing", "and puts nothing in its place",
-  "everything appears complete, by itself, as its conditions meet",
+  "everything appears clear and complete, by itself, as its conditions meet",
   // try it
   "Try it now", "A colour, a car, a fan, a voice", "Then look for the one who is seeing or hearing", "Do not argue",
   "Now look for the seeing apart from what is seen", "Look for something that makes it happen",
@@ -1017,6 +1027,59 @@ const CautionScene: React.FC = () => {
   );
 };
 
+/** Clarity is never missing (owner, 2026-10-29): only whether it is abstracted out and reified. */
+const ClearScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const lift = c("The mind notices this sameness and lifts it out");
+  const back = c("The substrate is back, now made of clarity");
+  const left = c("Left as it is, the clarity is not lifted out");
+  const same = c("The same lifting out, done to other things, is the same mistake");
+  const none = c("When nothing is abstracted");
+  // three appearings, each clear; then one "clarity" is lifted out above them, and put back
+  const up = ramp(t, lift, 1.4) * (1 - ramp(t, left, 0.8));
+  const ghostO = ramp(t, lift + 0.6, 0.6) * (1 - ramp(t, left, 0.6));
+  const row = Math.min(1, (1 - ramp(t, same, 0.5)) + ramp(t, none, 0.6));
+  const glow = 0.5 + 0.5 * ramp(t, left, 0.8);
+  return (
+    <AbsoluteFill>
+      <Title at={c("One thing must be said plainly here")} color={GOLD}>clarity is never missing</Title>
+      <At x={420} y={600} o={row * ramp(t, c("A sound is clear as sound"), 0.5)}><PassingCar size={190} /></At>
+      <At x={960} y={600} o={row * ramp(t, c("A colour is vivid as colour"), 0.5)}><Tree size={150} glow={glow} /></At>
+      <At x={1500} y={600} o={row * ramp(t, c("A thought is known as it appears"), 0.5)}>
+        <div style={{ width: 190, height: 110, borderRadius: 55, border: `4px solid ${VIOLET}`, background: `${VIOLET}${glow > 0.8 ? "44" : "22"}`,
+          boxShadow: `0 0 ${20 * glow}px ${VIOLET}` }} />
+      </At>
+      <At x={960} y={420 - 120 * up} o={ghostO} s={0.6 + 0.5 * up}>
+        <div style={{ width: 560, height: 180, borderRadius: 90, border: `4px dashed ${VIOLET}`, background: `${VIOLET}18`,
+          display: "flex", alignItems: "center", justifyContent: "center", boxShadow: `0 0 40px ${VIOLET}55` }}>
+          <Glow color={VIOLET} size={30}>“awareness, presence”</Glow>
+        </div>
+      </At>
+      <Items items={[
+        ["You cannot talk about phenomena without clarity", 960, 220, <W c={CHALK} s={32} serif>no phenomena without clarity</W>, { until: "So the question is never whether there is clarity" }],
+        ["never a machine working in the dark", 960, 330, <SK c={DIM} s={26} strikeAt={c("The clarity is always there") - 0.2}>a machine in the dark, waiting for a knower</SK>, { until: "So the question is never whether there is clarity" }],
+        ["The clarity is always there", 960, 420, <W c={GOLD} s={34} serif>the clarity is always there</W>, { until: "So the question is never whether there is clarity" }],
+        ["So the question is never whether there is clarity", 960, 200, <W c={CHALK} s={30}>not whether there is clarity, but whether it is</W>, { until: "Left as it is, the clarity is not lifted out" }],
+        ["abstracted out and reified", 960, 790, <W c={WARM} s={32} serif>abstracted out and reified</W>, { until: "the background that everything appears in" }],
+        ["the background that everything appears in", 330, 400, <SK c={VIOLET} s={24} strikeAt={back + 1.0}>a background</SK>, { until: "Left as it is, the clarity is not lifted out" }],
+        ["the witness that knows it all", 1590, 360, <SK c={VIOLET} s={24} strikeAt={back + 1.2}>a witness</SK>, { until: "Left as it is, the clarity is not lifted out" }],
+        ["the Mind that gives off appearances", 1590, 430, <SK c={VIOLET} s={24} strikeAt={back + 1.4}>a Mind giving off appearances</SK>, { until: "Left as it is, the clarity is not lifted out" }],
+        ["The substrate is back, now made of clarity", 960, 790, <W c={WARM} s={30}>the substrate is back, made of clarity</W>, { until: "Left as it is, the clarity is not lifted out" }],
+        ["It stays the appearing's own", 960, 250, <W c={GOLD} s={32} serif>the appearing's own: this sound's clearness, this colour's vividness</W>, { until: "The same lifting out, done to other things, is the same mistake" }],
+        ["It is not a second thing the sound has", 960, 790, <W c={DIM} s={28}>not a second thing the sound has</W>, { until: "The same lifting out, done to other things, is the same mistake" }],
+        ["The same lifting out, done to other things, is the same mistake", 960, 220, <W c={CHALK} s={30}>the same lifting out, the same mistake</W>, { until: "When nothing is abstracted" }],
+        ["Abstract the conditions", 960, 340, <SK c={DIM} s={26} strikeAt={c("Abstract the appearing") - 0.2}>conditions → a web, a machine behind the world</SK>, { until: "When nothing is abstracted" }],
+        ["Abstract the appearing", 960, 430, <SK c={DIM} s={26} strikeAt={c("Abstract emptiness") - 0.2}>appearing → an object out there</SK>, { until: "When nothing is abstracted" }],
+        ["Abstract emptiness", 960, 520, <SK c={DIM} s={26} strikeAt={c("It only stops it from being made into a thing") - 0.4}>emptiness → a ground, a field, a space</SK>, { until: "When nothing is abstracted" }],
+        ["It only stops it from being made into a thing", 960, 640, <W c={GOLD} s={30}>the clarity not taken away: only not made into a thing</W>, { until: "When nothing is abstracted" }],
+        ["no maker, no knower, no background", 960, 260, <W c={CHALK} s={32}>no maker · no knower · no background</W>],
+        ["clear by itself and complete by itself", 960, 790, <W c={GOLD} s={36} serif>clear by itself, complete by itself: spontaneous presence</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const WorksScene: React.FC = () => {
   const c = useCue();
   return (
@@ -1029,7 +1092,7 @@ const WorksScene: React.FC = () => {
         ["In one line", 960, 640, <W c={DIM} s={26}>in one line</W>],
         ["anatta finds no doer in seeing", 960, 700, <W c={CHALK} s={28}>no doer in seeing · no doer anywhere</W>],
         ["and puts nothing in its place", 960, 750, <W c={CHALK} s={28}>nothing in its place</W>],
-        ["everything appears complete, by itself, as its conditions meet", 960, 810, <W c={GOLD} s={32} serif>complete, by itself, as its conditions meet</W>],
+        ["everything appears clear and complete, by itself, as its conditions meet", 960, 810, <W c={GOLD} s={32} serif>clear and complete, by itself, as its conditions meet</W>],
       ]} />
     </AbsoluteFill>
   );
@@ -1091,6 +1154,7 @@ export const Body: React.FC = () => {
     ["vivid", "Now go back to the wind", <SpontScene />],
     ["whole", "This is also why it is effortless", <EffortScene />],
     ["web", "Two cautions keep this right", <CautionScene />],
+    ["sea", "One thing must be said plainly here", <ClearScene />],
     ["vivid", "None of this takes anything away", <WorksScene />],
     ["whole", "Try it now", <TryScene />],
   ];

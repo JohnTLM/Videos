@@ -2,8 +2,8 @@
 chapter: 9
 title: "Decoding Anatta and MMK Chapter 3"
 series: "After Anatta 9"
-source: thusness-website after-anatta/seeing.html (main site version 128, the owner's first-person rewrite of 2026-10-29)
-script_words: 2654
+source: thusness-website after-anatta/seeing.html (main site version 128, the owner's first-person rewrite of 2026-10-29; Clarity is never missing, preview version 115)
+script_words: 2647
 intro: yes
 voice: male
 ---
@@ -82,9 +82,19 @@ Two cautions keep this right. Spontaneous does not mean uncaused. The car still 
 
 So when I say that dependent arising is spontaneous presence, this is what I mean. They are one appearing, described in two ways. Dependent arising is how it is described when we analyse. Spontaneous presence is the same appearing when the habit of fixing stops: complete, effortless, with nothing behind it.
 
+One thing must be said plainly here, or all of this can be misheard. You cannot talk about phenomena without clarity. A sound is clear as sound. A colour is vivid as colour. A thought is known as it appears. Dependent arising is never a machine working in the dark, waiting for a knower to light it up. The clarity is always there.
+
+So the question is never whether there is clarity. It is only whether the clarity is abstracted out and reified, made into a thing. Clarity shows up in every sight, every sound, every thought. The mind notices this sameness and lifts it out: awareness, presence, the one thing that is there in all of them. Then it takes that abstraction to stand on its own. It becomes the background that everything appears in, the witness that knows it all, the Mind that gives off appearances. The substrate is back, now made of clarity.
+
+Left as it is, the clarity is not lifted out. It stays the appearing's own: this sound's clearness, this colour's vividness, found only as them, on their conditions. It is not a second thing the sound has.
+
+The same lifting out, done to other things, is the same mistake. Abstract the conditions, and you get a web or a machine behind the world. Abstract the appearing, and you get an object out there. Abstract emptiness, and you get a ground, a field, a space everything sits in. Dependent arising does not take the clarity away. It only stops it from being made into a thing.
+
+When nothing is abstracted, nothing stands behind the appearing: no maker, no knower, no background. Appearing presents itself, clear by itself and complete by itself, as its conditions meet. That is spontaneous presence.
+
 None of this takes anything away. The tree is still green. You still read road signs and catch a ball. Because nothing is there from its own side, things can change, meet and work.
 
-In one line: anatta finds no doer in seeing. Nagarjuna finds no doer anywhere, and puts nothing in its place. With no doer anywhere, everything appears complete, by itself, as its conditions meet.
+In one line: anatta finds no doer in seeing. Nagarjuna finds no doer anywhere, and puts nothing in its place. With no doer anywhere, and the clarity not lifted out and made into a thing, everything appears clear and complete, by itself, as its conditions meet.
 
 Try it now. Look, or listen. A colour, a car, a fan, a voice. Notice it, vivid, just as it is. Then look for the one who is seeing or hearing. Do not argue. Just look. Now look for the seeing apart from what is seen. Look for something that makes it happen. Nothing is found. Do not put anything in its place.
 
