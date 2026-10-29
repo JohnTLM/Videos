@@ -104,3 +104,7 @@ recent, whose titles are still a file name or a date, never one of the ids in th
 
 ## Done
 
+- **2026-10-29, entries 1–6 (owner: "6/7 of the videos are uploaded").** Texts put on; all six were already in the
+  playlist Logic After Anatta (the owner added them while uploading), so `update` ran without `--playlist`. New ids:
+  1 `HB_-bl1Jf2Q`, 2 `EGSuFCoBwUc`, 3 `ntuzf3pHcgw`, 4 `Rf7BRLgxfMg`, 5 `aLZriJgtSns`, 6 `vh81K4RwTko` (each one
+  second longer than the table, as allowed). **Entry 7 (The Logic in full, 1:19:53) not done yet:** still uploading.
