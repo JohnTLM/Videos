@@ -50,7 +50,7 @@ Dzogchen: the five lights, the body as light not recognised, cutting through and
 10:49 Cautions
 11:08 What turns into light?
 
-Read the page: https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-rainbow
+Read the page: https://atr-passerby.com/rainbow-body/
 
 ### Tags
 
@@ -98,7 +98,7 @@ Dzogchen: the five lights, the body as light not recognised, cutting through and
 12:13 Cautions
 12:32 What turns into light?
 
-Read the page: https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-rainbow
+Read the page: https://atr-passerby.com/rainbow-body/
 
 ### Tags
 

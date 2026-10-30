@@ -9,6 +9,7 @@ password. All of it is free.
 | `google_login.py` | One-time sign-in. Saves a token that can manage the YouTube channel and Drive files |
 | `publish_youtube.py` | `upload` a video with its texts, `update` the texts of a video already up, `info` (title, privacy, length), list a `playlist` or all `playlists` |
 | `publish_drive.py` | Copy files into a Drive folder and check each one arrived whole (`--replace` trashes the old copy) |
+| `fix_site_links.py` | Point YouTube descriptions and `new-documents/**/youtube*.md` at atr-passerby.com instead of the old claude.ai site (`plan`, `apply`, `texts`) |
 | `gauth.py` | Shared sign-in code |
 | `requirements-publish.txt` | The Python packages |
 

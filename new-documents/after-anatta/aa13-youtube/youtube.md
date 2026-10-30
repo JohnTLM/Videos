@@ -39,7 +39,7 @@ and the opening turns effortless and relaxed.
 8:49 One word: "real"
 9:05 Rain again, and the closing verse
 
-Read the article: The Limits of the Tools, on the website (After Anatta · The Logic): https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-limits
+Read the article: The Limits of the Tools, on the website (After Anatta · The Logic): https://atr-passerby.com/the-limits-of-the-tools/
 
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the article.
 
