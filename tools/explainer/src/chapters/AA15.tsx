@@ -27,7 +27,7 @@ export const PHRASES = [
   "Something can be cut off only if it was there from its own side first", "still needs an",
   "share one root", "A thing with a being of its own", "which either goes on for ever", "or is destroyed",
   // 18.10
-  "Nāgārjuna answers both with one reason",
+  "answers both with one reason",
   "Whatever comes to be in dependence on something is not that very thing",
   "and it is not other than it either", "So it is neither cut off nor permanent",
   // closer
@@ -89,7 +89,7 @@ export const PHRASES = [
   "These are not two worlds", "They are one appearing, seen without the framework, and seen with it",
   // traditions
   "Three traditions say this, each in its own way", "says time is not found apart from what changes",
-  "If not a single thing is found, how will there be time", "Dzogchen calls itself the Great Completeness",
+  "If not a single thing is found, how will there be time", "calls itself the Great Completeness",
   "Nothing lacking, nothing to add", "a fourth time beyond past, present and future",
   "says each moment is the whole of time", "Firewood abides in its own place", "yet cut off from both",
   "Ash does not turn back into firewood", "And still, he says, time passes",
@@ -296,7 +296,7 @@ const RootScene: React.FC = () => {
         ["still needs an", 960, 390, <K c={WARM}>"it ends" still needs an "it"</K>],
         ["which either goes on for ever", 600, 520, <K c={ICE}>carried: goes on for ever</K>],
         ["or is destroyed", 1320, 520, <K c={ROSE}>cut: destroyed</K>],
-        ["share one root", 960, 640, <SK strikeAt={c("Nāgārjuna answers both with one reason") - 0.6} c={DIM} s={32}>one root: a thing with its own being</SK>],
+        ["share one root", 960, 640, <SK strikeAt={c("answers both with one reason") - 0.6} c={DIM} s={32}>one root: a thing with its own being</SK>],
       ]} />
     </AbsoluteFill>
   );
@@ -307,7 +307,7 @@ const VerseScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Items items={[
-        ["Nāgārjuna answers both with one reason", 960, 160, <Wd c={DIM} s={32}>Nāgārjuna · one reason for both</Wd>],
+        ["answers both with one reason", 960, 160, <Wd c={DIM} s={32}>Nāgārjuna · one reason for both</Wd>],
       ]} />
       <At x={960} y={330}><Reveal text="not that very thing," at={c("Whatever comes to be in dependence on something is not that very thing")} size={56} color={ICE} speed={0.03} /></At>
       <At x={960} y={430}><Reveal text="not other than it either:" at={c("and it is not other than it either")} size={56} color={TEAL} speed={0.03} /></At>
@@ -549,8 +549,8 @@ const TraditionsScene: React.FC = () => {
         ["Three traditions say this, each in its own way", 960, 100, <Wd c={DIM} s={30}>three traditions</Wd>],
         ["says time is not found apart from what changes", 400, 200, <K c={ICE} s={32}>Nāgārjuna</K>],
         ["says time is not found apart from what changes", 400, 290, <Wd c={CHALK} s={26}>time not found apart from things</Wd>, { d: 0.8 }],
-        ["Dzogchen calls itself the Great Completeness", 960, 200, <K c={GOLD} s={32}>Dzogchen</K>],
-        ["Dzogchen calls itself the Great Completeness", 960, 290, <Wd c={CHALK} s={26}>the Great Completeness</Wd>, { d: 0.8 }],
+        ["calls itself the Great Completeness", 960, 200, <K c={GOLD} s={32}>Dzogchen</K>],
+        ["calls itself the Great Completeness", 960, 290, <Wd c={CHALK} s={26}>the Great Completeness</Wd>, { d: 0.8 }],
         ["a fourth time beyond past, present and future", 960, 350, <Wd c={DIM} s={24}>a fourth time</Wd>],
         ["says each moment is the whole of time", 1520, 200, <K c={TEAL} s={32}>Dōgen</K>],
         ["says each moment is the whole of time", 1520, 290, <Wd c={CHALK} s={26}>each moment, the whole of time</Wd>, { d: 0.8 }],
@@ -665,7 +665,7 @@ export const Body: React.FC = () => {
   const order: [string, keyof typeof M, React.ReactNode][] = [
     ["You are seeing these words", "dusk", <OpenScene />],
     ["The fear of being cut off sounds like the opposite of clinging to a self", "doubt", <RootScene />],
-    ["Nāgārjuna answers both with one reason", "light", <VerseScene />],
+    ["answers both with one reason", "light", <VerseScene />],
     ["Most explanations reach for outside images here", "search", <CloserScene />],
     ["There is seeing", "whole", <StreamsScene />],
     ["And yet these six do not feel like six strangers", "light", <UnityScene />],
