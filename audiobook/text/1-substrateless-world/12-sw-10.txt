@@ -1,0 +1,72 @@
+title: Perceptual Co-Arising
+album: The Logical Necessity of a Substrateless World
+
+The Logical Necessity of a Substrateless World. Chapter 10. Perceptual Co-Arising.
+
+Part IV Overview: Part IV applies the analysis to the science and philosophy of perception, cognition, and mind-world interaction. Part IV maps how perceptual qualities, cognitive processes, and experiential boundaries are designated together, with no field beneath them. By bringing this analysis into conversation with contemporary Embodied, Embedded, Enacted, and Extended (four-E) cognitive science, this section dismantles Cartesian dualism and establishes perception as an enactive co-arising free from internal homunculi and standalone physical substrates.
+
+# Dismantling the Internal Representation Model.
+
+Standard cognitive science and classical epistemology traditionally rely on the internal representation model of perception. In this substantialist framework, an independent external world of standalone objects exists before anything perceives it; a sensory apparatus receives signals from those objects and builds an internal representation, a picture inside the brain; and a subject inspects the picture, and so perceives the world.
+
+This model creates a profound metaphysical impasse: it places the observer in an isolated 'inner room', forever separated from the 'outer world' by an intermediary screen of mental representations.
+
+On this analysis, the two-stage picture does not hold. Because an entity cannot be established independently of its context, relations, and what perceives it, perception cannot be reduced to a secondary transmission between isolated entities. It is a relational event in the conventional sense: perceiver and perceived are identified together, within a framework that distinguishes them, with no deeper process beneath both.
+
+# Qualitative Properties as Dependent Appearances.
+
+Substantialism struggles to explain where sensory qualia—such as the redness of an apple, the pitch of a sound, or the warmth of sunlight—reside. Materialist reductionism attempts to locate qualia inside physical wavelengths or neural firings, while dualism posits an isolated mental substance to hold them.
+
+As Chapter 7 anticipated, qualitative properties belong neither intrinsically to an 'external object' nor to an 'internal subject'. Rather, they depend entirely on what they contrast with and what perceives them.
+
+Take colour. It is not locked inside an object's surface, independent of light and sight: the same scarf is one colour by daylight, another under a sodium street lamp, and none at all in the dark. Nor is it a mental state floating in an isolated mind, waiting to be projected outward; red is always seen as the red of something, against something. Colour is designated in dependence on light, the eye, the nervous system, the background against which it is seen and the concepts by which it is named—and these conditions are themselves identified only in the seeing of the colour, not a prior base that constitutes it.
+
+# A Lived Example: The Dress.
+
+In February 2015 a photograph of a striped dress divided the internet. Some people saw it as blue and black; others, looking at the same image on the same screen, saw it as white and gold, and could not be talked out of it. By the ordinary standard of daylight and the shop that sold it, the dress was blue and black. Vision scientists traced the split to different unconscious assumptions about the lighting: viewers who took the dress to be in bluish shadow discounted the blue and saw white and gold, while those who took it to be under warm artificial light discounted the yellow and saw blue and black.
+
+No one was looking at an inner picture and guessing about a dress behind it. Each person saw a colour, vividly and with complete conviction, and the colour formed where the image, the eye, the brain's handling of illumination and a lifetime of visual habit came together—conditions that are themselves picked out only in the seeing of this colour, and are no more found from their own side than it is. Change any one of these and the colour changes. The case is unusual only because the conditions happened to divide people cleanly into two groups. Every act of colour vision is formed in the same way; ordinarily the conditions are shared closely enough that the formation goes unnoticed, and the colour seems simply to belong to the object.
+
+# Seeing-As.
+
+Wittgenstein made philosophically famous a drawing, taken from the psychologist Joseph Jastrow, that can be seen as a duck or as a rabbit (Philosophical Investigations, part II, xi). Nothing on the page changes when the aspect switches. The lines are the same, the light is the same, the eye is the same. Yet what is seen changes completely: a beak becomes a pair of ears, and the whole figure turns to face the other way.
+
+The duck is not first seen as neutral lines and then labelled 'duck'. It is seen as a duck, at once, with the designation already in the seeing; and when it becomes a rabbit, the change is as vivid as a change of colour. This is perceptual co-arising at its most visible, and it anticipates the argument of Chapter 13 that designation is not a sticker laid on a pre-given object.
+
+The duck-rabbit is a curiosity; the same structure is at work every time you read. Look at the word on this line and try to see it only as marks. A literate reader cannot. The meaning is not decoded after the shapes have been seen; seeing the shapes is reading them. A trained musician hears a cadence resolve, not a sequence of pitches she must then interpret. Give the same reader a page in an unfamiliar script and the meaning falls away—but what remains is not a bare layer beneath reading. It is seen as writing of some kind, not as cracks in the paper: one seeing-as replaced by another. Remove the designation and a different designation is found, never an undesignated floor.
+
+# Perceptual Co-Arising: Subject, Sensorium, and World.
+
+Because subject, sensory organ, and perceived object are each identified only in relation to the others, and none can be found on its own, perception is designated as their co-arising, none of the three prior to the others.
+
+Rather than three separate items interacting across borders (the Subject, the Sensorium, and the Object), these three are designated together, with no field beneath them.
+
+What we call an 'object of perception' is designated in dependence on conditions, not found as an independent thing. Conceptual designation draws a conventional boundary around specific perceptual contrasts and functions, allowing us to navigate the world effectively without requiring those boundaries to exist as hard, self-established walls in nature.
+
+# From Indirect Mirroring to Direct Relational Presence.
+
+Setting aside the internal representation model restores directness to perception without falling back into naive realism. Naive realism assumes that objects have their properties from their own side, whether or not anyone perceives them; indirect representationalism assumes that we only ever touch an inner copy of a hidden outer world. Both keep a perceiver and a perceived that exist apart and must somehow be connected. Here neither is assumed. Perception is the direct presence of what appears, designated together with the one who perceives: not a copy of a world out there, and not a world with its colours already painted on.
+
+# Two Tables.
+
+The physicist Arthur Eddington opened his Gifford Lectures by confessing that he had two writing tables. One was the familiar table, extended, coloured and substantial. The other, his scientific table, was mostly empty space, sparsely scattered with electric charges rushing about at great speed—and Eddington left little doubt about which he thought was really there (The Nature of the Physical World, 1928). The thought goes back at least to Locke, who divided qualities into primary ones such as shape and motion, which belong to bodies themselves, and secondary ones such as colour and warmth, which are only powers in bodies to produce sensations in us (Essay II.viii).
+
+The analysis of this book does not choose a table. The familiar table is designated within the framework of ordinary perception and use, and it is valid there: one can write on it, and it holds the lamp. The scientific table is designated within the framework of physics, and it is valid there: it predicts how the table will conduct heat or scatter light. Neither is the real table hidden behind the other, and neither is found when sought apart from its framework. Locke's primary qualities are no exception. Shape and motion, too, are identified by contrast, measurement and the conventions of a theory. They are less obviously relative to the perceiver than colour, but they are no less dependent, and no more found from their own side.
+
+# Objection: What About Illusions?
+
+If perception is the direct presence of dependently arisen appearances, with no inner picture standing between perceiver and world, how are illusions possible? The two lines of the Müller-Lyer figure are equal, yet one looks longer. A mirage looks like water. In dim light a coiled rope looks like a snake. The representational model has an easy answer: the inner picture misrepresents the world. What answer is left without it?
+
+Directness is not infallibility. The appearance of a snake in the rope is as dependently arisen as any other appearance—it depends on the dim light, the coil, the angle and the fear. What goes wrong is not that a picture fails to match an outer object, but that a designation fails: 'snake' is applied where wider testing does not bear it out. Bring a lamp, step closer, touch the coil, and the designation is overturned by other conventional cognitions. Chun-drah-keer-tee draws exactly this distinction between correct and mistaken conventions (Mahd-yah-mah-kah-vah-tah-rah 6.24–25). Both are dependent and both are empty, yet the world rightly distinguishes them by whether they hold up under further experience. Chapter 13 sets out the criteria.
+
+# A Contemporary Echo: Predictive Processing.
+
+Much current cognitive science describes perception as prediction. On the predictive-processing view, the brain does not passively receive signals but continuously anticipates them, updating its expectations in light of the errors that come back (Andy Clark, Surfing Uncertainty, 2016). Anil Seth has called ordinary perception a 'controlled hallucination': the world we see is the brain's best guess, held in check by the senses (Being You, 2021).
+
+This picture captures something the internal representation model missed. What is perceived depends on expectation, history and context as much as on what is 'out there'; perception is active from the start. But it is easily read in a way that rebuilds the very inner room this chapter has dismantled—a brain sealed in the skull, generating a model of a world it never meets. On that reading the brain becomes the new ground, the producer of appearances. Brain, body, model, signal and world are themselves designated within the framework of cognitive science; none of them is the place where experience is really made. Prediction describes, conventionally and very usefully, how appearances form. It does not locate them inside anything.
+
+# Objection: Does the Perceiver Make the World?
+
+If perceiver and perceived are designated together, and colour forms only where light, eye and brain meet, does the perceiver make the world? That would be idealism by another route, with the brain or the mind as the workshop in which objects are produced.
+
+Co-designation runs in both directions or not at all. The perceiver is no more prior to the object than the object to the perceiver; the eye is identified as an eye only in seeing, as the colour is identified as a colour only in being seen. To say that the perceiver produces the world would make the perceiver a self-standing producer—the very thing the analysis has refused to find. Conventionally, the ordinary distinctions hold: no one paints the apple red by looking at it, and the apple was in the bowl before anyone came into the kitchen. These are correct statements within the framework in which they are made. What the analysis removes is only the further claim that, within that framework or outside it, an object or a perceiver is established from its own side.

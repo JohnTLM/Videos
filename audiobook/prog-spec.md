@@ -118,3 +118,24 @@ The source files are Markdown from the website (section 6). For each file, write
 ## 7. Log
 
 - 2026-10-30: project set up (spec and text snapshot). Voice not yet chosen. Nothing recorded yet.
+- 2026-10-30: steps 1–4 done.
+  - `audiobook/prepare_text.py` writes `text/<set>/*.txt` from `source/` (108 files: the 111 less the three skipped;
+    the two glossaries are prepared but `make_audiobook.py` leaves them out unless given `--glossaries`).
+    `text/REPORT.txt` lists everything left out, file by file.
+  - Left out of the spoken text: "Read more", "In the books", "Talks", "Sources and Further Reading" and
+    "Notes on sources" sections; "Watch" video lines, "In the chain" and "Companion pages" navigation lines;
+    the Diagram images (no captions) and the Figure 3 caption in Book 1 Chapter 4 (needs the picture); the
+    figure 9b image (no caption); Chinese and Japanese characters (the romanized words and translations stay);
+    in Book 2's appendix, the symbol column of the axiom table and the three "Notation:" formula lines.
+    All tables are read as sentences (none was too large to read).
+  - Spoken-form tidying: "vs." → "versus", "§" → "section", "Skt./Tib./Jpn." → "Sanskrit/Tibetan/Japanese",
+    "Ch./ch." → "Chapter", "trans." → "translated by", "vol." → "volume", "ff." → "and following", ψ → "psi".
+  - Added 36 words to `tools/pronunciation.json` (nirvāṇa, saṃsāra, Mūlamadhyamakakārikā, Dharmakīrti, Yogācāra,
+    Madhyamakāvatāra, Mahāyāna, Tathāgata, Genjōkōan, Shōbōgenzō, prajñā and others).
+  - `audiobook/make_audiobook.py`: one part per paragraph (long ones cut at sentence ends, ≤ 2,500 characters),
+    8 at a time; every part checked against the service's word report (a part that stopped early is redone).
+    Default rate: Andrew Multilingual at its own speed comes out at **about 177 words a minute** with the pauses,
+    faster than the 160 noted in section 3, so near the 185 upper check. If the owner wants it slower, `--rate -8%`.
+  - Test recording: Book 4 Chapter 1 (`04-ob-1`), Andrew, default rate: 4.4 min, 783 words, 177 words a minute,
+    sent to the owner with the three questions (voice, speed, glossaries). Waiting for the answers.
+  - Estimated full length at this speed: about 22 hours (236,000 words), plus 12 minutes if the glossaries go in.
