@@ -1,0 +1,150 @@
+# Step 8: The Four Questions
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+The steps began from [the koan](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan), and each came back to it from one side. This last step of the Logic gathers [Steps 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-1) to [7](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-7) into four questions, and runs them on the koan in order.
+
+The four questions are the koan's method made portable. The koan does not answer its question. It looks at what the question takes for granted, and the question falls away. The four do the same for any question: a self, a moment, a cause, a death, a world. Every page in [The Questions](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#questions) works through them in the same order.
+
+## A test, not a conclusion
+
+Step 1 found that the logic of substance is a habit, not a belief. It switches on when we explain, when we name, when we feel threatened and when we lose. Like a pilot's checklist, the questions are done, not remembered. "Nothing has own-nature" can be agreed with in a second and change nothing, because the habit does not live in the agreeing. It lives in the felt sense, before words, that this thing is simply there on its own. The koan shows it at work: before we even try to answer, the question has handed us an "it".
+
+The habit also retreats rather than gives up, as Step 2 showed. Shown that the instant fails, it moves to a timeless Now, or to awareness. Book 2's companion chapter follows a sceptic through five rounds of this. So the questions are made to be run again, wherever the habit works.
+
+The four are these:
+
+1.  What would a substance view say?
+2.  What does dependency say instead?
+3.  What is affirmed conventionally?
+4.  What is never found?
+
+![Diagram 1](../figures/aa-step-8-diagram-1.svg)
+
+The four questions, the steps behind each, and the loop back. The test applies to its own results: whatever is offered as the thing that is really there goes back to question 1.
+
+## Two ways of seeing the koan
+
+The four questions are not only an argument. They are a move from one way of seeing to the other. Listen to any sound nearby, a car passing or a fan, while you read these two.
+
+**Seen with the logic of substance.** There is the sound, there in front of me. It started a moment ago, it is here now, and soon it will be gone. It feels like a small object in time, with edges, that comes in and goes out. So of course it either arises or ceases, and I want to know which.
+
+**Seen with the logic of dependency.** There is the sounding, vivid and exact, already passing as it sounds. Source, air, ear and attention, and the sound is heard. Nothing sits inside the sounding to come in or go out. "Arising" and "ceasing" are how it is picked out, from before and from after. The question has nothing to hold on to, and the sound is no less clear.
+
+## 1 · What would a substance view say?
+
+Begin by stating the substance view fairly, in its strongest form: the way the question actually looks when the habit is running. In the koan it says this. There is a moment, and arising and ceasing are what happen to it. So it must do one or the other. To be the "it" that arises and later ceases, it must stay, even for an instant. The koan has taken that staying away, and the question is asked anyway, because the "it" feels simply there.
+
+The point of this question is to find what is being taken as standing on its own. That is the object of negation of Step 2, and Tsongkhapa made finding it the first step for a reason. If it is not identified as it actually works in your own mind, the reasoning that follows misses its target, however sound it is. So the useful form of the question is not "what do philosophers say?" but "what here feels simply there, by itself?" It is often hidden in the grammar, as Step 1 showed: in the noun held still so that the verb can happen to it. In the koan it is the word "it".
+
+Moments come and go, says the habit, but something watches them. In the years of I AM I asked this question of everything except the Witness. Thoughts, body and world were all set aside as seen. The one doing the setting aside was never put through the test. That is why this question comes first, and why it has to be asked of the one asking.
+
+## 2 · What does dependency say instead?
+
+Now apply the test of Step 1: look for the thing apart from what it depends on. Three kinds of dependence are worth checking each time. It depends on causes: a sprout on a seed, water and warmth. It depends on parts: a chariot on its wheels and axle, a mind on its moments. And it depends on designation: on being picked out as this rather than that, as "long" depends on "short" and "knower" on "known".
+
+In the koan, a sound depends on its source, the air, the ear and attention. Most of all, the moment depends on designation. "This moment" is picked out together with its arising and its ceasing, and arising together with ceasing, as long with short. None comes first. Look for the moment apart from its arising and ceasing: it is not found. Look for it as the two together, two properties of one thing: there is no one thing for them to belong to. As [Step 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-1) put it, the moment is merely designated as arising or ceasing, upon conditions. The designation is its whole status, and it works.
+
+It is like the stairs of [Step 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-1): not up or down in themselves, yet really climbed and really descended. Nāgārjuna says it from the side of arising and ceasing:
+
+> There is no passing-away either apart from coming-into-being or together with it. There is no coming-into-being either apart from passing-away or together with it.
+>
+> Nāgārjuna, [*Middle Way*, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21), verse 1
+
+Step 3 gives the search its full form, in seven places. Step 5 adds what happens to the question itself: "does it arise, cease, both or neither?" loses its object, because all four corners assumed a bearer with a status of its own. So the answer is not "it is relative" or "it is all connected", which can become a new floor. It says how the thing is picked out, on what basis, and with what. "Ceases as it arises" is then a plain description, not a paradox.
+
+## 3 · What is affirmed conventionally?
+
+This question protects the world. After the search, ask what still appears, works and holds. Step 4 showed that the two truths are not two worlds, and Step 7 that empty things still work fully. In the koan, everything is kept. Sounds start and stop, and we can say correctly when the car came and when it had gone. Clocks keep time. Actions bear fruit. Conventionally, the moment arises and ceases. Tsongkhapa's three checks from Step 3 sort sound conventions from mistaken ones: "the car went by" passes all three; "a moment that stays, then goes" fails the third.
+
+There is a caution here, which I take from my companion article *Knowing From Somewhere*. The logic can show that an objection rests on a substance, and then the objection falls. But removing a bad argument against something is not a good argument for it.
+
+So what is affirmed conventionally comes from where conventions come from: ordinary knowing, the tradition, and evidence. That a clock keeps time is ordinary knowing. That actions bear fruit beyond this life is the tradition. On the rebirth page I follow the tradition, and I say so. I do not derive rebirth from emptiness. Keep three things apart: what the logic shows, what the tradition affirms, and what only evidence can decide.
+
+## 4 · What is never found?
+
+Last, name what was looked for and not found: the own-nature that question 1 picked out. In the koan it is an "it" with a nature of its own, a moment standing between its arising and its ceasing. Elsewhere it is a traveller between lives, or a seer behind seeing. Naming it plainly keeps the result from blurring into "nothing happens", which is the nihilist trap of Step 6. A sound is being heard right now.
+
+Then check what has been put in its place. This is the non-implicative negation of Step 2: it removes and implies nothing further. The koan's ways out are what the habit puts in the gap: a timeless Now in which the moments pass, an awareness behind them that stays, a pure flow. Each keeps the "it" and moves it somewhere else. If the answer sounds like "the real thing is awareness", something has quietly been found after all. That is the eternalist trap of Step 6, and it goes back to question 1.
+
+Emptiness gets the same treatment. It is not a backdrop the moments flash against, and it is not found standing on its own either. If it were held as the final truth, the medicine would have become a new illness.
+
+> Ask what arises, and the koan is a paradox. Run the four questions, and no "it" is found, nothing is put in its place, and the sound is still heard.
+
+## The wrong way, and the alternative
+
+So this is what practice is about: dealing with the third of the key insights in [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro), and seeing the first two clearly. But we usually go about it the wrong way. We keep trying to solve and to answer, and we do it under the influence of the very habit we want to undo.
+
+Look at the questions we bring. Does the self exist or not? What is really there? Where does a thought come from, and where does it go? What happens to me when I die? What is the ground of everything? Each question already assumes a thing with its own nature, and asks only what happens to it. Answered in the same frame, any answer swaps one thing for another: the self for a Witness, the Witness for pure Awareness, a thing for nothing. The question itself is never examined. So the habit answers its own questions, and grows stronger.
+
+Practice goes the same way. We try to get rid of the self, reach a state, hold on to clarity, attain emptiness. Each aim treats the self, the state or emptiness as something to remove or to get. The effort is real, but it is shaped by the habit it is trying to undo.
+
+And we take all of this to be logical. Our way of solving, our solutions and our practice feel like plain good sense. They are not. They follow the logic of substance, and that logic does not hold when it is examined. A thing with a nature of its own could not arise, change or act. A self that is the same as the body would end with it; a self that is other than the body is never found. Followed to its end, the logic of substance contradicts itself every time. What feels like logic is a habit that has never been checked.
+
+Studying Nāgārjuna's [*Middle Way*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk) and understanding the view gives us an alternative. Not a better answer in the same frame, but a way to examine the frame itself. Nāgārjuna takes each answer the habit gives and follows it to the end, until it undoes itself. He does not say whether a thing arises from itself, from another, from both, or without a cause. He shows that the question assumes something with its own nature, and when that is looked for, it is not found ([Step 5, The Four Corners](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-5)). The question is not answered. It falls away. That is how a deeply ingrained habit can be challenged at its root: not by more experience, and not by more answers, but by seeing through what the questions take for granted.
+
+> What feels like logic is only habit. The view lets us question the question.
+
+## Carrying them
+
+The [Questions](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#questions) pages apply the four one topic at a time, starting with [Rebirth and Karma](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-rebirth), each with the four in a table and the two traps. But the questions are not only for reading. They are for the moment the habit switches on: an accusation, a loss, a sudden certainty that something is simply there.
+
+Run them slowly, in order, and in what is in front of you, not in theory. The fourth is the easiest to rush, because the mind wants something to hold when the looking is done. Nothing needs to be held. What appears goes on appearing, and works as it always did.
+
+## The same logic, beyond the moment
+
+The koan is one place to run the four questions, not the only one. They are made to be run on anything the habit holds as simply there. Here they are, briefly, on a self, an object, a cause and a person.
+
+**The self.** "I am the one who decides." 1: a substance view says there is a decider behind the deciding, standing apart and choosing. 2: dependency looks for that one apart from the weighing, the wanting, the memories and the moment of choice, and finds only the deciding. 3: decisions are still made, and the one who made them is responsible for them. 4: never found is a decider standing behind the decision. Nothing is put in its place, not even a pure awareness that chooses.
+
+**An object.** A cup on the table. 1: a substance view says the cup is there by itself, a cup from its own side, whether anyone uses it or not. 2: dependency says it is picked out as a cup on clay, a shape, a maker and a use. Look for the cup apart from these, or as their heap, and it is not found. 3: it holds tea, it breaks if dropped, and it can be bought and washed. 4: never found is a cup-ness sitting in the clay. Nor is "it is only clay" put in its place, for the clay is designated too.
+
+**A cause.** "Your words made me angry." 1: a substance view says the anger was in the words, and they delivered it. 2: dependency says the anger arose with the words, the hearing, what they were taken to mean, an old hurt and a tired evening. None of these alone produced it. 3: the words still mattered. They can be apologised for, and the anger can be answered for. 4: never found is a power to anger sitting inside the words, or a fixed anger waiting to be set off. Nothing is put in their place, not even "you did nothing".
+
+**The person.** A family leaving the house of twenty years says, "We are losing our home." 1: a substance view says home-ness sits in the walls, and the owner goes on, poorer. 2: dependency says "home" is designated on a house, the people in it, twenty years of coming back, and a deed. The owner, too, is named on the owning. 3: the move and the last night's grief are affirmed. 4: never found is a home in the bricks, or an owner apart from the owning. The grief stays, as Step 7 said it would. What loosens is the sense that something solid is being torn away.
+
+**One appearing.** Run on anything, the four questions end at the same place: the vivid appearing, singled out, dependent and not found. The decider, the cup, the anger and the home are not four things. They are this one appearing, mistaken four ways for something standing on its own. Even the clear knowing of it is not put in their place. It too is empty, the appearing's own clarity. (See [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking).)
+
+## Try it
+
+- **The koan, in four lines.** Tap a glass, and listen until the sound ends. Then write one line for each question: what the substance view says about this sound, how it is picked out, what is still true of it, and what was not found. Check the last line: has a Now or an awareness slipped in?
+- **Your weight, in four lines.** Stand on a scale. 1: what does a substance view say? (The weight is in me.) 2: how is it picked out? (With the earth's pull, the floor and the scale.) 3: what is still true? (The number, and the ache in the knees after the stairs.) 4: what was never found? (A heaviness sitting in the body on its own side.) Check the last line: has "the whole universe" slipped in as a new floor?
+- **One sore point.** Next time you feel slighted, run question 1 right then: what here feels simply there, on its own? Then question 2.
+- **Keep the three apart.** Take a claim you care about, for or against. Ask what the logic shows, what the tradition says, and what only evidence could decide.
+
+**In the chain:** this page goes with [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro) (1 of 7); [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic) (6 of 7).
+
+## In the books
+
+- [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): the two logics side by side, the eight extremes turned over, and convention as the only validity there is.
+- [A Beginner's Companion to the Main Text](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-companion): Book 2, five rounds with a sceptic, each closing an escape hatch.
+- [Unfindability and Freedom from the Eight Extremes](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-3): Book 1, Chapter 3, the search and why it is not nihilism.
+- [Conceptual Designation vs. Mere Naming](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-13): Book 1, Chapter 13, the checks a sound convention passes.
+- [Nāgārjuna, Chapter 24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): dependent arising, emptiness, designation and the middle way as one fact (24.18).
+- [Nāgārjuna, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21): coming-into-being and passing-away, neither apart nor together.
+- [Does It Arise or Cease?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan): the koan this step runs the four questions on, worked through with both logics.
+- [Rebirth and Karma](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-rebirth): the four questions applied to one topic.
+
+### Talks
+
+- [Deconstructing: Who, What, Where and When](https://youtu.be/_To3T2a19g8): talk.
+
+## Words to know
+
+Object of negation  
+What the test refutes: own-nature, as it actually works in one's own mind. Found by question 1. In the koan, the "it".
+
+Substance view  
+The way a question looks under the logic of substance: things first, then what happens to them.
+
+Dependence  
+On causes, on parts, and on designation. Checked by question 2.
+
+Conventional affirmation  
+What still appears, works and is validly named after the search. Given by question 3, from ordinary knowing, tradition and evidence, not from emptiness.
+
+Non-implicative negation  
+A negation that removes and puts nothing in its place. The form of question 4's answer.
+
+New floor  
+Whatever the habit offers as the thing really there once the first one is not found: process, energy, awareness, a timeless Now, emptiness. It goes back to question 1.

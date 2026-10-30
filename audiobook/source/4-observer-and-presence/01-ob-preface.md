@@ -1,0 +1,13 @@
+# Preface
+
+*The Observer and the Taste of Presence* · Front matter
+
+Most readers come to this book with a question they have not yet put into words. Sometimes it is a question about the self: who, if anyone, is it that sees and hears and thinks? Sometimes it is about change: what is it that changes when a flame flickers or a life moves on? And sometimes it is about the teaching itself, which says that all phenomena are empty, and which leaves a reader wondering whether the world has been emptied with them.
+
+This book takes those questions seriously and follows them in one direction. It begins with the sense of an observer standing behind experience, and asks whether that observer can be found. It then looks at the substrates that seem to take its place: a given layer beneath concepts, energy as a conserved stuff, a store of possibility behind appearance, a carrier that holds continuity together. Each is examined, and each turns out to be a designation that works, but cannot stand on its own. The argument then turns to the two modes of seeing, dividing and non-dividing, and to the Dzogchen phrase "beyond cause and effect," which the book reads as the point where the question of cause no longer has an object.
+
+The book does not ask the reader to believe any of this in advance. It asks the reader to look, and to notice what the looking finds. The examples are ordinary ones: a chariot in a courtyard, a red patch in the light, a candle burning through the night, a painted rice cake, a meal. The arguments come from Nāgārjuna's *Mūlamadhyamakakārikā*, from the Dzogchen and Madhyamaka commentaries that followed it, and from modern physics, psychology and philosophy where they bear on the question.
+
+Two things should be said plainly at the start. The first is that the book is not a survey of the traditions. It follows one line of argument, and it selects the sources that serve that line. The second is that the reading it offers, which brings Madhyamaka and Dzogchen together around a single appearing seen in two modes, is a synthesis. It is presented as one, and the Note on Method explains what kind of claim it makes. Readers who want the classical positions in their own right are directed to the sources in the references.
+
+The book ends where it begins. The observer is not found. The vividness of experience remains, and it does not need a viewer. What changes is the weight with which experience is held, and the recognition that nothing needs to be produced to take the place of the habit that was seen through.

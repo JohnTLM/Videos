@@ -1,0 +1,168 @@
+# The Limits of the Tools
+
+Concepts were made for daily life, and they do that job well. What vividly appears is quicker, richer and less findable than any concept can hold. Why the tools fail here, how they quietly shape what we say, and how to use them anyway.
+
+The difficulty in presenting this view is not mainly in the view. It is in the tools. Words, concepts, diagrams and the frameworks built from them were made for the business of the day: lifting a cup, catching a bus, keeping a promise. For that they work well. But turned on what actually appears, they are clumsy. They cannot carry the extraordinary vividness of appearing, its movement, or the way it shows up differently each time conditions change.
+
+The trouble does not end there. A tool that cannot show something does not simply stay silent about it. It shows something else instead, and that something else is shaped by the tool. Not knowing the limits of the tools we use shapes the presentation itself.
+
+Three features of appearing make the trouble plain. Appearing is **vivid and moving**. It is **not found** when looked for. And it **follows its conditions**; it is not haphazard. Each of these meets the conceptual framework at a different point, and at each point the framework offers a ready answer that gets it wrong. The first two sections below take vividness, the next two conditions, and the next two unfindability. Then come what happens when all three are drawn, what this means for anyone who has to present the view, and a note on one word. It closes with a verse of the author's.
+
+## What the tools are made for
+
+A concept works by picking out: this, not that. It gives a thing edges, keeps it the same from one moment to the next, and sets it apart from everything else. That is exactly what daily life needs. A cup must stay a cup long enough to be filled and drunk from. A friend must be the same friend tomorrow.
+
+The tools, then, are not mistaken. They are built for a certain scale and a certain job: the scale and job of getting on with things. Within that scale they are validly functioning, and the books defend them there without apology. Conventional truth is not a veneer.
+
+## Vivid and moving
+
+What appears does not come in the shape the tools give it. A sound is never the same sound twice. The colour of a wall is one colour at noon, another at dusk, another to tired eyes. The taste of tea changes as it cools. Each appearing is complete and vivid, and none of it stands still long enough to be the steady thing a concept picks out.
+
+This is why the tools feel clumsy here. A tool made for singling out cannot show something that never holds still long enough to be singled out once and for all. The words do not lie. They hold much less than what is there.
+
+One way of putting this needs care. It is tempting to say: underneath the concepts there is raw, vivid experience, and the concepts are a thin layer laid on top. That picture brings back the floor the books take away. There is no undesignated layer on which labels are placed. A thing is already picked out as "this", by perception before words, in the very moment it appears; even the basis on which something is designated is itself designated, so designation never bottoms out in something given. So the poverty of the tools is not a gap between concepts and a truer world behind them. It comes from two things:
+
+- **Scale.** The tools fit their job. Appearing keeps showing more detail and more change than any fixed term can carry.
+- **Fixing.** The deeper clumsiness begins when a concept is taken to have caught the thing's own nature. Thought is not the problem. The habit of fixing is. A quiet, wordless mind does not end that habit by being quiet.
+
+## Conditions without production
+
+Appearances do not appear at random. The bell rings when it is struck, not otherwise. A seed of rice gives rice. This order is what makes the world workable, and the conventional account of it stands: actions have results, and the twelve links describe how suffering runs while ignorance is present and ends when it ends.
+
+But the moment we try to say this, the language of cause and effect turns it into production. First there are the conditions; then, out of them, something is made, as goods come out of a factory. A cause that exists on its own hands over an effect.
+
+Nāgārjuna refuses exactly that. "The own-nature of things is not found in their conditions or the like" (MMK 1.3). The word "cause" has three senses, and only one of them is refused:
+
+- **Production** (refused): a cause that exists on its own and delivers an effect.
+- **Alignment** (kept): factors that come together, and a result appears. This holds, and it works.
+- **Designation**: "cause" is the part that attention picks out when it lays a process out in order. That is the whole status a cause has.
+
+The way to present this without production is to show the conditions as the shape of the appearing, not as a machine behind it.
+
+> A bell is struck. Bronze, the strike, the air, the ear. The ringing is not made by these and then sent out. The ringing *is* their meeting, vivid and complete. Change one condition, a cracked bell, a gust of wind, a different ear, and it is not the same sound altered. It is a different vividness altogether.
+
+That one picture holds all three features. It is dynamic: it shows up differently as conditions change. It is not production: nothing passes from cause to effect, and nothing stands behind the sound. And it is not uncaused: without the strike there is no ringing.
+
+The language helps when it leans on verbs rather than nouns. "The wind is blowing": there is no wind apart from the blowing. "It is raining": there is no "it" that rains. A noun suggests a thing that was made. A verb shows a happening with nothing behind it.
+
+## Spontaneous presence is not a source
+
+Dzogchen speaks of appearing as *lhun grub*, spontaneous presence, and of the nature of mind as beyond cause and effect. Read with the habits of the conceptual framework, this swings to the opposite mistake. If appearing is not produced by causes, then perhaps it comes from nowhere, or makes itself, or flows out of a ground.
+
+Two questions need to be kept apart.
+
+- **How does this appearance come about?** Through causes and conditions. Every appearance, mental or material, arises this way, and the analysis of the Middle Way works at this level.
+- **What is the nature of what appears?** Emptiness. Emptiness is not produced, so "why?" does not apply to it.
+
+"Beyond cause and effect" answers the second question. It never cancels the first. It sets aside production, the first sense of cause above. It is not a place where conditions stop working.
+
+*Lhun grub* means already complete. It is complete because nothing is hidden behind it, not because nothing conditions it. Spontaneous presence is dependent arising without a producer. Dependent arising is the description given while analysis is dividing things up; spontaneous presence is the same appearing when the fixing stops. They are two descriptions of one appearing, and neither is higher. Primordial purity (*ka dag*) names the empty side, spontaneous presence the appearing side. They are not a pure ground that gives off appearances.
+
+There is a last question: but why does anything appear at all? It is not answered by a spontaneous ground. A ground given that job is a producer granted one final exemption, the last and subtlest place substantialism can hide. The question does not get a strange answer. It loses its object and stops applying. That is what "no why and no because" marks in the Dzogchen texts.
+
+## Vivid, and not found
+
+Here the conceptual framework is not only clumsy. It is contradicted at its foundation.
+
+The framework assumes, usually without saying so, that **to be present is to be something, somewhere**. Whatever is there should turn up when it is looked for. On that premise, "vividly present but not found" sounds like a square circle. How can something so clearly, undeniably present not be found at all? Not in my mind, not in another's mind, not here, not there, not anywhere, not even nowhere?
+
+The way through is not to argue from outside the framework. It is to take the framework at its word, and search exactly as it says a thing that is present should be searched for. Is the sound in the bell? In the air? In the ear? In the mind? In all of them together? Somewhere apart from them? Each search fails, by the framework's own standard. So the contradiction does not belong to the view. Applied honestly, the framework's own logic shows that its premise was false.
+
+Each "not" closes one way out.
+
+| "Not …"               | The way out it closes                                                                                                                    |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Not here, not there   | Location. "Here" and "there" are designated in relation to each other. Neither is a place where the thing sits by itself.                |
+| Not in my mind        | Mind-only: "if the cup is not out there, it must be in here, as an image." The mind is searched in the same way and is not found either. |
+| Not in another's mind | Turning shared experience into a hidden common ground.                                                                                   |
+| Not even nowhere      | The last way out: making the absence into something, a void, a space, a background left when the things are gone.                        |
+
+The last line is the easiest to miss. Having failed to find the thing, the mind quietly makes its absence into a place. But the search is a non-implicative negation. It removes the assumed thing and puts nothing in its place. Those who make emptiness into a view are incurable (MMK 13.8), and even "empty" is said only for the sake of designation (MMK 22.11).
+
+There is a parallel with spontaneous presence, above. The demand for a last *why* loses its object. So does the demand for a last *where*. "Where is it, really?" assumes a where that stands on its own side to be searched. When the where is seen to be designated too, the question does not receive the answer "nowhere". It has nothing left to hold.
+
+## Not despite the vividness
+
+It is natural to say that things are unfindable *despite* appearing so vividly, as if the two pulled against each other. They do not.
+
+Suppose the sound had a nature of its own, fixed from its own side. Then it could not change as conditions change. It could not ring differently in the wind, or from a cracked bell, or for a different ear. A thing with its nature from its own side could not arise, change or end, and nothing could be done with it (MMK 24.16–20). What is vivid, moving and answering to its conditions is exactly what cannot be found as a fixed thing.
+
+So vividness and unfindability are not two facts in tension. They are one appearing, seen from the side of convention and from the side of analysis. What is vivid and validly functioning conventionally is unfindable ultimately, and the two truths are two aspects of one appearance, not two levels.
+
+This too needs care. It would be wrong to say that emptiness is what makes vividness possible, as if emptiness were a power. Emptiness does not do anything. It is not a cause, a condition or a ground. The point runs the other way: appearing never needed an essence in the first place, and if it had one it could not appear as it does. That is a reductio of own-nature, not a power granted by emptiness.
+
+The tradition's images are chosen for these two sides. A rainbow is vivid; everyone sees it in the same place; a camera can record it. Walk to where it is and nothing is there: not in the sky, not in the drops, not in the sun, not in the eye. A mirage is seen, and thirsty travellers turn toward it (MMK 17.33). None of these is nothing. What they lack is a nature of their own, found when looked for. The images only open the door. The cup, the hand that holds it and the mind that sees it meet the same search and fail it in the same way, and they work just as fully. Making matter the floor and making mind the floor are the same mistake.
+
+## Conditions without a web
+
+Once vividness and unfindability are understood, there is a third trap, and it catches people who have passed the first two. Appearing follows its conditions. So, the thought runs, what is there is not things but relations: a web, a network, a field of interdependence. The things are unfindable, but surely the connections are there.
+
+The tools push us here. Try to draw a vivid, unfindable appearing arising in changing conditions. A diagram has only two kinds of mark: dots, which stand for things, and lines, which stand for relations. Whatever is drawn is built from these, and so it can be read in only two ways.
+
+- **The dots are what is there**, and the lines connect them. That is the old view of substances.
+- **The lines are what is there**, and the dots are only where lines cross. That is relational ontology: the web as the floor.
+
+The medium offers no third reading. It does three more things on its own:
+
+- **It sets the conditions around the appearance**, beside it and before it, so that they look like outside causes and the appearance looks like a dot at the centre. This brings back production.
+- **It holds still.** A picture is fixed, and the movement of appearing is lost.
+- **It is seen from outside.** Someone looks at the whole web from nowhere. The onlooker that anatta took away is quietly put back.
+
+So the drawing does not merely fail to show appearing. It actively shows something else, and that something else is the shape of the tool.
+
+Nāgārjuna examined the connections as closely as the things. "Coming into contact, having come into contact, and the one who brings them into contact are not found" (MMK 14.8). The line is as unfindable as the dot. Relation and the things related are designated together; neither is prior, and neither is the ground. Dependent arising, too, is designated. It is not a final truth standing on its own side, and it does not become a network or field beneath things. Relational accounts in physics are reliable designations within their domains; they are not a list of what is there at last.
+
+There is a quieter form of the same trap: the order of conditions turned into a law-structure behind things. Conditions are orderly, and that order is fully valid. It works, and it can be relied on. The constraint that keeps designation from being arbitrary comes from the vividness itself. But the order is not a hidden set of laws standing behind appearing, any more than the web is.
+
+## Using tools that cannot hold it
+
+There is no presentation free of tools. Every presentation is itself a designation. It picks out "this" rather than "that", and so whatever it shows comes already divided into pieces and links. That is not a defect to be fixed. The fix is to know it, and to say so.
+
+A mapmaker is a fair comparison. No flat map of a round earth is free of distortion. A good mapmaker does not hunt for the perfect projection. They say which distortion they chose, and why.
+
+Six ways of working follow from this.
+
+1.  **Say what the tool cannot do, while using it.** "This drawing lays out conditions side by side so that we can talk about them. The appearing is not laid out side by side. The dots and lines are ours."
+2.  **Show dependence by change, not by maps.** Instead of drawing a web around the sound of the bell, change one condition at a time: struck harder, cracked, in wind, heard by another ear. Each time a different vividness appears. That shows the sound follows its conditions, without drawing any relation as a thing.
+3.  **Start inside the one appearing.** Do not put the appearance at the centre of a web. Treat its conditions as its own detail. The red is dependent in the very moment it is red. The dependence is not a set of lines reaching out from the red. It is how the red shows itself.
+4.  **Draw, then undo the drawing.** If a picture is used, in a video or a book, let it take itself apart: draw the dots and lines; search a dot, and it is not found; search a line, and it is not found; search for the one looking at the picture, and that is not found either. What remains is neither a blank nor a web. It is the bell, ringing. The diagram is a ladder climbed and then left, a medicine that leaves with the illness.
+5.  **Keep the two descriptions apart.** Dependent arising is the description given while analysis divides, and dividing always yields pieces and links. Spontaneous presence is the same appearing when the fixing stops. The pieces and links belong to the analysis, not to the appearing.
+6.  **Use verbs where nouns would set things up.** "Seeing", "ringing", "blowing" show happenings with nothing behind them. "The seer", "the sound", "the wind" invite a search for something that stands by itself.
+
+Two familiar sentences show what to avoid. "Once designation stops, experience has a vividness of its own" implies an undesignated given underneath. "Openness surges forth as luminosity" pictures a source and what flows out of it. Both are the tool speaking, not the appearing.
+
+## A note on "real"
+
+One word carries the whole difficulty in small. In the conceptual framework, "real" does two opposite jobs. It affirms that something works: the link between action and result is real and reliable. And it denies own-nature: the self is not real in itself. One word for two opposite jobs leaves the reader to do the sorting, and the sorting is exactly where the framework goes wrong.
+
+In a thoroughly substrateless view, "real" has no job of its own. No level of being is found behind appearing. So where the word would affirm, this view says *validly functioning*. Where it would deny, it says *found*, *from its own side*, or *with a nature of its own*. It does not say that "real" simply means "vividly appearing": a mirage appears vividly too, and is validly functioning as a mirage, not as water.
+
+## In brief
+
+> Concepts are made for daily life, and they do that job well. What vividly appears is richer and quicker than any concept can hold, and it shows up differently as conditions change.
+>
+> What appears is the meeting of its conditions, not something the conditions make. Nothing passes from cause to effect, and nothing stands behind appearing as its source. That is what Dzogchen means by spontaneous presence: dependent arising seen without a producer, not appearing without conditions.
+>
+> Looked for exactly as the framework says a present thing should be found, appearing is not found: not here, not there, not in my mind, not in another's, and not even nowhere, because nowhere is one more place, and no place was ever needed. This is not despite the vividness. Only what has no nature of its own could appear as it does.
+>
+> When we draw this, the drawing can offer only things and links, so we make either the things or the links into what is there. Both are designated together, and neither is found, the link no more than the thing. So use the tools, say what they cannot do, show dependence by change rather than by maps, and let the picture take itself apart once it has done its work.
+
+## The closing verse
+
+In the author's words:
+
+> The more you taste the appearances,  
+> the more you see the nature of appearances.  
+> The more you see and understand the lack and limitations of the tools,  
+> the clearer the mind becomes,  
+> and the opening turns effortless and relaxed.
+
+**In the chain:** this page goes with [Beyond Cause and Effect](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#beyond) (7 of 7); [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing) (3 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## Read more
+
+- [*Vivid and Nowhere: What a Phenomenon Is*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon): the search in full, and why the conditions are as empty as what they condition.
+- [*Beyond Cause and Effect*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#beyond): spontaneous presence and the senses of "cause".
+- [*The Logic of Dependency*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): dependence without a web beneath things.
+- [*What the Logic Is Looking At*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking): designation as singling out, already dependence.
+- *Nāgārjuna's Middle Way*, Chapters [1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1), [14](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-14) and [24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): conditions, contact, and the two truths.
