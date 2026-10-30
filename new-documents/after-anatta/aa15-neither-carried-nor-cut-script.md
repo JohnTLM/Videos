@@ -1,0 +1,81 @@
+---
+chapter: 15
+label: After Anatta · The Logic
+title: "Neither Carried Nor Cut"
+series: "After Anatta · The Logic"
+source: thusness-website after-anatta/continuity.html (aa-continuity, on atr-passerby.com 2026-10-30); EBooks Bonus Articles/neither-carried-nor-cut
+intro: yes
+voice: male
+---
+
+# Neither Carried Nor Cut
+
+You are seeing these words. Somewhere a sound is going on. Your body is resting on something. A thought passes. Six streams, all at once, and all of it feels like one life, lived by one someone.
+
+Here is the question. If no self is carried from this moment to the next, is everything cut off? And at death, do I simply end?
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+The fear of being cut off sounds like the opposite of clinging to a self. It is not. It clings to the same self, and only changes the story of what happens to it. Something can be cut off only if it was there from its own side first. "It ends" still needs an "it". So the hope of being carried over and the fear of being cut off share one root. A thing with a being of its own, which either goes on for ever, or is destroyed.
+
+Nāgārjuna answers both with one reason. Whatever comes to be in dependence on something is not that very thing, and it is not other than it either. So it is neither cut off nor permanent.
+
+Most explanations reach for outside images here. A seed and its plant. One flame lighting another. They help, but they are watched from outside. Let us start somewhere closer, where this can be felt directly. In your own seeing, hearing and thinking, right now.
+
+There is seeing. These letters, the light, the colours around them. There is hearing. A fan, a car, a voice in another room. There is smelling and tasting, faint perhaps, but there when you notice them. There is touching. The weight of your body, the temperature of the air. And there is thinking. The words being understood, a thought about something else.
+
+The Buddha counted these as six kinds of consciousness. And he said each one arises with its own conditions. Dependent on the eye and forms, eye-consciousness arises. Seeing arises with eye and colour. Hearing arises with ear and sound. Thinking arises with mind and what is thought. Each stream is fully itself. Seeing does not hear. Hearing does not see. No smell has ever been heard.
+
+And yet these six do not feel like six strangers. You see the cup. You reach for it. You feel its warmth, smell the tea, taste it. You hear the small sound as you set it down, and think, that's better. Seeing guides the hand. Touch confirms what seeing showed. The thought takes up what the tongue found. It all hangs together so smoothly that it feels like one someone, who sees and hears and tastes and thinks. In refined practice it feels like something subtler still. A pure awareness, the same in all six, quietly there behind them.
+
+Here, almost without fail, the substantialist mind makes one move. It takes the six streams, each arising with its conditions, and pulls out of them a single consciousness. One awareness that sees through the eyes, hears through the ears, and runs from one sense to the next. The thread that joins them. The one still there when seeing gives way to hearing.
+
+The Buddha met this view in a monk named Sāti. Sāti held that it is this very same consciousness that roams and transmigrates, not another. He did not posit a soul. He posited consciousness itself as the carrier. The Buddha corrected him. Consciousness is dependently arisen. Without its conditions, there is no consciousness. It is named by what it depends on, the way a fire is named by its fuel. A fire burning logs is a log fire. A fire burning grass is a grass fire. Seeing is eye-consciousness. Hearing is ear-consciousness. There is no consciousness as such, moving from fuel to fuel.
+
+And notice where the carrier comes from. Not from looking. Look, and no carrier is found. It comes from habit. The long tendencies of the inherent framework expect every "and then" to have a something underneath that goes on. The six streams work together so well that, to this habit, it seems impossible that nothing holds them together. So the mind supplies something, a self or a pure awareness, without noticing that it supplied it.
+
+Now look at the moment seeing gives way to hearing. You are reading, and a sound comes. Attention turns to it.
+
+Is the hearing the same as the seeing? No. It has different conditions. Ear and sound, not eye and colour. Nothing of the seeing went into the hearing. Nothing travelled across. So it is not the same. Nothing was carried.
+
+Is the hearing cut off from the seeing, unrelated to it? Also no. The hearing came in the middle of the reading. The thought, what was that, takes up the sound. Then you go back to these lines and find your place. The streams are woven together. Each one shapes what the others do next. So it is not different either. Nothing was cut.
+
+Neither same nor different. Neither carried nor cut. And it is not a theory. You can watch it happen, many times a minute.
+
+But first, look at what is actually happening, before anything is lined up. In real time there has never been a carrier. Not a hidden one, not a subtle one. Each instant is complete. The seeing is wholly seeing. The sound is wholly sound. The thought is wholly thought. Nothing is missing that a carrier would have to supply. Nothing in it is waiting to be handed on.
+
+Complete does not mean sealed off. Each instant arises with its conditions, and its conditions are woven with others. It means only that nothing is lacking. So there is nothing to bridge.
+
+The question, what carries me from this to the next, does not come up in the instant. It comes up only when the mind steps back, lines the instants up one after another in time, and looks at the spaces it has drawn between them.
+
+And when we do line them up, as we must, to speak of yesterday and tomorrow, of growing up and growing old, this is how the line is rightly described. Neither same nor different. Neither carried nor cut. And here is the key. That is not a description of a gap that continuity has to cross. It is the continuity. There is nothing more behind it, holding the streams together. The weaving of the six streams, none the same as another, none cut off from another, is the whole of what we have always called going on.
+
+The substantialist mind cannot picture this. Shown seeing, and then hearing, it pictures two banks of a river with a gap between them. And it asks, what crosses the gap? It looks for a carrier to bridge the transition. Finding none, it concludes, then I am cut off every moment, and cut off for good at death.
+
+But the two banks were never standing on their own. No gap stands between them. So no bridge is needed, and no one has to cross. Asking what carries me across is like asking what carries blue across to red, in a painting where they meet.
+
+The same knot is at work in holding an apple. Colour, weight, smell and taste are each their own appearing. A habit of the mind ties them into one solid apple out there. The self is tied the same way. Six streams, tied into one solid someone in here. And when that coarse self is seen through, a subtler knot often remains. A pure, featureless awareness, set behind the six as their ground.
+
+The answer is not to throw clarity away. Seeing is clear. Hearing is clear. Thinking is clear. Clarity is never missing. The error is pulling it out of the streams, and making it one thing that stands behind them. Untie the knot, and nothing is lost. The six streams go on, as vivid as before, owned by no one.
+
+Without the time framework, there is no sequence to describe. What is here is one complete stroke. Timeless, total, immediate and complete. Line it up in time, and the same appearing is rightly described as neither same nor different, neither carried nor cut. These are not two worlds, a timeless one above and a passing one below. They are one appearing, seen without the framework, and seen with it.
+
+Three traditions say this, each in its own way. Nāgārjuna says time is not found apart from what changes. If not a single thing is found, how will there be time? Dzogchen calls itself the Great Completeness. Nothing lacking, nothing to add, and a fourth time beyond past, present and future. Dōgen says each moment is the whole of time. Firewood abides in its own place, with a before and an after, yet cut off from both. Ash does not turn back into firewood. And still, he says, time passes.
+
+Each needs one guard. Timeless does not mean a timeless reality behind appearances. That would be a new ground. The completeness of Dzogchen is not a pure awareness behind the six streams. It is the six streams themselves. And Dōgen's "cut off from before and after" means that nothing carries the moments. It does not mean that something is destroyed between them.
+
+So what of sleep? In deep sleep the streams go quiet, and no one watches the hours. It is easy to slip from there to, so for those hours nothing went on. That is the cut, sneaking back in. All night the heart beat and the breath went on. Yesterday's learning settled. In the morning you know your name, and remember the friend you meant to call. None of it was carried through the night by a passenger. None of it was cut off. Naming does not make continuity, and the absence of naming does not break it.
+
+And what of death? Nothing is carried. No soul, no subtle self, no pure consciousness packs up and moves to a new body. That was Sāti's picture. And nothing is cut. Actions bear their fruit. The habits of a life give rise to what comes next, the way this moment's hearing gives rise to the thought that follows it. Rebirth and karma are affirmed, in the ordinary way the world speaks. Emptiness does not explain them away. It only shows that the carrier and the cut were never found.
+
+So, will I continue after death? Not, yes, the same I goes on. Not, no, I simply end. It is the answer you can already see between seeing and hearing. What follows depends on what is now. It is not the same, and it is not other.
+
+When the teaching says there is no carrier, it denies one thing only, a carrier standing by itself. It does not add, and therefore nothing goes on. The habit adds that. So say both halves, every time. Nothing is carried over, and nothing is cut off.
+
+Try it now. Just this instant. Whatever is seen, heard or felt. Nothing missing from it, nothing waiting to be carried.
+
+Then let it go on. Seeing, then a sound, then a touch, then a thought. At each change, ask. Did anything travel across? Is this one cut off from the last?
+
+Then notice the question that wants to come. What joins them? Who goes from one to the next? Do not answer it. It is looking for a bridge, and the streams are going on perfectly well without one.
+
+Seeing. Hearing. A thought. Each complete. None carried. None cut.
