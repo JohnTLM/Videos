@@ -30,6 +30,8 @@ claude.ai"). So:
 - **The server never builds or renders a video.** In a task note it only puts the YouTube texts on the upload
   (`tools/publish/publish_youtube.py`) and the links on the website. A task note never asks for `build.py` or a Drive
   video upload.
+- **No Drive copy of a new video** (owner, 2026-10-30: "Yes, since YouTube already have the videos"). YouTube keeps it; this
+  repository keeps what is needed to rebuild it.
 - Ebooks (PDF, EPUB, Word) are still built on the server (EBooks `prog-spec.md` section 2).
 
 (Until 2026-10-30 this rule said the opposite, "build on the owner's server"; that is withdrawn.)
