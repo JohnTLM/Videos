@@ -17,15 +17,22 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
 | [`audiobook/`](audiobook/prog-spec.md) | Books 1, 2, 4 and 5, the bonus articles and the Questions | read-aloud MP3s, one per chapter (edge-tts, free voices); its own spec and a text snapshot |
 
-## Rule: build on the owner's server (owner's decision, 2026-10-28)
+## Rule: videos are built in claude.ai cloud sessions, never on the server (owner, 2026-10-30)
 
-Build videos and ebooks on the owner's Google Cloud server (`instance-20261026-235807`, Claude Code in `~/videos`),
-not in a cloud session and not on the HP. The server has every tool installed (`tools/README.md`, "On the owner's
-server") and its own Google sign-in, so it uploads finished files of any size straight into Drive with
-`tools/publish/publish_drive.py`. **Never send an MP4 or other file to the owner to upload** (no SendUserFile for
-Drive). A cloud session cannot reach Drive with large files: it writes and commits the text files (script, drawings,
-YouTube text) and leaves the build to the server. Only YouTube uploads stay with the owner (YouTube Studio), because
-Google locks API uploads to Private without its approval (`tools/publish/README.md`).
+Owner, 2026-10-30: "All videos are supposed to be done in claude.ai, not server side as it doesn't have the
+processing power" (and to another session: "You shouldn't be building any videos. Videos building are done at
+claude.ai"). So:
+
+- **A cloud session builds every video** (`tools/README.md`, cloud settings), checks the frames, commits the text
+  files (script, drawings, narration, subtitles, YouTube texts) and sends the MP4 to the owner with `SendUserFile`.
+- **The owner** uploads it to YouTube from the phone, as Unlisted. YouTube is the full-quality copy. If the owner
+  wants a copy in Drive too, they share the MP4 into Drive `Inbox` and the server files it by name.
+- **The server never builds or renders a video.** In a task note it only puts the YouTube texts on the upload
+  (`tools/publish/publish_youtube.py`) and the links on the website. A task note never asks for `build.py` or a Drive
+  video upload.
+- Ebooks (PDF, EPUB, Word) are still built on the server (EBooks `prog-spec.md` section 2).
+
+(Until 2026-10-30 this rule said the opposite, "build on the owner's server"; that is withdrawn.)
 
 ## Rule: save every video here (owner's decision, 2026-10-21)
 
