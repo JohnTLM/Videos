@@ -1,0 +1,67 @@
+---
+chapter: 14
+label: After Anatta · Questions
+title: "Rainbow Body"
+series: "After Anatta · Questions"
+source: thusness-website after-anatta/q-rainbow.html (main site version 132); EBooks Bonus Articles/rainbow-body-and-emptiness and the-yang-spirit-and-the-rainbow-body
+intro: yes
+voice: male
+---
+
+# Rainbow Body
+
+In eastern Tibet, the story goes, a master dies. His students wrap the body and leave it in a small room. Over a week the body grows smaller. Rainbows are seen over the house. When the room is opened, only the hair and the nails are left.
+
+Here is the puzzle. The same tradition says that nothing is found from its own side. Not the self. Not the body. Not even the mind. So if nothing is found, what turns into light?
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+Two Tibetan schools hold a view that leaves nothing standing on its own. Dzogchen, the Great Perfection. And the Gelug school of Tsongkhapa. Both say that practice can change the body itself. The answer in one line is this. The body is not a lump that stands by itself. It is held together by grasping, through the energy grasping rides on. When grasping ends at its subtlest level, the form it held is freed as well.
+
+Start with what both schools share. The body is dependently arisen, like the mind. It is a stream of elements, earth, water, fire, air and space, holding each other in place. Mind and energy move together. The tantras call the energy wind. Every thought moves on a wind. And grasping keeps the body heavy. It drives the winds through the side channels and locks the elements into a solid body that seems to be there by itself.
+
+Now the first school. In Dzogchen the ground has three aspects. Its essence is empty, pure from the beginning. Its nature is clear, spontaneously present. And its energy never stops showing. That showing first appears as five lights.
+
+Then comes the key step. When the display is not recognised as its own radiance, it is taken as something other, standing over there. The lights are grasped. They harden into the five elements. And from the elements come the body and the world. So in this view, the ordinary body is light not recognised. The rainbow body is the same process run backwards.
+
+There are two practices. The first is called cutting through. You recognise the knowing that is empty and clear at once, and you rest in that. This frees the mind from grasping. The second is called direct crossing. It works with the display itself. Lights appear in open space, and unfold through four visions, until the fourth, the exhaustion of phenomena. Every appearance is freed as it arises. Nothing is grasped as solid any more, the body included.
+
+But careful here. The shrinking body is what people see, and it is easy to take it for the rainbow body itself. Teachers inside Dzogchen warn against this. The rainbow body is first a realization. When the fourth vision is complete, everything is seen as the display of the five lights. The corpse is only a sign of it, and not always a sign at all. A body that shrinks is a partial rainbow body. And control of the elements is a worldly power, which yogis of other traditions can gain too. As the advice on Awakening to Reality put it in 2013, the rainbow body does not mean that your body disappears.
+
+Now the second school. Gelug does not teach direct crossing, and it does not aim at a rainbow body. Its view is Tsongkhapa's middle way: nothing exists from its own side, and everything works as a dependent designation. The view alone changes the body only slowly. The fast path is tantra, because it works with the subtle body.
+
+The tantra rests on one point. Mind and wind are one thing seen from two sides. At the subtlest level they are the very subtle wind and the very subtle mind of clear light. Everyone meets this at death. The elements dissolve, one into the next. Then come three appearances, white, red and black. Then the clear light. Most of us do not recognise it, and habit carries us on.
+
+The yogi rehearses this while alive. The winds are drawn into the central channel and dissolve at the heart. Thought stops, and the clear light dawns. From the subtle wind that carried that clear light, a body of pure wind arises, in the form of the deity. This is the illusory body, separate from the coarse body, like a dream body but stable. When the clear light sees emptiness directly, and the two are joined, that union is the body of a buddha.
+
+Why does it work? Because the body's material is wind, and wind is one with mind. When the subtlest mind sees emptiness, the wind it rides on comes out as a pure body, not a body of karma. And Gelug insists on one thing. The clear light must see emptiness. Clarity alone, however deep, frees nothing.
+
+The sign Gelug is known for is tukdam. After death a master rests in the clear light, sometimes for days, and the body stays fresh. A study in 2021 found no detectable brain activity in such cases, measured from about a day after death. It tested the brain, not the claim about the body.
+
+So the two schools say one thing in two languages. Form is the display, or the mount, of the subtlest knowing. When that knowing is freed by emptiness, the form is freed with it.
+
+Now a closer look at the five lights. What exactly is the light? The tantras answer through the five aggregates: form, feeling, perception, formations and consciousness. Each aggregate, freed, is one of five buddha families, each with its own wisdom and its own colour. After death, the texts say, each appears as a bright light, and beside it a dull, soft light that leads to rebirth. The lights are not a sixth thing beside the aggregates. They are the aggregates, seen without grasping. The dull light is the same aggregate, grasped.
+
+Hold an apple. The hardness, the coolness, the red. That is form. The sweetness is pleasant. That is feeling. The shape is recognised as an apple. That is perception. Touch, seeing and tasting each give their own appearing. That is consciousness, many streams, unmixed, with no one gathering them in. And then the knot. A mental formation, from the habits of the inherent framework, ties the separate appearings into one solid apple out there, with a me in here holding it. That is the aggregate of formations.
+
+Here the two languages meet. In Dzogchen's words, the display taken as other hardens into a solid world. In the apple's words, the habit ties the appearings into a thing out there. It is one movement, told once from the side of the lights and once from the side of the view.
+
+Untie the knot, and nothing is lost. Just this hardness, this red, this sweetness, vivid, appearing as their conditions meet. The body is held the way the apple is held. Hardness, warmth, weight and the felt sense of mine are tied into one solid body in here. The rainbow body, in essence, is that knot untied all the way through, the body included.
+
+Now, read with dependency. None of this needs a ground, and none of it proves one. Clarity is never missing from the body. The error is lifting it out and making it a thing. Dissolving into the light of the ground is easily heard as going back into a luminous stuff beneath everything. Read that way it is a substrate. But the ground is empty. The five lights are a display, not a stuff the world is made of. And nothing is produced. When the conditions that kept the elements coarse no longer come together, the coarse body no longer appears. The way a flame goes out when wick, wax and air no longer meet.
+
+Buddhism is not alone in this. In Taoist inner alchemy, the practitioner refines essence into energy, energy into spirit, and spirit back into emptiness. The aim is the yang spirit, a body outside the body that others can see. A spirit that only you can see, made by working on the mind alone, is called the yin spirit. Mind alone, they say, is not enough. That is the same point Dzogchen makes. And the endings are close. In one, the body vanishes from the coffin, leaving only clothes or a staff. In another, the master rises in broad daylight, without dying.
+
+The method is close. The view is not. The Dao is a source to return to. The goal is not to die. And what is made is a self, refined until it lasts.
+
+The Chan tradition said it sharply. The immortal Lü Dongbin visits the Chan master Huanglong and boasts of his elixir of long life. Huanglong calls him a corpse-guarding ghost. Even if you last eighty thousand aeons, he says, in the end you fall into ruin. In the story, Lü wakes up. A body of light still guarded as me is still a corpse-guarding ghost, only a very refined one.
+
+The same pattern runs elsewhere. A Tamil saint locks himself in a room in 1874 and is never found. Christian monks speak of the light of Mount Tabor. Sufis speak of a man of light. Almost all of them read the result through something that stands by itself: a soul that survives, a source to return to, a self made perfect.
+
+Buddhism expected this. In the early teaching, five of the six higher knowledges, the powers and the bodily wonders among them, are shared with other paths. Only the sixth, the ending of the taints, frees. So a changed body shows that energy was mastered. It does not show that grasping has ended.
+
+A few cautions. The rainbow body is not the measure of insight. Many great masters left ordinary bodies. The stories cannot be checked; most come from those who were there. And it is not a goal to grasp. To practise for a body of light is still to practise for something.
+
+So, if nothing is found, what turns into light? Nothing found turns into light. The body appeared as solid because it was held. When the holding ends, it no longer appears so.
+
+Hold the apple again. The hardness. The red. The sweetness. Each vivid, each following its conditions. Not tied into anything. The yang spirit is a self made perfect. The rainbow body is the end of the holding.
