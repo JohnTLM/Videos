@@ -118,4 +118,14 @@ Read `README.md` ("Rule: build on the owner's server") and `tools/publish/README
 
 ## Done
 
-(filled in by the server session)
+**2026-10-30, server session (steps 1–5):** built and put in Drive. The owner chose to skip entry 4 (*The Logic in
+full*): a one-hour render is not worth it on this machine, and the eight step videos here were not the current ones.
+
+| # | Video | Length | Drive folder | Drive file id |
+|---|---|---|---|---|
+| 1 | AA09 | 1119.8 s | Who Is Seeing | `1dMUOgE5kuNgGooH5ytMlurccKrqas6xw` |
+| 2 | AA12 | 682.5 s | Logic After Anatta | `12FAvFWJztQQtwzRdZhK4ugtR9RtfqvS9` |
+| 3 | ep96 | 824.8 s | Logic After Anatta | `1GbAKDD6SfuCeg98iTQYSvgmgnerqWKAH` |
+
+Each upload was checked by size; check frames looked right. Step 6 (texts) runs on entries 1–3 only, after the owner
+uploads.
