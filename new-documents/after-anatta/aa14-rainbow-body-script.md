@@ -3,7 +3,7 @@ chapter: 14
 label: After Anatta · Questions
 title: "Rainbow Body"
 series: "After Anatta · Questions"
-source: thusness-website after-anatta/q-rainbow.html (main site version 132); EBooks Bonus Articles/rainbow-body-and-emptiness and the-yang-spirit-and-the-rainbow-body
+source: thusness-website after-anatta/q-rainbow.html (main site version 138); EBooks Bonus Articles/rainbow-body-and-emptiness and the-yang-spirit-and-the-rainbow-body
 intro: yes
 voice: male
 ---
@@ -49,6 +49,12 @@ Here the two languages meet. In Dzogchen's words, the display taken as other har
 Untie the knot, and nothing is lost. Just this hardness, this red, this sweetness, vivid, appearing as their conditions meet. The body is held the way the apple is held. Hardness, warmth, weight and the felt sense of mine are tied into one solid body in here. The rainbow body, in essence, is that knot untied all the way through, the body included.
 
 Now, read with dependency. None of this needs a ground, and none of it proves one. Clarity is never missing from the body. The error is lifting it out and making it a thing. Dissolving into the light of the ground is easily heard as going back into a luminous stuff beneath everything. Read that way it is a substrate. But the ground is empty. The five lights are a display, not a stuff the world is made of. And nothing is produced. When the conditions that kept the elements coarse no longer come together, the coarse body no longer appears. The way a flame goes out when wick, wax and air no longer meet.
+
+Is this logical? Put plainly: how can purifying the aggregates turn a physical body into light? It depends on what the body is taken to be. If the body is matter that is there from its own side, and the aggregates are only what goes on in a mind, then purifying the mind cannot reach the body. Nothing joins the two. Read that way, it is not logical. It sounds like magic.
+
+But neither school starts there. The body is one of the aggregates. Form is the first of the five. So purifying the aggregates is not a mind working on a body outside it. It is the whole way experience is put together, coming loose, the body included. And the body's solidity is partly the knot's work, as with the apple. Untie the knot, and that hardness has nothing to stand on. What depends on a condition does not stay when the condition is gone.
+
+Now, where the logic stops. This shows how the body is known and lived. It does not show that other people will see a corpse shrink. A body as others see it also depends on physical causes, and on the senses and habits of those who look. One person's realization does not remove those. So a vanishing corpse is a report to weigh, not a conclusion of the logic. Read as a realization, the rainbow body follows from the view.
 
 Buddhism is not alone in this. In Taoist inner alchemy, the practitioner refines essence into energy, energy into spirit, and spirit back into emptiness. The aim is the yang spirit, a body outside the body that others can see. A spirit that only you can see, made by working on the mind alone, is called the yin spirit. Mind alone, they say, is not enough. That is the same point Dzogchen makes. And the endings are close. In one, the body vanishes from the coffin, leaving only clothes or a staff. In another, the master rises in broad daylight, without dying.
 
