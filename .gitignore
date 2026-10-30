@@ -5,3 +5,6 @@ __pycache__/
 *.wav
 _work/
 node_modules/
+
+# audiobook recordings (MP3s live in Drive)
+audiobook/out/

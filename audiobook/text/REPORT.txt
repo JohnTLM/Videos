@@ -1,0 +1,143 @@
+1-substrateless-world/01-sw-intro.md: table read as sentences (2 columns, 5 rows)
+1-substrateless-world/01-sw-intro.md: figure figure1.png caption read
+1-substrateless-world/03-sw-interlude.md: table read as sentences (3 columns, 10 rows)
+1-substrateless-world/05-sw-3.md: figure figure2.png caption read
+1-substrateless-world/06-sw-4.md: table read as sentences (3 columns, 3 rows)
+1-substrateless-world/06-sw-4.md: figure figure3.png left out ('Figure 3. Three pictures of things and relations. The first ')
+1-substrateless-world/06-sw-4.md: figure figure4.png caption read
+1-substrateless-world/06-sw-4.md: figure figure9b.png left out ('Three readings of no inherent boundary')
+1-substrateless-world/07-sw-5.md: figure figure5.png caption read
+1-substrateless-world/07-sw-5.md: figure figure6.png caption read
+1-substrateless-world/07-sw-5.md: figure figure7.png caption read
+1-substrateless-world/15-sw-13.md: figure figure8.png caption read
+1-substrateless-world/17-sw-15.md: table read as sentences (3 columns, 6 rows)
+1-substrateless-world/20-sw-references.md: skipped (references)
+2-anatta-to-emptiness/11-ae-negation.md: table read as sentences (3 columns, 4 rows)
+2-anatta-to-emptiness/24-ae-appendix.md: table column of symbols left out
+2-anatta-to-emptiness/24-ae-appendix.md: table read as sentences (2 columns, 11 rows)
+2-anatta-to-emptiness/24-ae-appendix.md: symbol line left out ('Notation: SP ~\\> ( \\[\\*\\] \\<\\> \\[~\\] )')
+2-anatta-to-emptiness/24-ae-appendix.md: symbol line left out ('Notation: Conv \\<~\\> {O}')
+2-anatta-to-emptiness/24-ae-appendix.md: symbol line left out ('Notation: Time_Container =!= True')
+4-observer-and-presence/15-ob-12.md: table read as sentences (3 columns, 8 rows)
+4-observer-and-presence/27-ob-a.md: skipped (verse index)
+4-observer-and-presence/30-ob-d.md: skipped (references)
+5-the-logic-after-anatta/01-intro.md: section 'Talks' left out
+5-the-logic-after-anatta/02-looking.md: section 'Read more' left out
+5-the-logic-after-anatta/03-koan.md: website line left out ('**In the chain:** this page goes with [Vivid and N')
+5-the-logic-after-anatta/03-koan.md: section 'In the books' left out
+5-the-logic-after-anatta/04-seeing.md: section 'Read more' left out
+5-the-logic-after-anatta/05-essay-illusion.md: table read as sentences (2 columns, 1 rows)
+5-the-logic-after-anatta/05-essay-illusion.md: table read as sentences (3 columns, 7 rows)
+5-the-logic-after-anatta/05-essay-illusion.md: table read as sentences (4 columns, 6 rows)
+5-the-logic-after-anatta/05-essay-illusion.md: section 'Sources and Further Reading' left out
+5-the-logic-after-anatta/06-limits.md: table read as sentences (2 columns, 4 rows)
+5-the-logic-after-anatta/06-limits.md: website line left out ('**In the chain:** this page goes with [Beyond Caus')
+5-the-logic-after-anatta/06-limits.md: section 'Read more' left out
+5-the-logic-after-anatta/07-logic.md: table read as sentences (3 columns, 8 rows)
+5-the-logic-after-anatta/07-logic.md: table read as sentences (3 columns, 11 rows)
+5-the-logic-after-anatta/08-step-1.md: figure aa-step-1-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/08-step-1.md: figure aa-step-1-diagram-2.svg left out ('Diagram 2')
+5-the-logic-after-anatta/08-step-1.md: website line left out ('**In the chain:** this page goes with [The Logic o')
+5-the-logic-after-anatta/08-step-1.md: section 'In the books' left out
+5-the-logic-after-anatta/09-step-2.md: figure aa-step-2-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/09-step-2.md: website line left out ('**In the chain:** this page goes with [Decoding An')
+5-the-logic-after-anatta/09-step-2.md: section 'In the books' left out
+5-the-logic-after-anatta/10-step-3.md: figure aa-step-3-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/10-step-3.md: website line left out ('**In the chain:** this page goes with [What the Lo')
+5-the-logic-after-anatta/10-step-3.md: section 'In the books' left out
+5-the-logic-after-anatta/11-step-4.md: figure aa-step-4-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/11-step-4.md: website line left out ('**In the chain:** this page goes with [The Illusio')
+5-the-logic-after-anatta/11-step-4.md: section 'In the books' left out
+5-the-logic-after-anatta/12-step-5.md: figure aa-step-5-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/12-step-5.md: website line left out ('**In the chain:** this page goes with [The Logic o')
+5-the-logic-after-anatta/12-step-5.md: section 'In the books' left out
+5-the-logic-after-anatta/13-step-6.md: figure aa-step-6-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/13-step-6.md: website line left out ('**In the chain:** this page goes with [The Illusio')
+5-the-logic-after-anatta/13-step-6.md: section 'In the books' left out
+5-the-logic-after-anatta/14-step-7.md: figure aa-step-7-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/14-step-7.md: website line left out ('**In the chain:** this page goes with [Vivid and N')
+5-the-logic-after-anatta/14-step-7.md: section 'In the books' left out
+5-the-logic-after-anatta/15-step-8.md: figure aa-step-8-diagram-1.svg left out ('Diagram 1')
+5-the-logic-after-anatta/15-step-8.md: website line left out ('**In the chain:** this page goes with [Seeing Come')
+5-the-logic-after-anatta/15-step-8.md: section 'In the books' left out
+bonus-articles/01-energy.md: website line left out ('[91](https://drive.google.com/file/d/18q4Lm0ET34LK')
+bonus-articles/01-energy.md: website line left out ('**Watch the talk.** The full narrated video.')
+bonus-articles/02-death.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/03-carrierless.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/03-carrierless.md: figure carrierless-diagram-1.svg left out ('Diagram 1')
+bonus-articles/03-carrierless.md: figure carrierless-diagram-2.svg left out ('Diagram 2')
+bonus-articles/03-carrierless.md: figure carrierless-diagram-3.svg left out ('Diagram 3')
+bonus-articles/03-carrierless.md: figure carrierless-diagram-4.svg left out ('Diagram 4')
+bonus-articles/03-carrierless.md: table read as sentences (4 columns, 5 rows)
+bonus-articles/04-insubstantial.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/05-rebirth.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/05-rebirth.md: table read as sentences (3 columns, 3 rows)
+bonus-articles/05-rebirth.md: table read as sentences (4 columns, 5 rows)
+bonus-articles/05-rebirth.md: table read as sentences (3 columns, 9 rows)
+bonus-articles/05-rebirth.md: section 'Sources and Further Reading' left out
+bonus-articles/06-presence.md: website line left out ('[90](https://drive.google.com/file/d/1QNOR7KYGDyhW')
+bonus-articles/06-presence.md: website line left out ('**Prefer to watch?** A narrated video of this arti')
+bonus-articles/07-modes.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/08-beyond.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/08-beyond.md: figure beyond-diagram-1.svg left out ('Diagram 1')
+bonus-articles/08-beyond.md: figure beyond-diagram-2.svg left out ('Diagram 2')
+bonus-articles/08-beyond.md: figure beyond-diagram-3.svg left out ('Diagram 3')
+bonus-articles/08-beyond.md: table read as sentences (4 columns, 8 rows)
+bonus-articles/09-phenomenon.md: website line left out ('**Watch** · a narrated video of this article, with')
+bonus-articles/09-phenomenon.md: section 'Notes on sources' left out
+questions/01-q-phenomenon.md: figure aa-q-phenomenon-diagram-1.svg left out ('Diagram 1')
+questions/01-q-phenomenon.md: table read as sentences (2 columns, 4 rows)
+questions/01-q-phenomenon.md: table read as sentences (2 columns, 4 rows)
+questions/01-q-phenomenon.md: website line left out ('**In the chain:** this page goes with [Vivid and N')
+questions/01-q-phenomenon.md: section 'In the books' left out
+questions/02-q-rebirth.md: website line left out ('*Companion pages: [Death and the Bardo](https://cl')
+questions/02-q-rebirth.md: website line left out ('**Watch** · a narrated video of this article, with')
+questions/02-q-rebirth.md: table read as sentences (3 columns, 3 rows)
+questions/02-q-rebirth.md: table read as sentences (4 columns, 5 rows)
+questions/02-q-rebirth.md: table read as sentences (3 columns, 9 rows)
+questions/02-q-rebirth.md: website line left out ('**In the chain:** this page goes with [The Logic o')
+questions/02-q-rebirth.md: section 'Sources and Further Reading' left out
+questions/03-q-powers.md: table read as sentences (2 columns, 5 rows)
+questions/03-q-powers.md: table read as sentences (3 columns, 6 rows)
+questions/03-q-powers.md: table read as sentences (4 columns, 6 rows)
+questions/03-q-powers.md: table read as sentences (3 columns, 8 rows)
+questions/03-q-powers.md: website line left out ('**In the chain:** this page goes with [The Illusio')
+questions/03-q-powers.md: section 'Sources and Further Reading' left out
+questions/04-q-realms.md: figure aa-q-realms-diagram-1.svg left out ('Diagram 1')
+questions/04-q-realms.md: table read as sentences (2 columns, 4 rows)
+questions/04-q-realms.md: website line left out ('**In the chain:** this page goes with [The Illusio')
+questions/04-q-realms.md: section 'In the books' left out
+questions/05-q-world.md: figure aa-q-world-diagram-1.svg left out ('Diagram 1')
+questions/05-q-world.md: table read as sentences (2 columns, 4 rows)
+questions/05-q-world.md: website line left out ('**In the chain:** this page goes with [The Illusio')
+questions/05-q-world.md: section 'In the books' left out
+questions/06-q-death.md: figure aa-q-death-diagram-1.svg left out ('Diagram 1')
+questions/06-q-death.md: table read as sentences (2 columns, 4 rows)
+questions/06-q-death.md: website line left out ('**In the chain:** this page goes with [The Logic o')
+questions/06-q-death.md: section 'In the books' left out
+questions/07-q-mind.md: figure aa-q-mind-diagram-1.svg left out ('Diagram 1')
+questions/07-q-mind.md: table read as sentences (2 columns, 4 rows)
+questions/07-q-mind.md: website line left out ('**In the chain:** this page goes with [Decoding An')
+questions/07-q-mind.md: section 'In the books' left out
+questions/08-q-cause.md: figure aa-q-cause-diagram-1.svg left out ('Diagram 1')
+questions/08-q-cause.md: table read as sentences (2 columns, 4 rows)
+questions/08-q-cause.md: website line left out ('**In the chain:** this page goes with [Beyond Caus')
+questions/08-q-cause.md: section 'In the books' left out
+questions/09-q-science.md: figure aa-q-science-diagram-1.svg left out ('Diagram 1')
+questions/09-q-science.md: table read as sentences (2 columns, 4 rows)
+questions/09-q-science.md: website line left out ('**In the chain:** this page goes with [Vivid and N')
+questions/09-q-science.md: section 'In the books' left out
+questions/10-q-time.md: figure aa-q-time-diagram-1.svg left out ('Diagram 1')
+questions/10-q-time.md: table read as sentences (2 columns, 4 rows)
+questions/10-q-time.md: website line left out ('**In the chain:** this page goes with [Vivid and N')
+questions/10-q-time.md: section 'In the books' left out
+questions/11-q-luminosity.md: figure aa-q-luminosity-diagram-1.svg left out ('Diagram 1')
+questions/11-q-luminosity.md: table read as sentences (2 columns, 4 rows)
+questions/11-q-luminosity.md: website line left out ('**In the chain:** this page goes with [What the Lo')
+questions/11-q-luminosity.md: section 'In the books' left out
+questions/12-q-ethics.md: table read as sentences (2 columns, 4 rows)
+questions/12-q-ethics.md: website line left out ('**In the chain:** this page goes with [The Logic o')
+questions/12-q-ethics.md: section 'In the books' left out
+questions/13-q-practice.md: table read as sentences (2 columns, 4 rows)
+questions/13-q-practice.md: website line left out ('**In the chain:** this page goes with [Seeing Come')
+questions/13-q-practice.md: section 'In the books' left out
