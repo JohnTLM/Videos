@@ -6,7 +6,7 @@
 // realization, the shrinking body only a sign -> Gelug: mind and wind one, the dissolution at death, the illusory body,
 // union -> why it works; tukdam -> one thing in two languages -> the five aggregates as the five lights, bright and dull
 // -> holding an apple: the aggregates, the knot -> the two languages meet; untied -> read with dependency: no ground,
-// nothing produced, the flame -> the yang spirit: method close, view not; the corpse-guarding ghost -> other traditions;
+// nothing produced, the flame -> is it logical? where it fails, where it holds, where the logic stops -> the yang spirit: method close, view not; the corpse-guarding ghost -> other traditions;
 // only the sixth knowledge frees -> cautions -> close: the apple again; the end of the holding.
 // Stance: the ground, the five lights, wind and clarity are never drawn as a stuff, field or container; a source,
 // a substrate, an immortal self appear only to be struck. Appearing stays vivid.
@@ -97,6 +97,20 @@ export const PHRASES = [
   "Read that way it is a substrate", "But the ground is empty",
   "The five lights are a display, not a stuff the world is made of", "And nothing is produced",
   "The way a flame goes out when wick, wax and air no longer meet",
+  // is it logical?
+  "Is this logical", "It depends on what the body is taken to be",
+  "If the body is matter that is there from its own side", "and the aggregates are only what goes on in a mind",
+  "Nothing joins the two", "It sounds like magic",
+  "But neither school starts there", "The body is one of the aggregates", "Form is the first of the five",
+  "It is the whole way experience is put together, coming loose, the body included",
+  "And the body's solidity is partly the knot's work, as with the apple",
+  "Untie the knot, and that hardness has nothing to stand on",
+  "What depends on a condition does not stay when the condition is gone",
+  "Now, where the logic stops", "This shows how the body is known and lived",
+  "It does not show that other people will see a corpse shrink",
+  "A body as others see it also depends on physical causes, and on the senses and habits of those who look",
+  "So a vanishing corpse is a report to weigh, not a conclusion of the logic",
+  "Read as a realization, the rainbow body follows from the view",
   // the yang spirit
   "Buddhism is not alone in this", "energy into spirit, and spirit back into emptiness",
   "The aim is the yang spirit, a body outside the body that others can see", "is called the yin spirit",
@@ -613,6 +627,35 @@ const DependScene: React.FC = () => {
   );
 };
 
+const LogicScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const stop = "Now, where the logic stops";
+  const un = ramp(t, c("Untie the knot, and that hardness has nothing to stand on"), 1.5);
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["Is this logical", 960, 110, <Wd c={CHALK} s={36} serif>is it logical?</Wd>, { until: stop }],
+        ["If the body is matter that is there from its own side", 520, 230, <SK strikeAt={c("But neither school starts there", 0)} c={DIM}>a body there from its own side</SK>, { until: stop }],
+        ["and the aggregates are only what goes on in a mind", 1400, 230, <SK strikeAt={c("But neither school starts there", 0)} c={DIM}>aggregates: only in the mind</SK>, { until: stop }],
+        ["Nothing joins the two", 960, 320, <Wd c={WARM} s={30}>nothing joins the two: magic</Wd>, { until: stop }],
+        ["The body is one of the aggregates", 960, 430, <K c={GOLD}>form: the first of the five aggregates</K>, { until: stop }],
+        ["It is the whole way experience is put together, coming loose, the body included", 960, 510, <Wd c={CHALK} s={28}>the whole way experience is put together, coming loose</Wd>, { until: stop }],
+        ["And the body's solidity is partly the knot's work, as with the apple", 1300, 640, <K c={WARM} s={28}>solidity: partly the knot's work</K>, { until: stop }],
+        ["What depends on a condition does not stay when the condition is gone", 960, 800, <Wd c={GOLD} s={32} serif>what depends on a condition does not stay without it</Wd>, { until: stop }],
+        [stop, 960, 110, <Wd c={WARM} s={36}>where the logic stops</Wd>],
+        ["This shows how the body is known and lived", 560, 260, <K c={GREEN} s={28}>shown: how the body is known and lived</K>],
+        ["It does not show that other people will see a corpse shrink", 1360, 260, <K c={WARM} s={28}>not shown: a corpse shrinking for others</K>],
+        ["A body as others see it also depends on physical causes, and on the senses and habits of those who look", 960, 420, <Wd c={DIM} s={28}>also depends on: physical causes · the eyes and habits of those who look</Wd>],
+        ["So a vanishing corpse is a report to weigh, not a conclusion of the logic", 960, 560, <Wd c={CHALK} s={32}>a vanishing corpse: a report to weigh</Wd>],
+        ["Read as a realization, the rainbow body follows from the view", 960, 700, <Wd c={GOLD} s={34} serif>as a realization: it follows from the view</Wd>],
+      ]} />
+      <At x={620} y={650} o={ramp(t, c("And the body's solidity is partly the knot's work, as with the apple"), 0.6) * (1 - ramp(t, c(stop), 0.4))}><Apple size={150} /></At>
+      <Knot pts={[[500, 560], [740, 560], [500, 740], [740, 740]]} cx={620} cy={650} p={ramp(t, c("And the body's solidity is partly the knot's work, as with the apple"), 1)} untie={Math.max(un, ramp(t, c(stop), 0.4))} />
+    </AbsoluteFill>
+  );
+};
+
 const TaoScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -739,6 +782,7 @@ export const Body: React.FC = () => {
     ["Hold an apple", "whole", <AppleScene />],
     ["Here the two languages meet", "light", <MeetScene />],
     ["Now, read with dependency", "search", <DependScene />],
+    ["Is this logical", "doubt", <LogicScene />],
     ["Buddhism is not alone in this", "jade", <TaoScene />],
     ["The method is close", "doubt", <ViewScene />],
     ["The same pattern runs elsewhere", "dusk", <OthersScene />],
