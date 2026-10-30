@@ -17,6 +17,26 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
 | [`audiobook/`](audiobook/prog-spec.md) | Books 1, 2, 4 and 5, the bonus articles and the Questions | read-aloud MP3s, one per chapter (edge-tts, free voices); its own spec and a text snapshot |
 
+## How a new video goes from idea to the website (2026-10-30)
+
+The whole system (the owner, the orchestrating cloud session, the server, GitHub, YouTube) is described in
+thusness-website [`ARCHITECTURE.md`](https://github.com/JohnTLM/thusness-website/blob/main/ARCHITECTURE.md). For videos:
+
+1. **Script.** The orchestrating cloud session (the one the owner named, owner 2026-10-30: "I think u can be the
+   orchestrating agent") writes `new-documents/<series>/<prefix>NN-<slug>-script.md` and sends it to the owner.
+   **The owner approves it** before anything is drawn.
+2. **Drawings and build, in the cloud.** `tools/explainer/src/chapters/<PREFIX>NN.tsx` (cue phrases copied word for word
+   from the narration; avoid respelled words), then the series `build.py --chapter NN` (Andrew's voice, subtitles,
+   drawings, MP4). Check the frames; commit script, drawings, narration, subtitles and `youtube-…-<prefix>NN.md`.
+3. **To the owner.** The MP4 goes to the owner (`SendUserFile`); a `draft` task note for the server goes into
+   thusness-website `server/`.
+4. **YouTube.** The owner uploads it (Unlisted) and says so. The note gets the video's YouTube id (never a title to
+   match) and `ready`.
+5. **The server** puts the YouTube texts on the upload (`tools/publish/publish_youtube.py`), adds it to the playlist,
+   gives the page its video box and deploys. It never builds a video, and no Drive copy is made.
+
+Other sessions that want to make a video check with the orchestrating session first, so no video is made twice.
+
 ## Rule: videos are built in claude.ai cloud sessions, never on the server (owner, 2026-10-30)
 
 Owner, 2026-10-30: "All videos are supposed to be done in claude.ai, not server side as it doesn't have the
@@ -117,7 +137,7 @@ Restart Claude Code after installing.
 3. Start Claude Code **inside** that `Videos\` folder.
    Or set the folder once in `/config` under `chapter-builder.videosDir`.
 
-## Workflow
+## Workflow (the original Book 1 chapter plugin, 2026-10; for new videos see "How a new video goes from idea to the website" above)
 
 1. **Setup.** Ask Claude to do the setup step in `VIDEO-SPEC.md` §10. It installs the tools,
    makes the background and fonts, creates `pronunciation.json`, and lists every chapter in

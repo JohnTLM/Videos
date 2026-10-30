@@ -1,6 +1,15 @@
 # Architecture
 
-This file explains how the repository fits together. It is based only on the files in this repo.
+**Current picture (2026-10-30).** Videos are made in claude.ai cloud sessions, led by the orchestrating session the owner
+named: script (owner approves) → drawings → cloud build with `tools/series/<series>/build.py` → MP4 to the owner → the
+owner uploads it to YouTube → the server's task runner puts the YouTube texts on and links the video on atr-passerby.com.
+The server never builds a video; no Drive copy is made. The whole system, with how coordination works (task notes,
+`ready` → `running` → `done`, `Needs:`, direct messages between sessions), is in thusness-website
+[`ARCHITECTURE.md`](https://github.com/JohnTLM/thusness-website/blob/main/ARCHITECTURE.md); the steps for one video are
+in this repository's `README.md` ("How a new video goes from idea to the website").
+
+The rest of this file explains how the repository's own parts fit together: the builder, the drawing engine and the
+original Book 1 chapter plugin. It is based only on the files in this repo.
 
 ## Purpose
 
