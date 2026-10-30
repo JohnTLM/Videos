@@ -763,9 +763,11 @@ const CarScene: React.FC = () => {
       <At x={480} y={420} o={pre(parts)}><Box c={TEAL} label="the parts" /></At>
       <At x={960} y={420} o={pre(whole)}><Box c={VIOLET} label="a whole" dashed /></At>
       <At x={1440} y={420} o={pre(shape)}><Box c={GOLD} label="their shape" /></At>
-      <Crossed x={480} y={420} at={c("All the parts in a box are not a car") + 0.6} size={45} />
-      <Crossed x={960} y={420} at={c("Take every part away") + 1.0} size={45} />
-      <Crossed x={1440} y={420} at={c("And the shape is only the parts in a certain relation") + 1.4} size={45} />
+      <div style={{ position: "absolute", inset: 0, opacity: 1 - ramp(t, drives, 0.5) }}>
+        <Crossed x={480} y={420} at={c("All the parts in a box are not a car") + 0.6} size={45} />
+        <Crossed x={960} y={420} at={c("Take every part away") + 1.0} size={45} />
+        <Crossed x={1440} y={420} at={c("And the shape is only the parts in a certain relation") + 1.4} size={45} />
+      </div>
       <Items items={[
         ["No single part is the car", 480, 520, <W c={DIM} s={24}>not the wheel, not the engine</W>, { until: "And still the car drives you home" }],
         ["Found in none of them, it has no nature of its own", 960, 600, <W c={CHALK} s={30}>found in none: no nature of its own</W>,
@@ -1050,7 +1052,7 @@ const ClearScene: React.FC = () => {
         <div style={{ width: 190, height: 110, borderRadius: 55, border: `4px solid ${VIOLET}`, background: `${VIOLET}${glow > 0.8 ? "44" : "22"}`,
           boxShadow: `0 0 ${20 * glow}px ${VIOLET}` }} />
       </At>
-      <At x={960} y={420 - 120 * up} o={ghostO} s={0.6 + 0.5 * up}>
+      <At x={960} y={420 - 30 * up} o={ghostO} s={0.6 + 0.35 * up}>
         <div style={{ width: 560, height: 180, borderRadius: 90, border: `4px dashed ${VIOLET}`, background: `${VIOLET}18`,
           display: "flex", alignItems: "center", justifyContent: "center", boxShadow: `0 0 40px ${VIOLET}55` }}>
           <Glow color={VIOLET} size={30}>“awareness, presence”</Glow>
