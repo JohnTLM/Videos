@@ -1,0 +1,89 @@
+# Many Worlds, Many Realms
+
+If one river is nectar to a god, water to a human and burning pus to a hungry ghost, which is the real river?
+
+Buddhist cosmology speaks of many realms of beings. This page asks where they are, and whether any of them is the real world beneath the others.
+
+## The question
+
+The tradition has a famous image. One river, or one bowl of liquid, is refreshing water to a human. To a hungry ghost, a being driven by craving and lack, it is burning pus and blood. To a fish it is a home to swim in. To a god it is nectar.
+
+You do not need the traditional realms to feel the puzzle. A tick lives by three signals: sweat, warmth and hair. A bat lives in returning sound. Which of these worlds is the real one? And where are the others?
+
+## The substance reading
+
+Common sense says there must be a neutral river underneath: H₂O, bare matter or energy. Each kind of being views it through its own glasses. The Mind-Only reply goes the other way: there is no river outside the mind, only shared karma ripening in consciousness. One keeps a floor of matter. The other keeps a floor of mind.
+
+![Diagram 1](../figures/aa-q-realms-diagram-1.svg)
+
+The substance picture of the many realms.
+
+## What the tradition says
+
+> The variety of the world is born of action.
+>
+> Vasubandhu, *Abhidharmakośa*, opening of chapter 4 · paraphrase
+
+> The hungry ghost seeing pus is like a person with an eye disease. If the pus is not found existing by itself, neither is the mind that sees it.
+>
+> Candrakīrti, *Madhyamakāvatāra*, chapter 6 · paraphrase
+
+> My buddha-land is always pure like this.
+>
+> The Buddha, *Vimalakīrti Sūtra*, chapter 1, Taishō 14, 538c
+
+## Applying the logic
+
+|                                       |                                                                                                                                                                                                                                              |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 · What would a substance view say?  | One river is really there, and each kind of being filters it. Or, with Mind-Only, there is no river, only mind.                                                                                                                              |
+| 2 · What does dependency say instead? | A world has three sides: the being, the river as it is met, and the channels of contact that join them. All three are designated together. Worlds overlap to the degree that channels are shared, as a human's and a dog's do.               |
+| 3 · What is affirmed conventionally?  | The six realms as the tradition teaches them, held as it holds them. Within each world there are still errors: a jaundiced eye sees a white conch as yellow. The human world has every practical priority for us. It is not the master copy. |
+| 4 · What is never found?              | A hidden original beneath the worlds. Also a mind that holds them all, and a neutral space where they sit side by side.                                                                                                                      |
+
+## Where are the other realms?
+
+The open-minded answer is "right here, in the same place as ours". It brings back a container: one neutral space for both worlds. Use the negation of Step 2 instead, which removes and adds nothing. The other realms are not elsewhere: not far away, not behind a wall. Leave it there. Do not add "so they are in the same place".
+
+## Two traps
+
+Too much: eternalism
+
+"There must be a real river underneath," or "it is all mind." Making mind the one real thing is the same mistake as making matter the one real thing. Both keep a floor.
+
+Too little: nihilism
+
+"So no world is real, and anything goes." Errors are still errors within each world. And the hungry ghost's suffering cannot be waved away as "not really happening".
+
+## In practice
+
+- Humility: every being you meet, from a bee to a stranger, lives in a world you cannot fully enter.
+- Compassion: no single view owns the real world, so no being's experience can be brushed aside.
+- Change is a change in seeing, not in place. Nothing has to be moved for a world to be met without distortion.
+
+**In the chain:** this page goes with [The Illusion of the Given](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion) (5 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [The Illusion of the Given, Part II](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion/part-2): A Multi-Dimensional Worldview, the longer read: channels, degrees of contact, the water offering.
+- [The Six Powers](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-powers): *Knowing From Somewhere*, on seeing into other worlds, but always from somewhere.
+- [Insubstantial Appearances](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#insubstantial): bonus article, §4, karma and habit shape what appears.
+- [Dissolution of Internal vs. External Worlds](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-12): Book 1, Chapter 12, why the dream does not make mind the floor.
+
+### Talks
+
+- [Empty Dimensionless Nature, Multi-Dimensional World](https://youtu.be/utZiVtDfzVg): talk.
+
+## Words to know
+
+World (*loka*)  
+The whole field that opens when a kind of being meets its surroundings through its channels.
+
+Vessel world (*bhājana-loka*)  
+The shared environment of beings with shared karma. Shaped by them, not a box.
+
+Channel of contact  
+How a being meets things: senses, body, habits, karma.
+
+Pure vision (*dag snang*)  
+Meeting the same world without the habit that splits and fixes it. Not a hidden world underneath.

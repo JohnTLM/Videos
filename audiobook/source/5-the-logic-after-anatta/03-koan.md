@@ -1,0 +1,160 @@
+# Does It Arise or Cease?
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+A koan is not a riddle with a clever answer. It is a question built to catch the habit in the act. Read this one slowly. Before we even try to answer it, the question has already given us something: an "it", a moment that must either arise or cease. Whatever we do with that "it" shows which logic we are using.
+
+This page works through the koan twice, first with the logic of substance and then with the logic of dependency, and then runs it through Nāgārjuna's five core logics. It is the introduction's key insights, and the two logics of Step 1, put to work on a single question.
+
+## What the koan is pointing at
+
+Listen to a sound, a bell or a car going by. At no point is there a sound that stays. The sound is already passing as it sounds. Look closely at any moment of experience and this is what is found: the arising is already the ceasing. "This moment ceases as it arises" is not a puzzle someone made up. It is what experience shows when it is looked at closely.
+
+The ordinary picture is different. It says that things arise, stay for a while, and then cease. The early Buddhist schools made this exact: every conditioned thing has three marks, arising, abiding and ceasing. The picture needs the middle one. Only something that abides, even for an instant, can be the "it" that first arises and later ceases. The koan quietly removes the abiding, and then asks its question about the "it" anyway.
+
+## The substantialist reading
+
+The logic of substance starts with things and asks what happens to them. So it starts with "this moment" as a thing, and treats arising and ceasing as things that happen to it. This is the grammar of the sentence, subject then verb, taken for the shape of the world: "the moment arises", "the moment ceases", as if there were a moment apart from the arising and the ceasing ([*The Logic of Dependency*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic), "Change Without a Changer").
+
+Given a thing, the question must be answered. There are four possible answers, and each one fails.
+
+- **It arises.** Then it comes into being and is there. But it ceases as it arises, so it is never there to have arisen. And if it stays even for an instant, that instant has a beginning, a middle and an end, and splits again into what is gone and what is not yet ([*Vivid and Nowhere*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon), section 4).
+- **It ceases.** Then something passes away. But what passes away, if it never stood? "Ceasing does not make sense for a thing that is abiding. Nor does it make sense for a thing that is not abiding" (MMK 7.27). A thing that abides is not ceasing; a thing that never abides has nothing there to cease.
+- **Both.** Then one thing comes into being and passes away at one and the same time. But coming into being and passing away are opposites, like light and dark; they cannot belong to one thing at one time. "Birth and death are not found at one and the same time" (MMK 21.3).
+- **Neither.** Then there is no moment at all, and nothing happens. Yet a sound is being heard right now.
+
+Taking arising and ceasing apart does not help either. An arising that never ceases would be permanent. A ceasing that never arose is the ceasing of nothing. Nāgārjuna puts the whole trap in one verse:
+
+> There is no passing-away either apart from coming-into-being or together with it. There is no coming-into-being either apart from passing-away or together with it.
+>
+> Nāgārjuna, [*Middle Way*, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21), verse 1
+
+### The ways out, and why they fail
+
+For the logic of substance this is a paradox, and it looks for a way out. Each way out keeps the "it" and moves it somewhere else.
+
+- **A timeless Now.** The moments pass, but the Now in which they pass does not. This is the "it" moved one level down, into a moment that never ends.
+- **An awareness behind the moments.** Moments come and go in awareness, which stays. This is the Witness again.
+- **Pure flow.** There are no things, only process; everything is flux. This replaces the subject with a better subject: the flow becomes the thing that is really there.
+- **Point-instants.** Reality is made of tiny moments, each lasting no time at all. But a moment with no duration cannot make up time, and a moment with duration splits again.
+- **Nothing happens.** If nothing arises or ceases, then nothing is real. This is the nihilist end: the "it" kept, and declared absent.
+
+All five are the same logic, one step further on. They differ only in what they say happens to the "it".
+
+## The non-substantialist reading
+
+The logic of dependency does not start with a moment that has arising and ceasing as its properties. It asks how "this moment" is picked out at all. A moment is designated in dependence on its arising and its ceasing. Arising is designated in dependence on ceasing, and ceasing in dependence on arising. None comes first, and none is found apart from the others. This is what MMK 21.1 says from the other side: not apart, and not together as two properties of one thing, because there is no one thing for them to belong to.
+
+Then "ceases as it arises" is not a paradox. It is a plain description. There is no "it" standing between the arising and the ceasing to do either. The question "does it arise or cease?" assumes that "it". When the "it" is looked for and not found, the question is not answered. It falls away. The koan has done its work.
+
+Nothing is lost. Sounds are still heard, clocks still keep time, the firewood still burns. Just as the flashing is the lightning, the arising-ceasing is the moment. There is change, vivid and exact, and no changer behind it.
+
+## The koan through the five core logics
+
+Nāgārjuna has five core ways of taking the logic of substance apart, and each one can be run on this koan. Each time, the substance reading needs a moment that is there on its own, and fails. Each time, the dependency reading lets the same moment appear, with nothing found behind it. He even states the koan himself: "Arising does not make sense for a thing that is ceasing" (MMK 7.21).
+
+### 1. The four corners (Chapter 1)
+
+**Substance.** If this moment really arises, it must arise from something. From itself? Then it was already there, and nothing arose. From another, the moment before? Then two separate things, and nothing explains how one becomes the other; anything could come from anything. From both? That has both faults. Without a cause? Then moments would appear at random. "Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen" (MMK 1.1).
+
+**Dependency.** The moment is not a thing that needs a source. It is designated in dependence on the conditions it is picked out with, the moment before among them. Nothing passes from one moment to the next, and nothing is missing. This is how one moment follows another.
+
+### 2. Same or different (Chapter 10)
+
+**Substance.** Is the arising the same as the ceasing, or different? If the same, then to arise is already to cease, and nothing ever comes to be. If different, they are two events, and something must stand between them to be the moment that first arises and then ceases: the abiding the koan removed. Nāgārjuna asks the same of fire and fuel: "If the fire were the fuel, the one who acts and what is acted on would be one. If the fire were other than the fuel, it could exist even without fuel" (MMK 10.1). Ask it too of this moment and the one before. If they are the same, nothing has changed. If they are different, nothing connects them.
+
+**Dependency.** Arising and ceasing are not one and not two. They are designated together, like fire and fuel, and neither is found on its own. "Ceases as it arises" says exactly this.
+
+### 3. The three times (Chapter 2)
+
+**Substance.** Look for the arising. What has already arisen is not arising; it is done. What has not yet arisen is not arising; it is not here. And apart from the arisen and the not yet arisen, no "now arising" is found. Nāgārjuna makes this search with a road being walked (MMK 2.1), then turns it on arising: "What is arising, what has arisen and what has not arisen do not arise in any way" (MMK 7.14). The same search, run on ceasing, finds no "now ceasing". The koan's "as it arises" has no room to happen in.
+
+**Dependency.** Arisen, arising and not yet arisen are designated in relation to each other, against a before and an after that are designated too. No present stands between past and future to hold the moment. The moment is met, vividly, without a now that contains it.
+
+### 4. Infinite regress (Chapter 7)
+
+**Substance.** If the arising of this moment is a real event, it is conditioned, so it needs its own arising, abiding and ceasing, and those need theirs, without end. If the arising is not conditioned, it cannot be a mark of conditioned things at all. "If arising is itself conditioned, then it too must have the three marks. If arising is unconditioned, how can it be a mark of the conditioned?" (MMK 7.1). Ask "does it arise?" and you must also ask "does the arising arise?", and so on for ever.
+
+**Dependency.** Arising is not a thing that needs to arise. It is a designation, made in dependence on what it marks. Then there is no regress and no first arising, and Nāgārjuna can say: "Whatever comes to be in dependence is, as regards own-nature, at peace. So what is arising is at peace, and so is arising itself" (MMK 7.16).
+
+### 5. Mutual dependence (Chapter 24)
+
+**Substance.** The four logics above all fail for the same reason. Each needs a moment, an arising or a ceasing that is established on its own before it relates to anything. "Two things that cannot be established either together with each other or apart from each other: how could they be established at all?" (MMK 21.6). Arising and ceasing are just such a pair.
+
+**Dependency.** The fifth logic is not one more refutation. It is what the other four leave: "Dependent arising is what we call emptiness. That is a designation in dependence, and that itself is the middle way" (MMK 24.18). This moment's arising-and-ceasing is dependent arising, so it is empty, and because it is empty it can appear and pass at all: "For whom emptiness is possible, everything is possible" (MMK 24.14).
+
+Each logic searches a different hiding place of the "it": its source, its identity, its present, its marks, and its standing on its own. Each lands in the same place. No "it" is found, and the moment is still here.
+
+## So, does it arise or cease?
+
+Two answers can be given, and they are not in conflict.
+
+**Conventionally, it arises and ceases.** The sound starts and ends. We can say correctly when the bell was struck and when the ringing stopped. Nothing in the analysis touches this.
+
+**Looked for, nothing that arises and nothing that ceases is found.** This is how Nāgārjuna opens his whole work, praising the Buddha who taught dependent arising as
+
+> Without ceasing, without arising, without annihilation, without permanence, not one thing and not many, without coming and without going.
+>
+> Nāgārjuna, [*Middle Way*, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1), homage
+
+"Without arising" here is not a denial that things appear. It is said of dependent arising itself. Because nothing arises as an "it", from its own side, things can appear, change and pass at all. The two answers are the two truths of [Step 4](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-4): not two worlds, but one moment seen two ways.
+
+So the koan is not answered by choosing a corner. It is answered when the "it" is seen never to have been there. Then each moment is simply complete where it is, with nothing carried over and nothing left behind. Dōgen says it of firewood and ash: each abides in its own dharma-position, with a before and an after, yet cut off from before and after ([*The Architecture of Carrierless Continuity*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#carrierless), section 3.2). The Dzogchen tradition calls it self-release: a thought recognised as unfixed releases itself as it arises, like a drawing on water, which needs no eraser (*Vivid and Nowhere*, section 13).
+
+> Ask what arises, and the koan is a paradox. See that no "it" is found, and the koan is simply this moment.
+
+## The insights in one koan
+
+- **Vivid and unfindable.** The moment is fully vivid, and it is not found: not in its beginning, its middle or its end, and not apart from them.
+- **Appearance originates whenever conditions align.** The sound appears because bell, air, ear and attention come together, and it is gone when they part. It comes from no hidden place and goes into none.
+- **We habitually think inherently.** The "it" that must either arise or cease is the habit at work, carried in by the grammar of the question.
+
+## Why it matters
+
+If the moment is an "it", every experience is something to keep or to lose. A clear moment in meditation must be held on to; a painful one must be got rid of; the end of a life is the end of something that was really there. Craving and fear follow from the "it" as surely as the paradox does.
+
+Seen without the "it", there is nothing to keep and nothing to lose. Each moment is wholly itself and wholly gone, and nothing went anywhere. This is not indifference. The moment is met fully, because it is not being held on to. The same seeing runs through [Death and the Bardo](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-death) and [Time](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-time).
+
+## Try it
+
+- Listen to a single sound until it ends. When did it arise? When did it cease? Look for a sound between the two, apart from the sounding.
+- Watch a thought come and go. Ask "where did it go?", then notice that the question assumes a thought that went somewhere. Look for that thought.
+- Follow the out-breath to its end. Is there a breath that is ending, apart from the ending?
+
+**In the chain:** this page goes with [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon) (4 of 7); [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic) (6 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [Nāgārjuna, Chapter 7](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-7): arising, abiding and ceasing examined, ending with the magic show and the dream (7.34).
+- [Nāgārjuna, Chapter 2](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-2): the road being walked, and the three times.
+- [Nāgārjuna, Chapter 10](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-10): fire and fuel, neither one nor other.
+- [Nāgārjuna, Chapter 24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): dependent arising is emptiness.
+- [Nāgārjuna, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21): coming-into-being and passing-away, neither apart nor together.
+- [Nāgārjuna, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1): the homage, without arising and without ceasing.
+- [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): "Change Without a Changer" and the eight extremes turned over.
+- [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon): section 4, Nāgārjuna dissects the present (bonus article).
+- [The Architecture of Carrierless Continuity](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#carrierless): section 3.2, Dōgen's dharma-positions (bonus article).
+- [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro): the key insights this koan puts to work.
+
+### Talks
+
+- [Core Logic 4: Infinite Regress based on MMK Chapter 7](https://youtu.be/5oKe5SkJISc): talk on YouTube, the three marks of the conditioned.
+- [Core Logic 3: Tripartite Temporal/Spatial Analysis based on MMK Chapter 2](https://youtu.be/_7GaayyulOc): talk on YouTube, the gone, the not-yet-gone and the going.
+- [Core Logic 1: The Tetralemma (Catuṣkoṭi) based MMK Chapter 1](https://youtu.be/0155_51hVyM): talk on YouTube, why all four answers fall.
+- [Core Logic 2: The Identity vs. Difference Paradox based on MMK Chapter 10](https://youtu.be/FlIxSvkV39o): talk on YouTube, fire and fuel.
+- [Core Logic 5: Mutual Dependence based on MMK Chapter 24](https://youtu.be/SnJn9x-IauM): talk on YouTube, dependent arising as emptiness.
+- [Nagarjuna's MMK: 5 Core Deconstruction Logics](https://youtu.be/P7GGwDGRsiw): talk on YouTube, the five logics together.
+
+## Words to know
+
+Koan  
+A question or story from the Zen tradition, used not to be solved but to expose the assumption the questioner brings to it.
+
+The three marks of the conditioned (*utpāda, sthiti, bhaṅga*)  
+Arising, abiding and ceasing: the early schools' account of every conditioned thing, examined in MMK Chapter 7.
+
+Non-arising (*anutpāda*)  
+Nothing arises from its own side. Said of dependent arising itself, not a denial that things appear.
+
+Dharma-position (*jū hōi*)  
+Dōgen's term for each moment abiding fully in its own place, with a before and an after, yet cut off from them.

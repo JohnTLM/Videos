@@ -1,0 +1,148 @@
+# Step 6: The Two Traps
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+[The koan](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan) has two easy answers, and each is a trap. Say "it arises", and the mind soon finds somewhere for the moment to last. Say "it ceases", and the mind soon concludes that nothing really happens. These are eternalism and nihilism.
+
+A snake catcher picks up a snake just behind the head, and it is safe in his hand. A beginner grabs it by the tail, and it turns and bites. Same snake, same hand. What decides the outcome is the grip. Nāgārjuna uses this image for emptiness itself: wrongly seen, it ruins the one who sees it, like a snake grasped the wrong way or a spell cast the wrong way (MMK 24.11).
+
+This step takes the two ends as the koan's two wrong answers, and shows that they grow from one root.
+
+## Two wrong ends
+
+Nāgārjuna names the pair in two lines. "It is" is the grasping of permanence. "It is not" is the view of annihilation. So the wise should not take their stand on existence or on non-existence (15.10). He takes this from the Buddha's instruction to Kātyāyana, the one discourse he names (15.7; Saṃyutta Nikāya 12.15). The world, the Buddha says there, mostly leans on two ideas, "it is" and "it is not". For one who sees the arising of the world as it is, "it is not" does not occur. For one who sees its ceasing as it is, "it is" does not occur. Avoiding both, he teaches by the middle: dependent arising.
+
+This is the koan's own shape. Seeing the arising undoes "it is not"; seeing the ceasing undoes "it is". The koan holds both in one moment. The trouble starts only when one half is taken on its own, as a fact about an "it".
+
+## Eternalism: "it arises"
+
+The moment arises, so it is there. But it ceases as it arises, so it cannot stay. The mind does not give up the "it". It moves it somewhere that lasts.
+
+- **A timeless Now.** The moments pass, but the Now they pass through does not.
+- **An awareness in which moments come and go.** The sound ceases, but the knowing stays, clear and still: the Witness.
+- **A Source.** Moments come out of something and go back into it: a ground of being behind everything.
+
+The plain form is the soul, a self that lasts and owns its experiences. These three are subtler, because they survive letting go of the soul: something remains that seems too clear and impersonal to be a self. This was my own position for years after the realisation of I AM. Presence was real and unmistakable, and I held it as something on its own side. The taste was genuine. Turning it into a Self was the mistake.
+
+Quieter disguises include process or a network of becoming as the new floor, and a deeper awareness that carries on when the body falls away. That last is eternalism by the most sophisticated route there is, and it gets the same refusal as the soul.
+
+The test for every disguise is Step 1's test. Look for it apart from what it depends on. Awareness is always awareness of something, through something; it is not found standing behind the knowing. A Source looked for apart from what it is said to produce is not found either.
+
+## Nihilism: "it ceases"
+
+The moment ceases, so it was never really there. Nothing happens, nothing matters, actions have no results, and practice leads to a blank. Nāgārjuna's opponent in Chapter 24 hears "empty" in exactly this way, and concludes that emptiness destroys the four noble truths, the path and the Buddha (24.1–6). Nāgārjuna's reply is that the opponent has misunderstood emptiness itself (24.7).
+
+Nihilism also has a subtle form, and Book 2 gives it a name: the disease of relentless negation. It does not deny that things appear. It assumes that once every essence has been dismantled, the work of wisdom is complete. Appearance is then treated as a residue, left over after emptiness has been seen. But negation removes only the premise that appearance needed an essence in order to appear. Nothing is subtracted from the appearing. The red of the flower and the warmth of the water are empty and vivid at once, and always were.
+
+And the void is not even coherent. Try to think of absolute nothing, and you think of something: a darkness, a silence, yourself looking on. "Nothing" is picked out only by contrast with something, so it is already a dependent designation, a relative absence. There is no place left for an absolute nothing to occupy.
+
+## One root: both keep the "it"
+
+"It arises" and "it ceases" disagree about what befalls the moment. They agree that there is a moment for it to befall. Verse 15.11 shows how each grows from that agreement:
+
+> 'What exists by its own nature does not cease to exist': that is permanence. 'It existed before and does not exist now': that brings annihilation.
+>
+> Nāgārjuna, [*Middle Way*, Chapter 15](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-15), verse 11
+
+Both start from a thing with a nature of its own. They differ only in what they say happens to it.
+
+So an absolute void is not the alternative to substance. It is substance in reverse: to be wiped out, something must first have stood on its own. Nihilism needs the very thing it denies. If being is not established, non-being is not established either, for people call non-being the alteration of being (15.5).
+
+![Diagram 1](../figures/aa-step-6-diagram-1.svg)
+
+MMK 15.10–11. The two extremes are two answers to one question: what happens to a thing with own-nature? In the koan, "does it arise, or does it cease?" When no such thing is found, the question and both answers fall away together.
+
+So the remedy for one trap is never the other. The fear of death shows the pattern clearly. Survival needs a bearer who carries on; destruction needs a bearer who is wiped out. Both need the bearer, and no bearer was ever found, not at death and not now.
+
+Tsongkhapa puts the cure in a single line that reverses what one would expect: appearance dispels the extreme of existence, and emptiness dispels the extreme of non-existence (*Three Principal Aspects of the Path*, v. 13). Appearing in dependence, things are not there from their own side; and their emptiness is no void, since it is only ever the emptiness of what appears.
+
+## Seen two ways
+
+**Seen with the logic of substance.** A sound rings out. I see a sound that is there, and then is gone, so I must pick one. If I hold to the arising, I look for where the sound is kept: a Now, an awareness, a Source. If I hold to the ceasing, I see it drop into nothing, and the hearing seems not to have counted.
+
+**Seen with the logic of dependency.** The same sound rings out, just as vivid. No sound is seen standing behind the sounding, waiting to arise or to cease. "Arising" is picked out against what came before, "ceasing" against what comes after, and both together with the hearing, the source and the air. As Step 1 put it, the moment is merely designated as arising or ceasing, upon conditions. Nothing is kept, and nothing is lost.
+
+It is like the stairs: are they up or down? A staircase is not up or down in itself. It is "up" for someone climbing and "down" for someone coming down, designated by where the walker stands and which way they face. The eternalist says the stairs are really up; the nihilist says they are really down. Both take the direction to belong to the stairs. Yet the stairs are not nothing, and not only in the mind: people really climb them and really come down. "Designated" does not mean less real. It is the only way the stairs, or the moment, are real at all.
+
+## Emptiness held wrongly
+
+There is one more place for the snake to bite, and it is the most refined. Work the koan through, and the moment is not found: not in its arising, not in its ceasing, not between them. That "not found" can itself be grasped by either end.
+
+Grasped as something, it becomes the Unfound: a vast space or openness behind the moments, out of which they arise and into which they cease. That is eternalism wearing the name of its cure. Grasped as nothing, it becomes a blank to rest in: "it is all empty anyway", a reason to shrug. That is nihilism wearing the same name. Nāgārjuna's warning is famous: the victorious ones taught emptiness as the way out of all views, but those for whom emptiness is a view they called incurable (13.8).
+
+> Emptiness is a medicine. It clears the illness of fixing, and then it leaves as well.
+
+Candrakīrti's image is a purgative. If it works, it clears the blockage and then leaves the body too. If it stays, it becomes a new illness, and there is no further medicine to remove it. Held as "the truth", the last remedy has become the disease.
+
+That is why emptiness is always the emptiness of something. It does not lie behind the cup. It is the cup's not being a cup from its own side. The moment's "not found" is the moment's not being an "it". And it is itself empty: a designation in dependence, named in relation to what is empty (24.18), as Step 4 showed. The test of having understood it is not having a new view, but being freed from the need to hold one.
+
+## The middle is not a midpoint
+
+The middle is not a sensible spot between the two answers, where the moment arises a little and ceases a little. It is not a compromise between "is" and "is not". It is what is left when nothing is found to bear either label. The koan is not answered from the middle. It falls away there, because the "it" it asks about was never found.
+
+Nor is the middle a thinner world. The cup still holds tea. A harsh word still hurts, and a kind one still helps. Actions still bear fruit. Grief is real, and so is healing. "Not found" never means "does not happen". What goes is only the lasting something, and its shadow, the something that is wiped out. Why things go on working with nothing behind them is the subject of Step 7.
+
+## Warm, or cold?
+
+Put one hand in ice water and the other in hot water for a minute. Then put both into the same basin of lukewarm water. One hand finds it warm, the other cool. The eternalist says the water really is warm or cool in itself, and one hand is wrong. The nihilist says warmth is nothing, only in the mind. Neither fits. The warmth is felt with the water, the hand, and what the hand was in before. It is not in the water alone, and not in the mind alone.
+
+And the bath is still run at the right heat for a baby. Neither kept forever nor wiped out: felt, in dependence, and reliable.
+
+## The same logic, beyond the moment
+
+The koan uses a moment, but the two traps are not about time. They wait wherever an "it" is assumed: a self, an object, a cause, a person.
+
+**The self.** The plain eternalist keeps a soul that lasts, perhaps through many lives, and owns whatever passes through it. The plain nihilist says there was never anyone at all, so nothing I do is really mine. One keeps the self forever; the other wipes it out. Both need a self with a nature of its own, either to keep or to lose. Look for it, and it is found neither in the body and thoughts nor apart from them. Yet seeing, hearing and choosing go on, and someone still answers to my name.
+
+**An object.** Take the cup on the table. The eternalist says it is really there, a cup in itself that lasts until it breaks. The nihilist takes it apart into clay, glaze and a name, and says it is really nothing. Both are arguing about a cup on its own side. No such cup is found: not in the parts, not apart from them, and not as a blank once the parts are counted. Meanwhile the cup simply holds tea. It is designated on its parts and its use, and that is all a cup ever needed to be.
+
+**A cause.** The eternalist makes a cause pass its essence into its effect, so the seed is somehow already the sprout. Then nothing new could ever come about. The nihilist makes cause and effect two separate things with nothing to connect them, so actions bear no fruit and a cruel word costs nothing. Both picture two things with natures of their own, either merged or cut apart. Dependency is neither. The sprout is not the seed, and it is not unconnected with it: neither cut off nor permanent. Karma holds in just this way. Kind acts tend towards happiness and cruel acts towards suffering, with nothing carried across.
+
+**The person.** The same two traps shape how we treat the living. Held as a fixed self, a person is pinned to what they once did: forever the liar, forever the failure, forever the one who wronged me. Held as nothing, a person stops mattering: their pain is "only empty", and promises and debts lose their weight. Both need a bearer with its own nature, either to fix or to dismiss. No such bearer is found. The person is designated on body, feeling, memory and deed, and found nowhere apart from them. That person can really change, and still keeps promises and answers for what has been done.
+
+**One appearing.** Both traps need an "it" behind the appearing, either to keep or to wipe out. Self, cup, seed and person are the vivid appearing, singled out in dependence. That appearing is not kept, because it is not found. It is not wiped out, because it appears, clear and working. By appearing, it is already empty. (See [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking).)
+
+## Try it
+
+- **The koan, both ways.** Listen to a sound and ask: does it arise, or does it cease? Answer "it arises", and notice where the mind wants to keep it: in a Now, in an awareness, in a Source. Answer "it ceases", and notice the pull towards "so nothing happened". Then look for the "it" both answers share.
+- **The shrug.** When "it's all empty anyway" comes up, check: does cause and result now matter less to you? If so, the snake is held by the tail.
+- **The medicine.** Notice whether "emptiness" has become something you hold, defend or rest in. Look for it apart from the things it is the emptiness of.
+
+**In the chain:** this page goes with [The Illusion of the Given](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion) (5 of 7); [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing) (3 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [Does It Arise or Cease?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan): the koan this step returns to, and the ways out that keep the "it".
+- [Nāgārjuna, Chapter 15](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-15): verses 5–11, the teaching to Kātyāyana, and the two extremes from one root.
+- [Nāgārjuna, Chapter 24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): verse 11, the snake grasped the wrong way, and the opponent who heard "empty" as "nothing".
+- [Nāgārjuna, Chapter 13](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-13): verse 8, emptiness as a view is incurable, and Candrakīrti's medicine.
+- [The Impossibility of Absolute Nothingness](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-6): Book 1, Chapter 6, the void as substantialism in reverse, the silence and the empty chair.
+- [The Disease of Relentless Negation](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-negation): Book 2, why wisdom is not complete once every essence is negated.
+- [Beyond the Extremes](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-extremes): Book 2, survival and destruction at death, both refused.
+- [The Eight Extremes](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ob-12): Book 4, Chapter 12, the four pairs, permanence and annihilation among them.
+- [Nāgārjuna, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21): becoming and destruction: permanence, annihilation, and the stream from life to life.
+
+### Talks
+
+- [Curing the Disease of Relentless Negation](https://youtu.be/8lNlWu0pUD4): talk.
+- [Negation Is Inadequate: Why the world appears so amazingly real, solid, undeniable and objective?](https://youtu.be/sUatare2hOU): talk on YouTube, why negating alone is not enough.
+
+## Words to know
+
+Eternalism (*śāśvata*)  
+The extreme of "it is": a self, Source or Awareness that lasts from its own side.
+
+Nihilism (*uccheda*)  
+The extreme of "it is not": a real thing falling into real nothing, or nothing mattering at all. Also called annihilationism.
+
+Relentless negation  
+Treating wisdom as complete once every essence is refuted, and appearance as a leftover. A subtle nihilism.
+
+Absolute void  
+A nothing standing on its own. It cannot be coherently posited: every absence is the absence of something.
+
+Emptiness of emptiness  
+Emptiness is itself designated and empty. Held as a truth or a void, the medicine becomes the illness.
+
+Middle way  
+Not a midpoint between "is" and "is not", but what is left when nothing is found to bear either.

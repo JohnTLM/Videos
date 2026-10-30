@@ -1,0 +1,103 @@
+# Cause and Effect
+
+If no cause produces its effect, why does the match still light?
+
+Causes work. A power inside them that makes the effect is never found. Both stand, and at the end one last question, why anything appears at all, simply stops applying.
+
+## The question
+
+Strike a match, and there is a flame. Bake flour, water and yeast, and there is bread. Leave out the yeast, and the loaf comes out flat. Rice grows from rice seed, never from barley. Nothing seems more certain than that one thing brings about another.
+
+Then Nāgārjuna opens his whole work by saying that nothing is ever found to arise, from itself, from another, from both, or from no cause. And Dzogchen speaks of a realisation "beyond cause and effect". Does that mean causes are unreal? Or that awakening floats free of them? Neither, and this page shows why.
+
+## The substance reading
+
+Stated fairly, the substance view of cause rests on three assumptions. Things exist from their own side. A cause holds a power of its own and hands it over to the effect. And beneath both, some ground keeps the pattern steady. In Book 4 I added a fourth, the hardest to catch: even when the first three are gone, the mind still asks why anything appears at all.
+
+![Diagram 1](../figures/aa-q-cause-diagram-1.svg)
+
+The substance picture of cause.
+
+## What the tradition says
+
+> Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen.
+>
+> Nāgārjuna, MMK 1.1
+
+> If effect and cause were one, producer and produced would be the same. If effect and cause were separate, a cause would be no different from a non-cause.
+>
+> Nāgārjuna, MMK 20.20
+
+> What reasoning negates is production established by its own nature, not production as the world speaks of it.
+>
+> Tsongkhapa · paraphrase
+
+## Applying the logic
+
+|                                       |                                                                                                                                                                                                                                                                             |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 · What would a substance view say?  | A cause, complete in itself, holds a power and pushes out an effect across a gap. Beneath them, something guarantees that the pattern holds.                                                                                                                                |
+| 2 · What does dependency say instead? | Cause and effect are named together. A seed in a jar is just a seed; it is called a condition because a sprout came up in dependence on it (MMK 1.5). When the conditions come together, the result appears. The "power to produce" is not found apart from them.           |
+| 3 · What is affirmed conventionally?  | Every regularity the world relies on: rice from rice seed, a flat loaf without yeast, medicine that heals, actions that bear fruit. "Cause" in the sense of conditions coming together holds fully, and so does "cause" as the factor we pick out when we follow a process. |
+| 4 · What is never found?              | A producing power. A moment when the flame crosses over from nowhere. A ground beneath the conditions. And not dependence itself as a final web, either: dependence, too, is designated.                                                                                    |
+
+## The last why
+
+When essence, power and ground have all gone, a quieter demand is left. Fine, the conditions came together. But why this, here, now? Why does anything appear at all? It sounds like the deepest question. It is the last place the habit hides.
+
+The question assumes a gap between the conditions and the appearing, a gap an explanation could fill. When condition and appearance are seen as arising together, not one producing the other in a row, there is no gap left for a why to fill. In Book 2 I put it this way: the question is not left unanswered. It is retired, for lack of anywhere left to stand. That is what Dzogchen means by "no why and because". It is not a void and not a mystery.
+
+> "Beyond cause and effect" means beyond intrinsic cause and intrinsic effect, never beyond dependent arising.
+
+And this is not because things are empty. Emptiness explains nothing and does not make causes work. The point runs the other way, as Step 7 shows: a cause that existed by itself could not change, combine or act at all.
+
+## Two traps
+
+Too much: eternalism
+
+"There must be a source." A first cause, a creator, or a spontaneous ground quietly producing appearances from a place analysis cannot reach. "Spontaneous presence" taken this way is the demand for a producer, given one last exemption. Spontaneous never means uncaused.
+
+Too little: nihilism
+
+"No real causes, so nothing I do matters," or "beyond cause and effect, practice and ethics no longer apply." Leave out the yeast and the loaf is still flat. Emptiness denies a producing power, not the working of conditions.
+
+## In practice
+
+- Strike a match and look for the moment the flame passes from not being to being. Every moment is full of change; at no moment is a finished flame handed across.
+- Watch for the question "but why?" as it rises. Notice what it assumes: a gap, and something to fill it.
+- Care about conditions. Suffering is kept going now, by conditions that can change, not by a first cause that must be found.
+
+**In the chain:** this page goes with [Beyond Cause and Effect](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#beyond) (7 of 7); [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing) (3 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [Beyond Cause and Effect](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#beyond): bonus article, the three senses of "cause" and the last spell.
+- [The Three Assumptions and the Fourth](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ob-17): Book 4, Chapter 17.
+- [The Last Refuge of Ontology](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-refuge): Book 2, dependent arising dismantles itself.
+- [The Chariot Comes Alive](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-chariot): Book 2, the apple, and "why this, why now" retired.
+- [Nāgārjuna, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1): conditions, and the four ways a thing might arise.
+- [Nāgārjuna, Chapter 20](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-20): combination, and the loaf of bread.
+- [Nāgārjuna, Chapter 26](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-26): the twelve links: how suffering runs, and how it stops.
+
+### Talks
+
+- [Causal Efficacy Without Causal Power](https://youtu.be/ojUZVkj5L_M): talk on YouTube.
+- [Conditions Have To Be Empty](https://youtu.be/jVquoYyLfxE): talk on YouTube, why conditions get no exemption.
+- [Beyond Non-Dual Anatta: Logic and Causal Efficacy of a Substrateless World](https://youtu.be/yob8YRp5x2Y): talk on YouTube, causes that work without own-nature.
+
+## Words to know
+
+Condition (*pratyaya*)  
+A factor in dependence on which something arises. Named a condition because of the effect.
+
+Dependent arising (*pratītyasamutpāda*)  
+Things coming about through conditions, with no producer behind them.
+
+Intrinsic production  
+A cause that exists on its own and delivers an effect. What MMK 1.1 refuses.
+
+Spontaneous presence (*lhun grub*)  
+Appearing complete, owing nothing to a hidden source. Never "uncaused".
+
+Elaboration (*prapañca*)  
+The mind's spinning of "it came", "it went", "but why?" around something taken to be there.

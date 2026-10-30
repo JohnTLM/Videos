@@ -15,6 +15,7 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | [`new-documents/`](new-documents/) | Bonus articles | each video's script, drawings (`*-scenes.tsx`) and subtitles |
 | [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | New bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
+| [`audiobook/`](audiobook/prog-spec.md) | Books 1, 2, 4 and 5, the bonus articles and the Questions | read-aloud MP3s, one per chapter (edge-tts, free voices); its own spec and a text snapshot |
 
 ## Rule: build on the owner's server (owner's decision, 2026-10-28)
 

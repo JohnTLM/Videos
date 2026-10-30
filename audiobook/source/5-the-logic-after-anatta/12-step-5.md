@@ -1,0 +1,136 @@
+# Step 5: The Four Corners
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+The question offers four answers: it arises, it ceases, it both arises and ceases, it neither arises nor ceases. [The koan](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan) page runs through them quickly, and each fails. This step asks why: why each falls, why all four fall together, and why "neither" is not a secret fifth place to stand. A child who asks where your lap went when you stood up has met the same puzzle.
+
+## The four corners
+
+These four are the four corners, the tetralemma (*catuṣkoṭi*): it is, it is not, both, neither. Does the Tathāgata, the awakened one, exist after death? The Buddha set such questions aside, with all four answers. They are called the undeclared questions (*avyākṛta*), and Nāgārjuna returns to them in Chapters 22, 25 and 27.
+
+His most famous verse has the same shape. Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen (MMK 1.1). Self, other, both, neither. The four corners are not a device kept for mystics; they are what the logic of substance asks about anything, a sprout or a moment, and they feel complete.
+
+## Why each corner falls
+
+**It arises.** Then the moment is there, from its own side. But what is there from its own side needs nothing to become what it is, so there is nothing for arising to do, and nothing could make it go. Nāgārjuna's verdict is short: "it is" is the grasping of permanence (15.10). Yet this moment ceases as it arises.
+
+**It ceases.** Then something real passes into nothing: the view of annihilation (15.11). And "it ceases" has a deeper problem. An absence is always the absence of something. "No milk in the jug" makes sense only against milk. Non-being borrows everything it means from the being it negates (15.5; 25.7). If the arisen moment is not found, its ceasing has nothing to borrow.
+
+**Both.** Then two failed answers are joined, and they carry the faults of each. A thing cannot both be and not be in the same sense, any more than light and darkness can sit in one spot (25.14). Two wrong answers do not make a right one.
+
+**Neither.** The subtlest corner. Notice how Nāgārjuna answers it. "Neither an existing thing nor an absence" is built out of "existing thing" and "absence". It makes sense only if those two were established first (25.15). And if something really were neither, who could know it, and by what (25.16)? If "both" cannot be established, he says elsewhere, "neither" cannot be either (27.18). "Neither arises nor ceases" needs arising and ceasing first in the same way.
+
+## One assumption under all four
+
+The four corners fall together, because they rest on one thing. Each assumes there is something findable, a bearer with a status of its own, there to exist or not exist. In the koan that bearer is the "it". The question hands it to us: a moment with a nature of its own. Only a thing that really exists, Nāgārjuna says, is forced to be either permanent or annihilated (21.14).
+
+The Sanskrit for "extreme" is *anta*, an edge: the far side of a field, a place where one could stand. Each corner is a place for a thing to be; all assume something with whereabouts.
+
+![Diagram 1](../figures/aa-step-5-diagram-1.svg)
+
+The tetralemma (MMK 1.1, 25.4–16, 27.13–18). The four answers differ, but they share one premise. When the bearer is not found, all four fall together, and nothing new is put in their place.
+
+The Buddha's answer to the wanderer Vacchagotta shows this most simply (Majjhima Nikāya 72). When a fire goes out, in which direction has it gone: east, west, north or south? "That does not apply," Vacchagotta says. Not because the fire went too far to see, or into nothing. The question asks for the whereabouts of a fire apart from its burning, and no such fire was ever there. Nāgārjuna applies the same answer to the Tathāgata, and adds the decisive point: the four answers fail even while the Buddha is alive (25.17–18). The question was never about death. It was about whether there is a Buddha found from his own side. Ask where this moment went when it ceased, and the question has the same shape.
+
+This is not a trick that breaks logic. "Is the present king of France bald?" cannot be answered yes or no, because there is no present king of France. The question fails before either answer could be true. It had nothing to be about. The eight extremes of the homage have exactly this shape, and so does the koan.
+
+## "Neither" is not a fifth place to stand
+
+Here the habit makes its most refined move. All four corners have fallen. Surely, then, the truth lies beyond them: a reality beyond being and non-being, beyond all words, which the four corners could never reach. The Absolute. The Ineffable. Pure Awareness, prior to every concept. With the koan: a timeless Now the moments pass through, or an awareness watching them.
+
+I know the pull of this from the inside. In the years of I AM, as Step 2 said, I negated a great deal: thoughts, sensations, the body, the world, not this, not that. What was left seemed beyond every description, and so beyond every question. It felt like the one thing the corners could not touch. It was in fact the one thing I had never looked for.
+
+Nāgārjuna closes this door himself. Rejecting all four answers about arising is not a fifth theory of arising (1.1). It is a non-implicative negation: it removes and installs nothing. When he is tempted to say that the truth about the Buddha is that he is empty, he stops that too: one should not say "empty", nor "not empty", nor "both", nor "neither"; yet they are spoken, for the sake of designation (22.11). "Empty" is a word that does a job, undoing a grasp.
+
+> "Beyond words" means there is nothing further to grasp, not something words fail to reach.
+
+So when the ultimate is called free of the four extremes, or inexpressible, it names designation and grasping coming to rest, with nothing found and nothing installed. It does not name a reality that exists but escapes designation. Read that way, the "beyond" is one more thing on its own side, the same substance with a quieter name. The fifth corner gets no exemption.
+
+## Seen two ways
+
+**Seen with the logic of substance.** A moment is here, on its own side, and arising and ceasing happen to it. So one corner must be true. Each fails, so I try the next, or look for a fifth. The koan feels like a trap.
+
+**Seen with the logic of dependency.** No moment is found standing there first. A sound is sounding, picked out against before and after. Seen from before, it is called arising; from after, ceasing. Nothing is missing, and the question has nothing to grip.
+
+As Step 1 put it, the moment is merely designated as arising or ceasing, upon conditions. This is not the fourth corner, which gives the "it" a strange status of its own. This gives it no status of its own at all. Nor does "designated" demote the moment: the sound is fully heard.
+
+It is like the stairs of [Step 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-1): not up or down in themselves, yet really climbed and really descended. The moment is "arising" or "ceasing" in the same way, from the side it is picked out.
+
+## The corners as medicine
+
+None of this means the four corners are forbidden words. Nāgārjuna uses them as teaching. "Everything is real. Not real. Both real and not real. Neither not real nor real. This is the buddhas' teaching" (18.8). Candrakīrti reads the four as steps for different people: "real" for those who must first trust ordinary experience, "not real" to loosen grasping, "both" as real conventionally and not ultimately (Step 4), "neither" for those who need neither label. In the same way the buddhas spoke of a self, taught no-self, and taught that there is neither a self nor a no-self (18.6).
+
+Each answers a particular grasping. Ordinary speech keeps its uses too: "the car went by at noon" is true, said within a framework. So the koan can be answered conventionally: the sound starts and ends. What fails is the demand for an "it" found doing the starting and the ending.
+
+## When the spinning stops
+
+What is left when the four corners fall is not a blank, and not a silence held over the world. Nāgārjuna's word for what stops is elaboration (*prapañca*): the mind's spinning-out of "it is", "it is not", "it came", "it went", around something it takes to be there. When that something, the koan's "it", is not found, the spinning stops by itself. No corner wins. That stopping is called peace (25.24). The work ends where it began: since all things are empty, where, for whom, which, and why would views arise (27.29)?
+
+This can be checked in the plainest moment. A thought appears. Where did it come from? Where does it stay? Where did it go? Nothing there has the whereabouts the questions ask for. Yet the thought was thought, and you acted on it. No corner to stand on, and nothing missing.
+
+One caution: a quiet mind is not the same as this. Stillness with the habit of fixing intact has only paused.
+
+## The siren's pitch
+
+An ambulance passes. Its siren is high as it comes and drops as it goes, while for the driver it never changes. So what is its pitch? High? Low? Both? Neither? Each answer looks for a pitch sitting in the siren on its own. There is none to find. The pitch is heard with the siren, the air, and where the hearer is and how they move.
+
+Yet the siren is heard, and cars pull aside. A hospital uses the same shift in pitch to measure how fast blood flows. Nothing about the hearing is lost. Only the question's "it" falls away.
+
+## The same logic, beyond the moment
+
+The four corners can be asked of anything, not only of a moment. Wherever the "it" is not found, they fall the same way.
+
+**The self.** Does the self exist? Then it would be there from its own side, needing nothing, and it could never learn or change. Does it not exist? Then who remembers, acts and keeps promises? Both? Neither? Each answer looks for a self found on its own, and none is found. So the Buddha set such questions aside. Yet he spoke of a self, taught no-self, and taught neither (18.6), each for a particular grasping. Thinking, choosing and caring go on as before. Only an owner standing behind them is not found.
+
+**An object.** Sit down, and you have a lap. A child puts a book on it. Stand up, and the child asks: where did your lap go? Is it still there? No. Is it destroyed, then? That sounds wrong too. Both? Neither? Each answer sounds a little foolish. The question asks for the whereabouts of a lap apart from the sitting, and there never was one. A cup or a chair is the same: fully usable, and not found apart from its parts and its use. Nothing was lost when you stood up.
+
+**A cause.** Does a sprout come from itself, from another, from both, or from no cause at all (1.1)? From itself: then it was already in the seed, and there is nothing for growing to do. From another: then seed and sprout are two unrelated things, and anything could come from anything. Both joins the two faults. Without a cause, a farmer could plant nothing and still wait for a harvest. None of the four is found. Yet rice seed gives rice, never barley, and the farmer's work is not wasted. What fails is a sprout arising from its own side, not the growing.
+
+**The person.** Where has someone gone who has died? To some other place? Into nothing? Both? Neither? It is the question Vacchagotta was asked about the fire, and the answer is the same: "That does not apply." Not because the one we loved went too far to follow, or vanished into nothing. The question asks for a person found apart from the living, and none was there even while they lived (25.17–18). As one flame lights another, one life conditions the next, with no traveller carried across. Love and grief stay exactly where they were.
+
+**One appearing.** The self, the lap, the sprout and the one who died all fail the four corners for one reason. Each question asks about an "it" behind the appearing. There is only the vivid appearing, singled out in dependence, and by appearing it is already empty. So nothing is left over to be, not be, both or neither. (See [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking).)
+
+## Try it
+
+- **The koan, corner by corner.** Listen to one sound until it ends. Ask: did it arise? Did it cease? Both? Neither? After each, look for the "it" it is about, a sound apart from the sounding. None is found, and the sound was heard in full.
+- **The thought.** At the next thought, look for where it came from, where it stays, where it goes. Do not answer. It is vivid, with no whereabouts.
+- **The fifth corner.** When you reach "it is beyond all that", ask: is there something here that words fail to reach? Look for it, the way you looked for the sound.
+
+**In the chain:** this page goes with [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic) (6 of 7); [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon) (4 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [Does It Arise or Cease?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan): the koan itself.
+- [Nāgārjuna, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1): verse 1, the four ways a thing might arise, and why rejecting all four is not a fifth theory.
+- [Nāgārjuna, Chapter 15](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-15): verses 10 and 11, "it is" as permanence and "it is not" as annihilation, both rooted in own-nature.
+- [Nāgārjuna, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21): verse 14, only a thing that really exists faces permanence or annihilation.
+- [Nāgārjuna, Chapter 25](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-25): nirvāṇa as a thing, an absence, both or neither, all four refused; and the Buddha, living or passed.
+- [Nāgārjuna, Chapter 22](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-22): verse 11, not "empty", not "not empty", not both, not neither; the undeclared questions.
+- [Nāgārjuna, Chapter 18](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-18): verses 6 and 8, the four statements as graded teaching.
+- [Unfindability and Freedom from the Eight Extremes](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-3): Book 1, Chapter 3, extremes as whereabouts, and the fire that went nowhere.
+- [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): "What 'Logic' Means Here", refusing a presupposition, not breaking logic.
+
+### Talks
+
+- [Core Logic 1: The Tetralemma (Catuṣkoṭi)](https://youtu.be/0155_51hVyM): talk, the four corners step by step.
+- [Nagarjuna's MMK: 5 Core Deconstruction Logics](https://youtu.be/P7GGwDGRsiw): talk on YouTube, the five logics together.
+
+## Words to know
+
+Tetralemma (*catuṣkoṭi*)  
+The four corners: is, is not, both, neither. Meant to cover every answer. All four rest on a findable bearer.
+
+Extreme (*anta*)  
+An edge, a place to stand: any position that puts a thing somewhere, in being, in nothing, or in between.
+
+Undeclared questions (*avyākṛta*)  
+Questions the Buddha set aside, such as whether the Tathāgata exists after death. They had nothing to be about.
+
+Refused presupposition  
+Rejecting a question because what it assumes is not there, as with the present king of France. Not a break with logic.
+
+Non-implicative negation (*prasajya-pratiṣedha*)  
+A negation that removes and installs nothing. Why "not all four" is not a fifth.
+
+Elaboration (*prapañca*)  
+The mind's spinning of "is", "is not", "came", "went" around something taken to be there. It stops when that something is not found.

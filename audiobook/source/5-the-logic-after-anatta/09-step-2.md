@@ -1,0 +1,171 @@
+# Step 2: What Is Negated
+
+This moment ceases as it arises. Does it arise, or does it cease?
+
+The answer to [the koan](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan) is that no "it" is found. That can sound as if it takes a great deal away. What it denies is narrow: a moment with a nature of its own, standing between its arising and its ceasing.
+
+This step is about aiming that denial exactly. Aim it short and the "it" survives somewhere else. Aim it too far and the koan destroys the very moment it was meant to free. (Ice is the same: the cold is not found in it, and the hand is still cold.)
+
+## Finding the target
+
+Tsongkhapa made this the first step of the whole analysis. Unless the object of negation is identified as it actually works in one's own mind, the refutation misses its target, however sound the reasoning.
+
+I learned this the long way. In the years of I AM I was good at negating. Thoughts, sensations, the body, the world: not this, not that. Each was set aside as something seen, and therefore not what I was. What I never put through the test was the one doing the setting aside. The more I negated, the more solid the Witness became. I was negating a great deal, in every place except the one that mattered.
+
+So the question here is precise. When the koan says no "it" is found, what exactly is denied?
+
+## Two ways of seeing it
+
+Start with what the koan leaves alone. A car goes by and its sound fades. Conventionally, the sound arises and passes, and it is vivid while it sounds. This is fully valid, and nothing in the analysis makes it fainter. What differs is how the same sound is seen.
+
+**Seen with the logic of substance.** There is a sound first, and arising and ceasing happen to it. It comes, it is there for a little while, it goes. So the koan must be answered, and every answer needs the sound to stand still, for at least an instant, between the two.
+
+**Seen with the logic of dependency.** The sounding is heard, and nothing standing behind it is found. "Arising" and "ceasing" are how the sounding is picked out, against what came before and what comes after. Nothing is missing from it.
+
+As [Step 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-1) put it, the moment is merely designated as arising or ceasing, upon conditions, like stairs that are not up or down in themselves, yet really climbed and really descended. That is what the koan denies, and all it denies: a moment that is arising or ceasing in itself.
+
+## Own-nature, and only own-nature
+
+What is denied is one thing: **own-nature** (*svabhāva*). Inherent existence, existence from its own side and intrinsic nature are other names for it. It is what a thing would have if it were what it is apart from everything else, including the mind that picks it out.
+
+Nāgārjuna gives its marks plainly: own-nature "is not made, and does not depend on anything else" (MMK 15.2). Anything that comes about from causes and conditions is made, so it cannot have own-nature in this sense (MMK 15.1). That is the whole target. Nothing else is negated.
+
+In the koan, own-nature is the moment that abides, there on its own so that arising and ceasing could happen to it. That is what is not found. (The word "nature" has a second sense, a thing's way of being, *dharmatā*, which names no essence. I mean the first.)
+
+![Diagram 1](../figures/aa-step-2-diagram-1.svg)
+
+The negation has one target. Aimed short of it, the habit survives in a subtler form. Aimed past it, it denies the working world and becomes nihilism.
+
+## Negating too little
+
+There are two ways to fall short, and I knew both.
+
+The first is to refute only theories. The tradition distinguishes **acquired grasping**, shaped by philosophy, from **innate grasping**, the felt sense, before any words, that what appears is there from its own side. Animals and infants have it. So do philosophers, once they put their books down. One can follow every step of the koan and leave the innate sense untouched. The theories were never the real problem. The habit was.
+
+The second is to negate the self but keep something just behind it: a pure Awareness, a Source, a ground of being. This is subtle, because the negation feels complete. The person is seen through, the body and thoughts are seen through, and what remains seems too clear and too impersonal to be a self. That was my position before 1997. Presence had become the one reality, and the logic of substance was still holding it. The test was never turned on it.
+
+The koan shows the same move in small. The "it" of the moment is dropped, and something takes its place: a timeless Now in which moments pass, or an awareness in which they come and go. Each is the "it" moved one level down, and each retreat feels like progress. Ask the koan again: does the Now arise, or cease? Does the awareness?
+
+## Negating too much
+
+The opposite mistake is quieter but just as harmful. It hears "no 'it' is found" and concludes that nothing happens at all: the koan's fourth answer, "neither", taken as the truth. Then actions bring no results and practice leads to a blank. Emptiness becomes a void to rest in. This answer still pictures an "it", and only declares it absent. Nāgārjuna refuses both sides:
+
+> 'It is' is the grasping of permanence. 'It is not' is the view of annihilation. So the wise should not take their stand on existence or on non-existence.
+>
+> Nāgārjuna, [*Middle Way*, Chapter 15](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-15), verse 10
+
+The stairs are still climbed. A harsh word still hurts, and a kind one still helps. The appearing, the working and the naming are untouched. The test is simple: if a reading of emptiness makes cause and result matter less, it has aimed past the target. Nāgārjuna's point is the reverse: only because things are empty can they arise, change and work at all (MMK 24.14, 24.20). A moment with own-nature could never pass.
+
+## What remains
+
+When own-nature is negated, nothing is put in its place. The tradition calls this a **non-implicative negation**: it removes and implies nothing further. It does not say "not a thing, therefore a no-thing", or "not a self, therefore a Self". When the "it" goes, no timeless Now steps in, no awareness behind the passing, and no void. The sound is simply sounding. The koan's question is not answered. It falls away.
+
+And emptiness is not exempt. It is not a substance, a void or a ground beneath appearances. It is empty too. If emptiness were left standing on its own side, the habit would have found its final floor.
+
+This is where the seven phases come back. Phase 5 negates the own-nature of the subject: the Witness is not found. Phase 6 negates it in everything that appears. But presence was never the target. After anatta, presence did not fade. It became more vivid, because it was no longer pushed behind experience as something on its own side. What went was the standing, not the shining.
+
+> The koan takes away the "it", and nothing else. The moment stays. Nothing comes to stand where the "it" was.
+
+## Not about substance, but about "something there"
+
+When I speak of the logic of substance, it is easy to think of matter, or some stuff that things are made of. That is not the point. The inherent framework is wider and closer than that. Every word, every thought, every idea, every sensation, every experience: we take it that there must be something there. When we look, nothing is found there on its own. The word is still spoken and the sensation still felt, but nothing stands behind them.
+
+Without training and a clear view, we cannot unwind this. The habit is quicker than any experience, and whatever we taste, it rebuilds into a something:
+
+- We taste luminous clarity, and we invent a Witness: a knower standing behind the knowing.
+- We experience the vividness of appearances, and we make it objective: a world out there, solid and given.
+- We taste unfindability, and we make it subjective and private: "it is all in my mind", an inner experience that belongs to me.
+
+Three genuine tastes, three inventions. Each time the experience was true and the reading was false. The mistake is never in the experience, so better experience cannot cure it.
+
+Look at what the three cover. The knower: clarity becomes a Witness. The known: vividness becomes a world out there. And emptiness itself, the very insight that was meant to free us, becomes a private inner space. There is nowhere the habit does not reach. It even turns its own antidote into a thing, which is what Nāgārjuna warns against: those who make emptiness into a view are incurable (MMK 13.8).
+
+Clarity, vividness and unfindability are not three things. They are one appearing ([*Vivid and Nowhere*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon), section 12). The habit takes it apart and makes each piece into a thing. The pieces then become the great positions people argue about, and that the [Canon View](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-canon) sets aside: consciousness as the ground of everything, a physical world that is simply there, and a world that is only mind. These are not theories people choose. They are what the habit does to a real taste.
+
+The three also follow the path. The Witness is the trap of the I AM years, and I lived in it. The objective world is the trap of non-dual experience still read substantially, and I lived in that too. Private emptiness is a subtler trap, and I met it too. When I first tasted appearances as one's own radiant clarity, I made it internal, as if all were mind. The insight itself had become something inner and private.
+
+It was the logic of dependency that got me out. Dependency removes privacy and subjectivity. If a subject depends on its object, what makes it truly a subject? A knower that exists only together with the known is not an inside looking out. And an inside that depends on an outside is not truly inside. Once that is seen, there is nothing left to be private, and nowhere for "only mind" to stand.
+
+Take a qualia: the redness of red as it is experienced. It is usually called inner and private, mine and no one else's. But why should it be inside and private when it cannot be found at all? It is not in the eye, the light or the mind, and not anywhere else. What is there is dependency: red appearing because light, a surface, an eye and attention come together. Inside and outside, mine and yours, are all logics of that same dependency, not facts about where the red sits.
+
+In the inherent framework, analysed its own way, it looks different. The world comes out really objective, the experience really subjective, and the subjective really private. It appears so, and followed to the end it makes us solipsistic: shut inside our own experience, with the world and other minds on the far side of a wall. That wall was never found. It is a habitual way of understanding that makes us think this way. ([*The Illusion of the Given*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion) looks at how many beings can share a world without such a wall.)
+
+That is why the view and the training matter. They do not add anything to the experience. They stop the habit from building a something out of it.
+
+> The taste was right. The something we made of it was not.
+
+## Your own weight
+
+Stand on a scale. Your weight seems to be yours, sitting in the body like a stone in a pocket. It feels like the plainest fact there is. But weight is a pull between your body and the earth, and it depends on the earth's mass as much as on yours. On the Moon you would weigh about a sixth as much. In orbit, floating, you would weigh nothing, and not a gram of you would be gone. Where was the weight that sat in you on its own?
+
+Look deeper, at mass itself. Ernst Mach argued that even the body's resistance to being pushed, its inertia, comes from its relation to all the matter in the universe. Einstein called this Mach's principle; physicists still debate how far it goes. Dōgen would say the whole universe is exerted in this one heaviness: his total exertion. Not that the universe holds it up like a floor. The universe too is not found apart from what it is the universe of.
+
+None of this takes the weight away. The scale still reads 70 kilos, the doctor still needs the number, and a dropped book still hurts your foot. What is denied is only a heaviness sitting in the body from its own side. Deny less, and the weight moves house: into the atoms, or into "the universe" as a new ground. Deny more, and the scale is lying. Neither is so.
+
+Once dependent arising is seen, this lightness spreads. Whether it is called mind or matter, subjective or objective, it loses its weight and its fixed identity. Not because anything is taken away, but because nothing was ever sitting inside it to be heavy. Things become light, almost weightless: magical and plastic, like a display that works perfectly and holds nothing.
+
+The same goes for anything you hold. [Holding an apple](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking/part-7), in *What the Logic Is Looking At*, takes one apple through all the senses: no apple is found standing out there on its own, and nothing is missing.
+
+## The same logic, beyond the moment
+
+The koan is only the sharpest case. The same aim works wherever the habit lands: deny own-nature, and only own-nature.
+
+**The self.** When you are falsely accused, or praised, an "I" appears at once: vivid, solid, standing behind the hurt or the pleasure. That "I" is the target. Look for it apart from the heat in the face, the racing thoughts and the words just heard, and it is not found. Yet the one who speaks, decides and answers is not denied. Aim short, and a quieter "I" survives as the one who watches. Aim too far, and no one is left to apologise or to keep a promise. Only a self standing on its own is negated.
+
+**An object.** Hold a cube of ice. The cold is sharp, and it seems to sit in the ice, waiting for a hand to find it. Look for the cold: in the ice, in the hand, or somewhere between them. It is not found in any of them. Yet the hand is still cold. What is denied is the cold sitting in the ice from its own side. Deny less, and the cold just moves house: into the hand, or into the mind that feels it. Deny more, and the ice is unreal and the cold imagined. Neither is so.
+
+**A cause.** Plant a seed, add soil, water and warmth, and a shoot comes up. The cause is not denied. Actions still matter. What is denied is a cause holding its effect from its own side, as if the shoot were already packed inside the seed and only had to come out. Look for that power in the seed alone, and it is not found. It is there only with the soil, the water and the time. Too little keeps a hidden force in the seed. Too much says actions bring no results. Nāgārjuna's point runs the other way: because the seed is empty, it can grow.
+
+**The person.** The person you love is not negated. Their face, their voice, the way they laugh at the same old joke: all of it is there, and all of it matters. What is denied is a person standing apart from body, mind, history and name, a core that would stay the same if all of these changed. Look for that core, and it is not found. Too little keeps it as a soul behind the life. Too much makes the person an illusion, and love a mistake. The love is real, and it is love for someone who is changing.
+
+**One appearing.** In all four, the target is the same: not the appearing, but the "on its own" added to it. The heat in the face, the cold in the hand, the shoot, the face of the one you love: each is the vivid appearing, singled out. Singling out is not negated. By appearing, it is already dependent, and so already empty. Only the extra "on its own" is denied. (See [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking).)
+
+## Try it
+
+- **The koan, aimed.** Listen to a sound until it ends and ask: does it arise, or does it cease? The sounding is not in doubt. What is not found is a sound standing between its start and its end. Let only that go.
+- **The ice.** Hold something cold, or warm. Look for the quality: in the thing, in the hand, between them. Notice that it is not found, and that it is still felt.
+- **The "I".** The next time you feel falsely accused, or praised, notice the "I" that appears: vivid, solid, standing behind everything. Do not argue with it. Look for it, right then, apart from the hurt, the heat in the face and the thoughts.
+- **The retreat.** When the looking finds nothing, watch for the next floor: "but awareness itself is real", "but the present moment is real". Ask the koan of that too.
+- **The overshoot.** If the looking leaves a flat sense that nothing happened, check: was the sound heard? Then "nothing happens" has gone past the target.
+
+**In the chain:** this page goes with [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing) (3 of 7); [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic) (6 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+
+## In the books
+
+- [Does It Arise or Cease?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan): the koan this step returns to.
+- [The Substantialist Misconception](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-1): Book 1, Chapter 1, the innate habit, and the ice.
+- [The Logical Impossibility of Intrinsic Nature](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#sw-2): Book 1, Chapter 2, the phone examined six ways, with nothing unconditioned left.
+- [Ignorance and Its Habit](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ob-3): Book 4, Chapter 3, how the habit works.
+- [Reification and Svabhāva as a Way of Seeing](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ob-15): Book 4, Chapter 15, where a ground comes from.
+- [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon): the two senses of "nature", and the habit that wants a floor (bonus article).
+- [Nāgārjuna, Chapter 15](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-15): the examination of own-nature, and neither "it is" nor "it is not".
+- [Nāgārjuna, Chapter 7](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-7): arising, abiding and ceasing examined.
+- [Nāgārjuna, Chapter 24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): why only what is empty can work.
+
+### Talks
+
+- [You, Ice, Coldness DONT EXIST Before Interaction](https://youtu.be/rr53lhHQ77Y): talk on YouTube, the ice, met in dependence.
+- [Do we Think Inherently? An Honest Clinical Interrogation](https://youtu.be/OlclLq5dOn8): talk on YouTube, looking for the habit in one’s own mind.
+
+## Words to know
+
+Own-nature (*svabhāva*)  
+Existence from a thing's own side: not made, not dependent. The only thing negated.
+
+Object of negation (*dgag bya*)  
+What the analysis refutes. Found by watching one's own mind, not by reading.
+
+Abiding (*sthiti*)  
+The moment that would stay between arising and ceasing: where the koan's "it" would have to be.
+
+Innate grasping (*lhan skyes*)  
+The felt sense, before words, that things are there from their own side.
+
+Acquired grasping (*kun brtags*)  
+Grasping shaped by theories. Refuting it leaves innate grasping untouched.
+
+Non-implicative negation  
+A negation that removes and puts nothing in its place.
+
+Way of being (*dharmatā*)  
+How a thing actually is. Called its "nature" only in a sense that names no essence.

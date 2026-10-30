@@ -1,0 +1,173 @@
+# Appendix: From Rheomode to Relation
+
+*The Transition from Anatta to Emptiness*
+
+Formal Foundations for Non-Substantialist Reasoning
+
+## Section 1: Why Language Must Be Rebuilt After the Collapse of Substance
+
+The preceding Parts have argued that independent existence cannot ultimately be established. The observer dissolves through anatta, objects lose their self-standing nature through dependent designation, and even dependent arising itself refuses to serve as a new ontological foundation. Conventional reality continues to function perfectly, yet nowhere can an independently existing substance be found.
+
+This philosophical dismantling raises a deeper question: if substantialism has been thoroughly deconstructed, why does it continue to feel so natural?
+
+The answer lies partly within language itself. Language is never merely a neutral mirror of reality; it carries inherited assumptions about the nature of existence. Ordinary grammar evolved to describe a world composed of independently existing things possessing intrinsic properties and interacting through external relations. Even after one recognizes the emptiness of these assumptions, language quietly reconstructs them every time one speaks. This appendix examines why this linguistic reconstruction occurs, why David Bohm's Rheomode represents one of the most important modern attempts to escape this trap, and why a fully non-substantialist worldview ultimately requires a grammar that privileges neither nouns, nor verbs, nor relation itself.
+
+### 1.1 The Grammar of Substance
+
+Ordinary language appears innocent. We say that the bird flies, the fire burns, the wind blows, or the person walks. Yet every one of these sentences already assumes a particular metaphysics. Each statement divides reality into a distinct thing, possessing a stable identity, which performs a specific action.
+
+Through this structure, grammar silently teaches ontology. The subject appears primary, the verb merely describes what the subject does, and the object receives the action. This architecture is so familiar that it rarely invites notice, yet it exactly mirrors the substantialist worldview examined throughout this book. It dictates that independent entities must first exist before relations can occur between them.
+
+### 1.2 Why Nāgārjuna Is So Difficult to Read
+
+This embedded ontology explains why Nāgārjuna appears so difficult to read. Readers unconsciously import ordinary grammar into every verse. When Nāgārjuna writes that there is no inherently existing mover, the reader naturally imagines an independently existing movement searching for an independently existing mover. But that is the grammatical architecture he is dismantling.
+
+Likewise, no agent, action, object, cause, effect, relation, or time are ever denied conventionally. Only their imagined independent existence is denied. Because language repeatedly pulls the reader back into substantialist assumptions, the difficulty of these texts lies not merely in their philosophy, but in the grammar through which the philosophy is interpreted.
+
+### 1.3 Bohm's Rheomode
+
+Few modern thinkers recognized this linguistic trap more clearly than David Bohm. Bohm argued that ordinary language freezes an inherently flowing reality into static objects. Instead of beginning with nouns, he proposed beginning with movement, suggesting that reality should be expressed as ongoing activity. Rather than saying 'the lightning flashed', one should think 'there is flashing'. Instead of 'the thinker thinks', one begins from 'thinking'. Bohm called this linguistic proposal the Rheomode, marking a recognition that language itself contributes to metaphysical illusion.
+
+### 1.4 The Great Achievement of Rheomode
+
+The Rheomode significantly weakens the primacy of substance. Under this framework, reality becomes dynamic rather than static, processes become primary, and objects are understood as temporary stabilizations within ongoing movement.
+
+This represents a major philosophical advance that resonates strongly with many aspects of contemporary science. Modern physics increasingly describes interactions rather than isolated particles, biology describes organisms through continual metabolic activity, and cognition emerges through dynamic interaction. Similarly, artificial intelligence computes through contextual transformations of learned parameters, not through a stored meaning for each word. In all these domains, verbs seem to capture the nature of reality far better than nouns.
+
+### 1.5 The Remaining Limitation
+
+Yet, the Rheomode does not completely escape substantialism; it simply relocates it. Instead of reifying objects, it risks reifying process itself. The verb quietly becomes the new substance, leading one to imagine flow itself, process itself, becoming itself, or reality itself as pure movement.
+
+But Madhyamaka asks the same question of process that it asks of substance: can process itself be found? Can movement inherently exist? Can becoming possess independent existence? Again, the answer is no. The critique that dismantles substance equally dismantles process. Nothing whatsoever escapes dependent designation.
+
+### 1.6 Beyond Nouns and Verbs
+
+This marks the decisive departure of the present work. The deepest implication of emptiness is not that reality consists of processes rather than objects, but rather that reality is free from both. Objects, processes, and relations are all designated; none possesses independent existence. Consequently, the aim is no longer merely to replace nouns with verbs, but to construct a grammar that never privileges either.
+
+### 1.7 Why Neither Relation nor Relata Is Primary
+
+Throughout this book, a single reversal has gradually emerged. Ordinarily, one imagines that objects exist first, enter into relations, and thereby produce events. The non-substantialist view reverses this sequence entirely. The reversal is useful as a corrective, but it must not become a new sequence: relational functioning, designation and the appearance of objects and events are designated together, none prior to the others.
+
+Objects do not first exist and then relate, nor do relations connect independently existing endpoints. Rather, the endpoints themselves are designated through relational functioning. Nothing exists first; everything co-emerges. This is why the formal system introduced in Section 2 is called Designation by Relation. The relation is not another hidden substance. It is merely the logical recognition that no endpoint can be established independently of the relating through which it is picked out—and the relating, too, is designated.
+
+### 1.8 Language After Emptiness
+
+If language is to express a non-substantialist worldview faithfully, it must satisfy several rigorous requirements. It must not assume independent subjects, objects, containers, observers, properties, or independently existing processes. Instead, every expression should remain rigorously neutral regarding ontological commitment. Language should describe functioning rather than hidden being. This constraint does not make language poorer; rather, it makes it vastly more precise.
+
+### 1.9 Concluding Reflection
+
+Language has always shaped philosophy. The metaphysics of substance was never merely a theory; it became embedded within grammar itself. David Bohm recognized this and courageously attempted to rebuild language around movement. The present work proposes one further step.
+
+The deepest implication of emptiness is not that reality is made of things, nor processes, nor relations, but that all of these are conventionally designated without possessing independent existence. Accordingly, the task is not to discover the final ontology, but to construct a language that no longer silently invents one. The formal syntax introduced in Section 2 is offered in this spirit. It is not the language of ultimate reality—for ultimate reality admits no privileged grammar—but an experimental shorthand designed to express conventional functioning without continually reconstructing the substantialist assumptions that have been painstakingly dismantled. That specification follows directly, in Sections 2 and 3.
+
+## Section 2: A Notation for Non-Substantialist Description
+
+The preceding Parts have argued that conventional reality functions perfectly without requiring independently existing substances. The analyses of anatta, total exertion, dependent designation, Madhyamaka, causal efficacy without causal power, and the rehabilitation of conventionality converge upon a single conclusion: functioning never required ontology.
+
+This conclusion, however, raises a practical question extending beyond philosophy. It must be asked whether a thoroughly non-substantialist worldview can be written down in a compact formal shorthand at all.
+
+The answer is not obvious. Ordinary language evolved within a substantialist cognitive framework. Its grammar naturally divides reality into nouns possessing properties, verbs expressing actions, and relations linking independently existing entities. Even mathematical notation inherits this orientation; variables are ordinarily treated as primitive objects, equality assumes identity between independently existing terms, and functions are frequently interpreted as mappings between already constituted domains.
+
+Such conventions are perfectly adequate for ordinary communication. They become problematic, however, when the aim is to represent a worldview in which no independently existing substance, bearer, container, observer, or background can be found.
+
+The purpose of this appendix is therefore not to extend the philosophical arguments developed in the main text, but rather to provide one possible formal language capable of expressing those conclusions without quietly reintroducing the substantialist assumptions they were intended to dissolve. This framework is called Designation by Relation. It is offered as an experimental shorthand, not a metaphysical doctrine and not a proof: it defines no inference rules, it has not been tested in any implementation, and it adds no force to the arguments it restates. Its only claim is that it makes those arguments easier to state without slipping back into the grammar of substance.
+
+### 2.1 Why a New Formal Language?
+
+Every formal system inherits hidden assumptions. Just as Euclidean geometry assumed absolute space and classical mechanics assumed absolute time, classical logic assumed independently identifiable objects, and ordinary grammar assumes that nouns exist before relations. Yet the central thesis of this book is precisely the opposite: no phenomenon possesses independent existence; phenomena and the conditions in dependence on which they appear are designated together.
+
+Consequently, objects are designated through relations, rather than relations occurring between pre-existing objects. This reversal cannot simply be asserted; it must also be reflected in syntax. Otherwise, one silently reconstructs substantialism through grammar even while verbally denying it. Designation by Relation therefore attempts to construct a syntax whose primitive assumptions already embody non-substantialism.
+
+### 2.2 Philosophical Scope
+
+Designation by Relation is neither a proof of Buddhism nor a replacement for mathematics, nor is it a programming language or a foundational ontology. Instead, it serves a narrower purpose. It provides a formal grammar for representing systems in which independent substance is never assumed, relation is used as a corrective, not a ground, and conventional functioning remains fully valid.
+
+### 2.3 The Eleven Axioms
+
+The formal framework consists of eleven primitive operators governing every expression, presented in full in Section 3. Together, they establish relational co-emergence, specific conditionality, manifest identity, and unmodified entirety. Furthermore, they account for the invalidation protocol, spontaneous expression, non-referential luminosity, horizontal dependency, horizontal co-emergence, direct mediumless contact, and conventional validity. No further primitive metaphysical assumptions are introduced.
+
+### 2.4 Relationship to the Main Text
+
+While Parts One and Two show why independent substances disappear, Part Three shows why science and cognition continue functioning without them, and Part Four retraces the central argument for a newer reader. This Appendix asks how such a worldview might be written down compactly. It therefore occupies a different register: where the preceding Parts argue, this Appendix specifies.
+
+### 2.5 Concluding Remarks
+
+Throughout this book, a single philosophical movement has gradually unfolded. The observer disappeared, the boundaries between phenomena lost their substantiality, and finally, even dependent arising ceased to function as an ontological foundation. Nothing whatsoever required inherent existence in order to appear, function, or be exactly what it is.
+
+## Section 3: The Axiomatic Specification
+
+Historically, new notation has often helped make an existing idea easier to hold in mind and work with — the invention of calculus is one well-known example, though the comparison should not be pressed too far, since what follows is a notation for concepts already argued in prose, not a new mathematics. A related, more modest bottleneck exists here. Standard human language and classical mathematical grammar share a hidden, deep-seated cognitive bias: substantialism. They inherently assume that reality is built from independent variables that possess intrinsic properties prior to their interaction. Even the standard equal sign can be read as importing identity between two independently given terms.
+
+### The Eleven Axioms of the Coreless Notation
+
+The architecture of Designation by Relation is governed by eleven distinct axioms that systematically strip away substantialist assumptions and establish a pure framework of dependency.
+
+Axiom 1: Relational Co-Emergence. This axiom denotes that a manifestation co-arises strictly as a relational event. It replaces the traditional equal sign, which structurally implies identical, independent substance, and establishes that a manifest event co-emerges entirely devoid of a self-standing base, functioning strictly as a conditional relation of its variables.
+
+Axiom 2: Specific Conditionality. This axiom denotes that what is designated as the relational field—itself a designation, not a substrate—operates with unauthored consistency. It locks the system to precise logic without implying an external controller or lawgiver, demonstrating that a state co-emerges operating with strict, predictable regularities.
+
+Axiom 3: Manifest Identity. This axiom represents the direct realization of non-self. It explicitly denies an independent witness or separate observer variable. The manifestation is recognized as the entirety of the action, completely collapsing the artificial gap between the subject and the object, meaning the individual is designated on the manifestation itself, not a fluid substance running through it.
+
+Axiom 4: Unmodified Entirety. This axiom names no state the system resolves into. It marks only the absence of essence, not a positive perfection, at the point where all conceptual overlays, absolute timelines, and external referents lose their clunky grip, leaving highly elaborated matrices to mathematically simplify into a centreless display.
+
+Axiom 5: The Invalidation Protocol. This operator serves as the strict rule of negation. Any mathematical expression or cognitive assumption implying an independent building block, standalone essence, or absolute container space is rendered structurally invalid: it is struck out, and nothing is put in its place.
+
+Axiom 6: Spontaneous Expression. This axiom maps the vivid presentation of an appearance arising without a findable source. It establishes that an event is completely empty of an inherent origin or producer behind the curtain, yet remains completely effective in its conventional operations.
+
+Axiom 7: Non-Referential Luminosity. This axiom represents the clarity of a happening, vividness and designation mingled rather than a pre-given content later named or frozen by language. It tracks appearance as translucent wireframes, describing each appearance as luminous and fully functioning without any background infrastructure or stage.
+
+Axiom 8: Horizontal Dependency. This axiom maps mutual establishment between variables where neither acts as a hierarchical precursor, origin, or foundation for the other. It outlaws vertical hierarchies, demonstrating that dualities seamlessly interface as dynamic configurations of empty relational patterns.
+
+Axiom 9: Horizontal Co-Emergence. This axiom establishes simultaneous relativity, tracking how individual nodes and boundaries are dynamically materialized at the exact moment of relation. Connection and endpoints are designated together, neither first, without a shared underlying substance.
+
+Axiom 10: Direct Mediumless Contact. This axiom expresses direct interaction between variables without utilizing space or time as physical containers. It confirms that phenomena interact immediately as a relational event, requiring no background ether, hidden connective tissue, or absolute spatial grid.
+
+Axiom 11: Conventional Validity. This axiom confirms that shorthand labels and conventional agreements are valid because they function reliably within the framework in which they are designated, the regularities themselves being designated rather than read off a pre-given matrix. It confirms that the conventional world works well not despite being empty, but precisely because it lacks an obstructive, rigid core.
+
+| **Axiom**                           | **Plain-Text Operational Operator** | **Functional Description**                                                                                                                                                                         |
+|-------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Axiom 1: Relational Co-Emergence    | ~\>                                 | Replaces the static equal sign; denotes that a manifestation co-arises strictly as a conditional relational event devoid of an independent substance base.                                         |
+| Axiom 2: Specific Conditionality    | ::                                  | Locks the system to precise, unauthored IF-THEN causal regularities without implying an external controller or background stage.                                                                   |
+| Axiom 3: Manifest Identity          | \[@\]                               | Denies an independent witness or observer variable; the artificial gap between subject and object falls away, and no fluid substrate replaces it.                                                  |
+| Axiom 4: Unmodified Entirety        | {O}                                 | Resolves to a non-referential state, marking only the absence of essence, not a positive state of perfection, where absolute timelines and external benchmarks simplify into a centreless display. |
+| Axiom 5: Invalidation Protocol      | =!=                                 | The operator of non-implicative negation; any mathematical assumption implying an independent building block or baseline vacuum is struck out, and nothing is put in its place.                    |
+| Axiom 6: Spontaneous Expression     | \[~\]                               | Maps the vivid presentation of an appearance arising effectively in its conventional operations without a findable, inherent origin behind the curtain.                                            |
+| Axiom 7: Non-Referential Luminosity | \[\*\]                              | Tracks appearance as a vivid, translucent wireframe event, its clarity being the appearing itself, functioning perfectly without background infrastructure or a staging container.                 |
+| Axiom 8: Horizontal Dependency      | \<\>                                | Outlaws vertical hierarchies; maps mutual establishment between variables where neither acts as an ontological precursor, origin, or foundation for the other.                                     |
+| Axiom 9: Horizontal Co-Emergence    | \<~\>                               | Establishes simultaneous relativity; connection, endpoints and boundaries are designated together, neither first, without a shared underlying substance.                                           |
+| Axiom 10: Direct Mediumless Contact | \[\>\<\]                            | Expresses immediate relational surface interaction between variables without utilizing space or time as absolute physical container boxes or background ether.                                     |
+| Axiom 11: Conventional Validity     | \[~v~\]                             | Confirms that shorthand labels, conventional frameworks, and user interfaces are valid because they function reliably within the framework in which they are designated.                           |
+
+### Three Worked Syntheses: Applying the Notation to Larger Claims
+
+The three syntheses below are not proofs in any formal sense — no inference rules have been defined for this notation, so nothing here is mechanically derived or verifiable the way a mathematical theorem would be. Each synthesis instead takes a claim already argued in prose elsewhere in this work and restates it compactly using the axioms above. Where the underlying claim is itself a considered philosophical position rather than a settled result — as is true of those below — the notation inherits exactly that status, no more and no less. Dressing a philosophical claim in symbols does not strengthen it; it only compresses it.
+
+### Synthesis 1: Spontaneous Presence
+
+Variables: Spontaneous Presence (SP), Non-Referential Luminosity (\[\*\]), and Spontaneous Expression (\[~\]).
+
+Restated using the axioms: Manifestations cannot be located as independent substrates, which requires applying Spontaneous Expression (\[~\]) and the Invalidation Protocol (=!=). Reality is empty of a core and arises seamlessly through Relational Co-Emergence (~\>) and Specific Conditionality (::), with no matrix beneath it. This relational web requires no external observer or projector, presenting vividly and unceasingly through Manifest Identity (\[@\]) and Non-Referential Luminosity (\[\*\]).
+
+Notation: SP ~\> ( \[\*\] \<\> \[~\] )
+
+What this restates: the argument made in the main text — that spontaneous presence and dependent arising are the same nature under two descriptions, with no producer required — compressed into notation. The notation does not add force to that argument beyond what the argument already earned in prose; see the caution in 'Beyond Cause and Effect: Why Spontaneous Presence Is Not a Hidden Ground' (Part 1) against reading 'spontaneous' as a disguised hidden ground.
+
+### Synthesis 2: Conventional and Nirvanic States
+
+Variables: Conv (The Conventional World); the nirvanic nature is written directly as Unmodified Entirety ({O}).
+
+Restated using the axioms: The conventional world is built upon Relational Co-Emergence (~\>), is strictly bound by Specific Conditionality (::), and is affirmed by Conventional Validity (\[~v~\]). The ultimate is not a second state: it is the same conventional world seen as devoid of an inherent core, written with Spontaneous Expression (\[~\]) and Unmodified Entirety ({O}). The Invalidation Protocol (=!=) forbids any independent essence from separating the two truths into two domains.
+
+Notation: Conv \<~\> {O}
+
+What this restates: Nāgārjuna's statement, in chapter 25, that saṃsāra and nirvāṇa share the same limit — a textually grounded claim about shared nature, not a claim that recognition is unnecessary. As argued in the main text, this is a claim about nature, and holding it clearly requires the same care against bypass described there; the notation does not settle that distinction, it only compresses the claim already made.
+
+### Synthesis 3: Sequential Time
+
+Variables: Time_Container (time taken as an absolute, pre-given container).
+
+Restated using the axioms: Linear time is structurally invalidated as an absolute container or foundational base using the Invalidation Protocol (=!=). The perceived past and future exist purely as dependent designations relative to the immediate appearance. The relational arising is completely devoid of temporal lag or structural hierarchy, bound by Horizontal Co-Emergence (\<~\>).
+
+Notation: Time_Container =!= True
+
+What this restates: the argument, made earlier regarding 'here' and 'now', that time is dependently designated rather than a pre-given container events occur within. This is the same philosophical claim already argued in prose, compressed into notation — it is not a physical claim about the nature of time, and it does not settle open questions in the physics of time.
