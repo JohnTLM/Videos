@@ -45,14 +45,17 @@ and whether any chapters reuse an existing bonus-article video.
 
 1. Claude makes the videos and their YouTube texts, and sends you the files.
 2. You upload them in **YouTube Studio** as **Unlisted**: select all the files at once.
-3. You tell Claude Code on your server: **"The new videos are up."** It adds the titles, descriptions, tags and
-   playlist, puts the links on the website, rebuilds it and publishes (owner, 2026-10-30: "I will do the transfer of
-   the videos files and upload to YouTube ... Then server take from there").
+3. You tell the orchestrating Claude session (the one you named on 2026-10-30): **"Uploaded."** It hands the job to
+   the server, which adds the titles, descriptions, tags and playlist, puts the video on its page and publishes (owner,
+   2026-10-30: "I will do the transfer of the videos files and upload to YouTube ... Then server take from there").
+   You do not need to open the server.
 4. The ebook's watch links are updated at its next build.
 
 Who does what (owner, 2026-10-30): the **cloud Claude** makes the videos (it is faster) and their YouTube texts, and
 saves the texts in GitHub; **you** carry the files and upload them; the **server Claude** is the only one that puts
-links on the website, rebuilds `index.html` and publishes. Cloud sessions do not publish the website.
+links on the website, rebuilds `index.html` and publishes. Cloud sessions do not publish the website. One cloud session
+is the orchestrating one: it takes your requests, keeps the server's queue and reports back (thusness-website
+`ARCHITECTURE.md`).
 
 No links to copy. (Uploads stay by hand because Google's approval for automatic uploads was skipped.)
 
