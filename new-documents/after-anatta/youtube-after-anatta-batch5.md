@@ -154,6 +154,8 @@ the logic after anatta, seeing comes first, four insights, there is no given, sp
 
 ## 4. The Logic in full (length: from the join)
 
+**Skipped (owner, 2026-10-30):** not built on the server. Use entries 1–3 only.
+
 ### Title
 
 The Logic After Anatta, in Full: Eight Steps from Substance to Dependency | Nāgārjuna's Middle Way
