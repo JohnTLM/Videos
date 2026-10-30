@@ -78,4 +78,12 @@ Read `README.md` ("Rule: build on the owner's server") and `tools/publish/README
 
 ## Done
 
-(filled in by the server session)
+**2026-10-30, server session.** The owner uploaded the video to YouTube first: `n8JCWWJk7OQ` (11:41, Unlisted),
+texts from entry 1 put on, title "Rainbow Body: If Nothing Is Found, What Turns Into Light? | After Anatta"; in the
+playlist Logic After Anatta once (the owner had also added it, so later duplicates were taken out). The website's
+`aa-rainbow` page has its Full quality link (thusness-website PR #125).
+
+Built here after batch 5: 1738 words, narration 691.4 s, video 700.9 s; check frames looked right. In Drive
+`Bonus Articles › Rainbow Body and Emptiness` (`1xpQPcvPQXpYW0Z5kGbyuO9VDzqcG8o0T`, found by name; not in
+`drive_sync.json`): `aa14-rainbow-body.mp4`, id `1Crla5EPIS4Rs7p4y4W7H0PW0ckeMO_jh`, 101,243,173 bytes, checked by size.
+Owner only; not shared.
