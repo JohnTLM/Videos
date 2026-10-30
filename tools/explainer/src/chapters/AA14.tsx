@@ -277,10 +277,10 @@ const StoryScene: React.FC = () => {
   const aa = c("This is After Anatta");
   return (
     <AbsoluteFill>
-      <At x={960} y={250} o={(1 - ramp(t, puz, 0.6))}><Rainbow p={bow} w={760} /></At>
+      <At x={960} y={300} o={(1 - ramp(t, puz, 0.6))}><Rainbow p={bow} w={760} /></At>
       <At x={960} y={470} o={ramp(t, room, 0.6) * (1 - ramp(t, puz, 0.6))}><Room shrink={shrink} /></At>
       <Items items={[
-        ["In eastern Tibet, the story goes, a master dies", 960, 120, <Wd c={DIM} s={30}>eastern Tibet · the story goes</Wd>, { until: "Here is the puzzle" }],
+        ["In eastern Tibet, the story goes, a master dies", 960, 60, <Wd c={DIM} s={30}>eastern Tibet · the story goes</Wd>, { until: "Here is the puzzle" }],
         ["only the hair and the nails are left", 960, 760, <K c={ICE}>only hair and nails left</K>, { until: "Here is the puzzle" }],
         ["nothing is found from its own side", 960, 200, <Wd c={CHALK} s={36} serif>nothing is found from its own side</Wd>, { until: "This is After Anatta" }],
         ["Not the self", 620, 380, <K c={DIM}>self: not found</K>, { until: "This is After Anatta" }],
