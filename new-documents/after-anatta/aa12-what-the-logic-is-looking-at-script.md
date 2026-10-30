@@ -3,7 +3,7 @@ chapter: 12
 label: After Anatta · Before the steps
 title: "What the Logic Is Looking At"
 series: "After Anatta · Before the steps"
-source: thusness-website after-anatta/looking.html (main site version 100) and the bonus article Vivid and Nowhere, Section 1; wording agreed with the owner in chat, 2026-10-27
+source: thusness-website after-anatta/looking.html (main site version 128; blue and red added 2026-10-29) and the bonus article Vivid and Nowhere, Section 1; wording agreed with the owner in chat, 2026-10-27
 intro: yes
 voice: male
 ---
@@ -37,6 +37,20 @@ How can that be? Because designation needs no words. It needs only singling out.
 And singling out is already dependence. A this stands out only against what it is not. Only with this seeing, this light, this attention. Take away the background, and nothing stands out. Take away the conditions, and nothing is singled out.
 
 Picture a world where there is only blue: one hue, everywhere, and nothing else. No one there would see blue. Nothing would let it stand out, so it would never be singled out as blue. We would be blind to blueness. Blue is seen only with what is not blue.
+
+Now let one other colour appear in that world: a spot of red. At once both appear, blue and red, each bright and unmistakable. This simple example shows how the key points we meet again and again come together, if it is clearly understood. Blue and red don't arise one after the other. They arise together, in one stroke.
+
+First, neither comes first. Blue wasn't sitting there unseen, waiting for red to reveal it. Red didn't arrive and then get compared with a blue already there. The moment red appears, blue and red both appear, each by contrast with the other. Like seer and seen, long and short, here and there: named together, neither prior.
+
+Second, dependence isn't a sequence. We usually picture dependence as something waiting on something else in time: first the cause, then the effect. Here nothing waits. The dependence is in the appearing itself, all at once. The parts, their relations and their naming do not arise in sequence. They are aspects of one dependently arisen event.
+
+Third, each colour is empty, and vivid, at the same moment. Blue has no blueness of its own. Alone, it isn't even seen. Yet the instant red is there, blue is bright and unmistakable. Being empty and being vivid aren't two stages. They are one appearing.
+
+Fourth, nothing produced it. Red didn't make blue appear, and blue didn't make red appear. Neither is the cause of the other. With the meeting, the whole scene is just there, already complete, not built up step by step. That is spontaneous presence in the plainest example. Not uncaused, since without the contrast nothing appears. But not produced either.
+
+Fifth, it isn't one thing either. Blue and red appearing together doesn't merge them into one big field of colour behind both. Each is distinct and clear. They are neither one nor two: not separate things that meet, and not one thing in two shades.
+
+In short: appearing is relation from the start, all at once, with nothing first and nothing behind.
 
 So singling out is not something done to an appearance that was there first. It is already dependence. And dependence is already emptiness. Look for the this apart from its conditions, and it is not found.
 

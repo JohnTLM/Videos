@@ -69,6 +69,17 @@ export const PHRASES = [
   "Picture a world where there is only blue", "one hue, everywhere", "and nothing else", "No one there would see blue",
   "Nothing would let it stand out", "so it would never be singled out as blue", "We would be blind to blueness",
   "Blue is seen only with what is not blue",
+  // blue and red (owner, 2026-10-29)
+  "Now let one other colour appear in that world", "a spot of red", "At once both appear", "They arise together, in one stroke",
+  "First, neither comes first", "waiting for red to reveal it", "each by contrast with the other", "named together, neither prior",
+  "Second, dependence", "first the cause, then the effect", "Here nothing waits", "all at once",
+  "They are aspects of one dependently arisen event",
+  "Third, each colour is empty, and vivid, at the same moment", "Blue has no blueness of its own", "Yet the instant red is there",
+  "They are one appearing",
+  "Fourth, nothing produced it", "Neither is the cause of the other", "already complete, not built up step by step",
+  "That is spontaneous presence in the plainest example", "But not produced either",
+  "Fifth, it", "one big field of colour behind both", "Each is distinct and clear", "They are neither one nor two",
+  "In short: appearing is relation from the start",
   // the chain
   "So singling out is not something done to an appearance that was there first", "It is already dependence",
   "And dependence is already emptiness", "Look for the this apart from its conditions, and it is not found",
@@ -589,6 +600,70 @@ const BlueScene: React.FC = () => {
   );
 };
 
+const RED = "#F2584C";
+
+/** Blue and red arising together, and the five points (owner, 2026-10-29). */
+const RedScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const spot = c("a spot of red");
+  const both = c("At once both appear");
+  const pts: [string, string, string][] = [
+    ["First, neither comes first", "1", "neither comes first"],
+    ["Second, dependence", "2", "dependence is not a sequence"],
+    ["Third, each colour is empty, and vivid, at the same moment", "3", "empty and vivid, at the same moment"],
+    ["Fourth, nothing produced it", "4", "nothing produced it"],
+    ["Fifth, it", "5", "not one thing either"],
+  ];
+  const first = c(pts[0][0]);
+  const short = c("In short: appearing is relation from the start");
+  const lit = ramp(t, both, 0.5);
+  // the colour panel shrinks to the left once the points begin
+  const k = ramp(t, first, 1.0);
+  return (
+    <AbsoluteFill>
+      <Title at={c("Now let one other colour appear in that world")} color={RED}>one other colour</Title>
+      <At x={960 - 520 * k} y={430 - 40 * k} s={1 - 0.45 * k} o={1}>
+        <div style={{ position: "relative", width: 900, height: 400, borderRadius: 18, overflow: "hidden", background: BLUE,
+          boxShadow: `0 0 ${10 + 50 * lit}px ${BLUE}`, filter: `saturate(${0.5 + 0.7 * lit})` }}>
+          <div style={{ position: "absolute", left: 600, top: 130, width: 140 * ramp(t, spot, 0.6), height: 140 * ramp(t, spot, 0.6),
+            marginLeft: -70 * ramp(t, spot, 0.6), marginTop: -70 * ramp(t, spot, 0.6) + 70, borderRadius: "50%", background: RED,
+            boxShadow: `0 0 ${30 * lit}px ${RED}` }} />
+        </div>
+      </At>
+      <At x={960 - 520 * k} y={680 - 120 * k} o={ramp(t, both + 0.6, 0.5) * (1 - ramp(t, first, 0.5))}>
+        <Wd c={GOLD} s={34} serif>blue and red, in one stroke</Wd>
+      </At>
+      {pts.map(([cue, n, label], i) => {
+        const a = c(cue);
+        const on = t >= a && (i + 1 >= pts.length ? t < short : t < c(pts[i + 1][0]));
+        return (
+          <At key={n} x={1250} y={250 + i * 95} o={ramp(t, a, 0.5) * (on ? 1 : 0.55)} s={pop(t, fps, a)}>
+            <div style={{ display: "flex", gap: 18, alignItems: "center", width: 760 }}>
+              <div style={{ width: 52, height: 52, borderRadius: 26, border: `3px solid ${GOLD}`, background: on ? `${GOLD}55` : `${GOLD}11`,
+                display: "flex", alignItems: "center", justifyContent: "center" }}><Wd c={CHALK} s={28} serif>{n}</Wd></div>
+              <Wd c={on ? GOLD : CHALK} s={30}>{label}</Wd>
+            </div>
+          </At>
+        );
+      })}
+      <Items items={[
+        ["each by contrast with the other", 420, 740, <Wd c={CHALK} s={26}>each by contrast with the other</Wd>, { until: "Second, dependence" }],
+        ["named together, neither prior", 420, 800, <Wd c={DIM} s={24}>seer and seen · long and short · here and there</Wd>, { until: "Second, dependence" }],
+        ["first the cause, then the effect", 420, 740, <SK c={DIM} s={24} strikeAt={c("Here nothing waits") + 0.3}>first the cause, then the effect</SK>, { until: "Third, each colour is empty, and vivid, at the same moment" }],
+        ["all at once", 420, 800, <Wd c={GOLD} s={26}>in the appearing itself, all at once</Wd>, { until: "Third, each colour is empty, and vivid, at the same moment" }],
+        ["Blue has no blueness of its own", 420, 740, <Wd c={DIM} s={24}>no blueness of its own</Wd>, { until: "Fourth, nothing produced it" }],
+        ["Yet the instant red is there", 420, 800, <Wd c={CHALK} s={26}>yet bright, the instant red is there</Wd>, { until: "Fourth, nothing produced it" }],
+        ["Neither is the cause of the other", 420, 740, <SK c={DIM} s={24} strikeAt={c("Neither is the cause of the other") + 1.0}>red made blue appear</SK>, { until: "Fifth, it" }],
+        ["That is spontaneous presence in the plainest example", 420, 800, <Wd c={GOLD} s={26}>spontaneous presence: not uncaused, not produced</Wd>, { until: "Fifth, it" }],
+        ["one big field of colour behind both", 420, 740, <SK c={VIOLET} s={24} strikeAt={c("Each is distinct and clear")}>one field of colour behind both</SK>, { until: "In short: appearing is relation from the start" }],
+        ["They are neither one nor two", 420, 800, <Wd c={CHALK} s={26}>neither one nor two</Wd>, { until: "In short: appearing is relation from the start" }],
+        ["In short: appearing is relation from the start", 960, 790, <Wd c={GOLD} s={36} serif>appearing is relation from the start: nothing first, nothing behind</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const ChainScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
@@ -863,6 +938,7 @@ export const Body: React.FC = () => {
     ["How can that be", "open", <SingleScene />],
     ["And singling out is already dependence", "web", <GroundScene />],
     ["Picture a world where there is only blue", "sea", <BlueScene />],
+    ["Now let one other colour appear in that world", "vivid", <RedScene />],
     ["So singling out is not something done to an appearance that was there first", "search", <ChainScene />],
     ["None of this makes the world thin", "sea", <MirrorScene />],
     ["Take something you can hold", "vivid", <AppleScene />],

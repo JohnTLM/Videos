@@ -23,7 +23,7 @@ The two logics can be learned as ideas. One starts with things, and asks what ha
 
 But agreeing changes very little. The logic of substance is not a belief we hold. It is how things seem, before any thought. The sound is simply there. The cup is simply there, on its own side. As long as things are seen this way, even the new logic is quietly read through the old one.
 
-So the author names three insights after anatta. Without seeing them clearly, and confirming them again and again in direct experience, the logic stays a clever argument.
+So the author names four insights after anatta. Without seeing them clearly, and confirming them again and again in direct experience, the logic stays a clever argument.
 
 The first. Every appearance is vivid, and it cannot be found. Look at a red apple. The red is bright, impossible to miss. Now look for it. Is it in the skin, in the light, in the eye? It is not found in any of them, and not anywhere else. Yet the apple is still red. Vivid and unfindable, at the same time. The tradition calls this emptiness. Not a void, and not a ground behind the appearing. Only the appearing's not being found.
 
@@ -31,7 +31,11 @@ The second. Appearance arises whenever its conditions come together. Light, a su
 
 The third. We habitually and intuitively think inherently, and the way we do it follows the shape of our language. A sentence wants a subject and a verb. So we say "lightning flashes", as if there were a lightning apart from the flash. But experience is never like that. The flashing is the lightning. The tradition calls this habit ignorance. Not a lack of information, but the innate grasping at things as existing from their own side.
 
-The first two are one fact, seen from two sides. What arises in dependence is what is called emptiness. The third is what hides that fact.
+The fourth. There is no given. No world is already there, with its own edges and things, waiting behind what appears. One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish. The habit says a real bowl of something must sit underneath, a neutral stuff each being merely filters. Look for it, and it is not found. What appears, and how it is picked out, arise together. Nor is the mind the floor instead. Mind and object arise together, and neither comes first.
+
+The first two are one fact, seen from two sides. What arises in dependence is what is called emptiness. The third is what hides that fact. The fourth takes away its last hiding place: a given world beneath it all.
+
+Anatta is the first door. In seeing, no seer is found: no doer behind the doing. Nagarjuna takes the same insight through every thing: the walker, the fire, the cause, even the seeing. And where do the four insights lead? With no doer anywhere, and nothing put in its place, nothing is making the appearing. It is already complete, by itself, exactly as its conditions meet. The tradition calls this spontaneous presence. Not uncaused, and not a source behind things. Dependent arising itself, met without the fixing.
 
 And the third runs almost by default. Whatever experiences and insights we have, it reshapes them before we notice. Many practitioners hold that direct experience is what matters, and that view and logic come second. So practice becomes the removal of concepts. Not thinking. Bare attention. Naked awareness.
 
