@@ -129,3 +129,16 @@ full*): a one-hour render is not worth it on this machine, and the eight step vi
 
 Each upload was checked by size; check frames looked right. Step 6 (texts) runs on entries 1–3 only, after the owner
 uploads.
+
+**2026-10-30, server session (steps 6–7):** the owner uploaded all three and added them to the playlist. Texts put on
+(without `--playlist`, so no second copy); the later duplicates of AA12 and AA14 Rainbow Body were taken out of the
+playlist, which now holds 30 videos, each once.
+
+| Entry | New id | Title shown |
+|---|---|---|
+| 1 | `lO9rzchqwLE` | Decoding Anatta and MMK Chapter 3: Why Dependent Arising Is Spontaneous Presence \| After Anatta |
+| 2 | `UN1j5KKvJUk` | What the Logic Is Looking At: Dharma, Designation, and Blue and Red in One Stroke \| After Anatta |
+| 3 | `SW7BKmRSS4Y` | The Logic After Anatta: Two Logics, Four Insights and One Koan \| Nāgārjuna's Middle Way |
+
+Note: the ep96 Drive file id changed to `1spxb3PsbtRvAjD1WKEkt2BwHniG59V-N` (the new content was moved into the older
+file of that name in Drive; checked identical by md5).
