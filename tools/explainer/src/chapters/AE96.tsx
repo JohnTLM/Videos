@@ -596,18 +596,18 @@ const SentenceScene: React.FC = () => {
       <div style={{ position: "absolute", top: -40, width: "100%", fontFamily: SANS, fontSize: 24, color: col, letterSpacing: 2 }}>{label}</div>
     </div>
   );
-  const w1 = between(t, wind + 0.3, light, 0.3);
+  const w1 = ramp(t, wind + 0.3, 0.3) * top;
   const w2 = ramp(t, light + 0.2, 0.3) * top;
   return (
     <AbsoluteFill>
       <Title at={c("We habitually and intuitively think inherently")} color={WARM}>3. the habit of thinking inherently</Title>
-      <At x={760} y={330}>{box("SUBJECT", GOLD, sv)}</At>
-      <At x={1160} y={330}>{box("VERB", ICE, sv + 0.4)}</At>
-      <At x={760} y={330} o={w1}><W c={GOLD} s={40} serif>the wind</W></At>
-      <At x={1160} y={330} o={w1}><W c={ICE} s={40} serif>blows</W></At>
-      <At x={760} y={330} o={w2}><W c={GOLD} s={40} serif>lightning</W></At>
-      <At x={1160} y={330} o={w2}><W c={ICE} s={40} serif>flashes</W></At>
-      <At x={960} y={470} o={ramp(t, light + 1.0, 0.5) * top}><W c={DIM} s={28}>as if a wind stood apart from the blowing</W></At>
+      <At x={760} y={300}>{box("SUBJECT", GOLD, sv)}</At>
+      <At x={1160} y={300}>{box("VERB", ICE, sv + 0.4)}</At>
+      <At x={760} y={300} o={w1}><W c={GOLD} s={40} serif>the wind</W></At>
+      <At x={1160} y={300} o={w1}><W c={ICE} s={40} serif>blows</W></At>
+      <At x={760} y={420} o={w2}><W c={GOLD} s={40} serif>lightning</W></At>
+      <At x={1160} y={420} o={w2}><W c={ICE} s={40} serif>flashes</W></At>
+      <At x={960} y={520} o={ramp(t, light + 1.0, 0.5) * top}><W c={DIM} s={28}>as if a wind stood apart from the blowing, a lightning apart from the flash</W></At>
       {/* "I see the tree": a seer, an act, a tree */}
       <At x={520} y={360} o={ramp(t, tree + 0.3, 0.4)} s={pop(t, fps, tree + 0.3)}><Person color={VIOLET} size={160} dashed /></At>
       <At x={520} y={480} o={ramp(t, tree + 0.5, 0.4)}><K c={VIOLET} s={26}>a seer</K></At>
@@ -960,8 +960,8 @@ const TasteScene: React.FC = () => {
         ["The mind can be tasted too", 1360, 470, <W c={ICE} s={28}>pure, clear awareness</W>, { d: 0.6 }],
         ["taken as the one thing that stands by itself", 1360, 550, <SK c={DIM} s={24} strikeAt={like + 0.4}>the one thing that stands by itself</SK>],
         ["But the mind is a phenomenon like any other", 1360, 630, <W c={CHALK} s={26}>a phenomenon like any other</W>],
-        ["Its clarity is as empty as the red of the apple", 1360, 720, <Apple size={80} />, { pop: true }],
-        ["Its clarity is as empty as the red of the apple", 960, 800, <W c={GOLD} s={30} serif>its clarity as empty as the red of the apple</W>, { d: 0.4 }],
+        ["But the mind is a phenomenon like any other", 1360, 720, <Apple size={80} />, { pop: true, d: 1.2 }],
+        ["Its clarity is as empty as the red of the apple", 960, 800, <W c={GOLD} s={30} serif>its clarity as empty as the red of the apple</W>, { d: -0.2 }],
       ]} />
     </AbsoluteFill>
   );
