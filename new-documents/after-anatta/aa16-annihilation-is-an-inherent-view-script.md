@@ -1,0 +1,67 @@
+---
+chapter: 16
+label: After Anatta · The Logic
+title: "Annihilation Is an Inherent View"
+series: "After Anatta · The Logic"
+source: thusness-website after-anatta/annihilation.html (aa-annihilation, on atr-passerby.com 2026-10-31); EBooks Bonus Articles/annihilation-is-an-inherent-view
+intro: yes
+voice: male
+---
+
+# Annihilation Is an Inherent View
+
+A sound has just stopped. A day is over. Someone you loved has died. And with it comes a picture. Something was fully there, and now there is a blank where it stood.
+
+Here is the question. If nothing lasts for ever, is everything wiped out in the end? Is that the honest view, the one that gives up clinging?
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+Annihilation sounds like the opposite of holding on to things. It is not. It holds on to the same thing eternalism holds on to, and only tells a different story about what happens to it.
+
+The reason fits in one line. Something can be annihilated only if it was there from its own side first.
+
+To say, it is gone, cut off, now nothing, you first need an "it". A thing that stood on its own, and is now wiped out. So annihilation keeps the very thing that eternalism keeps. Eternalism says the thing stays. Annihilation says the thing is destroyed. Both start from a thing with a being of its own. They differ only in what they say happens to it.
+
+Nāgārjuna puts the two side by side. "It is" is the grasping of permanence. "It is not" is the view of annihilation. So the wise should not take their stand on existence, or on non-existence.
+
+And he shows where annihilation comes from. What exists by its own nature does not cease to exist: that is permanence. It existed before, and does not exist now: that brings annihilation.
+
+The word that gives it away is "before". The thing is pictured as fully there, with its own nature, and then gone. A thing with its own nature falls into a nothing that is just as solid.
+
+Look closely at "it is not". Non-existence is not a second fact, standing on its own. It is borrowed from existence. Nāgārjuna says, if an existing thing is not established, a non-existing thing is not established either. For people call the change of an existing thing its non-existence.
+
+"Gone" only means something as the going of something. Take away the self-standing thing, and the self-standing nothing has nothing to be the absence of.
+
+This is why the two extremes cannot be fought one at a time. Refute eternalism while keeping the thing, and you land in annihilation. Whoever accepts that things truly exist from their own side falls into permanence, or into annihilation. Such a thing would have to last for ever, or be cut off. There is no third way for it. The fork opens only for a thing that exists from its own side.
+
+Now look with dependency, and start where it can be felt. Listen to a sound nearby, a fan, a car, a voice. Wait for it to stop.
+
+When it stops, where did it go? Not back into the fan. Not into the air. Not into your ear. It did not go anywhere. The sound was never found apart from the source, the air, the ear and the attention coming together. When they part, there is no sound. Nothing that stood on its own has been destroyed.
+
+A candle flame is the same. It goes out when the wick, the wax and the air no longer come together. There never was a flame apart from the burning.
+
+So an ending is not the loss of something that stood by itself. It is conditions parting, just as the arising was conditions coming together. Nothing self-standing comes, so nothing self-standing goes.
+
+That is why the homage of the Middle Way reads them together. Without ceasing, without arising, without annihilation, without permanence, not one thing and not many, without coming and without going: so the fully awakened one taught dependent arising.
+
+Remove inherent existence, and both extremes fall at once. Not because a middle object is found between them, but because the object they were both about is never found.
+
+None of this denies that the sound stopped. "The sound stopped" is true, said the way the world says it. The room is quiet now. That quiet is validly functioning: you can hear the next thing. What is denied is a sound with its own nature, falling into a nothing with its own nature.
+
+Annihilation rarely announces itself. It hides in three places.
+
+First, at death. The fear, I will be wiped out, assumes an I that was there from its own side. The search never finds that I, in the body, in the mind, or apart from them. So nothing of that kind can be wiped out. Seeing, hearing and thinking were never carried by a someone, and so they are not cut off when a someone is not found. The flow of conditions goes on, neither carried nor cut.
+
+Second, in emptiness itself. Everything is empty, so nothing exists. That reads emptiness as the destruction of things that were there from their own side. It is annihilation dressed as insight. Emptiness never removes anything that was there. It shows that nothing was ever there in that way. Nāgārjuna warns about exactly this. Emptiness wrongly seen ruins the slow-witted, like a snake grasped the wrong way, or a spell cast the wrong way. The faults charged against emptiness are faults of the nothingness it was mistaken for.
+
+Third, in practice. After awakening, causes and ethics no longer apply. That makes the same mistake. It treats insight as the cutting off of conditions that once held. But conditions still work. An unkind word still hurts. Care still heals. Only the inherent version of them was never there. Seeing that does not cancel what works. It is what lets it work.
+
+Try it now. Think of something that has ended. A sound, a day, a friendship. Notice the picture that comes with "it is gone". A thing that was fully there, and is now a blank where it stood.
+
+Now look for that thing at the time it was there. Was the sound found apart from the source, the air and the hearing? Was the day found apart from the light, the turning of the earth, and the counting?
+
+If it was never found standing by itself, what is it that has been annihilated? The ending is still an ending. It is just not the destruction of anything that stood on its own.
+
+In brief. Eternalism says the thing stays. Annihilation says the thing is destroyed. Both assume a thing with its own nature. Seen with dependency, nothing self-standing comes, and nothing self-standing goes.
+
+Annihilation is the inherent view looking backwards. It needs something to have been there from its own side, in order to lose it.
