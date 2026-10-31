@@ -1,0 +1,125 @@
+---
+chapter: 18
+label: After Anatta · Questions
+title: "The Lamp That Does Not Light Itself"
+series: "After Anatta · Questions"
+source: thusness-website after-anatta/q-luminosity.html (aa-luminosity, from "The hardest question: Nāgārjuna's lamp"); EBooks Bonus Articles/the-lamp-that-does-not-light-itself
+intro: yes
+voice: male
+---
+
+# The Lamp That Does Not Light Itself
+
+Sit by a window and listen to the rain. The sound is clear. Nothing has to light it up.
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+The books say that luminosity is the knowing clarity of appearing itself. A sound is clear as sound. A colour is vivid as colour. Nothing stands behind them to light them up.
+
+A careful reader of Nāgārjuna will stop here and ask a hard question. In the seventh chapter of the Middle Way, Nāgārjuna takes apart a lamp that lights up both itself and other things. Later teachers use the same move against a mind that knows itself. So when we say the clarity is the appearing itself, are we not bringing back the very lamp that Nāgārjuna put out?
+
+The short answer is no. Read slowly, Nāgārjuna's lamp is the clearest proof we have that clarity is never missing. And the clearest warning against making it a light of its own.
+
+Start with the lamp.
+
+Chapter seven looks at arising, staying and ceasing. The opponent wants arising to produce both the thing and itself, so that no second arising is needed. He reaches for an image. Just as a lamp lights up both itself and other things, so arising gives rise to both itself and other things.
+
+Nāgārjuna looks at the lamp. There is no darkness in the lamp, nor where the lamp stands. Then what does the lamp light up? For lighting up means dispelling darkness.
+
+Then he looks at the darkness around it. A lamp that is just coming to be does not reach the darkness. And if a lamp could dispel darkness without reaching it, then a lamp standing here would dispel the darkness of the whole world.
+
+And he turns the image round. If a lamp lights up both itself and others, then darkness too would hide both itself and others.
+
+None of this stops anyone reading by lamplight. "The lamp lit the room" works in daily life. What fails is a lamp with a power of its own, which turns back on itself, or crosses over and acts on a separate thing called darkness.
+
+The same lamp came back later, in a debate about the mind.
+
+Some Buddhist thinkers held that every moment of knowing also knows itself. Their favourite example was the lamp. A lamp needs no second lamp to be seen. So a cognition needs no second cognition to be known.
+
+The Middle Way writers answered with Nāgārjuna's own tools. A sword does not cut itself. A fingertip does not touch itself. If knowing turns back to know itself, it splits into a knower and a known. Shāntideva took up the lamp and gave Nāgārjuna's answer: the lamp is not lit up, because it was never hidden by darkness. And Nāgārjuna had already said it of the eye. Seeing does not see itself. And if it does not see itself, how will it see anything else?
+
+So the challenge is fair. If our clarity is a knowing that shines on itself, or a light that lights up sounds and colours, it falls to every one of these arguments.
+
+Now read that verse again, slowly. There is no darkness in the lamp.
+
+Nāgārjuna does not say the lamp is dark. He says the opposite: there is no darkness in it at all. That is why "the lamp lights itself" describes nothing. There is nothing dark in it to be lit.
+
+Put a sound in place of the lamp. Is there a moment when the sound is there but dark, waiting for an awareness to light it up? Look. There is not. The sound is clear as it sounds. There is no darkness in it.
+
+So the verse that refutes self-lighting also shows something else. Clarity is never missing. No appearing ever waited in the dark. And because no appearing was ever dark, nothing has to light it up. Not another light, and not itself.
+
+As I once put it: you cannot talk about phenomena without clarity. Just whether clarity is abstracted out and reified.
+
+A phenomenon is whatever can be known. There is no unknown phenomenon sitting in the dark, which a knower then reaches and lights up.
+
+Nāgārjuna opens the Middle Way with four corners. Not from itself, not from another, not from both, and not without a cause. Put the clarity of a sound through the same four corners.
+
+Lit by itself? Then the sound would have to turn back and shine on itself, a second act on top of the first. Like the blade and the fingertip, that act is not found. And there was no darkness in it to lift.
+
+Lit by another? Then an awareness behind the sound would have to reach it. This is the witness, the background, the mirror. It is looked for, and not found.
+
+Lit by both? That only adds the two problems together.
+
+Without conditions? No. The sound is clear only with an ear, the sound's own conditions, attention and the rest. Block the ear, and there is no sound to be clear.
+
+So what is left? The sound, clear as it sounds, on its conditions. That is all "self-luminous" can mean here. It is a denial: not lit by another. It does not say the sound lights itself. It says the question, what lights it, never had a place to start.
+
+Here is a test anyone can do. Sit in a room with the lights off. Pitch dark.
+
+Is anything clear? Yes. The darkness. It is seen, vividly, as dark. You know at once that it is dark. Seeing darkness is not a failure of clarity. It is a sight, as clear as any other.
+
+That is the last verse of the lamp, turned round. If darkness could hide itself, we could not even know that it is dark. But we do.
+
+So "luminous" does not mean bright. A dull ache is clear as dull. A faint sound is clear as faint. Even confusion is known as confusion. Whatever appears is known as it appears.
+
+Now take the six streams: seeing, hearing, smelling, tasting, touching and thinking. Each is clear on its own conditions. There is no single lamp moving from the eye to the ear, lighting each in turn.
+
+But the clarity feels the same in all of them. The mind notices this sameness and lifts it out. Awareness. Presence. The one light in which all six appear. Once lifted out, it is taken to stand on its own, as a background, a witness, a Mind that gives off appearances. That is Nāgārjuna's lamp, put back up on its stand.
+
+Left as it is, the sameness is not lifted out. It stays the appearing's own. This sound's clearness. This colour's vividness. Six lamps, not one. And no lamp that lights itself.
+
+The early discourse says: luminous, monks, is the mind, and it is defiled by incoming defilements. Read this way, the defilements are incoming because they do not belong to the mind's nature. The mind has no nature of its own for them to belong to. Its clarity was never dark. That is all the line needs. It does not need a lamp that is always on behind the six.
+
+The tantras give the lamp its strongest form. In Tibetan teaching on death, the coarse elements dissolve one into the next. White, red and black appearances follow. Then comes the clear light, the innate mind of clear light, said to have no beginning and no end.
+
+It is easy to picture this as a lamp under a basket. Life piles coarse minds on top of it. Death lifts them off, and the true light, there all along, is laid bare.
+
+The teachers themselves say it is not a soul, and that it is empty. Each moment of it arises and passes. And they say a clear light that only shines, and does not see emptiness, frees nothing.
+
+Read with the logic, three things change.
+
+Subtle means fewer conditions, not a deeper stuff. As the coarse winds dissolve, the conditions that tie the knot stop arising. What appears is one more appearing, clear on its own conditions. Not a floor that was waiting underneath.
+
+The coarse minds were never darkness. A coarse thought is clear as a thought. A solid table is vivid as a table. What the coarse minds add is the knot, not a cover. So nothing is uncovered at death. What can happen is that the knot does not form.
+
+And "without beginning" is a stream, neither carried nor cut. Each moment depends on the one before, neither the same nor another. Nothing travels through it.
+
+Some practice sets out to keep awareness unbroken, through the day, into dream, through deep sleep. Awareness twenty-four seven.
+
+In whatever case, there cannot be maintenance. Maintenance is the split. For recognition to be complete, it must unbind the habitual tendencies of seeing in an inherent pattern. Not an effort kept up during sleep. The process is effortless, because clear recognition frees one from seeing inherency. A wisdom practice, rather than calm abiding.
+
+To keep awareness going, there must be two. An awareness, and someone keeping it up. However fine the effort, it sets a keeper beside what is kept. The very gap that anatta saw through.
+
+What has to go is a habit, not a gap. The problem was never that awareness goes out at night. It is the habit of tying appearings into things, a self, a world out there, and now a lasting awareness too.
+
+Effortless is the fruit, not the start. Before recognition there is work: looking, questioning, seeing through. What is effortless is what comes after, when nothing needs to be held up.
+
+And a caution, from experience. Many have suffered enormous sleeplessness and energy imbalances from these practices. They have to be guided by a qualified master. For the insights of anatta and emptiness, they are not necessary. If sleeplessness goes on, see a doctor as well.
+
+If each instant is complete, sleep is complete as sleep. It needs no witness standing guard. A Chan master was asked whether he still made an effort in the Way. He said: when hungry, I eat. When tired, I sleep. Everyone does that, said the questioner. No, he said. Others will not simply eat when they eat, or sleep when they sleep. Their minds keep running on.
+
+The keeper is what stops sleep being sleep. Without the keeper, sleeping is fully sleeping, and nothing is lost.
+
+Try it now. Close your eyes, and let a sound come. A fan, a car, rain.
+
+Was there a moment when the sound was there but dark, before awareness reached it? Look.
+
+Is the hearing turning back to light itself up? Is there a second act on top of the hearing? Look.
+
+Is there a light behind the sound, which the sound appears in? Look for where it stands.
+
+Then open your eyes in a dim room, and see the dark. It is clear as dark.
+
+What is found is the sound, clear as it sounds, and the dark, clear as it is dark. No lamp. And no darkness.
+
+Clear and empty. Never a hidden substance.
