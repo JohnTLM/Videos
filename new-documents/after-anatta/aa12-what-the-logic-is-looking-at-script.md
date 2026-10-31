@@ -3,7 +3,7 @@ chapter: 12
 label: After Anatta · Before the steps
 title: "What the Logic Is Looking At"
 series: "After Anatta · Before the steps"
-source: thusness-website after-anatta/looking.html (main site version 128; blue and red added 2026-10-29) and the bonus article Vivid and Nowhere, Section 1; wording agreed with the owner in chat, 2026-10-27
+source: thusness-website after-anatta/looking.html (aa-looking, main site version 131 as on 2026-10-31; blue and red from version 127, The same knot told from the side of light from version 131) and the bonus article Vivid and Nowhere, Section 1. Replaces the 2026-10-29 script (YouTube UN1j5KKvJUk).
 intro: yes
 voice: male
 ---
@@ -16,23 +16,23 @@ Every step of the logic looks at something. A self. An object. A cause. Matter. 
 
 This is After Anatta: notes by John Tan, known as Thusness.
 
-So first, what is a phenomenon? In Buddhism the answer is simple. A phenomenon is whatever can be known. A sound, a colour, a hardness, a feeling, a thought. Things only thought of, like a number or a plan. And the knowing too: a moment of seeing is itself a dharma. Nothing knows from outside the list. Everything is dharma.
+So first, what is a phenomenon? In Buddhism the answer is simple. A phenomenon is whatever can be experienced or known. A sound, a colour, a hardness, a feeling, a thought, an intention. Things only thought of, like a number or a plan. And the knowing too: a moment of seeing is itself a dharma. Nothing is left out. Everything is dharma.
 
-The tradition sorts them in two. Conditioned dharmas arise from conditions and pass: every sight, every sound, every thought. Unconditioned dharmas are not made by conditions: in the old lists, space, and nirvana, the ending of suffering. Conditioned or unconditioned, they are all dharmas.
+The tradition sorts them in two. Conditioned dharmas arise from conditions and pass: every sight, every sound, every thought. Unconditioned dharmas are not made by conditions: in the old lists, space, and nirvāṇa, the ceasing of suffering. Conditioned or unconditioned, they are all dharmas.
 
-The word comes from a root meaning to hold. The Abhidharma teachers said a dharma is what holds its own mark. Hardness for earth. Heat for fire. Knowing for consciousness. They had seen through the self, the person, the chariot. But they kept the dharmas as real building blocks, each holding its own nature. No self in the person, but the pieces still solid.
+The word comes from a root meaning to hold. The Abhidharma teachers said a dharma is what holds its own mark. Hardness for earth. Heat for fire. Knowing for consciousness. They had seen through the self, the person, the chariot. But they kept the dharmas as the pieces the world is built of, each holding its own nature. No self in the person, but the pieces still standing from their own side.
 
-Nagarjuna turned the search on the dharmas themselves. Not even a dharma holds its own mark. Looked for, it is not found. It arises only in dependence. And the unconditioned gets no exemption. If the conditioned is not established, he asks, how could the unconditioned be? Space, nirvana, even emptiness: empty too.
+Nāgārjuna turned the search on the dharmas themselves. Not even a dharma holds its own mark. Searched for, it is not found. It arises only in dependence. And the unconditioned gets no exemption. Since the conditioned is not established at all, he asks, how could the unconditioned be? Space, nirvāṇa, even emptiness itself: dharmas too, and empty too.
 
-This is what after anatta means. The seeing that found no self is turned on every phenomenon.
+This is what after anatta means. The same seeing that found no self is turned on every phenomenon. Every dharma is vivid, and not found.
 
-So the self is dharmas: sights, sounds, sensations and thoughts, mistaken for someone standing behind them. An object is dharmas again, mistaken for a thing out there on its own. Cause, matter and person are the same. The steps do not move from one subject to another. They look at this one vivid appearing, from different sides.
+So the self is dharmas: the sights, sounds, sensations and thoughts of this moment, mistaken for someone standing behind them. An object is dharmas again, mistaken for a thing out there on its own. Cause, matter and person are the same. The steps do not move from one subject to another. They look at this one vivid appearing, from different sides, until the habit of making it into things is seen through.
 
-Now the second point, and it is easy to miss. We usually picture two layers. First a bare appearance. Then a name stuck on it. The logic then seems to be about names, and the appearance sits underneath, simply given. That picture is still dual. It keeps a raw given under the label, one more floor.
+Now the second point, and it is easy to miss. We usually picture two layers. First a bare appearance. Then a name put on it. The logic then seems to be about names, and the appearance sits underneath, simply given. That picture is still dual. It keeps a raw given under the label, one more floor.
 
 There is no bare appearance underneath, waiting to be named. Designation is not a label put on the appearing. The appearing itself is the designation.
 
-How can that be? Because designation needs no words. It needs only singling out. This sound. This colour. This ache. Picked out as this. A baby does it. A bird does it. We do it long before any word. Whatever appears is already a this. So nothing appears undesignated.
+How can that be? Because designation needs no words. It needs only singling out. This sound. This colour. This ache. Picked out as this. A baby does it. A bird does it. We do it long before any word. The Buddha's own word for it is recognising: picking out a mark as this. Whatever appears is already a this. So nothing appears undesignated.
 
 And singling out is already dependence. A this stands out only against what it is not. Only with this seeing, this light, this attention. Take away the background, and nothing stands out. Take away the conditions, and nothing is singled out.
 
@@ -42,7 +42,7 @@ Now let one other colour appear in that world: a spot of red. At once both appea
 
 First, neither comes first. Blue wasn't sitting there unseen, waiting for red to reveal it. Red didn't arrive and then get compared with a blue already there. The moment red appears, blue and red both appear, each by contrast with the other. Like seer and seen, long and short, here and there: named together, neither prior.
 
-Second, dependence isn't a sequence. We usually picture dependence as something waiting on something else in time: first the cause, then the effect. Here nothing waits. The dependence is in the appearing itself, all at once. The parts, their relations and their naming do not arise in sequence. They are aspects of one dependently arisen event.
+Second, dependence isn't a sequence. We usually picture dependence as something waiting on something else in time: first the cause, then the effect. Here nothing waits. The dependence is in the appearing itself, all at once. This is the logic of the single stroke. The parts, their relations and their naming do not arise in sequence. They are aspects of one dependently arisen event.
 
 Third, each colour is empty, and vivid, at the same moment. Blue has no blueness of its own. Alone, it isn't even seen. Yet the instant red is there, blue is bright and unmistakable. Being empty and being vivid aren't two stages. They are one appearing.
 
@@ -50,29 +50,41 @@ Fourth, nothing produced it. Red didn't make blue appear, and blue didn't make r
 
 Fifth, it isn't one thing either. Blue and red appearing together doesn't merge them into one big field of colour behind both. Each is distinct and clear. They are neither one nor two: not separate things that meet, and not one thing in two shades.
 
-In short: appearing is relation from the start, all at once, with nothing first and nothing behind.
+In short: appearing is relation from the start, all at once, with nothing first and nothing behind. That is why, by appearing, a thing is already empty. And why the same appearing is complete by itself.
 
-So singling out is not something done to an appearance that was there first. It is already dependence. And dependence is already emptiness. Look for the this apart from its conditions, and it is not found.
+So singling out is not something done to an appearance that was there first. It is already dependence. And dependence is already emptiness. Look for the this apart from its conditions, in its parts or apart from them, and it is not found.
 
 Singling out is dependence. Dependence is emptiness. So by appearing, a thing is already empty.
 
-Nothing appears first and turns out empty later. This is what Nagarjuna means when he says that dependent arising, emptiness and dependent designation are one. The logic does not make things empty. It shows what appearing already is.
+Nothing appears first and turns out empty later. This is what Nāgārjuna means when he says that dependent arising, emptiness and dependent designation are one. The logic does not make things empty. It shows what appearing already is. And it is why Candrakīrti refuses a bare particular, given before any designation. No such bare given is found.
 
-None of this makes the world thin. Singling out is not the mistake. A mirror shows every reflection, clear and distinct, and holds none of them. The mistake is one step further: taking what is singled out as standing on its own. The singling out goes on, vivid and exact. Only the extra "on its own" is not found.
+None of this makes the world thin. Singling out is not the mistake. A mirror shows every reflection, clear and distinct, and holds none of them. The mistake is one step further: taking what is singled out as standing on its own, from its own side. The singling out goes on, vivid and exact. Only the extra "on its own" is not found.
 
-Take something you can hold. Someone passes you an apple, and you hold it in your hand. It seems plain that you are holding a solid apple, out there, on its own. Look again.
+Take something you can hold. Someone passes you an apple, and you hold it in your hand. It seems plain that you are holding a solid apple, out there, on its own, and that the senses only report on it. Look again.
 
-The hardness is not stored in the apple. It arises when skin meets fruit, the fingers press, and touch is there. Press lightly and it is firm. Press with the thumb and it gives. The coolness depends on the warmth of your hand. The weight in your palm is a pull with the earth, met by your arm.
+The hardness is not stored in the apple. It arises when skin meets fruit, the fingers press, and touch is there. Press lightly and it is firm. Press with the thumb and it gives. To a stone, it is soft. The coolness depends on the warmth of your hand. The weight in your palm is a pull with the earth, met by your arm.
 
-The red depends on light, on the skin of the fruit, and on the eye. Under candlelight it turns orange. At dusk it goes grey. The scent needs the air and the breath. The crunch needs teeth and an ear. The sweetness needs the tongue: right after brushing your teeth, it is another apple. Even the word "apple" comes with memory and language.
+The red depends on light, on the skin of the fruit, and on the eye. Under candlelight it turns orange. At dusk it goes grey. A bee sees patterns you cannot. No red is found sitting on the apple apart from all this. Yet it appears vividly, whenever its conditions come together.
 
-Each sense gives only its own appearing. This hardness, this red, this crunch, this sweetness. None of them gives an apple standing out there on its own. Mental formation, from the habits of the inherent framework, does the rest. It ties the appearings into one solid thing, puts it out there, and puts a "me" in here, holding it.
+The scent needs the air and the breath. With a blocked nose there is none. The crunch needs teeth and an ear. It was not waiting inside the apple. The sweetness needs the tongue: right after brushing your teeth, it is another apple. Even the word "apple" comes with memory and language. The thought, this is an apple, is one more appearing, with its own conditions.
 
-Look for the apple apart from its conditions, and it is not found. Look for the holder apart from the holding, and that is not found either. Nothing is missing. You can still eat it, share it, and plant its seeds. Untied, it is just this: vivid, and light.
+Each sense gives only its own appearing. This hardness, this red, this crunch, this sweetness. None of them gives an apple standing out there on its own. Mental formation, from the habits of the inherent framework, does the rest. It ties the appearings into one solid thing, as if they all belonged to a hidden core. It puts that thing out there, and puts a "me" in here, holding it.
 
-Then the clarity. Every appearing is clear: seen, heard, known. This clear, vivid knowing is what the tradition calls the nature of mind. When it is mistaken, it becomes me, the one who sees. When that is seen through, it is easily mistaken again, as a capital S Self: a pure witness, a vast awareness, the background the world appears in.
+Look for the apple apart from its conditions, and it is not found. Look for the holder apart from the holding, and that is not found either. Nothing is lost. You can still eat it, share it, and plant its seeds. It works because it is dependently arisen. An apple that stood on its own, unchanging and unrelated, could never ripen, or be bitten, or feed anyone.
 
-But the clarity is the appearing's own. It is not a light shining from behind. It too is singled out, with its conditions, and looked for, it is not found apart from what appears. Not a seer behind the seen, and not found apart from it. Clear, knowing and empty, with no one knowing it, and no ground beneath it.
+The senses give appearings. The habit ties them into an apple out there. Untied, nothing is missing: just this, vivid, and light.
+
+The same knot can be told from the side of light. The five aggregates are all here. Form: the hardness, the red. Feeling: the sweetness is pleasant. Perception: the shape recognised as apple. Formations. And consciousness: touch, seeing, tasting, each its own stream, unmixed. The knot is the aggregate of formations.
+
+Dzogchen tells the same movement from the side of light. Each aggregate, freed, is one of five lights. Grasped as something standing over there, the lights harden into solid elements, a solid world, and a solid body. So the habit that ties the appearings into an apple out there is the grasping that hardens the lights.
+
+Untied, the aggregates are seen as display: many vivid streams of appearing, with no core underneath, and no one holding them. This is also what the rainbow body is, in essence. A realization, not the body disappearing. And the lights are not a stuff beneath the aggregates. They name the aggregates' own clarity, as empty as they are.
+
+Then the clarity. Every appearing is clear: seen, heard, known. This clear, vivid knowing is what the tradition calls the nature of mind, its luminous clarity. When it is mistaken, it becomes me, the one who sees. When that is seen through, it is easily mistaken again, as a capital S Self: a pure witness, a vast awareness, the background the world appears in.
+
+But the clarity is the appearing's own. It is not a light shining from behind. It too is singled out, with its conditions, and searched for, it is not found apart from what appears. The seeing is no different from the seen. Not a seer behind it, and not found apart from it. Clear, knowing and empty, with no one knowing it, and no ground beneath it.
+
+So when the steps say designation, hear it this way. This vivid, clear appearing, singled out, dependent, and not found. Awareness is not a second thing beside it.
 
 So the taste and the logic meet here. Direct taste meets the appearing as vivid, clear and knowing, with no one knowing it. In seeing, just the seen. The logic meets the same appearing and finds nothing standing on its own. The logic says it is empty. The taste says it is luminous. These are not two things, and neither is a ground beneath the other.
 
@@ -81,6 +93,8 @@ When you look at any phenomenon, what it actually is, is just this. Its being no
 Try it now. Hear a sound. Notice it is already this sound, picked out, before any word. Notice what it stands out against, and what it comes with. Is there a sound left over, apart from those?
 
 Pick up a piece of fruit. Go through the senses one by one. Then look for the fruit apart from them, and for the one holding it.
+
+Look at your hand. It is already a hand, singled out, vivid. Look for a hand apart from its being singled out. Look for the one doing the singling out. Do not argue. Just look.
 
 Then notice the clarity. Everything is already known, without effort. Is the knowing behind the scene? Or is it just the scene, bright and clear?
 
