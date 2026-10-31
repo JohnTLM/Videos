@@ -1,0 +1,103 @@
+---
+chapter: 17
+label: After Anatta · The Logic
+title: "The Logic of Dependency"
+series: "After Anatta · The Logic"
+source: thusness-website after-anatta/logic.html (aa-logic, on atr-passerby.com 2026-10-31); replaces the early Book 1 video ch92
+intro: yes
+voice: male
+---
+
+# The Logic of Dependency
+
+In seeing, there is just the seen. No one stands behind the eyes, doing the seeing. That is anatta.
+
+Now watch a candle burn for a minute. The flame leans, steadies, shrinks when the door opens, and recovers. Ask what is happening, and the answer comes before any thought. The flame is changing. Something is there, and something is happening to it.
+
+Here is the question. Even after the arguments against it have been accepted, why does that picture come back, the moment attention is off duty?
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+What I call the logic of dependency is the seeing of anatta turned on everything. On change, on identity, on continuity, and on the path itself.
+
+The picture of something that changes is not a stray belief that one argument can remove. It is a way of reasoning. Call it the logic of substance. It starts with things, and then asks what happens to them. Do they arise, last, move, end?
+
+The logic of dependency starts one step earlier. It asks how anything is picked out as a thing in the first place. And it finds that a thing is picked out only in dependence. On parts, on causes, on contrasts, and on the name it is picked out by. No thing is found standing there before that.
+
+The two logics use the same words. Change, cause, identity, the path. But because they begin in different places, the same words lead them into different worlds.
+
+First, an honest question. Does anyone really think this way? Ask people whether things have fixed essences, and most will say no. Everything changes, they say. But the test is not what people say when asked. It is what they do when they are not asked.
+
+In space. Few people say space is a thing. Yet almost everyone pictures it as one. A vast, empty room, which would still be there, dark and waiting, if every star were taken away. But space is never met apart from distance, reach, and room for something. The room that would survive the removal of everything is not found. It is assumed.
+
+In time. Time is pictured as a river, flowing on its own. The deadline approaches. The weekend flew. We spend time and run out of it. Yet under general anaesthetic, three hours pass on the clock, and none in experience. No river is found that flowed by itself.
+
+These two pictures carry all the rest. The something that changes is pictured as a passenger, set on a stage, carried along by a stream. Take away the stage and the stream, and the passenger has nowhere to be.
+
+The habit is in grammar too. The flame flickers. I have changed. The subject is held still, so that the predicate can happen to it. It is there before language. Infants of a few months already expect objects to persist when hidden. And it is clearest in emotion. Falsely accused, or suddenly praised, an "I" appears, vivid and solid. In grief, someone is felt to have vanished who was fully there, whatever one's philosophy says.
+
+So yes, we think this way. Not all the time. A cook judges the dough by how it responds. But the habit switches on when we explain, when we name, when we feel threatened, and when we lose. That is where the logic of dependency has to be tested.
+
+What does "logic" mean here? Not a special logic of its own, and not a leap beyond logic. It means the force of a consequence. Whoever proposes something existing from its own side must say what it is. To say what it is, they must pick it out by contrast and by name, and so make it dependent. The proposal undoes itself.
+
+It relies on the ordinary rules of reasoning. Fire cannot be both one with its fuel and other than it. And the famous refusals, neither existent nor non existent, neither arising nor ceasing, are not contradictions. They refuse a presupposition. Is the present king of France bald? Neither yes nor no, because there is no present king of France. Does the self exist or not? Each answer assumes a bearer with a status of its own. When no such bearer is found, both answers fall together. Logic has not been suspended. The question had nothing to be about.
+
+Now to change. The logic of substance pictures change as a noun with verbs happening to it. There is a flame, and the flame flickers.
+
+Look for the noun. The flame at this moment is wax vapour, oxygen and light that were not there a moment ago, and will be gone the next. Take away the burning, and no flame is left over to have been burning. But the verb is not found apart from the noun either. A flickering with nothing flickering is no more available than a flame that never flickers. Nāgārjuna showed that walker and walking are designated together, and neither is found first. So it is with changer and change.
+
+The logic of dependency does not swap the old subject for a better one, such as a process, a flow, or an energy. Nothing is lost from the burning. The candle still burns down. You can say correctly when it was lit, and when it went out. Only the passenger is let go.
+
+You can test this at once. The next time the picture of something changing arises, look for the something. The sound that is fading. The thought that is passing. Look for what is changing, apart from the changing. The picture insists it must be there. The looking finds more change, vivid and exact, and no changer behind it.
+
+Nāgārjuna's homage names eight extremes, in four pairs. Arising and ceasing. Permanence and annihilation. Coming and going. Identity and difference. Under the logic of substance, these are just the questions one asks of anything. When did it start? Does it last, or is it destroyed? Where did it come from? Is it the same as that?
+
+Every one of them assumes a thing with whereabouts. A place in time, in space, or in identity, that belongs to it from its own side. They are not eight separate errors. They are eight ways of asking where a thing is.
+
+The logic of dependency does not answer them with a subtler thing. It finds that what was supposed to have whereabouts is not found, and so the questions lose their object. No thing crossing an edge from absent to present. No carrier beneath the change. No whereabouts before it appeared, and none after. The sprout is not the seed. Yet it is not wholly other, for rice yields rice.
+
+Here is the point that is easy to miss. The eight negations describe dependent arising itself. If a sprout could be found arising from its seed, it would have an arising of its own, and would not need to depend. That it depends is exactly why no arising is found when it is sought. Dependence and unfindability are one fact.
+
+Switch off a lamp. The room is dark, and the light went nowhere. Switch it on. The room fills, and the light came from nowhere.
+
+Now identity. Under the logic of substance, "is it the same?" has an answer hidden in the thing itself. The logic of dependency asks instead, the same by which criteria, and for which purpose?
+
+A ship whose every plank has been replaced is the same ship on the register, and perhaps not for the museum that kept the old planks. The child in the old photograph is you, for your family, for your birth certificate, and for the story that runs from that afternoon to this one.
+
+This does not make identity arbitrary. A forged passport fails. A mistaken face in a crowd is corrected when it turns. What goes is only the claim that beneath the criteria there is a sameness from the thing's own side. Identity is the validity of a designation that works.
+
+The same shift changes the word "conventional". To the logic of substance, it sounds second rate. Merely agreed, less than real.
+
+For the logic of dependency, conventional truth is the only kind of validity there is, and it is fully valid. It has standards. Tsongkhapa gives three checks. Known to ordinary cognition. Not overturned by further ordinary cognition. Not contradicted by analysis of the ultimate. The snake seen in a rope fails the second. A rope existing from its own side fails the third. The rope as designated passes all three.
+
+And there is no deeper world for convention to fall short of. Ultimate truth is the emptiness of this one. One appearance, seen two ways. Emptiness is not a ground beneath it. It is only its being dependent.
+
+Then continuity. If nothing carries it, what makes a life one life? The logic of substance has one answer. Something persists. Take it away, it expects, and only disconnected flashes are left.
+
+The logic of dependency rejects both pictures. Nāgasena's lamp is the classic image. The flame of the last watch of the night is neither the flame of the first watch, nor a different flame. Nothing passes from one to the next, and yet the second is not unconnected with the first.
+
+A melody known by heart shows how. Each playing is new, and no tune is stored between playings. Yet the tune is recognised across them all. Habit, character and karma are like this. The link is valid and reliable, but it is designated across the moments, not carried by something that runs through them. So nothing is lost. Memory and responsibility hold. And nothing is fixed. A habit can loosen. A grievance can end.
+
+Two objections come from modern thought. The first. Isn't energy the substrate? It changes form, while the total stays the same.
+
+Physics itself does not treat it so. Energy is a conserved quantity, a number that keeps balancing, not a stuff poured from one container into another. Its amount depends on the frame of reference. And in an expanding universe, no total is conserved at all. When a match burns, nothing is found leaving the match head and travelling into the flame. Conservation is a regularity of the highest reliability. It is not a passenger.
+
+The second is subtler. If nothing is fixed, perhaps there is a store of potentials behind appearances, waiting to be realised. That would make emptiness a new substance, made of possibilities instead of stuff.
+
+But a potential is known only through what it becomes, and through its partner. Salt is soluble only in relation to water. "Could" is a designation made within conditions, not a thing waiting backstage. The Dzogchen word "unobstructed" fits better than "potential". Nothing blocks the display, and there is no store behind it.
+
+The two logics also lay out different paths. Under the logic of substance, a traveller removes bad states, like lifting out a stone, and holds good ones, like a coin. And the effort hardens into grasping.
+
+Under the logic of dependency, three things are seen. Conditions are what work. Anger is not a thing with its own nature. Change the attention, the reading, the posture, and it changes. Openness is what being dependent already means. If states had their own nature, nothing could become other than it is, and practice would be pointless. And there is nothing to hold, and no goer apart from the going.
+
+One trap remains. Openness and emptiness can quietly become the new things held. Nāgārjuna warns against those who make emptiness into a view. Openness, too, is empty. It is the absence of what one was holding.
+
+Side by side, then. The logic of substance starts with things. A carrier through change, an essence behind identity, a substrate of energy, a traveller on the path. The logic of dependency starts with how anything is picked out at all. Change and changer named together. Identity by criteria. Convention as the only validity there is. And a path of arranging conditions, with nothing to hold.
+
+Return to the candle. The logic of substance asks what the flame really is, and where it goes when it goes out. The logic of dependency notices that the flame was never anything apart from the burning. And the burning never anything apart from the wax, the air, and the one who watches. Nothing is taken from the candle. It gives exactly as much light as before.
+
+And this logic is not meant to stay a set of arguments. When it is seen, not only followed, something simple happens. With no doer anywhere, and nothing put in its place, nothing is left producing the appearing. The candle's light, a sound, a thought. Each appears whole, exactly as its conditions meet, and owes its completeness to nothing hidden.
+
+The Dzogchen tradition calls this spontaneous presence. It is not uncaused, and it is not a source behind things. It is dependent arising itself, met without the fixing. That is why I say that dependent arising is spontaneous presence.
+
+In seeing, there is just the seen. And in the flame, just the burning.
