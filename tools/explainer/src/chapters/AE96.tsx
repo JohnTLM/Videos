@@ -1,13 +1,16 @@
 // Anatta to Emptiness, Bonus: The Logic: After Anatta. Explainer drawings timed to the narration.
-// Arc: the bell already passing -> the koan -> two logics (things first / how a thing is picked out) -> three insights
-// (the red apple: vivid and unfindable; conditions meeting and parting; "lightning flashes") -> the habit reshapes
-// experience; bare attention tastes clarity but the habit reads it -> three tastes, three inventions (a witness, a world
-// out there, only mind), each struck -> the three positions; inside needs outside -> the great masters -> the koan's four
-// answers, each struck -> the ways out (a timeless Now, an awareness, a pure flow), each struck -> moment, arising and
-// ceasing designated together -> the staircase, up and down -> "it falls away" -> the eight steps -> the four questions -> beyond the moment (self, object, cause, person)
-// -> questioning the question -> nothing lost, no floor underneath -> the bell again -> close.
+// Remade 2026-10-31 from Seeing Comes First as it is today.
+// Arc: the car already passing -> the koan -> two logics, seeing comes first -> four key insights (the red apple: vivid and
+// unfindable, both together; conditions meeting, not a network; grammar: wind, lightning, "I see the tree"; no given: one
+// bowl, three beings) -> one fact; anatta the first door; spontaneous presence -> why the logic needs the seeing -> what a
+// phenomenon is (vivid, not found, not even nowhere, dependent already, clear with no knower) -> admitting the problem; the
+// wall -> bare attention tastes clarity; the mind a phenomenon too; labels over a given, struck -> six masters -> the
+// author's turn -> the koan's four answers, each struck -> two ways out, struck -> designated together -> the staircase ->
+// "it falls away" -> the eight steps -> the four questions -> beyond the moment (self, object, person) -> nothing lost ->
+// three things to try -> the car again -> close.
 // Stance: no awareness, clarity, emptiness, relation or dependent arising is drawn as a source, ground, container or
-// backdrop. Each "way out" and each invented "it" is shown only to be struck. The bell, apple, stairs and clock stay vivid.
+// backdrop. Each "way out", floor and invented "it" is shown only to be struck. Clarity is drawn as the appearing's own
+// glow, never as a light from behind. The car, apple, bowls, stairs and hand stay vivid.
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
@@ -17,90 +20,113 @@ import {
 
 // Copied verbatim from the script, in narration order. No respelled words inside.
 export const PHRASES = [
-  // the bell and the koan
+  // the car and the koan
   "Listen to a car going by", "it is already passing as it sounds", "is there a sound that stays",
   "Here is a koan to hold in mind", "This moment ceases as it arises", "Does it arise, or does it cease",
-  "two different ways of thinking", "not only for philosophy, but for practice",
-  "It draws on The Logic", "These notes set out the logic behind it",
-  // the claim and the two logics
-  "Start with the claim the author puts first", "cannot be understood clearly by reasoning alone", "It needs a direct insight",
-  "A sound, a thought, a cup",
-  "The two logics can be learned as ideas", "One starts with things", "how anything is picked out as a thing at all",
-  "But agreeing changes very little", "The logic of substance is not a belief we hold", "The cup is simply there, on its own side",
-  "even the new logic is quietly read through the old one",
-  // three insights
-  "So the author names four insights", "the logic stays a clever argument",
+  // two logics, seeing comes first
+  "This video draws on The Logic", "Eight steps teach two logics", "But the author puts one thing first",
+  "cannot be understood clearly by reasoning alone", "It needs a direct insight", "A sound, a thought, a cup", "Seeing comes first",
+  // four key insights
+  "So he names four insights after anatta", "the logic stays a clever argument", "If we stop, the old logic quietly comes back",
   "Every appearance is vivid, and it cannot be found", "Look at a red apple", "Now look for it",
-  "Is it in the skin, in the light, in the eye", "Yet the apple is still red", "The tradition calls this emptiness",
+  "Is it in the skin, in the light, in the eye", "Yet the apple is still red, as vivid as before",
+  "Not vivid first and empty later", "Confirm only the vividness", "Confirm only the unfindability",
+  "Both have to be seen together, in the same appearing", "The tradition calls this emptiness",
   "Not a void, and not a ground behind the appearing",
   "Appearance arises whenever its conditions come together", "Light, a surface, an eye, attention", "When one is missing, it does not",
-  "Nothing comes out of a hidden place", "The tradition calls this dependent origination",
-  "We habitually and intuitively think inherently", "A sentence wants a subject and a verb", "So we say lightning flashes",
-  "The flashing is the lightning", "The tradition calls this habit ignorance",
+  "Nothing comes out of a hidden place", "And the conditions are not a solid network", "They too are vivid, and not found",
+  "The tradition calls this dependent origination",
+  "We habitually and intuitively think inherently", "A sentence wants a subject and a verb", "So we say the wind blows",
+  "and lightning flashes", "I see the tree puts a seer on one side", "The grammar becomes the picture of the world",
+  "But experience is never like that", "The flashing is the lightning", "The blowing is the wind",
+  "This does not mean a pure, wordless world lies underneath", "That would be one more floor",
+  "was never found in experience", "And this habit runs almost by default", "It bends every experience and insight back",
+  "It is undoing these habits, again and again", "The tradition calls this ignorance",
   "There is no given", "One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish",
-  "a neutral stuff each being merely filters", "Look for it, and it is not found",
-  "What appears, and how it is picked out, arise together", "Nor is the mind the floor instead",
-  "The first two are one fact, seen from two sides", "The third is what hides that fact",
-  "The fourth takes away its last hiding place",
-  "Anatta is the first door", "no doer behind the doing", "Nagarjuna takes the same insight through every thing",
-  "And where do the four insights lead", "nothing is making the appearing", "It is already complete, by itself",
-  "The tradition calls this spontaneous presence", "Not uncaused, and not a source behind things",
+  "a neutral stuff that each being merely filters", "Look for it, and it is not found",
+  "What appears, and how it is picked out, arise together", "Beings still agree", "Nor is the mind the floor instead",
+  // one fact; the first door; spontaneous presence
+  "The first two are one fact, seen from two sides", "what arises dependently is what is called emptiness",
+  "The third is what hides that fact", "The fourth takes away its last hiding place",
+  "Anatta is the first door", "no doer behind the doing", "takes the same insight through every thing",
+  "And where do the four insights lead", "When the habit stops", "nothing is making the appearing",
+  "The sound is not a product waiting to be finished", "It is already complete, by itself",
+  "calls this spontaneous presence", "the last of the seven phases", "Not uncaused, and not a source behind things",
   "Dependent arising itself, met without the fixing",
-  // the habit and bare attention
-  "it reshapes them before we notice", "So practice becomes the removal of concepts", "Bare attention",
-  "These practices do something real", "the clarity of appearances can be tasted directly",
-  "The habit of thinking inherently does not need words to work",
-  // three tastes, three inventions
-  "The author describes three ways this happens", "We taste luminous clarity, and invent a witness",
-  "We meet the vividness of appearances, and make it objective", "We taste unfindability, and make it private",
-  "Each time the experience was true, and the reading was false",
-  "the great positions people argue about", "consciousness as the ground of everything", "a physical world simply there",
-  "a world that is only mind", "The author passed through each of them",
-  "If a subject depends on its object", "An inside that depends on an outside is not truly inside",
-  // the masters
-  "The great masters said the same", "wrote that calm abiding alone", "wrote that without the wisdom that realises",
-  "advised that when thoughts arise", "a Zen master, scolded those", "experience without the view cannot do the work",
+  // why the logic needs the seeing
+  "Why does the logic need the seeing", "One starts with things", "how anything is picked out as a thing at all",
+  "a minute to agree with",
+  "But agreeing changes very little", "The logic of substance is not a belief we hold", "the cup is simply there, on its own side",
+  "even the new logic is read through the old one", "Things are still things", "The conditions become a new solid floor",
+  "Emptiness becomes a void, or a vast space", "The words have changed", "The logic has not",
+  // what a phenomenon is
+  "So what is a phenomenon", "A vivid appearing that is not found", "Vivid: nothing is taken away",
+  "a car can still knock you down", "Not found: not in its parts", "And the mind that looks is not found either",
+  "Not even nowhere", "Dependent already", "And clear, with no knower behind it",
+  "The clarity belongs to the appearing itself", "and it is empty too", "No phenomenon, not even the mind, is the floor",
+  // admitting the problem; the wall
+  "one thing has to be admitted", "We think inherently", "It is our default", "Seeing it means noticing, in an ordinary day",
+  "a self that decides, a world out there, a problem that is simply there", "It does not feel like a view at all",
+  "It feels like how things are",
+  "even deep experience and genuine insight will hit a wall", "The experience can be non dual",
+  "while the framework that reads them is still inherent", "Then presence becomes a ground", "emptiness becomes a void, and conditions",
+  "The experience has changed", "The framework has not",
+  // why experience alone is not enough
+  "Many practitioners, especially in Zen", "The author calls this a grave mistake", "practice becomes the removal of concepts",
+  "Bare attention",
+  "These practices do something genuine", "the luminous clarity of appearances can be tasted directly",
+  "But at most, that is all they do", "Removing concepts does not show what appearances are",
+  "they can still be taken as existing from their own side", "The mind can be tasted too",
+  "taken as the one thing that stands by itself", "But the mind is a phenomenon like any other",
+  "Its clarity is as empty as the red of the apple",
+  "Even the idea behind these practices pictures concepts as labels", "That picture is itself the logic of substance",
+  "A thing and its designation arise together", "There is no unlabelled layer waiting to be uncovered",
+  "Strip the labels, and the habit stays", "That is how luminous clarity becomes a Witness",
+  "It was the author's own story in the I AM years",
+  "Bare attention can taste the clarity of appearances", "Only the view shows what they are",
+  // six masters; the author's turn
+  "The great masters said the same", "wrote that calm abiding alone", "traced the habit behind appearances to a view",
+  "a Zen master, scolded those", "advised that when thoughts arise", "wrote that without the wisdom that realises",
+  "taught that, just as the I is a conceptual label",
+  "None of them says experience does not matter", "Hearing that there is water does not quench thirst",
+  "experience without the view cannot do the work",
+  "For the author, after I AM", "the vividness was never what was missing", "What was missing was seeing what that vividness is",
+  "What changed things was seeing directly what a phenomenon is", "with no knower behind the knowing",
+  "Only then did the logic of dependency become clear",
   // the koan answered by substance
   "Now return to the koan",
   "The logic of substance starts with a thing", "So it must choose",
-  "It arises? Then it is there", "it is never there to have arisen", "it splits again",
+  "It arises? Then it is there", "it is never there to have arisen",
   "It ceases? Then something passes away", "what passes away, if it never stood",
   "Coming into being and passing away are opposites", "Neither? Then nothing happens at all", "Yet a sound is being heard right now",
   "Every answer fails", "put the whole trap in one verse", "There is no passing away either apart from coming into being",
-  "the logic of substance looks for a way out", "A timeless Now that the moments pass through", "An awareness in which they come and go",
-  "A pure flow", "only moves it somewhere else",
+  "The logic of substance looks for a way out", "an awareness in which moments come and go", "Each keeps the moment as a thing",
+  "only moves it somewhere else",
   // the koan answered by dependency
   "The logic of dependency starts one step earlier", "It asks how this moment is picked out at all",
   "A moment is picked out together with its arising and its ceasing", "None comes first, and none is found apart from the others",
   "merely designated as such upon conditions",
-  "Think of a staircase", "Are the stairs up, or down", "In themselves, neither", "They are up for someone climbing",
-  "and down for someone coming down", "And the stairs are really climbed, and really descended",
-  "It is called arising from one side, and ceasing from the other", "It is not nothing, and it is not only in the mind",
-  "It is a plain description", "There is no it standing between the arising and the ceasing", "The question is not answered",
-  "It falls away",
-  // the eight steps
-  "The eight steps of The Logic each come back", "The first sets the two logics side by side",
-  "The second asks what exactly is denied", "Deny too little, and a timeless Now takes its place", "Deny too much",
-  "The third goes looking for the moment", "Yet moments are named, counted and timed",
-  "The fourth gives the koan two answers", "Conventionally, the train leaves and arrives", "One moment, met two ways",
-  "The fifth shows why all four answers fall together", "The sixth names the two traps", "the eternalist trap", "the nihilist trap",
-  "The seventh answers the worry", "It is because nothing stands on its own",
-  "And the eighth gathers it all into four questions", "What would a substance view say", "What does dependency say instead",
-  "What is affirmed conventionally", "What is never found",
-  // beyond the moment: a self, an object, a cause, a person
-  "The koan is only the sharpest case", "a self, an object, a cause, a person",
-  "Say I have changed", "Look for the one who changed, apart from the changing", "Yet a promise I made is still mine to keep",
-  "Close your hand, and a fist appears", "Open it, and the fist is gone", "There was never a fist apart from the hand closing",
-  "Yet a fist can still knock on a door",
-  "A seed is called a cause only of its sprout", "Cause and effect are named together", "never from barley",
-  "Look for a friend apart from the face", "Yet the friendship is real", "someone lived, was loved, and is missed",
-  // questioning the question
-  "There is one more turn", "does the self exist", "what happens when I die",
-  "each question already assumes a thing with its own nature", "any answer only swaps one thing for another",
-  "a way to question the question",
-  // nothing lost, and the close
-  "Nothing is lost when the it is not found", "The sound is still heard", "The clock still keeps time", "Actions still bear fruit",
-  "Mutual dependence has no first and no higher", "No substrate underneath", "There is nothing more real underneath for it to cover",
+  "Think of a staircase", "Up, or down", "In themselves, neither", "up for someone climbing", "down for someone coming down",
+  "And they are truly climbed", "The moment is the same", "It is not nothing, and it is not only in the mind",
+  "is not a paradox", "It is a plain description", "There is no it standing between the arising and the ceasing",
+  "The question is not answered", "It falls away",
+  // the eight steps, the four questions
+  "The eight steps of The Logic each come back", "What exactly is denied", "only the it, the moment standing on its own",
+  "Looked for, like the old masters' chariot", "Yet moments are named, counted and timed",
+  "Conventionally, the train leaves and arrives", "One moment, met two ways", "It is because nothing stands on its own",
+  "The last step gathers it all into four questions",
+  "What would a substance view say", "What does dependency say instead", "What is affirmed conventionally", "What is never found",
+  // beyond the moment: a self, an object, a person
+  "The same logic reaches beyond the moment", "Look for the one who changed, apart from the changing",
+  "Yet a promise I made is still mine to keep", "Close your hand, and a fist appears", "Open it, and the fist is gone",
+  "It went nowhere", "Look for a friend apart from the face", "someone lived, was loved, and is missed",
+  // nothing lost
+  "Nothing is lost when the it is not found", "The sound is still heard", "Actions still bear fruit",
+  "Dependent arising is not a lesser layer", "There is nothing underneath for it to cover",
+  // try it, and the close
+  "So, a few things to try", "Listen to one sound until it ends", "Then ask where it was", "just look",
+  "Look at a colour in front of you", "Is there a seer behind the seeing",
+  "Say to yourself, the wind is blowing", "Then feel the wind on your skin", "Is there a wind apart from the blowing",
   "Listen to a sound once more", "It is vivid", "And nothing went anywhere",
   "Ask what arises, and the koan is a paradox", "the koan is simply this moment",
 ];
@@ -316,8 +342,56 @@ const Num: React.FC<{ n: string; color: string; lit: number }> = ({ n, color, li
     boxShadow: lit > 0.5 ? `0 0 20px ${color}` : undefined }}>{n}</div>
 );
 
+/** A hand, open or closed into a fist (closed: 0..1). */
+const Hand: React.FC<{ closed: number; color?: string }> = ({ closed, color = WARM }) => (
+  <svg width={130} height={130} viewBox="0 0 130 130" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <rect x={30} y={62} width={70} height={56} rx={18} fill={`${color}22`} stroke={color} strokeWidth={4} />
+    {[0, 1, 2, 3].map(i => (
+      <rect key={i} x={32 + i * 17} y={62 - 46 * (1 - closed)} width={14} height={14 + 46 * (1 - closed)} rx={7}
+        fill={`${color}22`} stroke={color} strokeWidth={3.5} />
+    ))}
+    <rect x={6 + 18 * closed} y={70} width={30 - 6 * closed} height={14} rx={7} fill={`${color}22`} stroke={color} strokeWidth={3.5} />
+  </svg>
+);
+
+/** A bowl of liquid, seen three ways. */
+const Bowl: React.FC<{ size?: number; color?: string }> = ({ size = 200, color = ICE }) => (
+  <svg width={size} height={size * 0.6} viewBox="0 0 200 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${color}88)` }}>
+    <path d="M10 30 Q100 50 190 30 Q180 112 100 116 Q20 112 10 30 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
+    <ellipse cx={100} cy={30} rx={90} ry={14} fill={`${color}55`} stroke={color} strokeWidth={4} />
+  </svg>
+);
+
+/** A simple tree. */
+const Tree: React.FC<{ color?: string; size?: number }> = ({ color = GREEN, size = 150 }) => (
+  <svg width={size} height={size * 1.15} viewBox="0 0 130 150" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+    <path d="M65 146 L65 86" stroke="#b07a45" strokeWidth={9} strokeLinecap="round" />
+    <ellipse cx={65} cy={58} rx={56} ry={50} fill={`${color}33`} stroke={color} strokeWidth={4} />
+  </svg>
+);
+
+/** Wind lines blowing. */
+const Wind: React.FC<{ color?: string }> = ({ color = ICE }) => {
+  const { t } = useT();
+  const dx = (t * 60) % 40;
+  return (
+    <svg width={220} height={120} viewBox="0 0 220 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
+      {[20, 60, 100].map((y, i) => (
+        <path key={y} d={`M${10 + dx - i * 8} ${y} Q${80 + dx} ${y - 18} ${150 + dx} ${y} T${200 + dx} ${y - 6}`} fill="none" stroke={color}
+          strokeWidth={5} strokeLinecap="round" opacity={0.85 - i * 0.15} />
+      ))}
+    </svg>
+  );
+};
+
+/** A tag stuck over something: a label pictured as laid on top. */
+const Tag: React.FC<{ text: string; color?: string }> = ({ text, color = DIM }) => (
+  <div style={{ padding: "6px 18px", borderRadius: 6, border: `3px solid ${color}`, background: "#0009", fontFamily: SANS, fontSize: 26,
+    color: CHALK, transform: "rotate(-6deg)", boxShadow: `0 0 12px ${color}66` }}>{text}</div>
+);
+
 // ---------------------------------------------------------------- scenes
-const BellScene: React.FC = () => {
+const CarScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const strike = c("Listen to a car going by");
@@ -355,107 +429,63 @@ const KoanScene: React.FC = () => {
 const TwoWaysScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const two = c("two different ways of thinking");
+  const two = c("Eight steps teach two logics");
   return (
     <AbsoluteFill>
-      <Title at={two}>two ways of thinking</Title>
+      <Title at={c("This video draws on The Logic")}>After Anatta · The Logic</Title>
+      <At x={960} y={200} o={ramp(t, c("This video draws on The Logic") + 1.2, 0.5)}><W c={DIM} s={28}>notes by John Tan, known as Thusness</W></At>
       <Svg>
-        <DrawPath d="M960 560 C 960 420, 700 380, 560 300" p={ramp(t, two + 0.3, 1)} color={WARM} width={6} len={600} />
-        <DrawPath d="M960 560 C 960 420, 1220 380, 1360 300" p={ramp(t, two + 0.6, 1)} color={TEAL} width={6} len={600} />
+        <DrawPath d="M960 640 C 960 500, 700 460, 560 380" p={ramp(t, two + 0.3, 1)} color={WARM} width={6} len={600} />
+        <DrawPath d="M960 640 C 960 500, 1220 460, 1360 380" p={ramp(t, two + 0.6, 1)} color={TEAL} width={6} len={600} />
       </Svg>
       <Items items={[
-        ["two different ways of thinking", 560, 250, <K c={WARM}>logic of substance</K>, { d: 1.2, pop: true }],
-        ["two different ways of thinking", 1360, 250, <K c={TEAL}>logic of dependency</K>, { d: 1.6, pop: true }],
-        ["not only for philosophy, but for practice", 760, 620, <K c={DIM} s={28}>philosophy</K>, { pop: true }],
-        ["not only for philosophy, but for practice", 1160, 620, <K c={GOLD} s={28}>practice</K>, { pop: true, d: 0.8 }],
-        ["It draws on The Logic", 960, 720, <W c={CHALK} s={32}>After Anatta · The Logic</W>],
-        ["These notes set out the logic behind it", 960, 790, <W c={DIM} s={28}>the seven phases describe the seeing; these notes, its logic</W>],
+        ["Eight steps teach two logics", 960, 690, <K c={CHALK} s={28}>eight steps</K>, { pop: true }],
+        ["Eight steps teach two logics", 560, 330, <K c={WARM}>logic of substance</K>, { d: 1.2, pop: true }],
+        ["Eight steps teach two logics", 1360, 330, <K c={TEAL}>logic of dependency</K>, { d: 1.6, pop: true }],
       ]} />
     </AbsoluteFill>
   );
 };
 
 const ClaimScene: React.FC = () => {
+  const { t, fps } = useT();
   const c = useCue();
+  const sc = c("Seeing comes first");
   return (
     <AbsoluteFill>
-      <Title at={c("Start with the claim the author puts first")}>the first claim</Title>
+      <Title at={c("But the author puts one thing first")}>one thing first</Title>
       <Items items={[
         ["cannot be understood clearly by reasoning alone", 960, 230, <W c={DIM} s={32}>not by reasoning alone</W>],
         ["It needs a direct insight", 960, 340, <Eye color={GOLD} size={150} />, { pop: true }],
-        ["It needs a direct insight", 960, 430, <W c={GOLD} s={34} serif>a direct insight into what a thing is</W>, { d: 0.5 }],
-        ["A sound, a thought, a cup", 560, 620, <PassingCar size={120} />, { pop: true }],
-        ["A sound, a thought, a cup", 960, 620, <Thought />, { pop: true, d: 0.5 }],
-        ["A sound, a thought, a cup", 1360, 620, <Cup />, { pop: true, d: 1.0 }],
+        ["It needs a direct insight", 960, 430, <W c={GOLD} s={34} serif>a direct insight into what a phenomenon is</W>, { d: 0.5 }],
+        ["A sound, a thought, a cup", 560, 590, <PassingCar size={120} />, { pop: true }],
+        ["A sound, a thought, a cup", 960, 590, <Thought />, { pop: true, d: 0.5 }],
+        ["A sound, a thought, a cup", 1360, 590, <Cup />, { pop: true, d: 1.0 }],
       ]} />
+      <At x={960} y={760} s={pop(t, fps, sc, 14)} o={ramp(t, sc, 0.4)}><W c={GOLD} s={50} serif>seeing comes first</W></At>
     </AbsoluteFill>
   );
 };
 
-const LogicsScene: React.FC = () => {
+const FourScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const one = c("One starts with things");
-  const pick = c("how anything is picked out as a thing at all");
+  const n = c("So he names four insights after anatta");
+  const back = c("If we stop, the old logic quietly comes back");
   return (
     <AbsoluteFill>
-      <Title at={c("The two logics can be learned as ideas")}>two logics, learned as ideas</Title>
-      <At x={560} y={400} s={pop(t, fps, one)}><Cup color={WARM} /></At>
-      <Flow x1={560} y1={470} x2={560} y2={560} color={WARM} p={ramp(t, one + 0.6, 0.5)} pulses={false} />
-      <At x={1360} y={400} s={pop(t, fps, pick)}><Cup color={TEAL} /></At>
-      <At x={1360} y={400} o={ramp(t, pick + 0.6, 0.5)}>
-        <div style={{ width: 230, height: 190, borderRadius: 24, border: `3px dashed ${TEAL}` }} />
-      </At>
-      <Items items={[
-        ["One starts with things", 560, 250, <K c={WARM} s={28}>a thing first</K>, { pop: true }],
-        ["One starts with things", 560, 600, <W c={WARM} s={28}>then: what happens to it?</W>, { d: 0.9 }],
-        ["how anything is picked out as a thing at all", 1360, 250, <K c={TEAL} s={28}>picked out how?</K>, { pop: true, d: -0.6 }],
-        ["how anything is picked out as a thing at all", 1360, 600, <W c={TEAL} s={28}>how is a “thing” picked out at all?</W>, { d: 0.9 }],
-        ["But agreeing changes very little", 960, 720, <W c={DIM} s={32}>easy to agree with; it changes very little</W>],
-      ]} />
-    </AbsoluteFill>
-  );
-};
-
-const SubstanceScene: React.FC = () => {
-  const { t, fps } = useT();
-  const c = useCue();
-  const cup = c("The cup is simply there, on its own side");
-  const lens = c("even the new logic is quietly read through the old one");
-  return (
-    <AbsoluteFill>
-      <Title at={c("The logic of substance is not a belief we hold")}>not a belief: how things seem</Title>
-      <At x={760} y={420} s={pop(t, fps, cup)}><Cup size={200} /></At>
-      <At x={760} y={420} o={ramp(t, cup + 0.8, 0.5)}>
-        <div style={{ width: 300, height: 240, borderRadius: 30, border: `4px solid ${WARM}88`, boxShadow: `0 0 30px ${WARM}55` }} />
-      </At>
-      <At x={760} y={600} o={ramp(t, cup + 1.0, 0.5)}><W c={WARM} s={30}>“simply there, on its own side”</W></At>
-      <At x={1300} y={420} o={ramp(t, lens, 0.5)}><K c={TEAL} s={30}>dependency</K></At>
-      <At x={1300} y={420} o={ramp(t, lens + 0.8, 0.6)}>
-        <div style={{ width: 300, height: 120, borderRadius: 60, background: `${WARM}33`, border: `3px solid ${WARM}` }} />
-      </At>
-      <At x={1300} y={540} o={ramp(t, lens + 1.2, 0.5)}><W c={DIM} s={28}>read through the old lens</W></At>
-    </AbsoluteFill>
-  );
-};
-
-const ThreeScene: React.FC = () => {
-  const { t, fps } = useT();
-  const c = useCue();
-  const n = c("So the author names four insights");
-  return (
-    <AbsoluteFill>
-      <Title at={n}>four insights after anatta</Title>
+      <Title at={n}>four key insights after anatta</Title>
       {[["vivid, and not found", GOLD], ["arising on conditions", TEAL], ["the habit of thinking inherently", WARM], ["there is no given", VIOLET]].map(([w, col], i) => (
         <React.Fragment key={i}>
-          <At x={300 + i * 440} y={380} s={pop(t, fps, n + 0.6 + i * 0.5)}><Num n={String(i + 1)} color={col} lit={1} /></At>
-          <At x={300 + i * 440} y={470} o={ramp(t, n + 0.9 + i * 0.5, 0.5)}><W c={col} s={28}>{w}</W></At>
+          <At x={300 + i * 440} y={360} s={pop(t, fps, n + 0.6 + i * 0.5)}><Num n={String(i + 1)} color={col} lit={1} /></At>
+          <At x={300 + i * 440} y={450} o={ramp(t, n + 0.9 + i * 0.5, 0.5)}><W c={col} s={28}>{w}</W></At>
         </React.Fragment>
       ))}
       <Items items={[
-        ["So the author names four insights", 960, 600, <W c={CHALK} s={30}>seen clearly, confirmed again and again</W>, { d: 2.6 }],
-        ["the logic stays a clever argument", 960, 700, <W c={DIM} s={32}>otherwise: a clever argument</W>],
+        ["So he names four insights after anatta", 960, 580, <W c={CHALK} s={30}>seen clearly, confirmed again and again</W>, { d: 2.6 }],
+        ["the logic stays a clever argument", 960, 660, <W c={DIM} s={30}>otherwise: a clever argument</W>],
       ]} />
+      <At x={960} y={760} o={ramp(t, back, 0.5)}><W c={WARM} s={30}>seen once is not enough: stop, and the old logic comes back</W></At>
     </AbsoluteFill>
   );
 };
@@ -465,33 +495,49 @@ const AppleScene: React.FC = () => {
   const c = useCue();
   const look = c("Now look for it");
   const parts = c("Is it in the skin, in the light, in the eye");
-  const still = c("Yet the apple is still red");
-  const nv = c("Not a void, and not a ground behind the appearing");
+  const still = c("Yet the apple is still red, as vivid as before");
   return (
     <AbsoluteFill>
       <Title at={c("Every appearance is vivid, and it cannot be found")} color={GOLD}>1. vivid, and cannot be found</Title>
-      <At x={960} y={400} s={pop(t, fps, c("Look at a red apple"))}><Apple glow={0.6 + 0.4 * ramp(t, still, 0.8)} /></At>
-      <At x={760 + 80 * Math.sin((t - look) * 1.6)} y={330 + 40 * Math.cos((t - look) * 1.3)} o={between(t, look, still)}><Magnifier /></At>
+      <At x={960} y={420} s={pop(t, fps, c("Look at a red apple"))}><Apple glow={0.6 + 0.4 * ramp(t, still, 0.8)} /></At>
+      <At x={760 + 80 * Math.sin((t - look) * 1.6)} y={350 + 40 * Math.cos((t - look) * 1.3)} o={between(t, look, still)}><Magnifier /></At>
       {(["skin", "light", "eye"] as const).map((w, i) => (
         <React.Fragment key={w}>
-          <At x={1340} y={260 + i * 110} o={ramp(t, parts + i * 0.6, 0.4) * (1 - ramp(t, nv - 0.4, 0.4))}><K c={ICE} s={28}>in the {w}?</K></At>
-          <At x={1540} y={260 + i * 110} o={ramp(t, parts + 1.8 + i * 0.3, 0.4) * (1 - ramp(t, nv - 0.4, 0.4))}><W c={WARM} s={26}>not found</W></At>
+          <At x={1340} y={280 + i * 110} o={ramp(t, parts + i * 0.6, 0.4)}><K c={ICE} s={28}>in the {w}?</K></At>
+          <At x={1540} y={280 + i * 110} o={ramp(t, parts + 1.8 + i * 0.3, 0.4)}><W c={WARM} s={26}>not found</W></At>
         </React.Fragment>
       ))}
-      <At x={960} y={600} o={ramp(t, still, 0.5)}><W c={RED} s={36} serif>still red</W></At>
+      <At x={960} y={640} o={ramp(t, still, 0.5)}><W c={RED} s={38} serif>still red, as vivid as before</W></At>
+    </AbsoluteFill>
+  );
+};
+
+const BothScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const v = c("Confirm only the vividness");
+  const u = c("Confirm only the unfindability");
+  const both = c("Both have to be seen together, in the same appearing");
+  const nv = c("Not a void, and not a ground behind the appearing");
+  const gone = 1 - ramp(t, both, 0.5);
+  return (
+    <AbsoluteFill>
+      <Title at={c("Not vivid first and empty later")} color={GOLD}>not one, then the other</Title>
+      {/* one-sided readings, drawn only to be struck */}
+      <At x={480} y={300} o={ramp(t, v, 0.4) * gone}><K c={RED} s={30}>only vivid</K></At>
+      <At x={480} y={420} o={ramp(t, v + 1.2, 0.4) * gone}><Floor w={360} color={DIM} dashed /></At>
+      <At x={480} y={480} o={ramp(t, v + 1.2, 0.4) * gone}><SK c={DIM} s={26} strikeAt={u - 0.4}>presence as a new ground</SK></At>
+      <At x={1440} y={300} o={ramp(t, u, 0.4) * gone}><K c={ICE} s={30}>only unfindable</K></At>
+      <At x={1440} y={420} o={ramp(t, u + 1.2, 0.4) * gone}><div style={{ width: 130, height: 130, borderRadius: "50%", background: "#000", border: `3px dashed ${DIM}` }} /></At>
+      <At x={1440} y={540} o={ramp(t, u + 1.2, 0.4) * gone}><SK c={DIM} s={26} strikeAt={both - 0.6}>a thin, void world</SK></At>
+      <At x={960} y={400} s={pop(t, fps, both)}><Apple size={200} /></At>
       <Items items={[
-        ["The tradition calls this emptiness", 960, 690, <W c={GOLD} s={34} serif>emptiness: the appearing’s not being found</W>],
+        ["Both have to be seen together, in the same appearing", 960, 580, <W c={GOLD} s={32} serif>vivid and not found, in the same appearing</W>, { d: 0.6 }],
+        ["The tradition calls this emptiness", 960, 680, <W c={GOLD} s={36} serif>emptiness: the appearing’s not being found</W>],
+        ["Not a void, and not a ground behind the appearing", 960, 770, <W c={DIM} s={28}>not a void · not a ground behind</W>],
       ]} />
-      {/* a void and a ground: drawn only to be crossed out */}
-      <At x={420} y={420} o={ramp(t, nv, 0.4) * (1 - ramp(t, nv + 3.0, 0.5))}>
-        <div style={{ width: 170, height: 170, borderRadius: "50%", background: "#000", border: `3px dashed ${DIM}` }} />
-      </At>
-      <At x={420} y={540} o={ramp(t, nv, 0.4) * (1 - ramp(t, nv + 3.0, 0.5))}><W c={DIM} s={26}>a void?</W></At>
-      <At x={960} y={790} o={ramp(t, nv + 0.8, 0.4) * (1 - ramp(t, nv + 3.0, 0.5))}><Floor w={560} color={DIM} dashed /></At>
-      <At x={960} y={745} o={ramp(t, nv + 0.8, 0.4) * (1 - ramp(t, nv + 3.0, 0.5))}><W c={DIM} s={26}>a ground behind?</W></At>
-      <div style={{ position: "absolute", inset: 0, opacity: 1 - ramp(t, nv + 3.0, 0.5) }}>
-        <Crossed x={420} y={420} at={nv + 0.6} size={70} />
-        <Crossed x={960} y={790} at={nv + 1.6} size={50} />
+      <div style={{ position: "absolute", inset: 0, opacity: ramp(t, nv, 0.3) * (1 - ramp(t, nv + 3.5, 0.5)) }}>
+        <Crossed x={960} y={770} at={nv + 1.0} size={34} />
       </div>
     </AbsoluteFill>
   );
@@ -502,8 +548,10 @@ const ConditionsScene: React.FC = () => {
   const c = useCue();
   const come = c("Light, a surface, an eye, attention");
   const miss = c("When one is missing, it does not");
-  const away = ramp(t, miss, 1.0);
+  const net = c("And the conditions are not a solid network");
+  const away = ramp(t, miss, 1.0) * (1 - ramp(t, net - 0.5, 0.8));
   const pts: [string, number, number, string][] = [["light", 520, 300, GOLD], ["a surface", 1400, 300, ICE], ["an eye", 520, 640, TEAL], ["attention", 1400, 640, VIOLET]];
+  const glowNet = ramp(t, c("They too are vivid, and not found"), 0.6);
   return (
     <AbsoluteFill>
       <Title at={c("Appearance arises whenever its conditions come together")} color={TEAL}>2. arising whenever conditions meet</Title>
@@ -512,14 +560,22 @@ const ConditionsScene: React.FC = () => {
         const gx = x + (960 - x) * 0.45 * gather, gy = y + (470 - y) * 0.45 * gather;
         const dx = i === 3 ? 260 * away : 0;
         return (
-          <At key={w} x={gx + dx} y={gy} o={ramp(t, come + i * 0.5, 0.4)}><K c={col} s={30}>{w}</K></At>
+          <At key={w} x={gx + dx} y={gy} o={ramp(t, come + i * 0.5, 0.4) * (0.4 + 0.6 * glowNet + 0.6 * (1 - ramp(t, net, 0.4)))}><K c={col} s={30}>{w}</K></At>
         );
       })}
+      {/* a solid network behind: drawn only to be struck */}
+      <Svg>
+        <g opacity={ramp(t, net, 0.5) * (1 - ramp(t, c("They too are vivid, and not found") + 1.2, 0.6))}>
+          <DrawPath d="M640 330 L1280 330 L1280 610 L640 610 Z M640 330 L1280 610 M1280 330 L640 610" p={ramp(t, net, 1.0)} color={DIM} width={4} len={2600} glow={false} />
+        </g>
+      </Svg>
       <At x={960} y={470} o={ramp(t, come + 3.0, 0.6) * (1 - 0.9 * away)}><Apple size={150} glow={1 - away} /></At>
       <Items items={[
         ["Light, a surface, an eye, attention", 960, 600, <W c={RED} s={30}>together, red appears</W>, { d: 3.4, until: "When one is missing, it does not" }],
-        ["When one is missing, it does not", 960, 600, <W c={DIM} s={30}>one missing: no red</W>, { d: 0.6 }],
-        ["Nothing comes out of a hidden place", 960, 720, <W c={CHALK} s={30}>nothing comes from a hidden place, nothing goes back</W>],
+        ["When one is missing, it does not", 960, 600, <W c={DIM} s={30}>one missing: no red</W>, { d: 0.6, until: "And the conditions are not a solid network" }],
+        ["Nothing comes out of a hidden place", 960, 720, <W c={CHALK} s={30}>nothing comes from a hidden place, nothing goes back</W>, { until: "And the conditions are not a solid network" }],
+        ["And the conditions are not a solid network", 960, 720, <SK c={DIM} s={28} strikeAt={c("They too are vivid, and not found") + 0.4}>a solid network behind</SK>, { d: 0.4 }],
+        ["They too are vivid, and not found", 960, 160, <W c={TEAL} s={28}>the conditions too: vivid, and not found</W>, { d: 0.4 }],
         ["The tradition calls this dependent origination", 960, 800, <W c={TEAL} s={34} serif>dependent origination</W>],
       ]} />
     </AbsoluteFill>
@@ -530,86 +586,123 @@ const SentenceScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const sv = c("A sentence wants a subject and a verb");
-  const say = c("So we say lightning flashes");
-  const is = c("The flashing is the lightning");
-  const flash = 0.5 + 0.5 * Math.sin(t * 9);
+  const wind = c("So we say the wind blows");
+  const light = c("and lightning flashes");
+  const tree = c("I see the tree puts a seer on one side");
+  const gram = c("The grammar becomes the picture of the world");
+  const top = 1 - ramp(t, tree - 0.2, 0.4);
   const box = (label: string, col: string, at: number) => (
-    <div style={{ width: 280, height: 110, borderRadius: 14, border: `3px solid ${col}`, background: `${col}14`, position: "relative", opacity: ramp(t, at, 0.4) }}>
+    <div style={{ width: 280, height: 110, borderRadius: 14, border: `3px solid ${col}`, background: `${col}14`, position: "relative", opacity: ramp(t, at, 0.4) * top }}>
       <div style={{ position: "absolute", top: -40, width: "100%", fontFamily: SANS, fontSize: 24, color: col, letterSpacing: 2 }}>{label}</div>
     </div>
   );
+  const w1 = between(t, wind + 0.3, light, 0.3);
+  const w2 = ramp(t, light + 0.2, 0.3) * top;
   return (
     <AbsoluteFill>
       <Title at={c("We habitually and intuitively think inherently")} color={WARM}>3. the habit of thinking inherently</Title>
-      <At x={760} y={320}>{box("SUBJECT", GOLD, sv)}</At>
-      <At x={1160} y={320}>{box("VERB", ICE, sv + 0.4)}</At>
-      <At x={760} y={320} s={pop(t, fps, say + 0.4)}><W c={GOLD} s={40} serif>lightning</W></At>
-      <At x={1160} y={320} s={pop(t, fps, say + 1.0)}><W c={ICE} s={40} serif>flashes</W></At>
-      <At x={760} y={470} o={ramp(t, say + 1.8, 0.5)}>
-        <SK c={DIM} s={26} strikeAt={is + 0.8}>a lightning apart from the flash</SK>
-      </At>
-      <At x={1500} y={460} o={ramp(t, is, 0.4)}><Bolt flash={flash} /></At>
+      <At x={760} y={330}>{box("SUBJECT", GOLD, sv)}</At>
+      <At x={1160} y={330}>{box("VERB", ICE, sv + 0.4)}</At>
+      <At x={760} y={330} o={w1}><W c={GOLD} s={40} serif>the wind</W></At>
+      <At x={1160} y={330} o={w1}><W c={ICE} s={40} serif>blows</W></At>
+      <At x={760} y={330} o={w2}><W c={GOLD} s={40} serif>lightning</W></At>
+      <At x={1160} y={330} o={w2}><W c={ICE} s={40} serif>flashes</W></At>
+      <At x={960} y={470} o={ramp(t, light + 1.0, 0.5) * top}><W c={DIM} s={28}>as if a wind stood apart from the blowing</W></At>
+      {/* "I see the tree": a seer, an act, a tree */}
+      <At x={520} y={360} o={ramp(t, tree + 0.3, 0.4)} s={pop(t, fps, tree + 0.3)}><Person color={VIOLET} size={160} dashed /></At>
+      <At x={520} y={480} o={ramp(t, tree + 0.5, 0.4)}><K c={VIOLET} s={26}>a seer</K></At>
+      <Flow x1={620} y1={360} x2={1280} y2={360} color={DIM} p={ramp(t, tree + 1.0, 0.8)} />
+      <At x={960} y={420} o={ramp(t, tree + 1.2, 0.4)}><K c={DIM} s={26}>an act of seeing</K></At>
+      <At x={1400} y={350} o={ramp(t, tree + 1.6, 0.4)} s={pop(t, fps, tree + 1.6)}><Tree /></At>
+      <At x={1400} y={480} o={ramp(t, tree + 1.8, 0.4)}><K c={GREEN} s={26}>a tree</K></At>
+      <At x={960} y={640} o={ramp(t, gram, 0.5)}><W c={WARM} s={36} serif>the grammar becomes the picture of the world</W></At>
+    </AbsoluteFill>
+  );
+};
+
+const NeverScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const fl = c("The flashing is the lightning");
+  const bl = c("The blowing is the wind");
+  const pure = c("This does not mean a pure, wordless world lies underneath");
+  const flash = 0.5 + 0.5 * Math.sin(t * 9);
+  return (
+    <AbsoluteFill>
+      <Title at={c("But experience is never like that")}>experience is never like that</Title>
+      <At x={620} y={330} o={ramp(t, fl, 0.4)}><Bolt flash={flash} /></At>
+      <At x={620} y={470} o={ramp(t, fl + 0.4, 0.4)}><W c={ICE} s={32} serif>the flashing is the lightning</W></At>
+      <At x={1300} y={330} o={ramp(t, bl, 0.4)}><Wind /></At>
+      <At x={1300} y={470} o={ramp(t, bl + 0.4, 0.4)}><W c={ICE} s={32} serif>the blowing is the wind</W></At>
+      <At x={960} y={600} o={ramp(t, pure, 0.5)}><Floor w={620} color={DIM} dashed /></At>
+      <At x={960} y={660} o={ramp(t, pure + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={c("That would be one more floor") + 0.5}>a pure, wordless world underneath</SK></At>
+      <Crossed x={960} y={600} at={c("That would be one more floor") + 0.4} size={40} />
       <Items items={[
-        ["The flashing is the lightning", 1160, 600, <W c={ICE} s={38} serif>the flashing is the lightning</W>, { d: 0.4 }],
-        ["The tradition calls this habit ignorance", 960, 740, <W c={WARM} s={32}>ignorance: grasping things as there from their own side</W>],
+        ["was never found in experience", 960, 770, <W c={CHALK} s={30}>things behind what happens: never found in experience</W>],
       ]} />
     </AbsoluteFill>
   );
 };
 
-/** A bowl of liquid, seen three ways. */
-const Bowl: React.FC<{ size?: number; color?: string }> = ({ size = 200, color = ICE }) => (
-  <svg width={size} height={size * 0.6} viewBox="0 0 200 120" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${color}88)` }}>
-    <path d="M10 30 Q100 50 190 30 Q180 112 100 116 Q20 112 10 30 Z" fill={`${color}33`} stroke={color} strokeWidth={5} strokeLinejoin="round" />
-    <ellipse cx={100} cy={30} rx={90} ry={14} fill={`${color}55`} stroke={color} strokeWidth={4} />
-  </svg>
-);
+const HabitScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const re = c("It bends every experience and insight back");
+  const und = c("It is undoing these habits, again and again");
+  const pass = ramp(t, re + 0.4, 1.6);
+  const undo = ramp(t, und + 0.3, 1.4);
+  const cols = [GOLD, RED, VIOLET];
+  return (
+    <AbsoluteFill>
+      <Title at={c("And this habit runs almost by default")}>the habit runs by default</Title>
+      <At x={960} y={330} o={ramp(t, re, 0.5) * (1 - 0.6 * undo)}>
+        <div style={{ width: 70, height: 260, borderRadius: "50%", background: `${WARM}33`, border: `3px solid ${WARM}`, boxShadow: `0 0 24px ${WARM}66` }} />
+      </At>
+      <At x={960} y={490} o={ramp(t, re + 0.3, 0.5) * (1 - 0.6 * undo)}><W c={WARM} s={26}>habit</W></At>
+      {cols.map((col, i) => {
+        const x = 520 + 880 * pass;
+        const hard = x > 960 && undo < 0.5 ? 1 : 0;
+        return (
+          <At key={i} x={x} y={250 + i * 80} o={ramp(t, re, 0.5)}>
+            <div style={{ width: 54, height: 54, borderRadius: hard ? 6 : 27, background: `${col}66`,
+              border: hard ? `4px solid ${CHALK}` : `2px solid ${col}`, boxShadow: `0 0 16px ${col}` }} />
+          </At>
+        );
+      })}
+      <At x={1400} y={520} o={ramp(t, re + 1.8, 0.5) * (1 - undo)}><W c={CHALK} s={26}>things, selves, grounds</W></At>
+      <Items items={[
+        ["It is undoing these habits, again and again", 960, 640, <W c={GREEN} s={32}>practice: undoing the habit, again and again</W>],
+        ["The tradition calls this ignorance", 960, 740, <W c={WARM} s={30}>ignorance: grasping things as there from their own side</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
 
 const GivenScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const bowl = c("One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish");
-  const stuff = c("a neutral stuff each being merely filters");
+  const stuff = c("a neutral stuff that each being merely filters");
   const nf = c("Look for it, and it is not found");
+  const tog = c("What appears, and how it is picked out, arise together");
   const views: [string, string][] = [["water, to us", ICE], ["pus, to a hungry ghost", ROSE], ["a home, to a fish", TEAL]];
   return (
     <AbsoluteFill>
       <Title at={c("There is no given")} color={VIOLET}>4. there is no given</Title>
       {views.map(([w, col], i) => (
         <React.Fragment key={w}>
-          <At x={420 + i * 540} y={360} s={pop(t, fps, bowl + 0.6 + i * 1.4)}><Bowl color={col} /></At>
-          <At x={420 + i * 540} y={470} o={ramp(t, bowl + 0.9 + i * 1.4, 0.5)}><W c={col} s={28}>{w}</W></At>
+          <At x={420 + i * 540} y={340} s={pop(t, fps, bowl + 0.6 + i * 1.4)}><Bowl color={col} /></At>
+          <At x={420 + i * 540} y={450} o={ramp(t, bowl + 0.9 + i * 1.4, 0.5)}><W c={col} s={28}>{w}</W></At>
         </React.Fragment>
       ))}
-      <At x={960} y={600} o={ramp(t, stuff, 0.5) * (1 - ramp(t, c("What appears, and how it is picked out, arise together"), 0.5))}>
-        <SK c={DIM} s={28} strikeAt={nf + 0.5}>a real bowl of neutral stuff, underneath</SK>
+      <At x={960} y={580} o={ramp(t, stuff, 0.5) * (1 - ramp(t, tog, 0.5))}>
+        <SK c={DIM} s={28} strikeAt={nf + 0.5}>a bowl of neutral stuff, underneath</SK>
       </At>
       <Items items={[
-        ["What appears, and how it is picked out, arise together", 960, 600, <W c={CHALK} s={32} serif>what appears and how it is picked out: together</W>],
-        ["Nor is the mind the floor instead", 960, 700, <W c={DIM} s={28}>nor is the mind the floor: neither comes first</W>],
+        ["What appears, and how it is picked out, arise together", 960, 580, <W c={CHALK} s={32} serif>what appears and how it is picked out: together</W>],
+        ["Beings still agree", 960, 670, <W c={GREEN} s={28}>beings still agree; the world still holds together</W>],
+        ["Nor is the mind the floor instead", 960, 760, <W c={DIM} s={28}>nor is the mind the floor: neither comes first</W>],
       ]} />
-    </AbsoluteFill>
-  );
-};
-
-const DoorScene: React.FC = () => {
-  const { t } = useT();
-  const c = useCue();
-  const lead = c("And where do the four insights lead");
-  return (
-    <AbsoluteFill>
-      <Title at={c("Anatta is the first door")} color={GOLD}>anatta, the first door</Title>
-      <Items items={[
-        ["no doer behind the doing", 960, 230, <SK c={DIM} s={28} strikeAt={c("no doer behind the doing") + 1.0}>a doer behind the doing</SK>, { until: "And where do the four insights lead" }],
-        ["Nagarjuna takes the same insight through every thing", 960, 330, <W c={ICE} s={30}>Nagarjuna: the same insight, through every thing</W>, { until: "And where do the four insights lead" }],
-        ["Nagarjuna takes the same insight through every thing", 960, 420, <W c={DIM} s={26}>the walker · the fire · the cause · even the seeing</W>, { d: 1.4, until: "And where do the four insights lead" }],
-        ["nothing is making the appearing", 960, 300, <W c={CHALK} s={30}>no doer anywhere, nothing in its place: nothing making the appearing</W>],
-        ["It is already complete, by itself", 960, 400, <W c={CHALK} s={30}>complete, by itself, as its conditions meet</W>],
-        ["The tradition calls this spontaneous presence", 960, 520, <W c={GOLD} s={46} serif>spontaneous presence</W>, { pop: true }],
-        ["Not uncaused, and not a source behind things", 960, 620, <W c={DIM} s={28}>not uncaused · not a source</W>],
-        ["Dependent arising itself, met without the fixing", 960, 720, <W c={GOLD} s={32}>dependent arising itself, met without the fixing</W>],
-      ]} />
-      <At x={960} y={540} o={ramp(t, lead, 0.5) * 0}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -623,54 +716,223 @@ const OneFactScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={one}>one fact, two sides</Title>
       <Items items={[
-        ["The first two are one fact, seen from two sides", 640, 430, <K c={GOLD}>empty: not found</K>, { pop: true, d: 0.4 }],
-        ["The first two are one fact, seen from two sides", 1280, 430, <K c={TEAL}>arising in dependence</K>, { pop: true, d: 0.9 }],
-        ["The first two are one fact, seen from two sides", 960, 430, <W c={CHALK} s={44} serif>=</W>, { d: 1.4 }],
+        ["The first two are one fact, seen from two sides", 640, 400, <K c={GOLD}>empty: not found</K>, { pop: true, d: 0.4 }],
+        ["The first two are one fact, seen from two sides", 1280, 400, <K c={TEAL}>arising in dependence</K>, { pop: true, d: 0.9 }],
+        ["The first two are one fact, seen from two sides", 960, 400, <W c={CHALK} s={44} serif>=</W>, { d: 1.4 }],
+        ["what arises dependently is what is called emptiness", 960, 230, <W c={DIM} s={28}>Nāgārjuna: what arises dependently is called emptiness</W>],
       ]} />
-      <At x={960 - 700 * (1 - ramp(t, hide + 0.3, 1.2))} y={430} o={ramp(t, hide, 0.4)}>
+      <At x={960 - 700 * (1 - ramp(t, hide + 0.3, 1.2))} y={400} o={ramp(t, hide, 0.4)}>
         <div style={{ width: 1100, height: 180, borderRadius: 30, background: `${WARM}30`, border: `3px solid ${WARM}88`, backdropFilter: "blur(6px)" }} />
       </At>
-      <At x={960} y={620} o={ramp(t, hide + 1.2, 0.5)}><W c={WARM} s={32}>the third: what hides it</W></At>
-      <At x={960} y={720} o={ramp(t, c("The fourth takes away its last hiding place"), 0.5)}><W c={VIOLET} s={32}>the fourth: no given world beneath it all</W></At>
+      <At x={960} y={600} o={ramp(t, hide + 1.2, 0.5)}><W c={WARM} s={32}>the third: what hides it</W></At>
+      <At x={960} y={700} o={ramp(t, c("The fourth takes away its last hiding place"), 0.5)}><W c={VIOLET} s={32}>the fourth: no given world beneath it all</W></At>
     </AbsoluteFill>
   );
 };
 
-const HabitScene: React.FC = () => {
+const DoorScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const re = c("it reshapes them before we notice");
-  const rem = c("So practice becomes the removal of concepts");
-  const pass = ramp(t, re + 0.4, 1.6);
-  const cols = [GOLD, RED, VIOLET];
+  const d = c("Anatta is the first door");
   return (
     <AbsoluteFill>
-      <Title at={re - 0.6}>the habit runs by default</Title>
-      <At x={960} y={330} o={ramp(t, re, 0.5) * (1 - ramp(t, rem, 0.5))}>
-        <div style={{ width: 70, height: 260, borderRadius: "50%", background: `${WARM}33`, border: `3px solid ${WARM}`, boxShadow: `0 0 24px ${WARM}66` }} />
+      <Title at={d} color={GOLD}>anatta, the first door</Title>
+      <At x={960} y={380} o={ramp(t, d + 0.4, 0.5)}>
+        <div style={{ width: 200, height: 300, borderRadius: "100px 100px 8px 8px", border: `5px solid ${GOLD}`, background: `${GOLD}18`, boxShadow: `0 0 30px ${GOLD}66` }} />
       </At>
-      <At x={960} y={490} o={ramp(t, re + 0.3, 0.5) * (1 - ramp(t, rem, 0.5))}><W c={WARM} s={26}>habit</W></At>
-      {cols.map((col, i) => {
-        const x = 520 + 880 * pass;
-        const hard = x > 960 ? 1 : 0;
+      <Items items={[
+        ["no doer behind the doing", 960, 600, <SK c={DIM} s={28} strikeAt={c("no doer behind the doing") + 1.0}>a doer behind the doing</SK>],
+        ["takes the same insight through every thing", 960, 690, <W c={ICE} s={30}>Nāgārjuna: the same insight, through every thing</W>],
+        ["takes the same insight through every thing", 960, 770, <W c={DIM} s={26}>the walker · the fire · the cause · even the seeing</W>, { d: 1.4 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const PresenceScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const sp = c("calls this spontaneous presence");
+  return (
+    <AbsoluteFill>
+      <Title at={c("And where do the four insights lead")}>where the four insights lead</Title>
+      <Items items={[
+        ["When the habit stops", 960, 210, <W c={DIM} s={28}>the habit stops; no given beneath; the first two tasted together</W>],
+        ["nothing is making the appearing", 960, 290, <W c={CHALK} s={30}>no doer anywhere, nothing in its place: nothing making the appearing</W>],
+        ["The sound is not a product waiting to be finished", 760, 400, <PassingCar size={130} />, { pop: true }],
+        ["It is already complete, by itself", 1160, 400, <W c={CHALK} s={30}>complete, by itself, as its conditions meet</W>],
+      ]} />
+      <At x={960} y={530} s={pop(t, fps, sp, 14)} o={ramp(t, sp, 0.4)}><W c={GOLD} s={50} serif>spontaneous presence</W></At>
+      <Items items={[
+        ["the last of the seven phases", 960, 610, <W c={DIM} s={26}>Dzogchen · the last of the seven phases</W>],
+        ["Not uncaused, and not a source behind things", 960, 690, <W c={DIM} s={28}>not uncaused · not a source</W>],
+        ["Dependent arising itself, met without the fixing", 960, 780, <W c={GOLD} s={32}>dependent arising itself, met without the fixing</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const LogicsScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const one = c("One starts with things");
+  const pick = c("how anything is picked out as a thing at all");
+  return (
+    <AbsoluteFill>
+      <Title at={c("Why does the logic need the seeing")}>why the logic needs the seeing</Title>
+      <At x={560} y={400} s={pop(t, fps, one)}><Cup color={WARM} /></At>
+      <Flow x1={560} y1={470} x2={560} y2={560} color={WARM} p={ramp(t, one + 0.6, 0.5)} pulses={false} />
+      <At x={1360} y={400} s={pop(t, fps, pick)}><Cup color={TEAL} /></At>
+      <At x={1360} y={400} o={ramp(t, pick + 0.6, 0.5)}>
+        <div style={{ width: 230, height: 190, borderRadius: 24, border: `3px dashed ${TEAL}` }} />
+      </At>
+      <Items items={[
+        ["One starts with things", 560, 250, <K c={WARM} s={28}>a thing first</K>, { pop: true }],
+        ["One starts with things", 560, 600, <W c={WARM} s={28}>then: what happens to it?</W>, { d: 0.9 }],
+        ["how anything is picked out as a thing at all", 1360, 250, <K c={TEAL} s={28}>picked out how?</K>, { pop: true, d: -0.6 }],
+        ["how anything is picked out as a thing at all", 1360, 600, <W c={TEAL} s={28}>how is a “thing” picked out at all?</W>, { d: 0.9 }],
+        ["a minute to agree with", 960, 740, <W c={DIM} s={30}>a minute to follow, a minute to agree with</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const SubstanceScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const cup = c("the cup is simply there, on its own side");
+  const lens = c("even the new logic is read through the old one");
+  const wc = c("The words have changed");
+  return (
+    <AbsoluteFill>
+      <Title at={c("But agreeing changes very little")}>agreeing changes very little</Title>
+      <At x={960} y={180} o={ramp(t, c("The logic of substance is not a belief we hold"), 0.5)}><W c={DIM} s={28}>not a belief: how things seem, before any thought</W></At>
+      <At x={620} y={370} s={pop(t, fps, cup)}><Cup size={180} /></At>
+      <At x={620} y={370} o={ramp(t, cup + 0.8, 0.5)}>
+        <div style={{ width: 280, height: 220, borderRadius: 30, border: `4px solid ${WARM}88`, boxShadow: `0 0 30px ${WARM}55` }} />
+      </At>
+      <At x={620} y={530} o={ramp(t, cup + 1.0, 0.5)}><W c={WARM} s={28}>“simply there, on its own side”</W></At>
+      <At x={1300} y={370} o={ramp(t, lens, 0.5)}><K c={TEAL} s={30}>dependency</K></At>
+      <At x={1300} y={370} o={ramp(t, lens + 0.8, 0.6)}>
+        <div style={{ width: 300, height: 120, borderRadius: 60, background: `${WARM}33`, border: `3px solid ${WARM}` }} />
+      </At>
+      <At x={1300} y={490} o={ramp(t, lens + 1.2, 0.5)}><W c={DIM} s={26}>read through the old lens</W></At>
+      <Items items={[
+        ["Things are still things", 960, 610, <W c={CHALK} s={28}>things still things; now they also depend</W>],
+        ["The conditions become a new solid floor", 620, 690, <SK c={DIM} s={26} strikeAt={wc}>conditions: a new solid floor</SK>],
+        ["Emptiness becomes a void, or a vast space", 1300, 690, <SK c={DIM} s={26} strikeAt={wc + 0.3}>emptiness: a void, a vast space</SK>],
+        ["The words have changed", 960, 790, <W c={WARM} s={34} serif>the words have changed; the logic has not</W>, { d: 0.4 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const PhenomenonScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const L: [string, string, string][] = [
+    ["Vivid: nothing is taken away", "vivid: nothing taken away", RED],
+    ["Not found: not in its parts", "not found: not in its parts, nor apart", ICE],
+    ["Not even nowhere", "not even “nowhere”", DIM],
+    ["Dependent already", "dependent already", TEAL],
+    ["And clear, with no knower behind it", "clear, with no knower behind it", GOLD],
+  ];
+  const clear = c("The clarity belongs to the appearing itself");
+  return (
+    <AbsoluteFill>
+      <Title at={c("So what is a phenomenon")}>what is a phenomenon?</Title>
+      <At x={960} y={180} o={ramp(t, c("A vivid appearing that is not found"), 0.5)}><W c={GOLD} s={32} serif>a vivid appearing that is not found, even while appearing</W></At>
+      {L.map(([cue, w, col], i) => {
+        const a = c(cue);
         return (
-          <At key={i} x={x} y={250 + i * 80} o={ramp(t, re, 0.5) * (1 - ramp(t, rem, 0.5))}>
-            <div style={{ width: 54, height: 54, borderRadius: hard ? 6 : 27, background: `${col}66`,
-              border: hard ? `4px solid ${CHALK}` : `2px solid ${col}`, boxShadow: `0 0 16px ${col}` }} />
+          <At key={i} x={600} y={290 + i * 95} o={ramp(t, a - 0.2, 0.4)}>
+            <div style={{ width: 680, display: "flex", alignItems: "center", gap: 20, textAlign: "left" }}>
+              <Num n={String(i + 1)} color={col} lit={ramp(t, a, 0.3)} /><Glow color={col === DIM ? CHALK : col} size={30}>{w}</Glow>
+            </div>
           </At>
         );
       })}
-      <At x={1400} y={520} o={ramp(t, re + 1.8, 0.5) * (1 - ramp(t, rem, 0.5))}><W c={CHALK} s={26}>now “things”</W></At>
+      <At x={1400} y={420} s={pop(t, fps, c("Vivid: nothing is taken away"))}><Apple size={200} glow={0.5 + 0.5 * ramp(t, clear, 0.8)} /></At>
+      <Items items={[
+        ["a car can still knock you down", 1400, 580, <W c={DIM} s={24}>a car can still knock you down</W>, { until: "And the mind that looks is not found either" }],
+        ["And the mind that looks is not found either", 1400, 580, <W c={ICE} s={24}>the mind that looks: not found either</W>, { until: "The clarity belongs to the appearing itself" }],
+        ["The clarity belongs to the appearing itself", 1400, 580, <W c={GOLD} s={26}>the appearing’s own clarity</W>],
+        ["and it is empty too", 1400, 630, <W c={DIM} s={24}>no light from a witness; empty too</W>],
+        ["No phenomenon, not even the mind, is the floor", 960, 790, <W c={CHALK} s={30} serif>no phenomenon, not even the mind, is the floor</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const AdmitScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const w = c("We think inherently");
+  const day = c("a self that decides, a world out there, a problem that is simply there");
+  return (
+    <AbsoluteFill>
+      <Title at={c("one thing has to be admitted")}>admitting the problem</Title>
+      <At x={960} y={300} s={pop(t, fps, w, 14)} o={ramp(t, w, 0.4)}><W c={WARM} s={56} serif>we think inherently</W></At>
+      <At x={960} y={390} o={ramp(t, c("It is our default"), 0.4)}><W c={DIM} s={30}>not now and then: by default</W></At>
+      {(["a self that decides", "a world out there", "a problem simply there"] as const).map((s, i) => (
+        <At key={s} x={520 + i * 440} y={530} o={ramp(t, day + i * 0.9, 0.4)} s={pop(t, fps, day + i * 0.9)}><K c={WARM} s={28}>{s}</K></At>
+      ))}
+      <Items items={[
+        ["Seeing it means noticing, in an ordinary day", 960, 460, <W c={CHALK} s={26}>noticing it, in an ordinary day</W>, { until: "a self that decides, a world out there, a problem that is simply there" }],
+        ["It does not feel like a view at all", 960, 680, <W c={DIM} s={30}>it does not feel like a view at all</W>],
+        ["It feels like how things are", 960, 760, <W c={CHALK} s={34} serif>it feels like how things are</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const WallScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const wall = c("even deep experience and genuine insight will hit a wall");
+  const fr = c("while the framework that reads them is still inherent");
+  const hit = ramp(t, wall + 0.4, 1.0);
+  return (
+    <AbsoluteFill>
+      <Title at={wall - 0.6}>the wall</Title>
+      <At x={1300} y={420} o={ramp(t, wall, 0.4)}>
+        <div style={{ width: 40, height: 380, borderRadius: 6, background: `${WARM}55`, border: `3px solid ${WARM}`, boxShadow: `0 0 20px ${WARM}66` }} />
+      </At>
+      <At x={560 + 660 * hit} y={330} o={ramp(t, wall, 0.4)}><K c={GOLD} s={28}>experience</K></At>
+      <At x={560 + 660 * hit} y={420} o={ramp(t, wall + 0.2, 0.4)}><K c={ICE} s={28}>insight</K></At>
+      <At x={560} y={540} o={ramp(t, c("The experience can be non dual"), 0.4)}><W c={GOLD} s={26}>non dual experience, true insight</W></At>
+      <At x={560} y={600} o={ramp(t, fr, 0.4)}><W c={WARM} s={26}>read by an inherent framework</W></At>
+      <Items items={[
+        ["Then presence becomes a ground", 1640, 300, <K c={DIM} s={24}>presence → a ground</K>, { pop: true }],
+        ["emptiness becomes a void, and conditions", 1640, 400, <K c={DIM} s={24}>emptiness → a void</K>, { pop: true }],
+        ["emptiness becomes a void, and conditions", 1640, 500, <K c={DIM} s={24}>conditions → things causing things</K>, { pop: true, d: 1.0 }],
+        ["The experience has changed", 960, 760, <W c={CHALK} s={34} serif>the experience has changed; the framework has not</W>, { d: 0.3 }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const RemovalScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const rem = c("practice becomes the removal of concepts");
+  return (
+    <AbsoluteFill>
+      <Title at={c("Many practitioners, especially in Zen")}>experience first, view second?</Title>
+      <Items items={[
+        ["Many practitioners, especially in Zen", 960, 230, <W c={DIM} s={28}>direct experience first; view and logic second</W>, { d: 1.0 }],
+        ["The author calls this a grave mistake", 960, 320, <W c={WARM} s={36} serif>a grave mistake</W>, { pop: true }],
+      ]} />
       {(["a sound", "mine", "nice", "me"] as const).map((w, i) => (
-        <At key={w} x={560 + i * 270} y={330 - 60 * ramp(t, rem + 1.2 + i * 0.2, 1.0)} o={ramp(t, rem + i * 0.15, 0.4) * (1 - ramp(t, rem + 1.2 + i * 0.2, 1.0))}>
-          <K c={DIM} s={28}>{w}</K>
+        <At key={w} x={560 + i * 270} y={480 - 60 * ramp(t, rem + 1.2 + i * 0.2, 1.0)} o={ramp(t, rem + i * 0.15, 0.4) * (1 - ramp(t, rem + 1.2 + i * 0.2, 1.0))}>
+          <Tag text={w} />
         </At>
       ))}
       <Items items={[
-        ["So practice becomes the removal of concepts", 960, 460, <W c={CHALK} s={32}>practice as removing concepts</W>, { d: 0.6 }],
-        ["Bare attention", 560, 640, <K c={ICE} s={28}>not thinking</K>, { pop: true, d: -0.6 }],
-        ["Bare attention", 960, 640, <K c={ICE} s={28}>bare attention</K>, { pop: true }],
-        ["Bare attention", 1360, 640, <K c={ICE} s={28}>naked awareness</K>, { pop: true, d: 0.7 }],
+        ["practice becomes the removal of concepts", 960, 560, <W c={CHALK} s={32}>practice as removing concepts</W>, { d: 0.6 }],
+        ["Bare attention", 560, 690, <K c={ICE} s={28}>not thinking</K>, { pop: true, d: -0.6 }],
+        ["Bare attention", 960, 690, <K c={ICE} s={28}>bare attention</K>, { pop: true }],
+        ["Bare attention", 1360, 690, <K c={ICE} s={28}>naked awareness</K>, { pop: true, d: 0.7 }],
       ]} />
     </AbsoluteFill>
   );
@@ -679,100 +941,65 @@ const HabitScene: React.FC = () => {
 const TasteScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const habit = c("The habit of thinking inherently does not need words to work");
+  const mind = c("The mind can be tasted too");
+  const like = c("But the mind is a phenomenon like any other");
   return (
     <AbsoluteFill>
-      <Title at={c("These practices do something real")} color={GREEN}>they do something real</Title>
+      <Title at={c("These practices do something genuine")} color={GREEN}>they do something genuine</Title>
       <Items items={[
-        ["the clarity of appearances can be tasted directly", 560, 380, <PassingCar size={150} />, { pop: true }],
-        ["the clarity of appearances can be tasted directly", 560, 540, <W c={GOLD} s={30}>clarity, tasted directly</W>, { d: 0.6 }],
-        ["The habit of thinking inherently does not need words to work", 1360, 300, <SK c={DIM} s={30} strikeAt={habit + 0.8}>words</SK>, { pop: true }],
-        ["The habit of thinking inherently does not need words to work", 1360, 540, <W c={WARM} s={30}>the habit carries on, wordless</W>, { d: 1.6 }],
-        ["The habit of thinking inherently does not need words to work", 960, 700, <W c={DIM} s={30}>and reads the clear experience the old way</W>, { d: 3.0 }],
+        ["the luminous clarity of appearances can be tasted directly", 560, 330, <PassingCar size={150} />, { pop: true }],
+        ["the luminous clarity of appearances can be tasted directly", 560, 470, <W c={GOLD} s={30}>clarity, tasted directly</W>, { d: 0.6 }],
+        ["But at most, that is all they do", 560, 550, <W c={DIM} s={28}>at most, that is all</W>],
+        ["Removing concepts does not show what appearances are", 560, 630, <W c={CHALK} s={26}>it does not show what they are</W>],
+        ["they can still be taken as existing from their own side", 560, 700, <SK c={DIM} s={24} strikeAt={like}>still taken as there from their own side</SK>],
       ]} />
-      <At x={1360} y={420} o={ramp(t, habit + 1.2, 0.5)}>
-        <div style={{ width: 220, height: 80, borderRadius: 40, background: `${WARM}33`, border: `3px solid ${WARM}`, boxShadow: `0 0 20px ${WARM}66` }} />
+      <At x={1360} y={330} o={ramp(t, mind, 0.5)}>
+        <div style={{ width: 170, height: 170, borderRadius: "50%", background: `${ICE}22`, border: `3px solid ${ICE}`, boxShadow: `0 0 26px ${ICE}88` }} />
       </At>
+      <Items items={[
+        ["The mind can be tasted too", 1360, 470, <W c={ICE} s={28}>pure, clear awareness</W>, { d: 0.6 }],
+        ["taken as the one thing that stands by itself", 1360, 550, <SK c={DIM} s={24} strikeAt={like + 0.4}>the one thing that stands by itself</SK>],
+        ["But the mind is a phenomenon like any other", 1360, 630, <W c={CHALK} s={26}>a phenomenon like any other</W>],
+        ["Its clarity is as empty as the red of the apple", 1360, 720, <Apple size={80} />, { pop: true }],
+        ["Its clarity is as empty as the red of the apple", 960, 800, <W c={GOLD} s={30} serif>its clarity as empty as the red of the apple</W>, { d: 0.4 }],
+      ]} />
     </AbsoluteFill>
   );
 };
 
-const InventionsScene: React.FC = () => {
+const LabelsScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const a = c("We taste luminous clarity, and invent a witness");
-  const b = c("We meet the vividness of appearances, and make it objective");
-  const p = c("We taste unfindability, and make it private");
-  const end = c("Each time the experience was true, and the reading was false");
-  const sA = a + 4.4, sB = b + 5.0, sC = p + 4.0;
+  const lab = c("Even the idea behind these practices pictures concepts as labels");
+  const pic = c("That picture is itself the logic of substance");
+  const tog = c("A thing and its designation arise together");
+  const strip = c("Strip the labels, and the habit stays");
+  const wit = c("That is how luminous clarity becomes a Witness");
+  const peel = ramp(t, lab + 1.4, 1.0);
   return (
     <AbsoluteFill>
-      <Title at={c("The author describes three ways this happens")}>three tastes, three inventions</Title>
-      {/* clarity -> a witness behind the knowing */}
-      <At x={460} y={240} s={pop(t, fps, a)}><K c={GOLD} s={30}>clarity</K></At>
-      <At x={460} y={440} o={ramp(t, a + 1.2, 0.5) * (1 - 0.7 * ramp(t, sA + 0.6, 0.6))}><Person color={DIM} size={180} dashed /></At>
-      <Crossed x={460} y={440} at={sA} size={70} />
-      <At x={460} y={620} o={ramp(t, a + 1.6, 0.5)}><SK c={DIM} s={26} strikeAt={sA}>a witness behind the knowing</SK></At>
-      {/* vividness -> a world out there */}
-      <At x={960} y={240} s={pop(t, fps, b)}><K c={RED} s={30}>vividness</K></At>
-      <At x={960} y={440} o={ramp(t, b + 0.8, 0.5)}><Apple size={120} /></At>
-      <At x={960} y={440} o={ramp(t, b + 1.4, 0.5) * (1 - ramp(t, sB + 0.6, 0.6))}>
-        <div style={{ width: 230, height: 200, border: `5px solid ${DIM}`, borderRadius: 4, background: `${DIM}12` }} />
+      <Title at={lab}>labels over a given world?</Title>
+      {/* the picture: a given cube under a label; struck */}
+      <At x={620} y={380} o={ramp(t, lab + 0.3, 0.5) * (1 - ramp(t, tog, 0.6))}>
+        <div style={{ width: 170, height: 170, borderRadius: 10, border: `5px solid ${DIM}`, background: `${DIM}18` }} />
       </At>
-      <At x={960} y={620} o={ramp(t, b + 1.8, 0.5)}><SK c={DIM} s={26} strikeAt={sB}>a world out there, solid and given</SK></At>
-      {/* unfindability -> only in the mind */}
-      <At x={1460} y={240} s={pop(t, fps, p)}><K c={VIOLET} s={30}>unfindability</K></At>
-      <At x={1460} y={450} o={ramp(t, p + 1.2, 0.5) * (1 - ramp(t, sC + 0.6, 0.6))}><Head /></At>
-      <At x={1460} y={450} o={ramp(t, p + 0.8, 0.5)}><Apple size={90} /></At>
-      <At x={1460} y={620} o={ramp(t, p + 1.6, 0.5)}><SK c={DIM} s={26} strikeAt={sC}>all of it only in the mind</SK></At>
-      <At x={960} y={760} o={ramp(t, end, 0.5)}><W c={GOLD} s={36} serif>the taste was true; the reading was false</W></At>
-    </AbsoluteFill>
-  );
-};
-
-const PositionsScene: React.FC = () => {
-  const { t } = useT();
-  const c = useCue();
-  const g = c("the great positions people argue about");
-  const strike = c("The author passed through each of them") + 1.2;
-  const L: [string, string, string][] = [
-    ["consciousness as the ground of everything", "consciousness: the ground of everything", GOLD],
-    ["a physical world simply there", "a physical world, simply there", RED],
-    ["a world that is only mind", "the world: only mind", VIOLET],
-  ];
-  return (
-    <AbsoluteFill>
-      <Title at={g}>the three great positions</Title>
-      {L.map(([cue, w, col], i) => (
-        <At key={i} x={960} y={280 + i * 120} o={ramp(t, c(cue), 0.4)}><SK c={col} s={32} strikeAt={strike + i * 0.5}>{w}</SK></At>
-      ))}
-      <At x={960} y={680} o={ramp(t, c("The author passed through each of them"), 0.5)}><W c={CHALK} s={32}>the author passed through each</W></At>
-      <At x={960} y={760} o={ramp(t, strike + 1.6, 0.5)}><W c={TEAL} s={32} serif>the way out: the logic of dependency</W></At>
-    </AbsoluteFill>
-  );
-};
-
-const InsideScene: React.FC = () => {
-  const { t } = useT();
-  const c = useCue();
-  const sub = c("If a subject depends on its object");
-  const ins = c("An inside that depends on an outside is not truly inside");
-  const dotted = ramp(t, ins + 1.5, 1.0);
-  return (
-    <AbsoluteFill>
+      <At x={620} y={300 - 80 * peel} o={ramp(t, lab + 0.6, 0.4) * (1 - peel)}><Tag text="cup" /></At>
+      <At x={620} y={500} o={ramp(t, lab + 1.0, 0.5) * (1 - ramp(t, tog, 0.6))}><SK c={DIM} s={24} strikeAt={pic + 0.6}>a given thing under the label</SK></At>
+      <At x={620} y={380} s={pop(t, fps, tog)} o={ramp(t, tog, 0.4)}><Cup size={150} color={TEAL} /></At>
+      <At x={620} y={500} o={ramp(t, tog + 0.6, 0.4)}><K c={TEAL} s={26}>thing and designation: together</K></At>
       <Items items={[
-        ["If a subject depends on its object", 560, 300, <K c={VIOLET} s={32}>subject</K>, { pop: true }],
-        ["If a subject depends on its object", 1360, 300, <K c={ICE} s={32}>object</K>, { pop: true, d: 0.6 }],
-        ["If a subject depends on its object", 960, 200, <W c={CHALK} s={32}>what makes it truly a subject?</W>, { d: 1.6 }],
+        ["That picture is itself the logic of substance", 1360, 330, <W c={WARM} s={28}>that picture: the logic of substance</W>],
+        ["There is no unlabelled layer waiting to be uncovered", 1360, 410, <W c={DIM} s={26}>no unlabelled layer underneath</W>],
+        ["Strip the labels, and the habit stays", 1360, 490, <W c={CHALK} s={26}>strip the labels: the habit stays</W>],
       ]} />
-      <Flow x1={680} y1={290} x2={1240} y2={290} color={VIOLET} p={ramp(t, sub + 1.0, 0.6)} />
-      <Flow x1={1240} y1={315} x2={680} y2={315} color={ICE} p={ramp(t, sub + 1.3, 0.6)} />
-      <At x={960} y={540} o={ramp(t, ins, 0.5)}>
-        <div style={{ width: 320, height: 240, borderRadius: "50%", border: `4px ${dotted > 0.5 ? "dotted" : "solid"} ${CHALK}`, opacity: 1 - 0.6 * dotted }} />
-      </At>
-      <At x={960} y={540} o={ramp(t, ins + 0.4, 0.5)}><W c={VIOLET} s={30}>inside</W></At>
-      <At x={1260} y={540} o={ramp(t, ins + 0.8, 0.5)}><W c={ICE} s={30}>outside</W></At>
-      <At x={960} y={760} o={ramp(t, ins + 1.6, 0.5)}><W c={GOLD} s={34} serif>not truly inside</W></At>
+      {(["a Witness", "a ground", "a Source"] as const).map((s, i) => (
+        <At key={s} x={1100 + i * 260} y={600} o={ramp(t, wit + 0.4 + i * 0.5, 0.4)}><SK c={DIM} s={26} strikeAt={c("Bare attention can taste the clarity of appearances") - 0.4}>{s}</SK></At>
+      ))}
+      <Items items={[
+        ["It was the author's own story in the I AM years", 1360, 680, <W c={DIM} s={24}>the author’s own story, in the I AM years</W>],
+        ["Bare attention can taste the clarity of appearances", 960, 750, <W c={ICE} s={30}>bare attention can taste the clarity</W>, { until: "Only the view shows what they are", ud: 0.0 }],
+        ["Only the view shows what they are", 960, 790, <W c={GOLD} s={38} serif>only the view shows what it is</W>],
+      ]} />
     </AbsoluteFill>
   );
 };
@@ -782,24 +1009,49 @@ const MastersScene: React.FC = () => {
   const c = useCue();
   const rows: [string, string, string, string][] = [
     ["wrote that calm abiding alone", "Atiśa", "calm abiding alone does not end the obstructions", ICE],
-    ["wrote that without the wisdom that realises", "Tsongkhapa", "without wisdom, even compassion cannot cut the root", TEAL],
-    ["advised that when thoughts arise", "Longchenpa", "when thoughts arise, the view is crucial", VIOLET],
+    ["traced the habit behind appearances to a view", "Rongzom", "the habit behind appearances comes from a view", WARM],
     ["a Zen master, scolded those", "Dōgen", "the old Zen stories are not beyond logic", GOLD],
+    ["advised that when thoughts arise", "Longchenpa", "when thoughts arise, the view is crucial", VIOLET],
+    ["wrote that without the wisdom that realises", "Tsongkhapa", "without wisdom, even compassion cannot cut the root", TEAL],
+    ["taught that, just as the I is a conceptual label", "Mipham", "like the “I”, all phenomena: labelled", ROSE],
   ];
+  const fade = 1 - 0.55 * ramp(t, c("None of them says experience does not matter"), 0.6);
   return (
     <AbsoluteFill>
-      <Title at={c("The great masters said the same")}>the great masters said the same</Title>
+      <Title at={c("The great masters said the same")} y={100}>the great masters said the same</Title>
       {rows.map(([cue, name, w, col], i) => {
         const a = c(cue) - (i === 0 ? 0.6 : 0.3);
         return (
           <React.Fragment key={i}>
-            <At x={480} y={250 + i * 115} o={ramp(t, a, 0.4)}><K c={col} s={30}>{name}</K></At>
-            <At x={1180} y={250 + i * 115} o={ramp(t, a + 0.6, 0.5)}><div style={{ width: 920, textAlign: "left" }}><W c={CHALK} s={30}>{w}</W></div></At>
+            <At x={460} y={190 + i * 82} o={ramp(t, a, 0.4) * fade}><K c={col} s={28}>{name}</K></At>
+            <At x={1160} y={190 + i * 82} o={ramp(t, a + 0.6, 0.5) * fade}><div style={{ width: 960, textAlign: "left" }}><W c={CHALK} s={28}>{w}</W></div></At>
           </React.Fragment>
         );
       })}
       <Items items={[
-        ["experience without the view cannot do the work", 960, 780, <W c={GOLD} s={36} serif>experience without the view cannot do the work</W>],
+        ["Hearing that there is water does not quench thirst", 960, 700, <W c={ICE} s={30}>hearing of water does not quench thirst; drinking does</W>],
+        ["experience without the view cannot do the work", 960, 790, <W c={GOLD} s={36} serif>experience without the view cannot do the work</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const JourneyScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const ch = c("What changed things was seeing directly what a phenomenon is");
+  return (
+    <AbsoluteFill>
+      <Title at={c("For the author, after I AM")}>the author’s turn</Title>
+      <Items items={[
+        ["the vividness was never what was missing", 960, 240, <W c={GOLD} s={32}>the vividness was never missing</W>],
+        ["What was missing was seeing what that vividness is", 960, 320, <W c={CHALK} s={32}>what was missing: seeing what it is</W>],
+      ]} />
+      <At x={960} y={460} s={pop(t, fps, ch)}><Apple size={160} /></At>
+      <Items items={[
+        ["What changed things was seeing directly what a phenomenon is", 960, 590, <W c={GOLD} s={36} serif>vivid and nowhere</W>, { d: 1.2 }],
+        ["with no knower behind the knowing", 960, 660, <W c={DIM} s={28}>no knower behind the knowing · no ground behind the appearing</W>],
+        ["Only then did the logic of dependency become clear", 960, 760, <W c={TEAL} s={32}>then the logic became clear: not a theory, how things are</W>],
       ]} />
     </AbsoluteFill>
   );
@@ -829,9 +1081,7 @@ const AnswersScene: React.FC = () => {
   const bo = c("Coming into being and passing away are opposites");
   const ne = c("Neither? Then nothing happens at all");
   const fail = c("Every answer fails");
-  const split = c("it splits again");
   const A: [string, number, number, string][] = [["it arises", ar - 0.3, ce - 0.4, ICE], ["it ceases", ce - 0.3, bo - 0.4, ROSE], ["both", bo - 0.6, ne - 0.4, VIOLET], ["neither", ne - 0.3, fail, GOLD]];
-  const seg = ramp(t, split, 0.8);
   return (
     <AbsoluteFill>
       <At x={960} y={170} s={pop(t, fps, thing)}>
@@ -848,22 +1098,13 @@ const AnswersScene: React.FC = () => {
         </React.Fragment>
       ))}
       <Items items={[
-        ["it is never there to have arisen", 420, 500, <W c={DIM} s={24}>never there to have arisen</W>, { until: "It ceases? Then something passes away", ud: 1.5 }],
+        ["it is never there to have arisen", 420, 500, <W c={DIM} s={24}>never there to have arisen</W>],
         ["what passes away, if it never stood", 780, 500, <W c={DIM} s={24}>what passes, if it never stood?</W>],
         ["Coming into being and passing away are opposites", 1140, 500, <W c={DIM} s={24}>opposites, in one thing?</W>, { d: 1.0 }],
         ["Yet a sound is being heard right now", 1500, 500, <PassingCar size={80} />, { pop: true }],
         ["Yet a sound is being heard right now", 1500, 580, <W c={DIM} s={24}>yet a sound is heard</W>, { d: 0.4 }],
-        ["Every answer fails", 960, 760, <W c={WARM} s={40} serif>every answer fails</W>, { d: 0.6 }],
+        ["Every answer fails", 960, 740, <W c={WARM} s={40} serif>every answer fails</W>, { d: 0.6 }],
       ]} />
-      {/* an instant splits into beginning, middle and end */}
-      <At x={960} y={640} o={between(t, split - 0.2, ce - 0.4)}>
-        <div style={{ display: "flex", gap: 20 * seg }}>
-          {(["beginning", "middle", "end"] as const).map((w) => (
-            <div key={w} style={{ width: 200, height: 44, borderRadius: 8, background: `${ICE}33`, border: `3px solid ${ICE}`, fontFamily: SANS,
-              fontSize: 22, color: CHALK, display: "flex", alignItems: "center", justifyContent: "center" }}>{seg > 0.5 ? w : ""}</div>
-          ))}
-        </div>
-      </At>
     </AbsoluteFill>
   );
 };
@@ -887,10 +1128,9 @@ const VerseScene: React.FC = () => {
 const WaysOutScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const now = c("A timeless Now that the moments pass through");
-  const aw = c("An awareness in which they come and go");
-  const fl = c("A pure flow");
-  const mv = c("only moves it somewhere else");
+  const now = c("The logic of substance looks for a way out") + 1.4;
+  const aw = c("an awareness in which moments come and go");
+  const each = c("Each keeps the moment as a thing");
   const dots = (x0: number, y0: number, at: number, path: (q: number) => [number, number]) =>
     [0, 1, 2].map((k) => {
       const q = (((t - at) * 0.25 + k / 3) % 1 + 1) % 1;
@@ -899,23 +1139,19 @@ const WaysOutScene: React.FC = () => {
     });
   return (
     <AbsoluteFill>
-      <Title at={c("the logic of substance looks for a way out")} color={WARM}>looking for a way out</Title>
+      <Title at={c("The logic of substance looks for a way out")} color={WARM}>looking for a way out</Title>
       {/* a timeless Now: a band the moments pass through */}
-      <At x={420} y={420} o={ramp(t, now, 0.5)}><div style={{ width: 120, height: 300, borderRadius: 12, border: `3px dashed ${DIM}`, background: `${DIM}14` }} /></At>
-      {dots(420, 420, now, (q) => [-200 + 400 * q, -80 + 80 * ((q * 3) % 1 > 0.5 ? 1 : 0)])}
-      <At x={420} y={620} o={ramp(t, now + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={aw - 0.6}>a timeless Now</SK></At>
-      <Crossed x={420} y={420} at={aw - 0.8} size={60} />
+      <At x={600} y={420} o={ramp(t, now, 0.5)}><div style={{ width: 120, height: 300, borderRadius: 12, border: `3px dashed ${DIM}`, background: `${DIM}14` }} /></At>
+      {dots(600, 420, now, (q) => [-200 + 400 * q, -80 + 80 * ((q * 3) % 1 > 0.5 ? 1 : 0)])}
+      <At x={600} y={620} o={ramp(t, now + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={each}>a timeless Now</SK></At>
+      <Crossed x={600} y={420} at={each - 0.2} size={60} />
       {/* an awareness: a container the moments come and go in */}
-      <At x={960} y={420} o={ramp(t, aw, 0.5)}><div style={{ width: 300, height: 300, borderRadius: "50%", border: `3px dashed ${DIM}`, background: `${DIM}10` }} /></At>
-      {dots(960, 420, aw, (q) => [100 * Math.cos(q * 6.28), 100 * Math.sin(q * 6.28)])}
-      <At x={960} y={620} o={ramp(t, aw + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={fl - 0.4}>an awareness they come and go in</SK></At>
-      <Crossed x={960} y={420} at={fl - 0.6} size={70} />
-      {/* a pure flow */}
-      <Svg><DrawPath d="M1320 330 C 1400 400, 1460 330, 1520 420 S 1580 470, 1620 520" p={ramp(t, fl, 0.8)} color={DIM} width={8} len={500} glow={false} /></Svg>
-      <At x={1480} y={620} o={ramp(t, fl + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={mv - 0.2}>a pure flow</SK></At>
-      <Crossed x={1470} y={420} at={mv - 0.4} size={60} />
+      <At x={1320} y={420} o={ramp(t, aw, 0.5)}><div style={{ width: 300, height: 300, borderRadius: "50%", border: `3px dashed ${DIM}`, background: `${DIM}10` }} /></At>
+      {dots(1320, 420, aw, (q) => [100 * Math.cos(q * 6.28), 100 * Math.sin(q * 6.28)])}
+      <At x={1320} y={620} o={ramp(t, aw + 0.4, 0.5)}><SK c={DIM} s={26} strikeAt={each + 0.4}>an awareness they come and go in</SK></At>
+      <Crossed x={1320} y={420} at={each + 0.2} size={70} />
       <Items items={[
-        ["only moves it somewhere else", 960, 760, <W c={WARM} s={32} serif>each keeps the moment as a thing, and only moves it</W>, { d: 0.4 }],
+        ["only moves it somewhere else", 960, 760, <W c={WARM} s={32} serif>each keeps the moment as a thing, and only moves it</W>, { d: -1.0 }],
       ]} />
     </AbsoluteFill>
   );
@@ -950,13 +1186,13 @@ const StairsScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const st = c("Think of a staircase");
-  const upAt = c("They are up for someone climbing");
-  const downAt = c("and down for someone coming down");
-  const up = ramp(t, upAt + 0.3, 3.2);
-  const down = ramp(t, downAt + 0.3, 3.2);
+  const upAt = c("up for someone climbing");
+  const downAt = c("down for someone coming down");
+  const up = ramp(t, upAt + 0.1, 1.4);
+  const down = ramp(t, Math.max(downAt + 0.1, upAt + 1.6), 2.4);
   const p = Math.max(0, up - down); // 0 = bottom, 1 = top
-  const goingDown = t > downAt + 0.3;
-  const moving = (t > upAt + 0.3 && up < 1) || (goingDown && down < 1);
+  const goingDown = t > Math.max(downAt + 0.1, upAt + 1.6);
+  const moving = (t > upAt + 0.1 && up < 1) || (goingDown && down < 1);
   const i = Math.round(p * 5);
   const footY = 690 - (i + 1) * 60;
   const x = 660 + p * 500;
@@ -971,15 +1207,13 @@ const StairsScene: React.FC = () => {
         <DrawPath d="M1320 330 L1320 690 L520 690" p={ramp(t, st + 0.8, 1.0)} color={DIM} width={3} len={1300} glow={false} />
       </Svg>
       <At x={x} y={footY - 62} o={ramp(t, upAt, 0.4)}><Walker face={goingDown ? -1 : 1} step={moving ? t * 9 : 0} /></At>
-      <At x={x} y={footY - 150} o={ramp(t, upAt + 0.3, 0.3) * (goingDown ? 0 : 1)}><K c={GREEN} s={30}>up</K></At>
+      <At x={x} y={footY - 150} o={ramp(t, upAt + 0.1, 0.3) * (goingDown ? 0 : 1)}><K c={GREEN} s={30}>up</K></At>
       <At x={x} y={footY - 150} o={goingDown ? 1 : 0}><K c={ICE} s={30}>down</K></At>
       <Items items={[
-        ["Are the stairs up, or down", 1600, 360, <W c={CHALK} s={34}>up, or down?</W>],
-        ["In themselves, neither", 1600, 430, <W c={GOLD} s={30} serif>in themselves: neither</W>, { until: "and down for someone coming down" }],
-        ["and down for someone coming down", 1600, 430, <W c={DIM} s={26}>depends where you stand, which way you face</W>, { d: 3.6 }],
-        ["And the stairs are really climbed, and really descended", 960, 770, <W c={CHALK} s={30}>really climbed, really descended</W>, { until: "It is called arising from one side, and ceasing from the other" }],
-        ["It is called arising from one side, and ceasing from the other", 700, 770, <K c={GREEN} s={28}>arising, from one side</K>, { pop: true }],
-        ["It is called arising from one side, and ceasing from the other", 1220, 770, <K c={ICE} s={28}>ceasing, from the other</K>, { pop: true, d: 1.2 }],
+        ["Up, or down", 1600, 360, <W c={CHALK} s={34}>up, or down?</W>],
+        ["In themselves, neither", 1600, 430, <W c={GOLD} s={30} serif>in themselves: neither</W>],
+        ["And they are truly climbed", 960, 770, <W c={CHALK} s={30}>truly climbed</W>, { until: "The moment is the same" }],
+        ["The moment is the same", 960, 770, <W c={GOLD} s={30} serif>the moment is the same</W>],
         ["It is not nothing, and it is not only in the mind", 1600, 520, <W c={TEAL} s={26}>not nothing; not only in the mind</W>],
       ]} />
     </AbsoluteFill>
@@ -989,7 +1223,7 @@ const StairsScene: React.FC = () => {
 const FallsAwayScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const plain = c("It is a plain description");
+  const plain = c("is not a paradox");
   const noit = c("There is no it standing between the arising and the ceasing");
   const q = c("The question is not answered");
   const fall = ramp(t, c("It falls away") + 0.2, 1.8);
@@ -1010,52 +1244,26 @@ const FallsAwayScene: React.FC = () => {
 };
 
 const StepsScene: React.FC = () => {
-  const { t } = useT();
+  const { t, fps } = useT();
   const c = useCue();
   const head = c("The eight steps of The Logic each come back");
-  const S: [string, string][] = [
-    ["The first sets the two logics side by side", "two logics, side by side"],
-    ["The second asks what exactly is denied", "what exactly is denied"],
-    ["The third goes looking for the moment", "looking for the moment"],
-    ["The fourth gives the koan two answers", "two answers, no conflict"],
-    ["The fifth shows why all four answers fall together", "why all four answers fall"],
-    ["The sixth names the two traps", "the two traps"],
-    ["The seventh answers the worry", "the worry answered"],
-    ["And the eighth gathers it all into four questions", "four questions"],
-  ];
   return (
     <AbsoluteFill>
       <Title at={head}>the eight steps</Title>
-      {S.map(([cue, w], i) => {
-        const a = c(cue);
-        const next = i + 1 < S.length ? c(S[i + 1][0]) : 1e9;
-        const lit = ramp(t, a, 0.4);
-        const cur = between(t, a, next, 0.4);
-        const col = cur > 0.5 ? GOLD : CHALK;
-        return (
-          <At key={i} x={560} y={210 + i * 76} o={ramp(t, head + 0.4 + i * 0.12, 0.4) * (0.35 + 0.65 * lit)}>
-            <div style={{ width: 640, display: "flex", alignItems: "center", gap: 22, textAlign: "left" }}>
-              <Num n={String(i + 1)} color={cur > 0.5 ? GOLD : DIM} lit={cur} />
-              <Glow color={col} size={30}>{w}</Glow>
-            </div>
-          </At>
-        );
-      })}
+      {Array.from({ length: 8 }).map((_, i) => (
+        <At key={i} x={540 + i * 120} y={220} s={pop(t, fps, head + 0.5 + i * 0.25)}><Num n={String(i + 1)} color={i === 7 ? GOLD : TEAL} lit={i === 7 ? ramp(t, c("The last step gathers it all into four questions"), 0.3) : 1} /></At>
+      ))}
       <Items items={[
-        ["The second asks what exactly is denied", 1400, 250, <K c={WARM} s={28}>only the “it”</K>, { pop: true, d: 1.2, until: "The third goes looking for the moment" }],
-        ["Deny too little, and a timeless Now takes its place", 1400, 350, <W c={DIM} s={26}>too little: a timeless Now</W>, { until: "The third goes looking for the moment" }],
-        ["Deny too much", 1400, 420, <W c={DIM} s={26}>too much: nothing happens</W>, { until: "The third goes looking for the moment" }],
-        ["The third goes looking for the moment", 1400, 300, <W c={CHALK} s={26}>arising? ceasing? owner? container?</W>, { d: 1.2, until: "The fourth gives the koan two answers" }],
-        ["Yet moments are named, counted and timed", 1400, 380, <Clock size={120} />, { pop: true, until: "The fourth gives the koan two answers" }],
-        ["Conventionally, the train leaves and arrives", 1400, 300, <Train w={170} />, { pop: true, until: "The fifth shows why all four answers fall together" }],
-        ["Conventionally, the train leaves and arrives", 1400, 410, <W c={GOLD} s={26}>conventionally: leaves and arrives</W>, { d: 0.6, until: "The fifth shows why all four answers fall together" }],
-        ["One moment, met two ways", 1400, 480, <W c={TEAL} s={28} serif>one moment, met two ways</W>, { until: "The fifth shows why all four answers fall together" }],
-        ["The fifth shows why all four answers fall together", 1400, 340, <W c={CHALK} s={28}>each one assumed an “it”</W>, { d: 1.6, until: "The sixth names the two traps" }],
-        ["the eternalist trap", 1400, 300, <K c={WARM} s={26}>“it arises”: eternalism</K>, { pop: true, until: "The seventh answers the worry" }],
-        ["the nihilist trap", 1400, 400, <K c={WARM} s={26}>“it ceases”: nihilism</K>, { pop: true, until: "The seventh answers the worry" }],
-        ["the nihilist trap", 1400, 490, <W c={DIM} s={26}>both keep the “it”</W>, { d: 1.0, until: "The seventh answers the worry" }],
-        ["The seventh answers the worry", 1400, 300, <W c={DIM} s={26}>if no moment is found, how does anything work?</W>, { d: 0.5, until: "And the eighth gathers it all into four questions" }],
-        ["It is because nothing stands on its own", 1400, 400, <W c={GREEN} s={28}>nothing stands alone, so things can work</W>, { until: "And the eighth gathers it all into four questions" }],
+        ["What exactly is denied", 960, 380, <W c={CHALK} s={32}>what exactly is denied?</W>, { until: "Looked for, like the old masters' chariot" }],
+        ["only the it, the moment standing on its own", 960, 470, <SK c={WARM} s={30} strikeAt={c("only the it, the moment standing on its own") + 2.0}>only the “it”, standing on its own</SK>, { until: "Looked for, like the old masters' chariot" }],
+        ["Looked for, like the old masters' chariot", 960, 380, <W c={DIM} s={30}>looked for, like the chariot: not found</W>, { until: "Conventionally, the train leaves and arrives" }],
+        ["Yet moments are named, counted and timed", 960, 500, <Clock size={120} />, { pop: true, until: "Conventionally, the train leaves and arrives" }],
+        ["Yet moments are named, counted and timed", 960, 610, <W c={GOLD} s={28}>yet named, counted and timed</W>, { d: 0.4, until: "Conventionally, the train leaves and arrives" }],
+        ["Conventionally, the train leaves and arrives", 960, 420, <Train w={220} />, { pop: true, until: "It is because nothing stands on its own" }],
+        ["Conventionally, the train leaves and arrives", 960, 540, <W c={GOLD} s={28}>conventionally: leaves and arrives</W>, { d: 0.6, until: "It is because nothing stands on its own" }],
+        ["One moment, met two ways", 960, 620, <W c={TEAL} s={30} serif>one moment, met two ways</W>, { until: "It is because nothing stands on its own" }],
+        ["It is because nothing stands on its own", 960, 440, <W c={GREEN} s={32}>nothing stands alone, so things can arise, change and work</W>, { until: "The last step gathers it all into four questions" }],
+        ["The last step gathers it all into four questions", 960, 440, <W c={GOLD} s={34} serif>the last step: four questions</W>],
       ]} />
     </AbsoluteFill>
   );
@@ -1084,88 +1292,35 @@ const FourQScene: React.FC = () => {
   );
 };
 
-/** A hand, open or closed into a fist (closed: 0..1). */
-const Hand: React.FC<{ closed: number; color?: string }> = ({ closed, color = WARM }) => (
-  <svg width={130} height={130} viewBox="0 0 130 130" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${color}88)` }}>
-    <rect x={30} y={62} width={70} height={56} rx={18} fill={`${color}22`} stroke={color} strokeWidth={4} />
-    {[0, 1, 2, 3].map(i => (
-      <rect key={i} x={32 + i * 17} y={62 - 46 * (1 - closed)} width={14} height={14 + 46 * (1 - closed)} rx={7}
-        fill={`${color}22`} stroke={color} strokeWidth={3.5} />
-    ))}
-    <rect x={6 + 18 * closed} y={70} width={30 - 6 * closed} height={14} rx={7} fill={`${color}22`} stroke={color} strokeWidth={3.5} />
-  </svg>
-);
-
-/** A seed and its sprout, joined: cause and effect named together. */
-const SeedSprout: React.FC<{ grow: number }> = ({ grow }) => (
-  <svg width={200} height={130} viewBox="0 0 200 130" style={{ overflow: "visible", filter: `drop-shadow(0 0 8px ${GREEN}88)` }}>
-    <ellipse cx={40} cy={100} rx={22} ry={14} fill="#b07a4566" stroke="#c99060" strokeWidth={4} />
-    <path d={`M150 118 L150 ${118 - 70 * grow}`} stroke={GREEN} strokeWidth={5} strokeLinecap="round" />
-    <path d={`M150 ${118 - 50 * grow} Q122 ${100 - 60 * grow} 132 ${110 - 70 * grow} Q146 ${108 - 52 * grow} 150 ${118 - 50 * grow} Z`}
-      fill={`${GREEN}55`} stroke={GREEN} strokeWidth={3} opacity={grow} />
-    <path d="M66 100 Q100 76 136 100" fill="none" stroke={GOLD} strokeWidth={3} strokeDasharray="6 5" opacity={grow} />
-  </svg>
-);
-
 const BeyondScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const close = ramp(t, c("Close your hand, and a fist appears"), 0.8) * (1 - ramp(t, c("Open it, and the fist is gone"), 0.8));
-  const grow = ramp(t, c("A seed is called a cause only of its sprout") + 0.6, 1.2);
-  const Q: [string, number, number, string, string][] = [
-    ["Say I have changed", 520, 250, "the self", ICE],
-    ["Close your hand, and a fist appears", 1400, 250, "an object", WARM],
-    ["A seed is called a cause only of its sprout", 520, 620, "a cause", GREEN],
-    ["Look for a friend apart from the face", 1400, 620, "the person", ROSE],
+  const Q: [string, number, string, string][] = [
+    ["Look for the one who changed, apart from the changing", 420, "the self", ICE],
+    ["Close your hand, and a fist appears", 960, "an object", WARM],
+    ["Look for a friend apart from the face", 1500, "the person", ROSE],
   ];
   return (
     <AbsoluteFill>
-      <Title at={c("The koan is only the sharpest case")}>beyond the moment</Title>
-      {Q.map(([cue, x, y, w, col]) => (
-        <At key={w} x={x} y={y} o={ramp(t, c("a self, an object, a cause, a person"), 0.5) * (0.4 + 0.6 * ramp(t, c(cue), 0.4))}>
+      <Title at={c("The same logic reaches beyond the moment")}>beyond the moment</Title>
+      {Q.map(([cue, x, w, col]) => (
+        <At key={w} x={x} y={230} o={ramp(t, c("The same logic reaches beyond the moment") + 0.6, 0.5) * (0.4 + 0.6 * ramp(t, c(cue), 0.4))}>
           <K c={col} s={30}>{w}</K>
         </At>
       ))}
       <Items items={[
-        ["Say I have changed", 520, 330, <W c={ICE} s={30} serif>“I have changed”</W>, { d: 0.3 }],
-        ["Look for the one who changed, apart from the changing", 520, 400, <SK c={DIM} s={26} strikeAt={c("Look for the one who changed, apart from the changing") + 2.2}>an “I” apart from the changing</SK>, {}],
-        ["Yet a promise I made is still mine to keep", 520, 465, <W c={GOLD} s={26}>the promise is still kept</W>, {}],
-        ["Close your hand, and a fist appears", 1290, 380, <Hand closed={close} />, { pop: true }],
-        ["Close your hand, and a fist appears", 1510, 360, <W c={WARM} s={28}>a “fist”</W>, { d: 0.6, until: "Open it, and the fist is gone", ud: 0.4 }],
-        ["There was never a fist apart from the hand closing", 1510, 400, <W c={DIM} s={24}>never apart from the closing</W>, {}],
-        ["Yet a fist can still knock on a door", 1400, 470, <W c={GOLD} s={26}>still knocks on a door</W>, {}],
-        ["A seed is called a cause only of its sprout", 520, 720, <SeedSprout grow={grow} />, { pop: true }],
-        ["Cause and effect are named together", 520, 820, <W c={GOLD} s={26}>named together</W>, {}],
-        ["never from barley", 520, 870, <W c={GREEN} s={24}>rice from rice, never barley</W>, {}],
-        ["Look for a friend apart from the face", 1310, 730, <Person color={ROSE} size={110} />, { pop: true }],
-        ["Look for a friend apart from the face", 1490, 730, <Person color={TEAL} size={110} />, { pop: true, d: 0.3 }],
-        ["Yet the friendship is real", 1400, 830, <W c={GOLD} s={26}>the friendship is real</W>, {}],
-        ["someone lived, was loved, and is missed", 1400, 880, <W c={ROSE} s={24} serif>lived, loved, and missed</W>, {}],
+        ["Look for the one who changed, apart from the changing", 420, 360, <Person color={ICE} size={130} />, { pop: true }],
+        ["Look for the one who changed, apart from the changing", 420, 490, <SK c={DIM} s={24} strikeAt={c("Yet a promise I made is still mine to keep") - 0.4}>an “I” apart from the changing</SK>, { d: 0.6 }],
+        ["Yet a promise I made is still mine to keep", 420, 570, <W c={GOLD} s={26}>the promise is still mine to keep</W>],
+        ["Close your hand, and a fist appears", 960, 380, <Hand closed={close} />, { pop: true }],
+        ["Close your hand, and a fist appears", 960, 490, <W c={WARM} s={28}>a “fist”</W>, { d: 0.6, until: "Open it, and the fist is gone", ud: 0.4 }],
+        ["It went nowhere", 960, 570, <W c={DIM} s={26}>it went nowhere</W>],
+        ["Look for a friend apart from the face", 1410, 380, <Person color={ROSE} size={110} />, { pop: true }],
+        ["Look for a friend apart from the face", 1590, 380, <Person color={TEAL} size={110} />, { pop: true, d: 0.3 }],
+        ["Look for a friend apart from the face", 1500, 490, <W c={DIM} s={24}>no one found apart</W>, { d: 2.4 }],
+        ["someone lived, was loved, and is missed", 1500, 570, <W c={ROSE} s={26} serif>lived, loved, and missed</W>],
       ]} />
-    </AbsoluteFill>
-  );
-};
-
-const QuestionScene: React.FC = () => {
-  const { t, fps } = useT();
-  const c = useCue();
-  const asm = c("each question already assumes a thing with its own nature");
-  const swap = ramp(t, c("any answer only swaps one thing for another") + 0.4, 1.2);
-  const qq = c("a way to question the question");
-  return (
-    <AbsoluteFill>
-      <Title at={c("There is one more turn")}>one more turn</Title>
-      <Items items={[
-        ["does the self exist", 600, 280, <K c={ICE} s={32}>does the self exist?</K>, { pop: true }],
-        ["what happens when I die", 1320, 280, <K c={ROSE} s={32}>what happens when I die?</K>, { pop: true }],
-      ]} />
-      {[600, 1320].map((x, i) => (
-        <At key={x} x={x + (i ? -720 : 720) * swap} y={460} s={pop(t, fps, asm + 0.4 + i * 0.4)}>
-          <SK c={WARM} s={26} strikeAt={qq + 0.8 + i * 0.3}>{i ? "a thing that goes on" : "a self with its own nature"}</SK>
-        </At>
-      ))}
-      <At x={960} y={560} o={between(t, c("any answer only swaps one thing for another") + 0.6, qq)}><W c={DIM} s={28}>any answer swaps one thing for another</W></At>
-      <At x={960} y={700} s={pop(t, fps, qq, 14)} o={ramp(t, qq, 0.5)}><W c={GOLD} s={44} serif>question the question</W></At>
     </AbsoluteFill>
   );
 };
@@ -1173,30 +1328,60 @@ const QuestionScene: React.FC = () => {
 const NothingLostScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const sub = c("No substrate underneath");
-  const drop = ramp(t, c("There is nothing more real underneath for it to cover"), 1.4);
+  const sub = c("Dependent arising is not a lesser layer");
+  const drop = ramp(t, c("There is nothing underneath for it to cover"), 1.4);
   return (
     <AbsoluteFill>
       <Title at={c("Nothing is lost when the it is not found")}>nothing is lost</Title>
       <Items items={[
-        ["The sound is still heard", 520, 360, <PassingCar size={150} />, { pop: true }],
-        ["The sound is still heard", 520, 500, <W c={GOLD} s={28}>still heard</W>, { d: 0.4 }],
-        ["The clock still keeps time", 960, 360, <Clock />, { pop: true }],
-        ["The clock still keeps time", 960, 500, <W c={ICE} s={28}>still keeps time</W>, { d: 0.4 }],
-        ["Actions still bear fruit", 1400, 350, <Fruit />, { pop: true }],
-        ["Actions still bear fruit", 1400, 500, <W c={GREEN} s={28}>still bears fruit</W>, { d: 0.4 }],
-        ["Mutual dependence has no first and no higher", 760, 600, <K c={TEAL} s={28}>no first</K>, { pop: true }],
-        ["Mutual dependence has no first and no higher", 1160, 600, <K c={TEAL} s={28}>no higher</K>, { pop: true, d: 0.6 }],
+        ["The sound is still heard", 700, 360, <PassingCar size={150} />, { pop: true }],
+        ["The sound is still heard", 700, 500, <W c={GOLD} s={28}>still heard</W>, { d: 0.4 }],
+        ["Actions still bear fruit", 1220, 350, <Fruit />, { pop: true }],
+        ["Actions still bear fruit", 1220, 500, <W c={GREEN} s={28}>still bear fruit</W>, { d: 0.4 }],
       ]} />
-      <At x={960} y={720 + 160 * drop} o={ramp(t, sub, 0.5) * (1 - drop)}><Floor w={700} color={DIM} dashed /></At>
-      <At x={960} y={676} o={ramp(t, sub + 0.3, 0.5) * (1 - drop)}><W c={DIM} s={26}>a substrate underneath?</W></At>
-      <div style={{ position: "absolute", inset: 0, opacity: 1 - drop }}><Crossed x={960} y={720} at={sub + 1.0} size={50} /></div>
-      <At x={960} y={760} o={ramp(t, c("There is nothing more real underneath for it to cover") + 1.0, 0.6)}><W c={GOLD} s={34} serif>nothing more real underneath</W></At>
+      <At x={960} y={660 + 160 * drop} o={ramp(t, sub, 0.5) * (1 - drop)}><Floor w={700} color={DIM} dashed /></At>
+      <At x={960} y={616} o={ramp(t, sub + 0.3, 0.5) * (1 - drop)}><W c={DIM} s={26}>something underneath that stands by itself?</W></At>
+      <div style={{ position: "absolute", inset: 0, opacity: 1 - drop }}><Crossed x={960} y={660} at={sub + 1.2} size={50} /></div>
+      <At x={960} y={720} o={ramp(t, c("There is nothing underneath for it to cover") + 1.0, 0.6)}><W c={GOLD} s={34} serif>nothing underneath for it to cover</W></At>
     </AbsoluteFill>
   );
 };
 
-const BellAgainScene: React.FC = () => {
+const TryScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const one = c("Listen to one sound until it ends");
+  const col = c("Look at a colour in front of you");
+  const wind = c("Say to yourself, the wind is blowing");
+  return (
+    <AbsoluteFill>
+      <Title at={c("So, a few things to try")}>try it</Title>
+      {/* one sound */}
+      <At x={420} y={330} s={pop(t, fps, one)}><PassingCar size={150} /></At>
+      <Sound x={420} y={340} at={one + 0.4} dur={3} r1={200} />
+      <Items items={[
+        ["Listen to one sound until it ends", 420, 470, <K c={GOLD} s={26}>one sound, until it ends</K>, { d: 0.4 }],
+        ["Then ask where it was", 420, 550, <W c={CHALK} s={26}>where was it?</W>],
+        ["just look", 420, 620, <W c={DIM} s={24}>don’t answer with a thought: look</W>],
+      ]} />
+      {/* a colour */}
+      <At x={960} y={330} s={pop(t, fps, col)}><Apple size={140} /></At>
+      <Items items={[
+        ["Look at a colour in front of you", 960, 470, <K c={RED} s={26}>a colour, in front of you</K>, { d: 0.4 }],
+        ["Is there a seer behind the seeing", 960, 550, <W c={CHALK} s={26}>a seer behind the seeing?</W>],
+      ]} />
+      {/* the wind */}
+      <At x={1500} y={330} o={ramp(t, wind, 0.4)}><Wind /></At>
+      <Items items={[
+        ["Say to yourself, the wind is blowing", 1500, 470, <K c={ICE} s={26}>“the wind is blowing”</K>, { d: 0.4 }],
+        ["Then feel the wind on your skin", 1500, 550, <W c={CHALK} s={26}>feel it on your skin</W>],
+        ["Is there a wind apart from the blowing", 1500, 620, <W c={CHALK} s={26}>a wind apart from the blowing?</W>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const CarAgainScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const b = c("Listen to a sound once more");
@@ -1233,15 +1418,17 @@ const CloseScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const starts: [keyof typeof M, string][] = [
-    ["open", "Listen to a car going by"], ["web", "two different ways of thinking"], ["doubt", "The logic of substance is not a belief we hold"],
+    ["open", "Listen to a car going by"], ["web", "This video draws on The Logic"],
     ["vivid", "Every appearance is vivid, and it cannot be found"], ["sea", "Appearance arises whenever its conditions come together"],
-    ["doubt", "We habitually and intuitively think inherently"], ["web", "There is no given"], ["vivid", "Anatta is the first door"],
-    ["search", "it reshapes them before we notice"],
-    ["doubt", "The author describes three ways this happens"], ["whole", "The great masters said the same"],
-    ["search", "Now return to the koan"], ["doubt", "the logic of substance looks for a way out"],
+    ["doubt", "We habitually and intuitively think inherently"], ["search", "But experience is never like that"],
+    ["web", "There is no given"], ["vivid", "Anatta is the first door"],
+    ["doubt", "Why does the logic need the seeing"], ["vivid", "So what is a phenomenon"],
+    ["doubt", "one thing has to be admitted"], ["search", "Many practitioners, especially in Zen"],
+    ["whole", "The great masters said the same"], ["vivid", "For the author, after I AM"],
+    ["search", "Now return to the koan"], ["doubt", "The logic of substance looks for a way out"],
     ["web", "The logic of dependency starts one step earlier"], ["vivid", "Think of a staircase"],
-    ["sea", "The eight steps of The Logic each come back"], ["vivid", "The koan is only the sharpest case"], ["search", "There is one more turn"],
-    ["whole", "Nothing is lost when the it is not found"], ["vivid", "Listen to a sound once more"],
+    ["sea", "The eight steps of The Logic each come back"], ["vivid", "The same logic reaches beyond the moment"],
+    ["whole", "Nothing is lost when the it is not found"], ["sea", "So, a few things to try"], ["vivid", "Listen to a sound once more"],
   ];
   const moods: Mood[] = [];
   starts.forEach(([k, cue], i) => {
@@ -1250,38 +1437,44 @@ export const Body: React.FC = () => {
     moods.push({ t: s + (i ? 1.2 : 0), ...M[k] }, { t: next - 0.3, ...M[k] });
   });
   const order: [string, React.ReactNode][] = [
-    ["Listen to a car going by", <BellScene />],
+    ["Listen to a car going by", <CarScene />],
     ["Here is a koan to hold in mind", <KoanScene />],
-    ["two different ways of thinking", <TwoWaysScene />],
-    ["Start with the claim the author puts first", <ClaimScene />],
-    ["The two logics can be learned as ideas", <LogicsScene />],
-    ["The logic of substance is not a belief we hold", <SubstanceScene />],
-    ["So the author names four insights", <ThreeScene />],
+    ["This video draws on The Logic", <TwoWaysScene />],
+    ["But the author puts one thing first", <ClaimScene />],
+    ["So he names four insights after anatta", <FourScene />],
     ["Every appearance is vivid, and it cannot be found", <AppleScene />],
+    ["Not vivid first and empty later", <BothScene />],
     ["Appearance arises whenever its conditions come together", <ConditionsScene />],
     ["We habitually and intuitively think inherently", <SentenceScene />],
+    ["But experience is never like that", <NeverScene />],
+    ["And this habit runs almost by default", <HabitScene />],
     ["There is no given", <GivenScene />],
     ["The first two are one fact, seen from two sides", <OneFactScene />],
     ["Anatta is the first door", <DoorScene />],
-    ["it reshapes them before we notice", <HabitScene />],
-    ["These practices do something real", <TasteScene />],
-    ["The author describes three ways this happens", <InventionsScene />],
-    ["the great positions people argue about", <PositionsScene />],
-    ["If a subject depends on its object", <InsideScene />],
+    ["And where do the four insights lead", <PresenceScene />],
+    ["Why does the logic need the seeing", <LogicsScene />],
+    ["But agreeing changes very little", <SubstanceScene />],
+    ["So what is a phenomenon", <PhenomenonScene />],
+    ["one thing has to be admitted", <AdmitScene />],
+    ["even deep experience and genuine insight will hit a wall", <WallScene />],
+    ["Many practitioners, especially in Zen", <RemovalScene />],
+    ["These practices do something genuine", <TasteScene />],
+    ["Even the idea behind these practices pictures concepts as labels", <LabelsScene />],
     ["The great masters said the same", <MastersScene />],
+    ["For the author, after I AM", <JourneyScene />],
     ["Now return to the koan", <KoanAgainScene />],
     ["The logic of substance starts with a thing", <AnswersScene />],
     ["put the whole trap in one verse", <VerseScene />],
-    ["the logic of substance looks for a way out", <WaysOutScene />],
+    ["The logic of substance looks for a way out", <WaysOutScene />],
     ["The logic of dependency starts one step earlier", <DesignateScene />],
     ["Think of a staircase", <StairsScene />],
-    ["It is a plain description", <FallsAwayScene />],
+    ["is not a paradox", <FallsAwayScene />],
     ["The eight steps of The Logic each come back", <StepsScene />],
     ["What would a substance view say", <FourQScene />],
-    ["The koan is only the sharpest case", <BeyondScene />],
-    ["There is one more turn", <QuestionScene />],
+    ["The same logic reaches beyond the moment", <BeyondScene />],
     ["Nothing is lost when the it is not found", <NothingLostScene />],
-    ["Listen to a sound once more", <BellAgainScene />],
+    ["So, a few things to try", <TryScene />],
+    ["Listen to a sound once more", <CarAgainScene />],
     ["Ask what arises, and the koan is a paradox", <CloseScene />],
   ];
   return (
