@@ -14,7 +14,8 @@ Each command prints one line of JSON per change. Nothing secret is printed.
 
 Warning (seen 2026-10-30, QqAbkXRRqqY): on a video with no default audio language, a description update makes YouTube set
 it to en-US, and the API refuses to clear it. So `apply` changes one field besides the description on such videos, and
-stops there. Run it on those only with the owner's OK (thusness-website server/TASK-youtube-links.md).
+stops there. With the owner's OK (given 2026-10-31, thusness-website server/TASK-youtube-links-2.md), --allow-audio-en-us
+accepts that one change, from empty to en-US, and still stops at any other difference, playlists included.
 """
 import argparse
 import json
@@ -86,6 +87,28 @@ def all_videos(yt):
         req = yt.playlistItems().list_next(req, res)
 
 
+def playlists_by_video(yt, only=None):
+    """Which of the channel's playlists each video is in; `only` limits the playlists read."""
+    found = {}
+    req = yt.playlists().list(part="contentDetails", mine=True, maxResults=50)
+    while req:
+        res = req.execute()
+        for pl in res.get("items", []):
+            if only is not None and pl["id"] not in only:
+                continue
+            # YouTube can offer a next page forever (seen on one playlist, 2026-10-31), so stop at the item count
+            seen = 0
+            items = yt.playlistItems().list(part="contentDetails", playlistId=pl["id"], maxResults=50)
+            while items and seen < pl["contentDetails"]["itemCount"]:
+                page = items.execute()
+                seen += len(page.get("items", []))
+                for it in page.get("items", []):
+                    found.setdefault(it["contentDetails"]["videoId"], set()).add(pl["id"])
+                items = yt.playlistItems().list_next(items, page)
+        req = yt.playlists().list_next(req, res)
+    return found
+
+
 def plan_videos(yt, addresses):
     total, planned = 0, []
     for v in all_videos(yt):
@@ -114,6 +137,8 @@ def apply(args, addresses):
     from gauth import service
     yt = service("youtube", "v3")
     _, planned = plan_videos(yt, addresses)
+    playlists = playlists_by_video(yt)
+    held = {pl for v, _, changes, _ in planned if changes for pl in playlists.get(v["id"], set())}
     done = 0
     for v, new, changes, left in planned:
         if not changes or done == args.limit:
@@ -125,16 +150,21 @@ def apply(args, addresses):
         for wait in READ_BACK_WAITS:
             time.sleep(wait)
             after = yt.videos().list(part="snippet,status", id=v["id"]).execute()["items"][0]
-            differs = [k for k in WRITABLE if after["snippet"].get(k) != before.get(k)]
+            differs = [k for k in WRITABLE if after["snippet"].get(k) != before.get(k)
+                       and not (args.allow_audio_en_us and k == "defaultAudioLanguage" and not before.get(k)
+                                and after["snippet"].get(k) == "en-US")]
             differs += ["description"] if after["snippet"].get("description") != new else []
             differs += [f"status.{k}" for k in set(after["status"]) | set(v["status"])
                         if after["status"].get(k) != v["status"].get(k)]
             if not differs:
                 break
+        if playlists_by_video(yt, held).get(v["id"], set()) != playlists.get(v["id"], set()):
+            differs.append("playlists")
         if differs:
             sys.exit(f"Read-back differs on {v['id']} in {differs}: stopped after {done} videos")
         done += 1
-        print(json.dumps({"id": v["id"], "checked": True, "changes": changes, "left": left}, ensure_ascii=False), flush=True)
+        print(json.dumps({"id": v["id"], "checked": True, "audio": after["snippet"].get("defaultAudioLanguage"),
+                          "changes": changes, "left": left}, ensure_ascii=False), flush=True)
     print(json.dumps({"changed": done}))
 
 
@@ -157,6 +187,8 @@ def main():
         p.set_defaults(fn=fn)
         if name == "apply":
             p.add_argument("--limit", type=int, help="change at most this many videos")
+            p.add_argument("--allow-audio-en-us", action="store_true",
+                           help="accept an empty default audio language becoming en-US (needs the owner's OK)")
         if name == "texts":
             p.add_argument("--root", default=".", help="the Videos repository")
     args = ap.parse_args()
