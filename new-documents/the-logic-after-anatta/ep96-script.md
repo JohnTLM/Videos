@@ -3,7 +3,7 @@ chapter: bonus
 title: "The Logic: After Anatta"
 source: thusness-website after-anatta/intro.html (aa-intro, Seeing Comes First, on atr-passerby.com 2026-10-31), with the koan page and the eight steps of The Logic
 source_words: 21000
-script_words: 2290
+script_words: 2291
 intro: yes
 voice: male
 ---
