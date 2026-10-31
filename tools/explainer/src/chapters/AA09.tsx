@@ -1,4 +1,6 @@
 // After Anatta 9: Decoding Anatta and MMK Chapter 3 (remade 2026-10-29 from the owner's first-person rewrite of the page).
+// Updated 2026-10-31 to the page as on atr-passerby.com: the verses of MMK 2, 3, 10 and 1, the chariot,
+// named is not labelled, the non-implicative negation, Clarity is never missing.
 // Arc: Bahiya and chapter 3 seem opposed -> the second question: why dependent arising is spontaneous presence ->
 // subject, verb, object; the wind blows -> Bahiya: no seer behind the tree; what falls away is the doer behind the doing ->
 // insight drifts back -> Nagarjuna refutes the agent: seeing or not -> the verse read again -> here and there; neither
@@ -22,7 +24,7 @@ export const PHRASES = [
   // the puzzle
   "The Buddha told a wandering ascetic named Bahiya", "in the seen, there will be just the seen", "No one behind the eyes",
   "in chapter three of his Fundamental Verses", "without a seer, there is no seen", "And without the seen, there is no seer",
-  "Many people are confused when they hear these two together", "The Buddha takes the seer away", "Nagarjuna seems to put it back",
+  "Many people are confused when they hear these two together", "The Buddha takes the seer away", "seems to put it back, and then tie it to the seen",
   "There is none", "One is the direct insight", "The other is how the logic of dependency expresses",
   "This is After Anatta",
   // the second question
@@ -37,7 +39,7 @@ export const PHRASES = [
   "We say", "as if there were a wind first", "But when the blowing stops", "The blowing is the wind", "Keep this in mind",
   // Bahiya
   "Bahiya was told to drop that shape", "In seeing, just the seen", "There is the tree, vivid and bright",
-  "Look for a seer standing behind it", "Simply none", "The seeing has no centre", "This is the insight of anatta",
+  "Look for a seer standing behind it", "The seeing has no centre", "This is the insight of anatta",
   // what falls away
   "It is exact to say what falls away", "The person does not fall away", "Seeing does not stop", "It is brighter than before",
   "What falls away is one picture", "A doer behind the doing",
@@ -45,8 +47,8 @@ export const PHRASES = [
   "But insight is not yet understanding", "keep the old grammar in their thinking", "a gap where it used to be",
   "big, impersonal awareness", "wearing a larger coat",
   // Nagarjuna's move
-  "This is where Nagarjuna comes in", "He shows why the old grammar cannot hold",
-  "an action must always be started by an agent", "Nagarjuna is refuting that", "Many think he is affirming it",
+  "He does not give a new experience", "He shows why the old grammar cannot hold",
+  "an action must always be started by an agent", "is refuting that", "Many think he is affirming it",
   "Watch how he argues", "is that seer seeing, or not", "If it is not seeing", "a seer in name only",
   "If it is seeing, then the seeing is counted twice", "and once more for the seeing it does",
   "So the seer is not found with seeing", "Then he turns to the seen", "Take seeing away, and nothing is left that is seen",
@@ -55,28 +57,31 @@ export const PHRASES = [
   "Each is named only in relation to the other", "Take away the relation, and neither is left over",
   "That is not a seer put back", "It is the seer taken apart",
   // why just the seen
-  "So how does", "Nagarjuna does not remove a seer that was there", "only ever a name for one side of the seeing",
+  "So how does", "does not remove a seer that was there", "only ever a name for one side of the seeing",
   "Take away the colours, the shapes and the light", "Nothing", "adds nothing to the seeing",
   // here and there
   "Think of", "makes sense only in relation to", "and it is not a place you can stand",
   "The seer is like that", "the point the scene seems to be seen from", "There is just the view",
   "This is how the Buddha goes on", "there is no", "Then you are neither here, nor there, nor anywhere in between",
-  "The Buddha says it from the direct taste", "Nagarjuna gives the logic for it",
+  "The Buddha says it from the direct taste", "gives the logic for it",
   // both ways
   "And this is why the verse must run both ways", "is easy to misread", "an object out there left standing",
   "That is still the logic of substance, with one side missing", "But there is no seen without the seer either",
   "is the appearing itself, vivid and complete", "Seer, seeing and seen are three ways of speaking about one appearing",
   // depend does not join
-  "So many readers get Nagarjuna backwards", "picture two solid things, joined by a thread",
+  "So many readers get", "picture two solid things, joined by a thread",
   "It shows there were never two things there to join", "This is the logic of dependency",
   // the same move, on everything
   "Chapter three is not a special case", "Each time he takes something that seems to stand behind an action",
   "is it the same as the action, or other than it", "Each time it is found as neither",
-  "The walker does not walk", "are not two things, one doing the other",
-  "Fire is not a thing that arrives", "Wood is only fuel in relation to burning",
-  "And chapter one goes furthest of all", "It takes the doer out of causes", "the way a factory makes goods",
+  "In chapter two, the walker and walking", "A goer does not go", "are not two things, one doing the other",
+  "In chapter three, the seer and seeing", "In chapter ten, fire and fuel", "If fire were the fuel",
+  "If it were other than the fuel", "Fire is not a thing that arrives",
+  "And chapter one goes furthest of all", "Not from itself, not from another", "It takes the doer out of causes",
+  "the way a factory makes goods",
   "So the two teachings meet", "Anatta finds no doer in seeing", "and it finds this by looking",
-  "Nagarjuna finds no doer anywhere", "He finds this by reasoning",
+  "finds no doer anywhere: in the walker", "He finds this by reasoning", "One shows that no seer is found when we look",
+  "The other shows why no seer could be found",
   // my years
   "It did not happen by itself for me", "Anatta dawned around", "while my view was not",
   "In experience, the taste was implicitly", "because its logical thought was always substantial",
@@ -85,12 +90,16 @@ export const PHRASES = [
   // the car
   "We must understand why", "Take a car", "It could be the parts", "It could be a whole", "Or it could be their shape",
   "No single part is the car", "All the parts in a box are not a car", "Take every part away",
-  "And the shape is only the parts in a certain relation", "Found in none of them, it has no nature of its own",
+  "And the shape is only the parts in a certain relation", "asks the same of the chariot", "Found in none of them, it has no nature of its own",
   "is what", "Not that the car is made of emptiness", "there is nothing there to find",
   "And still the car drives you home", "It never touched the car that works", "Looked for, it is not found",
   "Met, it is there, doing what cars do", "These are not two facts",
   "The seer is the same", "Then", "Apart from it", "Neither, so the seer is empty", "The seen gets the same test",
   "What is left is not a remainder", "It is the seeing, vivid and complete",
+  // named is not labelled
+  "The seer and seen are named together", "and the car is named in dependence on its parts", "This is not a label stuck on something",
+  "written on a jar", "Naming here is picking something out as", "in the appearing itself, before any words",
+  "There is nothing bare underneath it",
   // the seeing, too
   "There is one more step, and it is easy to miss", "Just seeing, then", "a verb can be made into a thing",
   "a stream, a process, a field", "It has only moved from the subject to the verb",
@@ -115,7 +124,7 @@ export const PHRASES = [
   "Now the point everything depends on", "There are two ways to say no", "One way says no",
   "There is no small self, so there must be a big", "There is no seer, so there must be pure awareness",
   "the doer leaves by the front door and comes back by the back door",
-  "is the other kind", "It removes, and adds nothing", "No seer, and nothing in the seer's place",
+  "is the other kind", "It removes, and adds nothing", "The tradition calls it a", "No seer, and nothing in the seer's place",
   "No producing cause, and nothing producing instead", "Even dependence is not kept as a new thing",
   "The conditions are not a web or a machine", "They, too, are not found from their own side",
   // spontaneous presence
@@ -136,11 +145,11 @@ export const PHRASES = [
   "What is gone is the maker, not the order", "And spontaneous presence is not a source",
   "in its most beautiful coat",
   "So when I say that dependent arising is spontaneous presence", "They are one appearing, described in two ways",
-  "is how it is described when we analyse", "is the same appearing when the habit of fixing stops",
+  "is how it is described when we analyse", "is the same appearing when the habit of fixing stops", "Neither description is higher",
   // clarity is never missing
   "One thing must be said plainly here", "You cannot talk about phenomena without clarity", "A sound is clear as sound",
   "A colour is vivid as colour", "A thought is known as it appears", "never a machine working in the dark",
-  "The clarity is always there", "So the question is never whether there is clarity", "abstracted out and reified",
+  "The clarity is always there", "So the question is never whether there is clarity", "abstracted out and made into a thing",
   "The mind notices this sameness and lifts it out", "the background that everything appears in",
   "the witness that knows it all", "the Mind that gives off appearances", "The substrate is back, now made of clarity",
   "Left as it is, the clarity is not lifted out", "It stays the appearing's own", "It is not a second thing the sound has",
@@ -149,14 +158,14 @@ export const PHRASES = [
   "no maker, no knower, no background", "clear by itself and complete by itself",
   // nothing taken away
   "None of this takes anything away", "The tree is still green", "read road signs and catch a ball",
-  "things can change, meet and work",
+  "things can change, meet and work", "can stay, as a convenient way of speaking",
   // in one line
   "In one line", "anatta finds no doer in seeing", "and puts nothing in its place",
   "everything appears clear and complete, by itself, as its conditions meet",
   // try it
   "Try it now", "A colour, a car, a fan, a voice", "Then look for the one who is seeing or hearing", "Do not argue",
   "Now look for the seeing apart from what is seen", "Look for something that makes it happen",
-  "Do not put anything in its place", "What is left is not a blank", "It is the scene, bright and whole",
+  "Do not put anything in its place", "Let it be as it is, already complete", "What is left is not a blank", "It is the scene, bright and whole",
   "with no one standing behind it", "In seeing, just the seen. Now you know why",
 ];
 
@@ -351,12 +360,12 @@ const PuzzleScene: React.FC = () => {
         ["in the seen, there will be just the seen", 500, 300, <Tree size={170} glow={0.8} />, { pop: true }],
         ["in the seen, there will be just the seen", 500, 470, <W c={CHALK} s={34} serif>“in the seen, just the seen”</W>, { d: 0.4 }],
         ["No one behind the eyes", 500, 560, <SK c={DIM} s={26} strikeAt={c("No one behind the eyes") + 1.2}>a seer behind the eyes</SK>],
-        ["in chapter three of his Fundamental Verses", 1420, 150, <W c={ICE} s={36} serif>Nagarjuna, chapter 3</W>],
+        ["in chapter three of his Fundamental Verses", 1420, 150, <W c={ICE} s={36} serif>Nāgārjuna, chapter 3</W>],
         ["without a seer, there is no seen", 1420, 300, <W c={CHALK} s={30}>no seer → no seen</W>, { pop: true }],
         ["And without the seen, there is no seer", 1420, 380, <W c={CHALK} s={30}>no seen → no seer</W>, { pop: true }],
         ["Many people are confused when they hear these two together", 960, 380, <W c={WARM} s={70} serif>≠ ?</W>, { pop: true, until: "There is none" }],
         ["The Buddha takes the seer away", 500, 660, <W c={DIM} s={26}>the seer: taken away?</W>],
-        ["Nagarjuna seems to put it back", 1420, 660, <W c={DIM} s={26}>the seer: put back?</W>],
+        ["seems to put it back, and then tie it to the seen", 1420, 660, <W c={DIM} s={26}>the seer: put back?</W>],
         ["There is none", 960, 380, <W c={GOLD} s={70} serif>=</W>, { pop: true }],
         ["One is the direct insight", 500, 760, <K c={GOLD} s={28}>the direct insight</K>, { pop: true }],
         ["The other is how the logic of dependency expresses", 1420, 760, <K c={ICE} s={28}>the same insight, in the logic of dependency</K>, { pop: true }],
@@ -471,7 +480,7 @@ const BahiyaScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const look = c("Look for a seer standing behind it");
-  const none = c("Simply none");
+  const none = c("The seeing has no centre");
   const glow = ramp(t, c("There is the tree, vivid and bright"), 1.0);
   return (
     <AbsoluteFill>
@@ -479,8 +488,8 @@ const BahiyaScene: React.FC = () => {
       <Items items={[
         ["In seeing, just the seen", 960, 220, <W c={CHALK} s={44} serif>in seeing, just the seen</W>],
         ["There is the tree, vivid and bright", 960, 450, <Tree size={240} glow={0.3 + 0.7 * glow} />, { pop: true }],
-        ["Look for a seer standing behind it", 1300, 450, <Person color={DIM} size={170} dashed />, { o: 0.8, until: "Simply none" }],
-        ["Simply none", 1300, 450, <W c={DIM} s={30}>none</W>],
+        ["Look for a seer standing behind it", 1300, 450, <Person color={DIM} size={170} dashed />, { o: 0.8, until: "The seeing has no centre" }],
+        ["The seeing has no centre", 1300, 450, <W c={DIM} s={30}>none</W>],
         ["The seeing has no centre", 960, 690, <W c={GOLD} s={32}>the seeing has no centre</W>],
         ["This is the insight of anatta", 960, 780, <K c={GOLD} s={32}>anatta: direct, not a theory</K>, { pop: true }],
       ]} />
@@ -533,11 +542,11 @@ const ArgueScene: React.FC = () => {
   const agent = c("an action must always be started by an agent");
   return (
     <AbsoluteFill>
-      <Title at={c("This is where Nagarjuna comes in")} color={ICE}>Nagarjuna: take the grammar at its word</Title>
+      <Title at={c("He does not give a new experience")} color={ICE}>Nāgārjuna: take the grammar at its word</Title>
       <Items items={[
         ["He shows why the old grammar cannot hold", 960, 190, <W c={DIM} s={28}>not a new experience: why the old grammar cannot hold</W>,
           { until: "an action must always be started by an agent" }],
-        ["an action must always be started by an agent", 960, 190, <SK c={WARM} s={30} strikeAt={c("Nagarjuna is refuting that") + 0.3}>every action started by an agent</SK>,
+        ["an action must always be started by an agent", 960, 190, <SK c={WARM} s={30} strikeAt={c("is refuting that") + 0.3}>every action started by an agent</SK>,
           { pop: true, until: "Watch how he argues" }],
         ["Many think he is affirming it", 960, 270, <W c={DIM} s={26}>refuted, not affirmed</W>, { until: "Watch how he argues" }],
         ["Watch how he argues", 960, 190, <K c={TEAL} s={32}>a seer, there on its own side</K>, { pop: true }],
@@ -593,7 +602,7 @@ const JustSeenScene: React.FC = () => {
     <AbsoluteFill>
       <Title at={c("So how does")}>how “no seer without the seen” becomes “just the seen”</Title>
       <Items items={[
-        ["Nagarjuna does not remove a seer that was there", 960, 250, <W c={DIM} s={30}>not a seer removed, that was there</W>],
+        ["does not remove a seer that was there", 960, 250, <W c={DIM} s={30}>not a seer removed, that was there</W>],
         ["only ever a name for one side of the seeing", 960, 340, <W c={ICE} s={32} serif>“seer”: a name for one side of the seeing</W>],
         ["Take away the colours, the shapes and the light", 560, 520, <Tree size={150} glow={0.8} />, { pop: true, until: "Nothing" }],
         ["Take away the colours, the shapes and the light", 1360, 520, <Person color={DIM} size={150} dashed />, { d: 1.4 }],
@@ -625,7 +634,7 @@ const HereScene: React.FC = () => {
         ["This is how the Buddha goes on", 960, 200, <W c={GOLD} s={30}>the Buddha to Bahiya, going on:</W>],
         ["Then you are neither here, nor there, nor anywhere in between", 960, 790, <W c={CHALK} s={32} serif>neither here, nor there, nor in between</W>],
         ["The Buddha says it from the direct taste", 1500, 450, <K c={GOLD} s={26}>the Buddha: the taste</K>, { pop: true }],
-        ["Nagarjuna gives the logic for it", 1500, 530, <K c={ICE} s={26}>Nagarjuna: the logic</K>, { pop: true }],
+        ["gives the logic for it", 1500, 530, <K c={ICE} s={26}>Nāgārjuna: the logic</K>, { pop: true }],
       ]} />
       <Crossed x={560} y={560} at={view - 0.4} size={45} />
       <At x={960} y={420} o={ramp(t, neither + 1, 0.5) * 0}><span /></At>
@@ -668,7 +677,7 @@ const JoinScene: React.FC = () => {
   const never = c("It shows there were never two things there to join");
   return (
     <AbsoluteFill>
-      <Title at={c("So many readers get Nagarjuna backwards")} color={WARM}>read backwards</Title>
+      <Title at={c("So many readers get")} color={WARM}>read backwards</Title>
       <Items items={[
         ["picture two solid things, joined by a thread", 620, 330,
           <div style={{ width: 150, height: 110, borderRadius: 10, border: `4px solid ${TEAL}`, background: `${TEAL}33` }} />, { pop: true }],
@@ -689,7 +698,8 @@ const JoinScene: React.FC = () => {
 const SameMoveScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const walk = c("The walker does not walk");
+  const walk = c("In chapter two, the walker and walking");
+  const three = c("In chapter three, the seer and seeing");
   const fire = c("Fire is not a thing that arrives");
   const one = c("And chapter one goes furthest of all");
   const meet = c("So the two teachings meet");
@@ -706,21 +716,29 @@ const SameMoveScene: React.FC = () => {
         ["So the two teachings meet", 960, 200, <W c={GOLD} s={40} serif>the two teachings meet</W>],
         ["Anatta finds no doer in seeing", 520, 380, <K c={GOLD} s={30}>anatta: no doer in seeing</K>, { pop: true }],
         ["and it finds this by looking", 520, 460, <W c={DIM} s={26}>by looking</W>],
-        ["Nagarjuna finds no doer anywhere", 1400, 380, <K c={ICE} s={30}>Nagarjuna: no doer anywhere</K>, { pop: true }],
-        ["He finds this by reasoning", 1400, 460, <W c={DIM} s={26}>by reasoning, carried to every thing</W>],
-        ["So the two teachings meet", 960, 620,
+        ["finds no doer anywhere: in the walker", 1400, 380, <K c={ICE} s={30}>Nāgārjuna: no doer anywhere</K>, { pop: true }],
+        ["He finds this by reasoning", 1400, 460, <W c={DIM} s={26}>by reasoning</W>],
+        ["One shows that no seer is found when we look", 520, 530, <W c={CHALK} s={24}>no seer is found when we look</W>],
+        ["The other shows why no seer could be found", 1400, 530, <W c={CHALK} s={24}>why none could be found, however we look</W>],
+        ["So the two teachings meet", 960, 690,
           <div style={{ display: "flex", gap: 40, alignItems: "center" }}><Walker /><FireWood size={130} /><PassingCar size={150} /><Eye size={120} /></div>,
           { d: 1.0 }],
       ]} />
-      <At x={360} y={480} o={row(walk)}><Walker step={(t - walk) * 6} /></At>
-      <At x={360} y={620} o={row(walk + 0.6)}><W c={TEAL} s={26}>ch. 2: walker, walking</W></At>
-      <At x={360} y={700} o={row(walk + 1.2)}><W c={DIM} s={24}>not two things, one doing the other</W></At>
-      <At x={960} y={470} o={row(fire)}><FireWood size={180} /></At>
-      <At x={960} y={620} o={row(fire + 0.6)}><W c={WARM} s={26}>ch. 10: fire, fuel</W></At>
-      <At x={960} y={700} o={row(c("Wood is only fuel in relation to burning"))}><W c={DIM} s={24}>fuel only to burning; fire only to fuel</W></At>
-      <At x={1560} y={470} o={row(one)}><Box c={VIOLET} label="cause" w={150} /></At>
-      <At x={1560} y={620} o={row(one + 0.6)}><W c={VIOLET} s={26}>ch. 1: the cause</W></At>
-      <At x={1560} y={700} o={row(c("the way a factory makes goods"))}><SK c={DIM} s={22} strikeAt={c("the way a factory makes goods") + 1.4}>a factory making goods</SK></At>
+      <At x={270} y={470} o={row(walk)}><Walker step={(t - walk) * 6} /></At>
+      <At x={270} y={610} o={row(walk + 0.6)}><W c={TEAL} s={26}>ch. 2: walker, walking</W></At>
+      <At x={270} y={680} o={row(c("A goer does not go"))}><W c={CHALK} s={22} serif>“a goer does not go”</W></At>
+      <At x={270} y={740} o={row(c("are not two things, one doing the other"))}><W c={DIM} s={20}>not two things, one doing the other</W></At>
+      <At x={730} y={480} o={row(three)}><Eye size={150} color={TEAL} /></At>
+      <At x={730} y={610} o={row(three + 0.6)}><W c={TEAL} s={26}>ch. 3: seer, seeing</W></At>
+      <At x={730} y={680} o={row(three + 1.6)}><W c={CHALK} s={22} serif>“no seer, with seeing or apart”</W></At>
+      <At x={1190} y={470} o={row(fire)}><FireWood size={170} /></At>
+      <At x={1190} y={610} o={row(fire + 0.6)}><W c={WARM} s={26}>ch. 10: fire, fuel</W></At>
+      <At x={1190} y={680} o={row(c("If fire were the fuel"))}><W c={DIM} s={20}>the fuel? then actor and act are one</W></At>
+      <At x={1190} y={740} o={row(c("If it were other than the fuel"))}><W c={DIM} s={20}>other? then fire without fuel</W></At>
+      <At x={1650} y={470} o={row(one)}><Box c={VIOLET} label="cause" w={150} /></At>
+      <At x={1650} y={610} o={row(one + 0.6)}><W c={VIOLET} s={26}>ch. 1: cause, effect</W></At>
+      <At x={1650} y={680} o={row(c("Not from itself, not from another"))}><W c={CHALK} s={20} serif>not from itself, another, both, nor no cause</W></At>
+      <At x={1650} y={740} o={row(c("the way a factory makes goods"))}><SK c={DIM} s={20} strikeAt={c("the way a factory makes goods") + 1.4}>a factory making goods</SK></At>
     </AbsoluteFill>
   );
 };
@@ -769,6 +787,7 @@ const CarScene: React.FC = () => {
         <Crossed x={1440} y={420} at={c("And the shape is only the parts in a certain relation") + 1.4} size={45} />
       </div>
       <Items items={[
+        ["asks the same of the chariot", 1440, 520, <W c={DIM} s={24}>the chariot, too: neither</W>, { until: "And still the car drives you home" }],
         ["No single part is the car", 480, 520, <W c={DIM} s={24}>not the wheel, not the engine</W>, { until: "And still the car drives you home" }],
         ["Found in none of them, it has no nature of its own", 960, 600, <W c={CHALK} s={30}>found in none: no nature of its own</W>,
           { until: "And still the car drives you home" }],
@@ -789,6 +808,43 @@ const CarScene: React.FC = () => {
       <Svg>
         <path d="M580 230 L880 230" stroke={ICE} strokeWidth={3} opacity={ramp(t, drives + 0.5, 0.5) * (1 - ramp(t, seer, 0.5)) * 0.6}
           strokeDasharray="10 8" />
+      </Svg>
+    </AbsoluteFill>
+  );
+};
+
+/** A jar with a word stuck on it: the picture of naming this is NOT. */
+const Jar: React.FC<{ word: string }> = ({ word }) => (
+  <svg width={170} height={210} viewBox="0 0 170 210" style={{ overflow: "visible", filter: `drop-shadow(0 0 10px ${ICE}88)` }}>
+    <rect x={45} y={8} width={80} height={26} rx={6} fill={`${DIM}44`} stroke={DIM} strokeWidth={4} />
+    <path d="M40 34 L130 34 Q156 44 156 80 L156 186 Q156 202 140 202 L30 202 Q14 202 14 186 L14 80 Q14 44 40 34 Z"
+      fill={`${ICE}14`} stroke={ICE} strokeWidth={5} />
+    <rect x={38} y={100} width={94} height={46} rx={4} fill="#F1ECE0dd" />
+    <text x={85} y={131} textAnchor="middle" fontSize={26} fontFamily={SERIF} fill="#333">{word}</text>
+  </svg>
+);
+
+/** Named is not labelled: naming is picking out "this", in the appearing, before words; nothing bare underneath. */
+const LabelScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const pick = c("Naming here is picking something out as");
+  return (
+    <AbsoluteFill>
+      <Title at={c("The seer and seen are named together")}>named, not labelled</Title>
+      <Items items={[
+        ["The seer and seen are named together", 760, 230, <Part c={TEAL} label="seer" />, { pop: true }],
+        ["The seer and seen are named together", 1160, 230, <Part c={GREEN} label="seen" />, { pop: true, d: 0.5 }],
+        ["and the car is named in dependence on its parts", 960, 320, <W c={DIM} s={26}>the car, named in dependence on its parts</W>],
+        ["written on a jar", 520, 520, <Jar word="sugar" />, { pop: true }],
+        ["This is not a label stuck on something", 520, 700, <SK c={DIM} s={24} strikeAt={pick}>a label stuck on something already there</SK>, { d: 1.6 }],
+        ["Naming here is picking something out as", 1360, 480, <Tree size={170} glow={0.9} />, { pop: true }],
+        ["Naming here is picking something out as", 1360, 640, <W c={GOLD} s={34} serif>“this”</W>, { d: 1.4 }],
+        ["in the appearing itself, before any words", 1360, 710, <W c={CHALK} s={24}>in the appearing itself, before any words</W>],
+        ["There is nothing bare underneath it", 960, 800, <SK c={DIM} s={24} strikeAt={c("There is nothing bare underneath it") + 1.2}>something bare underneath</SK>, { pop: true }],
+      ]} />
+      <Svg>
+        <circle cx={1360} cy={480} r={120} fill="none" stroke={GOLD} strokeWidth={4} strokeDasharray="10 8" opacity={ramp(t, pick + 0.8, 0.6) * 0.8} />
       </Svg>
     </AbsoluteFill>
   );
@@ -933,8 +989,9 @@ const TwoNoScene: React.FC = () => {
         ["There is no small self, so there must be a big", 520, 380, <SK c={DIM} s={24} strikeAt={other}>no small self → a big Self</SK>],
         ["There is no seer, so there must be pure awareness", 520, 450, <SK c={DIM} s={24} strikeAt={other + 0.2}>no seer → pure awareness</SK>],
         ["the doer leaves by the front door and comes back by the back door", 520, 560, <W c={WARM} s={24}>out the front door, back by the back door</W>],
-        ["is the other kind", 1400, 290, <K c={GOLD} s={28}>Nagarjuna's no: nothing in its place</K>, { pop: true }],
-        ["It removes, and adds nothing", 1400, 380, <W c={CHALK} s={26}>removes, adds nothing</W>],
+        ["is the other kind", 1400, 290, <K c={GOLD} s={28}>Nāgārjuna's no: nothing in its place</K>, { pop: true }],
+        ["It removes, and adds nothing", 1400, 380, <W c={CHALK} s={26}>removes, adds nothing</W>, { until: "The tradition calls it a" }],
+        ["The tradition calls it a", 1400, 380, <W c={GOLD} s={24}>a non-implicative negation: implies nothing else</W>],
         ["No seer, and nothing in the seer's place", 1400, 450, <W c={CHALK} s={26}>no seer · nothing in its place</W>],
         ["No producing cause, and nothing producing instead", 1400, 520, <W c={CHALK} s={26}>no producing cause · nothing producing instead</W>],
         ["Even dependence is not kept as a new thing", 1400, 590, <W c={DIM} s={26}>not even dependence, kept as a thing</W>],
@@ -1024,6 +1081,7 @@ const CautionScene: React.FC = () => {
         ["They are one appearing, described in two ways", 960, 620, <W c={CHALK} s={34} serif>one appearing, described two ways</W>],
         ["is how it is described when we analyse", 560, 720, <K c={ICE} s={26}>analysed: dependent arising</K>, { pop: true }],
         ["is the same appearing when the habit of fixing stops", 1360, 720, <K c={GOLD} s={26}>fixing stopped: spontaneous presence</K>, { pop: true }],
+        ["Neither description is higher", 960, 810, <W c={DIM} s={26}>neither description is higher</W>],
       ]} />
     </AbsoluteFill>
   );
@@ -1063,7 +1121,7 @@ const ClearScene: React.FC = () => {
         ["never a machine working in the dark", 960, 330, <SK c={DIM} s={26} strikeAt={c("The clarity is always there") - 0.2}>a machine in the dark, waiting for a knower</SK>, { until: "So the question is never whether there is clarity" }],
         ["The clarity is always there", 960, 420, <W c={GOLD} s={34} serif>the clarity is always there</W>, { until: "So the question is never whether there is clarity" }],
         ["So the question is never whether there is clarity", 960, 200, <W c={CHALK} s={30}>not whether there is clarity, but whether it is</W>, { until: "Left as it is, the clarity is not lifted out" }],
-        ["abstracted out and reified", 960, 790, <W c={WARM} s={32} serif>abstracted out and reified</W>, { until: "the background that everything appears in" }],
+        ["abstracted out and made into a thing", 960, 790, <W c={WARM} s={32} serif>abstracted out and made into a thing</W>, { until: "the background that everything appears in" }],
         ["the background that everything appears in", 330, 400, <SK c={VIOLET} s={24} strikeAt={back + 1.0}>a background</SK>, { until: "Left as it is, the clarity is not lifted out" }],
         ["the witness that knows it all", 1590, 360, <SK c={VIOLET} s={24} strikeAt={back + 1.2}>a witness</SK>, { until: "Left as it is, the clarity is not lifted out" }],
         ["the Mind that gives off appearances", 1590, 430, <SK c={VIOLET} s={24} strikeAt={back + 1.4}>a Mind giving off appearances</SK>, { until: "Left as it is, the clarity is not lifted out" }],
@@ -1091,6 +1149,7 @@ const WorksScene: React.FC = () => {
         ["The tree is still green", 560, 420, <Tree size={220} glow={1} />, { pop: true }],
         ["read road signs and catch a ball", 1340, 360, <W c={CHALK} s={28}>road signs read, a ball caught</W>],
         ["things can change, meet and work", 1340, 460, <W c={GOLD} s={30}>things change, meet and work</W>],
+        ["can stay, as a convenient way of speaking", 1340, 540, <W c={DIM} s={24}>“I see the tree”: a way of speaking</W>],
         ["In one line", 960, 640, <W c={DIM} s={26}>in one line</W>],
         ["anatta finds no doer in seeing", 960, 700, <W c={CHALK} s={28}>no doer in seeing · no doer anywhere</W>],
         ["and puts nothing in its place", 960, 750, <W c={CHALK} s={28}>nothing in its place</W>],
@@ -1115,7 +1174,8 @@ const TryScene: React.FC = () => {
         ["Do not argue", 960, 680, <W c={DIM} s={26}>do not argue · just look</W>, { until: "What is left is not a blank" }],
         ["Now look for the seeing apart from what is seen", 960, 610, <W c={DIM} s={30}>the seeing, apart from the seen?</W>, { until: "Look for something that makes it happen" }],
         ["Look for something that makes it happen", 960, 610, <W c={DIM} s={30}>something that makes it happen?</W>, { until: "What is left is not a blank" }],
-        ["Do not put anything in its place", 960, 750, <W c={GOLD} s={28}>put nothing in its place</W>, { until: "What is left is not a blank" }],
+        ["Do not put anything in its place", 960, 750, <W c={GOLD} s={28}>put nothing in its place</W>, { until: "Let it be as it is, already complete" }],
+        ["Let it be as it is, already complete", 960, 750, <W c={GOLD} s={28}>let it be, already complete</W>, { until: "What is left is not a blank" }],
         ["It is the scene, bright and whole", 960, 610, <W c={GOLD} s={36} serif>the scene, bright and whole</W>],
         ["with no one standing behind it", 960, 690, <W c={CHALK} s={28}>no one behind it, nothing under it</W>],
         ["In seeing, just the seen. Now you know why", 960, 220, <W c={GOLD} s={44} serif>in seeing, just the seen</W>],
@@ -1138,15 +1198,16 @@ export const Body: React.FC = () => {
     ["vivid", "Bahiya was told to drop that shape", <BahiyaScene />],
     ["whole", "It is exact to say what falls away", <FallsAwayScene />],
     ["doubt", "But insight is not yet understanding", <DriftScene />],
-    ["search", "This is where Nagarjuna comes in", <ArgueScene />],
+    ["search", "He does not give a new experience", <ArgueScene />],
     ["whole", "Now read his verse again", <VerseScene />],
     ["sea", "So how does", <JustSeenScene />],
     ["vivid", "Think of", <HereScene />],
     ["whole", "And this is why the verse must run both ways", <BothWaysScene />],
-    ["doubt", "So many readers get Nagarjuna backwards", <JoinScene />],
+    ["doubt", "So many readers get", <JoinScene />],
     ["web", "Chapter three is not a special case", <SameMoveScene />],
     ["open", "It did not happen by itself for me", <YearsScene />],
     ["search", "We must understand why", <CarScene />],
+    ["whole", "The seer and seen are named together", <LabelScene />],
     ["sea", "There is one more step, and it is easy to miss", <VerbScene />],
     ["web", "Apart from the colour, the light, the eye and the tree", <NamedScene />],
     ["doubt", "There is one more place the mind likes to hide something", <ClarityScene />],
