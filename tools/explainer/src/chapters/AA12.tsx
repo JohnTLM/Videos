@@ -7,8 +7,9 @@
 // itself is the designation -> designation is singling out, no words needed -> a figure stands out only against its
 // ground and with its conditions -> singling out is dependence, dependence is emptiness: by appearing, already empty ->
 // the mirror: singling out is not the mistake -> holding an apple: each sense its own appearing, the knot of the habit,
-// untied with nothing missing -> the clarity mistaken as me and as Self, both struck -> taste and logic
-// meet in one appearing -> what a phenomenon is -> try it -> close.
+// untied with nothing missing -> the same knot from the side of light: five aggregates, five lights hardening into a
+// solid world, untied as display (main site version 131) -> the clarity mistaken as me and as Self, both struck ->
+// taste and logic meet in one appearing -> what a phenomenon is -> try it (sound, fruit, hand, clarity) -> close.
 // Stance: emptiness and awareness are never drawn as a ground, field, container or background; the bare given, "Self",
 // a pure witness and a vast awareness appear only to be struck. The appearing (sound, colour, hand) stays vivid.
 import React from "react";
@@ -29,37 +30,41 @@ export const PHRASES = [
   "Each time, the logic is looking at a phenomenon", "What Buddhism calls a dharma",
   "This is After Anatta",
   // what a phenomenon is
-  "So first, what is a phenomenon", "A phenomenon is whatever can be known",
+  "So first, what is a phenomenon", "A phenomenon is whatever can be experienced or known",
   "A sound, a colour, a hardness, a feeling, a thought", "Things only thought of, like a number or a plan",
-  "And the knowing too", "a moment of seeing is itself a dharma", "Nothing knows from outside the list",
+  "And the knowing too", "a moment of seeing is itself a dharma", "Nothing is left out",
   "Everything is dharma",
   // two kinds
   "The tradition sorts them in two", "Conditioned dharmas arise from conditions and pass",
-  "Unconditioned dharmas are not made by conditions", "space, and nirvana, the ending of suffering",
+  "Unconditioned dharmas are not made by conditions", "in the old lists, space", "the ceasing of suffering",
   "Conditioned or unconditioned, they are all dharmas",
   // what holds its own mark
   "The word comes from a root meaning to hold", "a dharma is what holds its own mark", "Hardness for earth",
   "Heat for fire", "Knowing for consciousness", "They had seen through the self, the person, the chariot",
-  "But they kept the dharmas as real building blocks", "No self in the person, but the pieces still solid",
-  // Nagarjuna
-  "Nagarjuna turned the search on the dharmas themselves", "Not even a dharma holds its own mark",
-  "Looked for, it is not found", "It arises only in dependence", "And the unconditioned gets no exemption",
-  "If the conditioned is not established, he asks, how could the unconditioned be",
-  "Space, nirvana, even emptiness: empty too",
+  "But they kept the dharmas as the pieces the world is built of",
+  "No self in the person, but the pieces still standing from their own side",
+  // Nagarjuna (name respelled: kept out of phrases)
+  "turned the search on the dharmas themselves", "Not even a dharma holds its own mark",
+  "Searched for, it is not found", "It arises only in dependence", "And the unconditioned gets no exemption",
+  "Since the conditioned is not established at all, he asks, how could the unconditioned be",
+  "even emptiness itself",
   // after anatta
-  "This is what after anatta means", "The seeing that found no self is turned on every phenomenon",
+  "This is what after anatta means", "The same seeing that found no self is turned on every phenomenon",
+  "Every dharma is vivid, and not found",
   // one appearing
   "So the self is dharmas", "mistaken for someone standing behind them", "An object is dharmas again",
   "mistaken for a thing out there on its own", "Cause, matter and person are the same",
   "They look at this one vivid appearing, from different sides",
+  "until the habit of making it into things is seen through",
   // two layers
   "Now the second point, and it is easy to miss", "We usually picture two layers", "First a bare appearance",
-  "Then a name stuck on it", "That picture is still dual", "It keeps a raw given under the label, one more floor",
+  "Then a name put on it", "That picture is still dual", "It keeps a raw given under the label, one more floor",
   "There is no bare appearance underneath, waiting to be named",
   "Designation is not a label put on the appearing", "The appearing itself is the designation",
   // singling out
   "How can that be", "Because designation needs no words", "It needs only singling out", "This sound",
   "This colour", "This ache", "A baby does it", "A bird does it", "We do it long before any word",
+  "The Buddha's own word for it is recognising", "picking out a mark as this",
   "Whatever appears is already a this", "So nothing appears undesignated",
   // figure and ground
   "And singling out is already dependence", "A this stands out only against what it is not",
@@ -73,20 +78,21 @@ export const PHRASES = [
   "Now let one other colour appear in that world", "a spot of red", "At once both appear", "They arise together, in one stroke",
   "First, neither comes first", "waiting for red to reveal it", "each by contrast with the other", "named together, neither prior",
   "Second, dependence", "first the cause, then the effect", "Here nothing waits", "all at once",
-  "They are aspects of one dependently arisen event",
+  "This is the logic of the single stroke", "They are aspects of one dependently arisen event",
   "Third, each colour is empty, and vivid, at the same moment", "Blue has no blueness of its own", "Yet the instant red is there",
   "They are one appearing",
   "Fourth, nothing produced it", "Neither is the cause of the other", "already complete, not built up step by step",
   "That is spontaneous presence in the plainest example", "But not produced either",
   "Fifth, it", "one big field of colour behind both", "Each is distinct and clear", "They are neither one nor two",
-  "In short: appearing is relation from the start",
+  "In short: appearing is relation from the start", "And why the same appearing is complete by itself",
   // the chain
   "So singling out is not something done to an appearance that was there first", "It is already dependence",
-  "And dependence is already emptiness", "Look for the this apart from its conditions, and it is not found",
+  "And dependence is already emptiness", "Look for the this apart from its conditions",
   "Singling out is dependence", "Dependence is emptiness", "So by appearing, a thing is already empty",
   "Nothing appears first and turns out empty later",
   "dependent arising, emptiness and dependent designation are one", "The logic does not make things empty",
-  "It shows what appearing already is",
+  "It shows what appearing already is", "refuses a bare particular, given before any designation",
+  "No such bare given is found",
   // the mirror
   "None of this makes the world thin", "Singling out is not the mistake",
   "A mirror shows every reflection, clear and distinct, and holds none of them",
@@ -95,26 +101,46 @@ export const PHRASES = [
   "Take something you can hold", "Someone passes you an apple, and you hold it in your hand",
   "It seems plain that you are holding a solid apple", "out there, on its own", "Look again",
   "The hardness is not stored in the apple", "It arises when skin meets fruit", "Press lightly and it is firm",
-  "Press with the thumb and it gives", "The coolness depends on the warmth of your hand",
+  "Press with the thumb and it gives", "To a stone, it is soft", "The coolness depends on the warmth of your hand",
   "The weight in your palm is a pull with the earth, met by your arm",
   "The red depends on light, on the skin of the fruit, and on the eye", "Under candlelight it turns orange",
-  "At dusk it goes grey", "The scent needs the air and the breath", "The crunch needs teeth and an ear",
-  "The sweetness needs the tongue", "it is another apple", "Even the word apple comes with memory and language",
+  "At dusk it goes grey", "A bee sees patterns you cannot", "No red is found sitting on the apple apart from all this",
+  "Yet it appears vividly, whenever its conditions come together",
+  "The scent needs the air and the breath", "With a blocked nose there is none", "The crunch needs teeth and an ear",
+  "It was not waiting inside the apple", "The sweetness needs the tongue", "it is another apple",
+  "Even the word apple comes with memory and language", "The thought, this is an apple, is one more appearing",
   // the knot
   "Each sense gives only its own appearing", "This hardness, this red, this crunch, this sweetness",
   "None of them gives an apple standing out there on its own",
   "Mental formation, from the habits of the inherent framework, does the rest", "It ties the appearings into one solid thing",
-  "puts it out there", "and puts a me in here, holding it",
+  "as if they all belonged to a hidden core", "It puts that thing out there", "and puts a me in here, holding it",
   "Look for the apple apart from its conditions, and it is not found",
-  "Look for the holder apart from the holding, and that is not found either", "Nothing is missing",
-  "You can still eat it, share it, and plant its seeds", "Untied, it is just this: vivid, and light",
+  "Look for the holder apart from the holding, and that is not found either", "Nothing is lost",
+  "You can still eat it, share it, and plant its seeds", "It works because it is dependently arisen",
+  "could never ripen, or be bitten, or feed anyone",
+  "The senses give appearings", "The habit ties them into an apple out there", "Untied, nothing is missing",
+  "just this, vivid, and light",
+  // the side of light (main site version 131)
+  "The same knot can be told from the side of light", "The five aggregates are all here",
+  "Form: the hardness, the red", "Feeling: the sweetness is pleasant", "Perception: the shape recognised as apple",
+  "Formations", "And consciousness: touch, seeing, tasting, each its own stream, unmixed",
+  "The knot is the aggregate of formations",
+  "tells the same movement from the side of light", "Each aggregate, freed, is one of five lights",
+  "Grasped as something standing over there", "the lights harden into solid elements, a solid world, and a solid body",
+  "is the grasping that hardens the lights",
+  "Untied, the aggregates are seen as display", "many vivid streams of appearing",
+  "with no core underneath, and no one holding them",
+  "This is also what the rainbow body is, in essence", "A realization, not the body disappearing",
+  "And the lights are not a stuff beneath the aggregates", "They name the aggregates' own clarity, as empty as they are",
   // the clarity
   "Then the clarity", "Every appearing is clear: seen, heard, known", "what the tradition calls the nature of mind",
   "it becomes me, the one who sees", "it is easily mistaken again, as a capital S Self",
   "a pure witness, a vast awareness, the background the world appears in",
   "But the clarity is the appearing's own", "It is not a light shining from behind",
-  "looked for, it is not found apart from what appears",
+  "searched for, it is not found apart from what appears", "The seeing is no different from the seen",
   "Clear, knowing and empty, with no one knowing it, and no ground beneath it",
+  "So when the steps say designation, hear it this way",
+  "This vivid, clear appearing, singled out, dependent, and not found", "Awareness is not a second thing beside it",
   // taste and logic
   "So the taste and the logic meet here", "Direct taste meets the appearing as vivid, clear and knowing",
   "In seeing, just the seen", "The logic meets the same appearing and finds nothing standing on its own",
@@ -128,6 +154,8 @@ export const PHRASES = [
   "Notice what it stands out against, and what it comes with", "Is there a sound left over, apart from those",
   "Pick up a piece of fruit", "Go through the senses one by one",
   "Then look for the fruit apart from them, and for the one holding it",
+  "Look at your hand", "It is already a hand, singled out, vivid", "Look for a hand apart from its being singled out",
+  "Look for the one doing the singling out", "Do not argue", "Just look",
   "Then notice the clarity", "Everything is already known, without effort", "Is the knowing behind the scene",
   "Or is it just the scene, bright and clear",
   // close
@@ -307,7 +335,7 @@ const TopicsScene: React.FC = () => {
 const DefineScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const def = c("A phenomenon is whatever can be known");
+  const def = c("A phenomenon is whatever can be experienced or known");
   const list = c("A sound, a colour, a hardness, a feeling, a thought");
   const L: [string, string, number, number][] = [
     ["a sound", GOLD, 330, 400], ["a colour", ROSE, 640, 400], ["a hardness", WARM, 960, 400], ["a feeling", VIOLET, 1280, 400],
@@ -316,7 +344,7 @@ const DefineScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title at={c("So first, what is a phenomenon")}>what is a phenomenon?</Title>
-      <At x={960} y={240} o={ramp(t, def - 0.3, 0.3)}><Reveal text="whatever can be known" at={def} size={58} speed={0.04} /></At>
+      <At x={960} y={240} o={ramp(t, def - 0.3, 0.3)}><Reveal text="whatever can be experienced or known" at={def} size={54} speed={0.035} /></At>
       {L.map(([w, col, x, y], i) => (
         <At key={w} x={x} y={y} s={pop(t, fps, list + i * 0.45)}><K c={col} s={28}>{w}</K></At>
       ))}
@@ -325,7 +353,7 @@ const DefineScene: React.FC = () => {
         ["Things only thought of, like a number or a plan", 960, 520, <K c={DIM} s={26}>a plan</K>, { d: 0.6, pop: true }],
         ["And the knowing too", 1290, 520, <Eye size={130} />, { pop: true }],
         ["a moment of seeing is itself a dharma", 1290, 600, <Wd c={ICE} s={26}>the seeing, a dharma too</Wd>],
-        ["Nothing knows from outside the list", 960, 680, <Wd c={CHALK} s={30}>nothing knows from outside the list</Wd>],
+        ["Nothing is left out", 960, 680, <Wd c={CHALK} s={30}>nothing is left out</Wd>],
         ["Everything is dharma", 960, 780, <Wd c={GOLD} s={44} serif>everything is dharma</Wd>, { pop: true }],
       ]} />
     </AbsoluteFill>
@@ -347,8 +375,8 @@ const KindsScene: React.FC = () => {
         ["Conditioned dharmas arise from conditions and pass", 560, 590, <K c={GOLD} s={26}>every thought</K>, { d: 2.0, pop: true }],
         ["Unconditioned dharmas are not made by conditions", 1360, 250, <Wd c={VIOLET} s={38} serif>unconditioned</Wd>],
         ["Unconditioned dharmas are not made by conditions", 1360, 330, <Wd c={DIM} s={26}>not made by conditions</Wd>, { d: 0.6 }],
-        ["space, and nirvana, the ending of suffering", 1360, 430, <K c={ICE} s={26}>space</K>, { pop: true }],
-        ["space, and nirvana, the ending of suffering", 1360, 510, <K c={ICE} s={26}>nirvana</K>, { d: 0.6, pop: true }],
+        ["in the old lists, space", 1360, 430, <K c={ICE} s={26}>space</K>, { d: 0.5, pop: true }],
+        ["the ceasing of suffering", 1360, 510, <K c={ICE} s={26}>nirvāṇa: the ceasing of suffering</K>, { pop: true }],
       ]} />
       <At x={960} y={720} o={ramp(t, all, 0.5)}>
         <svg width={1100} height={60} viewBox="0 0 1100 60" style={{ overflow: "visible" }}>
@@ -364,7 +392,7 @@ const HoldScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const seen = c("They had seen through the self, the person, the chariot");
-  const kept = c("But they kept the dharmas as real building blocks");
+  const kept = c("But they kept the dharmas as the pieces the world is built of");
   const B: [string, string, string, string][] = [
     ["Hardness for earth", "earth", "hardness", WARM], ["Heat for fire", "fire", "heat", ROSE],
     ["Knowing for consciousness", "consciousness", "knowing", ICE],
@@ -387,8 +415,8 @@ const HoldScene: React.FC = () => {
       ))}
       <At x={960} y={660} o={ramp(t, seen + 2.4, 0.4)}><Wd c={DIM} s={26}>seen through</Wd></At>
       <Items items={[
-        ["But they kept the dharmas as real building blocks", 960, 740, <Wd c={WARM} s={30}>the bricks kept: real, each on its own</Wd>],
-        ["No self in the person, but the pieces still solid", 960, 800, <Wd c={CHALK} s={28} serif>no self, but the pieces still solid</Wd>],
+        ["But they kept the dharmas as the pieces the world is built of", 960, 740, <Wd c={WARM} s={30}>the bricks kept: the pieces the world is built of</Wd>],
+        ["No self in the person, but the pieces still standing from their own side", 960, 800, <Wd c={CHALK} s={28} serif>no self, but the pieces still standing from their own side</Wd>],
       ]} />
       {t > kept && <At x={960} y={360} o={0.25 * ramp(t, kept, 0.5)}><div style={{ width: 1400, height: 170, borderRadius: 14, boxShadow: `0 0 60px ${WARM}` }} /></At>}
     </AbsoluteFill>
@@ -398,28 +426,28 @@ const HoldScene: React.FC = () => {
 const NagaScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
-  const turn = c("Nagarjuna turned the search on the dharmas themselves");
+  const turn = c("turned the search on the dharmas themselves", 1.2);
   const notEven = c("Not even a dharma holds its own mark");
-  const nf = c("Looked for, it is not found");
+  const nf = c("Searched for, it is not found");
   const ex = c("And the unconditioned gets no exemption");
-  const q = c("If the conditioned is not established, he asks, how could the unconditioned be");
-  const last = c("Space, nirvana, even emptiness: empty too");
+  const q = c("Since the conditioned is not established at all, he asks, how could the unconditioned be");
+  const last = c("even emptiness itself", 1.6);
   const B: [string, string, string][] = [["earth", "hardness", WARM], ["fire", "heat", ROSE], ["consciousness", "knowing", ICE]];
   const dash = ramp(t, nf, 0.8);
   return (
     <AbsoluteFill>
-      <Title at={turn} color={TEAL}>Nagarjuna: the search turned on the dharmas</Title>
+      <Title at={turn} color={TEAL}>Nāgārjuna: the search turned on the dharmas</Title>
       {B.map(([l, m, col], i) => (
         <At key={l} x={520 + i * 440} y={290} o={1 - ramp(t, ex, 0.6) * 0.75} s={0.85}><Brick label={l} mark={m} color={col} dash={dash} /></At>
       ))}
       <At x={960} y={430} o={ramp(t, notEven, 0.4) * (1 - ramp(t, ex, 0.6))}><SK c={WARM} s={28} strikeAt={notEven + 1.2}>holds its own mark</SK></At>
       <Items items={[
-        ["Looked for, it is not found", 640, 520, <Wd c={CHALK} s={30}>looked for, not found</Wd>, { until: "And the unconditioned gets no exemption" }],
+        ["Searched for, it is not found", 640, 520, <Wd c={CHALK} s={30}>searched for, not found</Wd>, { until: "And the unconditioned gets no exemption" }],
         ["It arises only in dependence", 1280, 520, <Wd c={TEAL} s={30}>arising only in dependence</Wd>, { until: "And the unconditioned gets no exemption" }],
       ]} />
       <At x={960} y={600} o={ramp(t, ex, 0.5)}><Wd c={VIOLET} s={32} serif>no exemption for the unconditioned</Wd></At>
-      <At x={960} y={680} o={ramp(t, q, 0.5)}><Wd c={DIM} s={26}>“if the conditioned is not established, how could the unconditioned be?” (MMK 7.33)</Wd></At>
-      {["space", "nirvana", "emptiness"].map((w, i) => (
+      <At x={960} y={680} o={ramp(t, q, 0.5)}><Wd c={DIM} s={26}>“since the conditioned is not established at all, how can the unconditioned be?” (MMK 7.33)</Wd></At>
+      {["space", "nirvāṇa", "emptiness"].map((w, i) => (
         <At key={w} x={620 + i * 340} y={780} s={pop(t, fps, last + i * 0.5)}><K c={ICE} s={26}>{w}: empty too</K></At>
       ))}
     </AbsoluteFill>
@@ -430,7 +458,7 @@ const AfterScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const a = c("This is what after anatta means");
-  const every = c("The seeing that found no self is turned on every phenomenon");
+  const every = c("The same seeing that found no self is turned on every phenomenon");
   return (
     <AbsoluteFill>
       <Title at={a} color={GOLD}>after anatta</Title>
@@ -438,6 +466,7 @@ const AfterScene: React.FC = () => {
       <Svg><DrawPath d="M760 420 L1120 420" p={ramp(t, every, 0.8)} color={GOLD} width={5} len={400} /></Svg>
       <At x={1380} y={420} o={ramp(t, every + 0.7, 0.5)}><K c={GOLD} s={32}>every phenomenon</K></At>
       <At x={960} y={600} o={ramp(t, every + 1.2, 0.5)}><Wd c={CHALK} s={32} serif>the same seeing, turned on every dharma</Wd></At>
+      <At x={960} y={700} o={ramp(t, c("Every dharma is vivid, and not found"), 0.5)}><Wd c={GOLD} s={34} serif>every dharma: vivid, and not found</Wd></At>
     </AbsoluteFill>
   );
 };
@@ -467,6 +496,7 @@ const OneScene: React.FC = () => {
       ]} />
       <At x={960} y={470} o={ramp(t, one, 0.8)}><Appearing size={240} /></At>
       <At x={960} y={700} o={ramp(t, one + 0.8, 0.5)}><Wd c={GOLD} s={34} serif>one appearing, seen from different sides</Wd></At>
+      <At x={960} y={780} o={ramp(t, c("until the habit of making it into things is seen through"), 0.5)}><Wd c={DIM} s={26}>until the habit of making it into things is seen through</Wd></At>
     </AbsoluteFill>
   );
 };
@@ -476,7 +506,7 @@ const LayersScene: React.FC = () => {
   const c = useCue();
   const two = c("We usually picture two layers");
   const bare = c("First a bare appearance");
-  const name = c("Then a name stuck on it");
+  const name = c("Then a name put on it");
   const dual = c("That picture is still dual");
   const none = c("There is no bare appearance underneath, waiting to be named");
   const itself = c("The appearing itself is the designation");
@@ -488,7 +518,7 @@ const LayersScene: React.FC = () => {
       <At x={960} y={330} o={ramp(t, name, 0.5) * (1 - ramp(t, itself, 0.6))}>
         <div style={{ position: "relative" }}>
           <div style={{ width: 520, height: 90, borderRadius: 10, border: `4px solid ${VIOLET}`, background: `${VIOLET}22`,
-            display: "flex", alignItems: "center", justifyContent: "center" }}><Glow color={CHALK} size={30}>a name, stuck on</Glow></div>
+            display: "flex", alignItems: "center", justifyContent: "center" }}><Glow color={CHALK} size={30}>a name, put on</Glow></div>
           <Strike at={c("Designation is not a label put on the appearing") + 0.6} />
         </div>
       </At>
@@ -525,7 +555,8 @@ const SingleScene: React.FC = () => {
         ["A baby does it", 640, 650, <K c={TEAL} s={26}>a baby</K>, { pop: true }],
         ["A bird does it", 960, 650, <K c={GREEN} s={26}>a bird</K>, { pop: true }],
         ["We do it long before any word", 1280, 650, <K c={VIOLET} s={26}>before any word</K>, { pop: true }],
-        ["Whatever appears is already a this", 960, 740, <Wd c={CHALK} s={30}>whatever appears is already a “this”</Wd>],
+        ["The Buddha's own word for it is recognising", 960, 740, <Wd c={TEAL} s={28}>the Buddha's word: recognising, picking out a mark (nimitta)</Wd>, { until: "Whatever appears is already a this" }],
+        ["Whatever appears is already a this", 960, 740, <Wd c={CHALK} s={30}>whatever appears is already a “this”</Wd>, { d: 0.4 }],
         ["So nothing appears undesignated", 960, 800, <Wd c={GOLD} s={32} serif>nothing appears undesignated</Wd>],
       ]} />
     </AbsoluteFill>
@@ -651,7 +682,8 @@ const RedScene: React.FC = () => {
         ["each by contrast with the other", 420, 740, <Wd c={CHALK} s={26}>each by contrast with the other</Wd>, { until: "Second, dependence" }],
         ["named together, neither prior", 420, 800, <Wd c={DIM} s={24}>seer and seen · long and short · here and there</Wd>, { until: "Second, dependence" }],
         ["first the cause, then the effect", 420, 740, <SK c={DIM} s={24} strikeAt={c("Here nothing waits") + 0.3}>first the cause, then the effect</SK>, { until: "Third, each colour is empty, and vivid, at the same moment" }],
-        ["all at once", 420, 800, <Wd c={GOLD} s={26}>in the appearing itself, all at once</Wd>, { until: "Third, each colour is empty, and vivid, at the same moment" }],
+        ["all at once", 420, 800, <Wd c={GOLD} s={26}>in the appearing itself, all at once</Wd>, { until: "This is the logic of the single stroke" }],
+        ["This is the logic of the single stroke", 420, 800, <Wd c={GOLD} s={26}>the logic of the single stroke</Wd>, { until: "Third, each colour is empty, and vivid, at the same moment" }],
         ["Blue has no blueness of its own", 420, 740, <Wd c={DIM} s={24}>no blueness of its own</Wd>, { until: "Fourth, nothing produced it" }],
         ["Yet the instant red is there", 420, 800, <Wd c={CHALK} s={26}>yet bright, the instant red is there</Wd>, { until: "Fourth, nothing produced it" }],
         ["Neither is the cause of the other", 420, 740, <SK c={DIM} s={24} strikeAt={c("Neither is the cause of the other") + 1.0}>red made blue appear</SK>, { until: "Fifth, it" }],
@@ -659,6 +691,7 @@ const RedScene: React.FC = () => {
         ["one big field of colour behind both", 420, 740, <SK c={VIOLET} s={24} strikeAt={c("Each is distinct and clear")}>one field of colour behind both</SK>, { until: "In short: appearing is relation from the start" }],
         ["They are neither one nor two", 420, 800, <Wd c={CHALK} s={26}>neither one nor two</Wd>, { until: "In short: appearing is relation from the start" }],
         ["In short: appearing is relation from the start", 960, 790, <Wd c={GOLD} s={36} serif>appearing is relation from the start: nothing first, nothing behind</Wd>],
+        ["And why the same appearing is complete by itself", 960, 850, <Wd c={CHALK} s={28}>so already empty, and complete by itself</Wd>],
       ]} />
     </AbsoluteFill>
   );
@@ -674,13 +707,14 @@ const ChainScene: React.FC = () => {
   const one = c("dependent arising, emptiness and dependent designation are one");
   const shows = c("It shows what appearing already is");
   const early = c("So singling out is not something done to an appearance that was there first");
+  const bare = c("refuses a bare particular, given before any designation", 1.2);
   return (
     <AbsoluteFill>
       <Title at={early}>nothing there first</Title>
       <Items items={[
         ["It is already dependence", 960, 210, <Wd c={TEAL} s={30}>already dependence</Wd>, { until: "Singling out is dependence" }],
         ["And dependence is already emptiness", 960, 270, <Wd c={VIOLET} s={30}>already emptiness</Wd>, { until: "Singling out is dependence" }],
-        ["Look for the this apart from its conditions, and it is not found", 960, 340, <Wd c={CHALK} s={28}>apart from its conditions: not found</Wd>, { until: "Singling out is dependence" }],
+        ["Look for the this apart from its conditions", 960, 340, <Wd c={CHALK} s={28}>apart from its conditions, in its parts or apart from them: not found</Wd>, { until: "Singling out is dependence" }],
       ]} />
       <At x={960} y={250} o={ramp(t, s1 - 0.2, 0.3)}><Reveal text="Singling out is dependence." at={s1} size={50} color={TEAL} speed={0.035} /></At>
       <At x={960} y={340} o={ramp(t, s2 - 0.2, 0.3)}><Reveal text="Dependence is emptiness." at={s2} size={50} color={VIOLET} speed={0.035} /></At>
@@ -694,7 +728,8 @@ const ChainScene: React.FC = () => {
         <At key={w} x={520 + i * 440} y={680} s={pop(t, fps, one + i * 0.5)}><K c={[TEAL, VIOLET, GOLD][i]} s={26}>{w}</K></At>
       ))}
       <At x={960} y={750} o={ramp(t, one + 1.8, 0.5)}><Wd c={CHALK} s={28}>one (MMK 24.18)</Wd></At>
-      <At x={960} y={810} o={ramp(t, shows, 0.5)}><Wd c={GOLD} s={30} serif>the logic shows what appearing already is</Wd></At>
+      <At x={960} y={810} o={ramp(t, shows, 0.5) * (1 - ramp(t, bare, 0.4))}><Wd c={GOLD} s={30} serif>the logic shows what appearing already is</Wd></At>
+      <At x={960} y={810} o={ramp(t, bare + 0.3, 0.5)}><SK c={DIM} s={26} strikeAt={c("No such bare given is found") + 0.4}>Candrakīrti: a bare particular, given before designation</SK></At>
     </AbsoluteFill>
   );
 };
@@ -749,17 +784,24 @@ const AppleScene: React.FC = () => {
         ["It arises when skin meets fruit", 480, 330, <Wd c={DIM} s={22}>skin · fingers · touch</Wd>],
         ["Press lightly and it is firm", 480, 390, <Wd c={CHALK} s={22}>lightly: firm</Wd>],
         ["Press with the thumb and it gives", 480, 440, <Wd c={CHALK} s={22}>the thumb: it gives</Wd>],
+        ["To a stone, it is soft", 480, 480, <Wd c={DIM} s={22}>to a stone: soft</Wd>],
         ["The coolness depends on the warmth of your hand", 480, 520, <K c={ICE} s={26}>coolness · your warm hand</K>, { pop: true }],
         ["The weight in your palm is a pull with the earth, met by your arm", 480, 610, <K c={TEAL} s={26}>weight · earth · arm</K>, { pop: true }],
         ["The red depends on light, on the skin of the fruit, and on the eye", 1440, 260, <K c={APPLE} s={28}>red</K>, { pop: true }],
         ["The red depends on light, on the skin of the fruit, and on the eye", 1440, 330, <Wd c={DIM} s={22}>light · skin · eye</Wd>, { d: 0.8 }],
         ["Under candlelight it turns orange", 1440, 390, <Wd c={WARM} s={22}>candlelight: orange</Wd>],
         ["At dusk it goes grey", 1440, 440, <Wd c={DIM} s={22}>dusk: grey</Wd>],
-        ["The scent needs the air and the breath", 1440, 520, <K c={GREEN} s={24}>scent · air · breath</K>, { pop: true }],
-        ["The crunch needs teeth and an ear", 1440, 590, <K c={GOLD} s={24}>crunch · teeth · ear</K>, { pop: true }],
+        ["A bee sees patterns you cannot", 1440, 480, <Wd c={GOLD} s={22}>a bee: patterns you cannot see</Wd>],
+        ["No red is found sitting on the apple apart from all this", 960, 230, <Wd c={CHALK} s={26}>no red found sitting on the apple</Wd>, { until: "The scent needs the air and the breath" }],
+        ["Yet it appears vividly, whenever its conditions come together", 960, 280, <Wd c={APPLE} s={26}>yet vivid, whenever its conditions meet</Wd>, { until: "The scent needs the air and the breath" }],
+        ["The scent needs the air and the breath", 1440, 530, <K c={GREEN} s={24}>scent · air · breath</K>, { pop: true }],
+        ["With a blocked nose there is none", 1720, 530, <Wd c={DIM} s={20}>blocked nose: none</Wd>],
+        ["The crunch needs teeth and an ear", 1440, 595, <K c={GOLD} s={24}>crunch · teeth · ear</K>, { pop: true }],
+        ["It was not waiting inside the apple", 1720, 595, <Wd c={DIM} s={20}>not waiting inside</Wd>],
         ["The sweetness needs the tongue", 1440, 660, <K c={ROSE} s={24}>sweetness · tongue</K>, { pop: true }],
         ["it is another apple", 1440, 720, <Wd c={DIM} s={22}>after brushing: another apple</Wd>],
-        ["Even the word apple comes with memory and language", 960, 800, <Wd c={VIOLET} s={28} serif>even “apple”: memory and language</Wd>],
+        ["Even the word apple comes with memory and language", 960, 770, <Wd c={VIOLET} s={28} serif>even “apple”: memory and language</Wd>],
+        ["The thought, this is an apple, is one more appearing", 960, 830, <Wd c={DIM} s={24}>“this is an apple”: one more appearing</Wd>],
       ]} />
     </AbsoluteFill>
   );
@@ -771,14 +813,18 @@ const KnotScene: React.FC = () => {
   const each = c("Each sense gives only its own appearing");
   const form = c("Mental formation, from the habits of the inherent framework, does the rest");
   const tie = c("It ties the appearings into one solid thing");
-  const out = c("puts it out there");
+  const out = c("It puts that thing out there");
   const me = c("and puts a me in here, holding it");
   const look = c("Look for the apple apart from its conditions, and it is not found");
   const holder = c("Look for the holder apart from the holding, and that is not found either");
-  const none = c("Nothing is missing");
-  const light = c("Untied, it is just this: vivid, and light");
+  const none = c("Nothing is lost");
+  const works = c("It works because it is dependently arisen");
+  const senses = c("The senses give appearings");
+  const untied = c("Untied, nothing is missing");
   const A: [string, string][] = [["this hardness", ROSE], ["this red", APPLE], ["this crunch", GOLD], ["this sweetness", GREEN]];
-  const knot = ramp(t, tie, 1.2) * (1 - ramp(t, none, 0.8));
+  // tied once by the habit, untied at "Nothing is lost"; tied and untied again in the summary
+  const knot = Math.max(ramp(t, tie, 1.2) * (1 - ramp(t, none, 0.8)),
+    ramp(t, c("The habit ties them into an apple out there"), 0.9) * (1 - ramp(t, untied, 0.8)));
   return (
     <AbsoluteFill>
       <Title at={each}>the knot</Title>
@@ -790,14 +836,92 @@ const KnotScene: React.FC = () => {
         <Wd c={DIM} s={26}>none gives an apple out there on its own</Wd>
       </At>
       <At x={960} y={180} o={ramp(t, form, 0.5) * (1 - ramp(t, none, 0.5))}><Wd c={WARM} s={26}>mental formation: the habit</Wd></At>
+      <At x={960} y={430} o={ramp(t, c("as if they all belonged to a hidden core"), 0.4) * (1 - ramp(t, look, 0.5))}>
+        <SK c={DIM} s={24} strikeAt={look + 0.6}>a hidden core</SK>
+      </At>
       <At x={1360} y={520} s={pop(t, fps, out)} o={1 - ramp(t, none, 0.5)}><SK c={WARM} s={28} strikeAt={look + 1.2}>an apple out there</SK></At>
       <At x={560} y={520} s={pop(t, fps, me)} o={1 - ramp(t, none, 0.5)}><SK c={WARM} s={28} strikeAt={holder + 1.4}>a “me” in here, holding</SK></At>
-      <At x={960} y={460} o={ramp(t, none, 0.6)} s={pop(t, fps, none)}><Apple size={180} /></At>
+      <At x={960} y={460} o={ramp(t, none, 0.6) * (1 - ramp(t, senses, 0.4))} s={pop(t, fps, none)}><Apple size={180} /></At>
       <Items items={[
-        ["You can still eat it, share it, and plant its seeds", 960, 640, <Wd c={GREEN} s={28}>eat it · share it · plant its seeds</Wd>],
-        ["Untied, it is just this: vivid, and light", 960, 760, <Wd c={GOLD} s={36} serif>untied: vivid, and light</Wd>],
+        ["You can still eat it, share it, and plant its seeds", 960, 640, <Wd c={GREEN} s={28}>eat it · share it · plant its seeds</Wd>, { until: "The senses give appearings" }],
+        ["It works because it is dependently arisen", 960, 710, <Wd c={TEAL} s={28}>it works because it is dependently arisen</Wd>, { until: "The senses give appearings" }],
+        ["could never ripen, or be bitten, or feed anyone", 960, 780, <SK c={DIM} s={24} strikeAt={works + 3.2}>an apple on its own, unchanging, unrelated</SK>, { until: "The senses give appearings" }],
+        ["The senses give appearings", 960, 640, <Wd c={CHALK} s={28}>the senses give appearings</Wd>],
+        ["The habit ties them into an apple out there", 960, 700, <Wd c={WARM} s={28}>the habit ties them</Wd>],
+        ["Untied, nothing is missing", 960, 770, <Wd c={GOLD} s={36} serif>untied: nothing missing, vivid, and light</Wd>],
       ]} />
-      <At x={960} y={460} o={ramp(t, light, 0.8) * 0.6}><Appearing size={260} o={0.35} /></At>
+      <At x={960} y={460} o={ramp(t, untied + 0.6, 0.8) * 0.6}><Appearing size={240} o={0.35} /></At>
+    </AbsoluteFill>
+  );
+};
+
+/** The same knot, told from the side of light (main site version 131): five aggregates; freed, five lights; grasped, they
+ * harden into a solid world and body; untied, display. The lights are never drawn as a stuff beneath: each glows from
+ * its own aggregate, and the aggregate stays in front. */
+const LIGHTS = [GOLD, ICE, ROSE, GREEN, VIOLET];
+const LightScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const told = c("The same knot can be told from the side of light");
+  const sk: [string, string, string][] = [
+    ["Form: the hardness, the red", "form", "the hardness, the red"],
+    ["Feeling: the sweetness is pleasant", "feeling", "the sweetness is pleasant"],
+    ["Perception: the shape recognised as apple", "perception", "“apple”, recognised"],
+    ["Formations", "formations", "the knot"],
+    ["And consciousness: touch, seeing, tasting, each its own stream, unmixed", "consciousness", "touch · seeing · tasting"],
+  ];
+  const knotIs = c("The knot is the aggregate of formations");
+  const freed = c("Each aggregate, freed, is one of five lights");
+  const grasp = c("Grasped as something standing over there");
+  const hard = ramp(t, c("the lights harden into solid elements, a solid world, and a solid body"), 1.0)
+    * (1 - ramp(t, c("Untied, the aggregates are seen as display"), 1.0));
+  const glow = ramp(t, freed, 0.8);
+  const display = c("Untied, the aggregates are seen as display");
+  const stuff = c("And the lights are not a stuff beneath the aggregates");
+  return (
+    <AbsoluteFill>
+      <Title at={told} color={GOLD}>the same knot, told from the side of light</Title>
+      {sk.map(([cue, name, ex], i) => {
+        const a = c(cue);
+        const col = LIGHTS[i];
+        const x = 300 + i * 330;
+        const isKnot = i === 3 && t > knotIs && t < freed;
+        return (
+          <At key={name} x={x} y={360} s={pop(t, fps, a)} o={ramp(t, a, 0.4)}>
+            <div style={{ width: 250, height: 170, borderRadius: hard > 0.3 ? 6 : 24,
+              border: `${hard > 0.3 ? 6 : 3}px solid ${hard > 0.3 ? DIM : col}`,
+              background: hard > 0.3 ? `#2a2730` : `radial-gradient(circle, ${col}${glow > 0.1 ? "55" : "18"}, ${col}08)`,
+              boxShadow: `0 0 ${(isKnot ? 30 : 0) + 60 * glow * (1 - hard)}px ${isKnot ? WARM : col}`,
+              display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 8 }}>
+              <Glow color={CHALK} size={30} serif>{name}</Glow>
+              <Glow color={hard > 0.3 ? DIM : col} size={20}>{ex}</Glow>
+            </div>
+          </At>
+        );
+      })}
+      <At x={960} y={200} o={ramp(t, c("The five aggregates are all here"), 0.4) * (1 - ramp(t, knotIs, 0.4))}><Wd c={CHALK} s={28}>the five aggregates, all here</Wd></At>
+      <At x={960} y={200} o={ramp(t, knotIs, 0.4) * (1 - ramp(t, c("tells the same movement from the side of light"), 0.4))}><Wd c={WARM} s={28}>the knot: the aggregate of formations</Wd></At>
+      <At x={960} y={200} o={ramp(t, c("tells the same movement from the side of light"), 0.4) * (1 - ramp(t, grasp, 0.4))}><Wd c={GOLD} s={28}>Dzogchen: freed, each aggregate is one of five lights</Wd></At>
+      <At x={960} y={200} o={ramp(t, grasp, 0.4) * (1 - ramp(t, display, 0.4))}><Wd c={DIM} s={28}>grasped as over there: hardened into a solid world, a solid body</Wd></At>
+      {["solid elements", "a solid world", "a solid body"].map((w, i) => (
+        <At key={w} x={560 + i * 400} y={560} o={ramp(t, grasp + 1.2 + i * 0.6, 0.4) * (1 - ramp(t, display, 0.5))}>
+          <SK c={DIM} s={26} strikeAt={display - 0.2 + i * 0.25}>{w}</SK>
+        </At>
+      ))}
+      <At x={960} y={640} o={ramp(t, c("is the grasping that hardens the lights"), 0.4) * (1 - ramp(t, display, 0.5))}>
+        <Wd c={WARM} s={26}>the habit that ties the apple = the grasping that hardens the lights</Wd>
+      </At>
+      <Items items={[
+        ["Untied, the aggregates are seen as display", 960, 570, <Wd c={GOLD} s={34} serif>untied: display</Wd>, { d: 0.7, until: "This is also what the rainbow body is, in essence" }],
+        ["many vivid streams of appearing", 960, 640, <Wd c={CHALK} s={26}>many vivid streams of appearing</Wd>, { until: "This is also what the rainbow body is, in essence" }],
+        ["with no core underneath, and no one holding them", 960, 700, <Wd c={DIM} s={26}>no core underneath, no one holding them</Wd>, { until: "This is also what the rainbow body is, in essence" }],
+        ["This is also what the rainbow body is, in essence", 960, 580, <Wd c={VIOLET} s={32} serif>the rainbow body, in essence</Wd>, { until: "And the lights are not a stuff beneath the aggregates" }],
+        ["A realization, not the body disappearing", 960, 650, <Wd c={CHALK} s={28}>a realization, not the body disappearing</Wd>, { until: "And the lights are not a stuff beneath the aggregates" }],
+      ]} />
+      <At x={960} y={590} o={ramp(t, stuff, 0.4)}><SK c={DIM} s={26} strikeAt={stuff + 1.6}>a stuff of light beneath the aggregates</SK></At>
+      <At x={960} y={690} o={ramp(t, c("They name the aggregates' own clarity, as empty as they are"), 0.5)}>
+        <Wd c={GOLD} s={32} serif>the aggregates' own clarity, as empty as they are</Wd>
+      </At>
     </AbsoluteFill>
   );
 };
@@ -811,6 +935,7 @@ const ClarityScene: React.FC = () => {
   const bg = c("a pure witness, a vast awareness, the background the world appears in");
   const own = c("But the clarity is the appearing's own");
   const end = c("Clear, knowing and empty, with no one knowing it, and no ground beneath it");
+  const steps = c("So when the steps say designation, hear it this way");
   return (
     <AbsoluteFill>
       <Title at={cl} color={GOLD}>the clarity</Title>
@@ -825,10 +950,14 @@ const ClarityScene: React.FC = () => {
         <At key={w} x={1440} y={510 + i * 70} o={ramp(t, bg + i * 0.7, 0.4)}><SK c={DIM} s={24} strikeAt={own + 0.8 + i * 0.3}>{w}</SK></At>
       ))}
       <Items items={[
-        ["It is not a light shining from behind", 960, 640, <Wd c={CHALK} s={28}>the appearing's own: no light from behind</Wd>],
-        ["looked for, it is not found apart from what appears", 960, 700, <Wd c={DIM} s={26}>not found apart from what appears</Wd>],
+        ["It is not a light shining from behind", 960, 640, <Wd c={CHALK} s={28}>the appearing's own: no light from behind</Wd>, { until: "So when the steps say designation, hear it this way" }],
+        ["searched for, it is not found apart from what appears", 960, 700, <Wd c={DIM} s={26}>not found apart from what appears</Wd>, { until: "So when the steps say designation, hear it this way" }],
+        ["The seeing is no different from the seen", 960, 750, <Wd c={ICE} s={26}>the seeing, no different from the seen</Wd>, { until: "So when the steps say designation, hear it this way" }],
+        ["So when the steps say designation, hear it this way", 960, 640, <Wd c={CHALK} s={28}>“designation”: this vivid, clear appearing</Wd>],
+        ["This vivid, clear appearing, singled out, dependent, and not found", 960, 700, <Wd c={TEAL} s={26}>singled out · dependent · not found</Wd>, { d: 1.2 }],
+        ["Awareness is not a second thing beside it", 960, 760, <SK c={DIM} s={24} strikeAt={c("Awareness is not a second thing beside it") + 1.2}>awareness, a second thing beside it</SK>],
       ]} />
-      <At x={960} y={790} o={ramp(t, end, 0.5)}><Wd c={GOLD} s={32} serif>clear, knowing, empty: no one knowing it, no ground</Wd></At>
+      <At x={960} y={810} o={ramp(t, end, 0.5) * (1 - ramp(t, steps, 0.4))}><Wd c={GOLD} s={32} serif>clear, knowing, empty: no one knowing it, no ground</Wd></At>
     </AbsoluteFill>
   );
 };
@@ -895,8 +1024,13 @@ const TryScene: React.FC = () => {
       ]} />
       <At x={560} y={730} o={ramp(t, left, 0.4)}><SK c={DIM} s={24} strikeAt={left + 1.8}>a sound left over</SK></At>
       <Items items={[
-        ["Pick up a piece of fruit", 960, 790, <Wd c={ROSE} s={26}>a piece of fruit: the senses one by one</Wd>, { until: "Then notice the clarity" }],
-        ["Then look for the fruit apart from them, and for the one holding it", 960, 845, <Wd c={DIM} s={22}>the fruit apart from them? the one holding?</Wd>, { until: "Then notice the clarity" }],
+        ["Pick up a piece of fruit", 960, 790, <Wd c={ROSE} s={26}>a piece of fruit: the senses one by one</Wd>, { until: "Look at your hand" }],
+        ["Then look for the fruit apart from them, and for the one holding it", 960, 845, <Wd c={DIM} s={22}>the fruit apart from them? the one holding?</Wd>, { until: "Look at your hand" }],
+        ["Look at your hand", 1380, 380, <Hand size={200} />, { until: "Then notice the clarity" }],
+        ["It is already a hand, singled out, vivid", 1380, 560, <Wd c={GOLD} s={26}>already “a hand”, singled out, vivid</Wd>, { until: "Then notice the clarity" }],
+        ["Look for a hand apart from its being singled out", 1380, 620, <Wd c={CHALK} s={24}>a hand apart from being singled out?</Wd>, { until: "Then notice the clarity" }],
+        ["Look for the one doing the singling out", 1380, 680, <Wd c={CHALK} s={24}>the one doing the singling out?</Wd>, { until: "Then notice the clarity" }],
+        ["Do not argue", 1380, 760, <Wd c={TEAL} s={28} serif>do not argue: just look</Wd>, { until: "Then notice the clarity" }],
       ]} />
       <At x={1380} y={400} o={ramp(t, cl, 0.6)}><Appearing size={170} /></At>
       <Items items={[
@@ -931,7 +1065,7 @@ export const Body: React.FC = () => {
     ["So first, what is a phenomenon", "search", <DefineScene />],
     ["The tradition sorts them in two", "web", <KindsScene />],
     ["The word comes from a root meaning to hold", "doubt", <HoldScene />],
-    ["Nagarjuna turned the search on the dharmas themselves", "search", <NagaScene />],
+    ["turned the search on the dharmas themselves", "search", <NagaScene />],
     ["This is what after anatta means", "whole", <AfterScene />],
     ["So the self is dharmas", "vivid", <OneScene />],
     ["Now the second point, and it is easy to miss", "doubt", <LayersScene />],
@@ -943,6 +1077,7 @@ export const Body: React.FC = () => {
     ["None of this makes the world thin", "sea", <MirrorScene />],
     ["Take something you can hold", "vivid", <AppleScene />],
     ["Each sense gives only its own appearing", "whole", <KnotScene />],
+    ["The same knot can be told from the side of light", "vivid", <LightScene />],
     ["Then the clarity", "vivid", <ClarityScene />],
     ["So the taste and the logic meet here", "whole", <MeetScene />],
     ["When you look at any phenomenon, what it actually is, is just this", "open", <WhatScene />],
