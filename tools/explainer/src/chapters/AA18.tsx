@@ -408,7 +408,7 @@ const BasketScene: React.FC = () => {
         ["Then comes the clear light", 1350, 340, <K c={GOLD} s={26}>clear light</K>, { until: "It is easy to picture this as a lamp under a basket" }],
       ]} />
       <At x={960} y={460} o={ramp(t, basket, 0.6) * bOut}><Lamp /></At>
-      <At x={960} y={400 - 300 * off} o={ramp(t, basket + 0.6, 0.5) * bOut}>
+      <At x={960} y={420 - 110 * off} o={ramp(t, basket + 0.6, 0.5) * bOut * (1 - ramp(t, lift + 1.2, 1.0))}>
         <div style={{ position: "relative" }}>
           <svg width={320} height={260} viewBox="0 0 320 260" style={{ overflow: "visible" }}>
             <path d="M40 250 L80 20 L240 20 L280 250 Z" fill="rgba(30,25,20,0.9)" stroke={DIM} strokeWidth={5} />
