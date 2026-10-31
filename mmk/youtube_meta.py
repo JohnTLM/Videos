@@ -16,7 +16,9 @@ HERE = Path(__file__).resolve().parent
 # The chapter pages live in the website repository (thusness-website). By default it sits next to this one
 # (C:\dev\videos beside C:\dev\thusness-website); set THUSNESS_WEBSITE to its folder if it is elsewhere.
 MMK = Path(os.environ.get("THUSNESS_WEBSITE") or HERE.parent.parent / "thusness-website") / "mmk"
-SITE = "https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ"
+SITE = "https://atr-passerby.com"   # the only website since 2026-10-30
+# Each chapter's readable address, fixed in thusness-website scripts/page_addresses.json.
+ADDRESSES = json.loads((MMK.parent / "scripts" / "page_addresses.json").read_text(encoding="utf8"))
 SERIES = "Nāgārjuna's Middle Way: the MMK chapter by chapter"
 TAGS = ["Nagarjuna", "Mulamadhyamakakarika", "MMK", "Madhyamaka", "Middle Way", "emptiness", "dependent arising",
         "Buddhist philosophy", "Thusness", "John Tan"]
@@ -52,7 +54,7 @@ def chapter(n, work):
     desc = "\n".join([
         opening, "",
         *[f"{stamp(a)} {b}" for a, b in marks], "",
-        f"Read the chapter, with every verse in Sanskrit and in a new English translation: {SITE}#mmk-{n}", "",
+        f"Read the chapter, with every verse in Sanskrit and in a new English translation: {SITE}/{ADDRESSES[f'mmk-{n}']}/", "",
         f"Part of the series \"{SERIES}\" (Mūlamadhyamakakārikā), by John Tan (Thusness).",
         "The verse numbers follow the GRETIL Sanskrit e-text (CC BY-NC-SA 4.0). Narration: synthetic voice.",
     ])
