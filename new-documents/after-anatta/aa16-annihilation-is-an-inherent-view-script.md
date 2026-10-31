@@ -65,3 +65,5 @@ If it was never found standing by itself, what is it that has been annihilated? 
 In brief. Eternalism says the thing stays. Annihilation says the thing is destroyed. Both assume a thing with its own nature. Seen with dependency, nothing self-standing comes, and nothing self-standing goes.
 
 Annihilation is the inherent view looking backwards. It needs something to have been there from its own side, in order to lose it.
+
+This is one point, seen from three sides. Neither Carried Nor Cut looks at it in your own six streams, from moment to moment. One Flame Lights Another looks at it from life to life. Here it is seen from the side of the ending. Each time the same thing falls away: something there from its own side, to be carried, or to be cut off.
