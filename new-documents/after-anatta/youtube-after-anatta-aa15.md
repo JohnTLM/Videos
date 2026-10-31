@@ -2,8 +2,7 @@
 
 The video for The Logic page *Neither Carried Nor Cut* (thusness-website `aa-continuity`, on atr-passerby.com since
 2026-10-30). Made in a cloud session and sent to the owner, who uploads it to YouTube as **Unlisted**, like the other
-After Anatta videos. The server then puts these texts on the upload (`publish_youtube.py update … --entry 1 --playlist
-"Logic After Anatta"`).
+After Anatta videos. The server then puts these texts on the upload (`publish_youtube.py update … --entry 1 --playlist PLPlnPvDUj6mE`).
 
 Tags shared by every video (the block below adds its own at the front):
 `after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
