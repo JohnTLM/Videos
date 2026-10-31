@@ -841,7 +841,7 @@ const LabelScene: React.FC = () => {
         ["Naming here is picking something out as", 1360, 480, <Tree size={170} glow={0.9} />, { pop: true }],
         ["Naming here is picking something out as", 1360, 640, <W c={GOLD} s={34} serif>“this”</W>, { d: 1.4 }],
         ["in the appearing itself, before any words", 1360, 710, <W c={CHALK} s={24}>in the appearing itself, before any words</W>],
-        ["There is nothing bare underneath it", 960, 800, <SK c={DIM} s={24} strikeAt={c("There is nothing bare underneath it") + 1.2}>something bare underneath</SK>, { pop: true }],
+        ["There is nothing bare underneath it", 960, 800, <SK c={DIM} s={24} strikeAt={c("There is nothing bare underneath it") + 0.4}>something bare underneath</SK>, { pop: true }],
       ]} />
       <Svg>
         <circle cx={1360} cy={480} r={120} fill="none" stroke={GOLD} strokeWidth={4} strokeDasharray="10 8" opacity={ramp(t, pick + 0.8, 0.6) * 0.8} />
