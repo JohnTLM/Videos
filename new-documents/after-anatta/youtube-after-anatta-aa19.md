@@ -10,7 +10,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ---
 
-## 1. Causal Efficacy Without Causal Power (AA19, 13:39)
+## 1. Causal Efficacy Without Causal Power (AA19, 13:41)
 
 ### Title
 
@@ -36,9 +36,9 @@ Is this orthodox? Checked against Nāgārjuna's Middle Way (chapters 1 and 20), 
 7:51 A capacity that works; not Hume
 8:39 Karma and the mere I
 9:58 Neither carried nor cut: the missing gap
-10:53 Beyond cause and effect; Mipham
-12:09 How it is seen through
-13:19 Try it
+10:55 Beyond cause and effect; Mipham
+12:11 How it is seen through
+13:20 Try it
 
 Read the page: https://atr-passerby.com/causal-efficacy-without-causal-power/
 
