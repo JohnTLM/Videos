@@ -60,7 +60,7 @@ Two Modes, One Seeing: Dependent Arising and Spontaneous Presence | Thusness
 
 On dependent arising, spontaneous presence, and the recognition that frees the mind from its own fixing.
 
-Two ways of seeing the same appearing: tracing its conditions, and its vivid, effortless presence. They are not two realities, and neither puts a new ground in place of the self it removes. The flow knows itself, like a lamp lighting itself.
+Two ways of seeing the same appearing: tracing its conditions, and its vivid, effortless presence. They are not two realities, and neither puts a new ground in place of the self it removes. The flow is its own clarity: nothing lights it up, not another and not itself.
 
 Read the page: https://atr-passerby.com/two-modes-one-seeing/
 
