@@ -72,7 +72,7 @@ Here is why. Tsongkhapa himself rejects a mind that knows itself, even in the wo
 
 So I keep the phrase "neither carried nor cut". Nothing is carried across, and nothing is cut off. It is not meant as a better theory. It is meant to make you face something.
 
-It leaves the mind uneasy. Something seems to be missing between the act and its fruit. Do not answer that feeling. Look at it, again and again, until you see what it is. The gap is felt only because the habit of seeing things as existing in themselves needs something to be there. Analysis shows, every time, that no bridge can be found. Moment-to-moment experience never meets one. And still the feeling returns. That shows how hypnotic ignorance is, and how strong its power to blind.
+It leaves the mind uneasy. Something seems to be missing between the act and its fruit. Do not answer that feeling. Look at it, again and again, until you see what it is. The gap is felt only because the habit of seeing things as existing in themselves needs something to be there. Analysis shows, every time, that no bridge can be found. Moment-to-moment experience never meets one. And still the feeling returns. That shows how deep the habit of confused seeing runs, though no power to blind is ever found.
 
 And when the dismantling has nowhere left to go, no bridge, and no break either, then with nothing left to link, nothing is missing.
 
