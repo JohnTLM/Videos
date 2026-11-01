@@ -433,7 +433,7 @@ const ProduceScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Items items={[
-        ["Then see what this does to causation", 960, 130, <Wd c={CHALK} s={36} serif>what this does to causation</Wd>],
+        ["Then see what this does to causation", 960, 130, <Wd c={CHALK} s={36} serif>what this does to causation</Wd>, { until: "Two wrong ways to hear this" }],
         ["said to produce itself", 960, 240,
           <SK strikeAt={c("The picture of production has nothing left to stand on")} c={GOLD} s={28}>"the conditions produce the appearing"</SK>, { until: "Two wrong ways to hear this" }],
         ["said to produce itself", 960, 330, <Wd c={DIM} s={26}>= the appearing, divided, producing itself</Wd>, { d: 0.4, until: "Two wrong ways to hear this" }],

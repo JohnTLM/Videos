@@ -3,15 +3,14 @@
 The video for the page *Causal Efficacy Without Causal Power* (thusness-website `aa-causal-efficacy`, a zoom-in of the
 exploration *Cause and Effect*; EBooks `Bonus Articles/causal-efficacy-without-causal-power`). Made in a cloud session and
 sent to the owner, who uploads it to YouTube as **Unlisted**, like the other After Anatta videos. The server then puts these
-texts on the upload (`publish_youtube.py update … --entry 1 --playlist PLPlnPvDUj6mE`) and fills in the chapter times below
-if they have moved.
+texts on the upload (`publish_youtube.py update … --entry 1 --playlist PLPlnPvDUj6mE`). The chapter times come from the build's subtitles.
 
 Tags shared by every video (the block below adds its own at the front):
 `after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
 
 ---
 
-## 1. Causal Efficacy Without Causal Power (AA19, about 14 minutes)
+## 1. Causal Efficacy Without Causal Power (AA19, 13:39)
 
 ### Title
 
@@ -26,20 +25,20 @@ The habit of picturing a power in the cause is the same habit that builds a self
 Is this orthodox? Checked against Nāgārjuna's Middle Way (chapters 1 and 20), Candrakīrti and Tsongkhapa's "able to perform a function", and why it is not Hume. Then karma across time: the mere I kept as the person the world speaks of, but not as a bridge; "neither carried nor cut", and the uneasy feeling of a missing gap, looked at until it is seen through. Last, Dzogchen's "beyond cause and effect", where I part from some readings, and how my view stands with Mipham.
 
 0:00 A match, a flat loaf
-0:00 The doer behind the causing
-0:00 Causes work; no power is found
-0:00 The key and the lock
-0:00 Three senses of "cause"
-0:00 A thing with its own nature could not act
-0:00 Conditions are the appearing
-0:00 The loaf cut four ways
-0:00 Is it orthodox? MMK 1 and 20
-0:00 A capacity that works; not Hume
-0:00 Karma and the mere I
-0:00 Neither carried nor cut: the missing gap
-0:00 Beyond cause and effect; Mipham
-0:00 How it is seen through
-0:00 Try it
+0:32 The doer behind the causing
+1:15 Causes work; no power is found
+1:45 The key and the lock
+2:17 Three senses of "cause"
+2:50 A thing with its own nature could not act
+3:32 Conditions are the appearing
+4:10 The loaf cut four ways
+6:04 Is it orthodox? MMK 1 and 20
+7:51 A capacity that works; not Hume
+8:39 Karma and the mere I
+9:58 Neither carried nor cut: the missing gap
+10:53 Beyond cause and effect; Mipham
+12:09 How it is seen through
+13:19 Try it
 
 Read the page: https://atr-passerby.com/causal-efficacy-without-causal-power/
 
