@@ -80,7 +80,7 @@ export const PHRASES = [
   "It leaves the mind uneasy", "Something seems to be missing between the act and its fruit", "Do not answer that feeling",
   "Look at it, again and again", "The gap is felt only because the habit",
   "Analysis shows, every time, that no bridge can be found", "experience never meets one", "And still the feeling returns",
-  "how hypnotic ignorance is", "how strong its power to blind", "no bridge, and no break either",
+  "how deep the habit of confused seeing runs", "though no power to blind is ever found", "no bridge, and no break either",
   "with nothing left to link, nothing is missing",
   // beyond cause and effect
   "That is where you can glimpse", "I do not read it as a place where causes stop working",
@@ -561,7 +561,7 @@ const GapScene: React.FC = () => {
         ["Analysis shows, every time, that no bridge can be found", 600, 770, <K c={TEAL} s={22}>analysis: no bridge found</K>, { until: "with nothing left to link, nothing is missing" }],
         ["experience never meets one", 1320, 770, <K c={TEAL} s={22}>experience: never meets one</K>, { until: "with nothing left to link, nothing is missing" }],
         ["And still the feeling returns", 960, 310, <Wd c={ROSE} s={30}>still the feeling returns</Wd>, { until: "with nothing left to link, nothing is missing" }],
-        ["how hypnotic ignorance is", 960, 830, <Wd c={GOLD} s={28}>how hypnotic ignorance is · how strong its power to blind</Wd>, { until: "with nothing left to link, nothing is missing" }],
+        ["how deep the habit of confused seeing runs", 960, 830, <Wd c={GOLD} s={28}>a deep habit of confused seeing · no power to blind is found</Wd>, { until: "with nothing left to link, nothing is missing" }],
         ["no bridge, and no break either", 960, 310, <Wd c={CHALK} s={30}>no bridge, and no break</Wd>, { until: "with nothing left to link, nothing is missing", ud: 1 }],
         ["with nothing left to link, nothing is missing", 960, 460, <Wd c={TEAL} s={48} serif>Nothing left to link. Nothing missing.</Wd>],
       ]} />
