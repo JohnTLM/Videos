@@ -12,7 +12,7 @@ import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
   At, Background, Bokeh, Chip, CHALK, DIM, Flow, GOLD, Glow, GREEN, ICE, Mood, ROSE, Reveal, Ring,
-  Scene, Strike, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
+  Scene, Snowflake, Strike, Sun, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
 } from "../lib";
 
 // Copied verbatim from the script, in narration order. No respelled or hyphenated words inside.
@@ -72,7 +72,28 @@ export const PHRASES = [
   // karma and the mere I
   "Now the hardest part", "An action ceases", "How does its fruit come years later", "is itself a functioning thing",
   "And its imprints are said to rest on the mere I", "I keep the mere I as the person the world speaks of",
-  "I did it, and I will meet the result", "What I refuse is the mere I as a bridge", "Here is why",
+  "I did it, and I will meet the result", "What I refuse is the mere I as a bridge",
+  // a bridge only passes the problem on
+  "First, a bridge does not explain", "It only passes the problem on", "close to",
+  "Once we start adding a layer to explain karma", "there is no end to it", "Ask of any carrier",
+  "If it lasts, it cannot take in changing imprints", "If it changes, each of its own moments has to get to the next",
+  "and that needs another carrier", "And so on", "having-ceased is momentary too", "a continuum that runs until the fruit",
+  "then the action's own sequence needs no link either", "Nothing has been added",
+  "Where does the need for a bridge come from", "From the habit of the inherent framework",
+  "moments taken as things standing on their own", "Experiential reality is never like that",
+  "offers no other way across", "It denies both", "that the act travels to the fruit",
+  "and that the act ends in nothing before the fruit comes", "It puts nothing in their place",
+  "That the fruit follows the act was never a riddle", "Rice still comes from rice seed",
+  "Only the demand for a bridge has to go",
+  // firewood and ash, winter and spring
+  "says it from the other side", "Firewood burns to ash, and ash does not turn back into firewood",
+  "Yet do not think of firewood as before and ash as after", "We do not say winter becomes spring",
+  "Winter is wholly winter, spring wholly spring", "and no winter-stuff crosses over", "Firewood stays in its own place",
+  "ash in its own place, fully ash", "Before and after are cut off", "but this is not the cut of annihilation",
+  "nothing that existed was destroyed into nothing", "And the order holds", "never the other way round",
+  "Nothing travels, so nothing is carried", "Nothing falls into nothing, so nothing is cut",
+  "And the fruit still follows the act",
+  "There is a second reason",
   "rejects a mind that knows itself", "It was posited to explain memory", "it does the same job", "It fills the gap",
   "so the person stays", "Only the bridge goes", "No one in the world knows of it",
   // the gap
@@ -97,6 +118,21 @@ export const PHRASES = [
   "Yet the words can be apologised for", "This is where the insight matters most",
   "Suffering is kept going by conditions that can change", "When this is seen", "Conditions matter more, not less",
   "Mind and matter lose their weight", "light, magical and plastic",
+  // why it never arises in seeing
+  "Why does this problem never come up in seeing", "In the seen, just the seen", "Not because experience answers it",
+  "The question needs a split that is not there", "It needs two things standing on their own",
+  "In seeing, neither is found", "Each instant is complete", "The seeing is wholly seeing, the sound wholly sound",
+  "It needs someone outside, looking", "That place is the observer", "there is no seer behind the seeing",
+  "and in the same move no causer behind the causing", "And it needs time as something on its own",
+  "Past and future are never met as places", "Remembering is this appearing, now",
+  "So the gap is never found in looking", "It comes in when thought lines the instants up",
+  "Without that framework, it is one complete stroke", "This is not a oneness",
+  "seeing is seeing, hearing is hearing", "with no pure consciousness behind them", "And it is not a state to keep up",
+  "Maintenance is the split", "Clarity is never absent", "it is only not abstracted out",
+  // try it with the gap
+  "Try it with the gap", "Recall something you did years ago", "Notice the feeling of a missing gap",
+  "Look at that feeling", "Is the gap found anywhere", "Stay with it until the asking loosens",
+  "The act still bore its fruit", "And one more",
   // try it
   "Turn on a tap", "Look for the moment the tap makes the water flow", "Then look for the flowing apart from the tap",
   "Neither is found", "And the water still flows",
@@ -507,7 +543,6 @@ const KarmaScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const bridge = c("What I refuse is the mere I as a bridge");
-  const goes = c("Only the bridge goes");
   return (
     <AbsoluteFill>
       <Items items={[
@@ -519,14 +554,124 @@ const KarmaScene: React.FC = () => {
         ["I keep the mere I as the person the world speaks of", 960, 320, <K c={TEAL}>the mere I: the person the world speaks of</K>],
         ["I did it, and I will meet the result", 960, 400, <Wd c={TEAL} s={28}>"I did it, and I will meet the result"</Wd>],
       ]} />
-      <At x={960} y={600} o={ramp(t, bridge, 0.6)}><Bridge gone={ramp(t, goes, 1.2)} /></At>
+      <At x={960} y={620} o={ramp(t, bridge, 0.6)}><Bridge /></At>
       <Items items={[
-        ["What I refuse is the mere I as a bridge", 960, 500, <SK strikeAt={goes} c={GOLD} s={26}>the mere I as a bridge for karma</SK>],
-        ["rejects a mind that knows itself", 960, 760, <Wd c={DIM} s={26}>a mind that knows itself: posited to fill a gap</Wd>, { until: "It fills the gap", ud: 1 }],
-        ["It was posited to explain memory", 960, 820, <Wd c={DIM} s={24}>(to explain memory)</Wd>, { until: "It fills the gap", ud: 1 }],
-        ["it does the same job", 960, 760, <Wd c={ROSE} s={28}>the bridge does the same job: it fills the gap</Wd>, { d: 2, until: "Only the bridge goes" }],
-        ["so the person stays", 600, 820, <K c={TEAL} s={24}>the person stays</K>],
-        ["Only the bridge goes", 1320, 820, <K c={GOLD} s={24}>only the bridge goes</K>],
+        ["What I refuse is the mere I as a bridge", 960, 500, <K c={GOLD} s={26}>refused: the mere I as a bridge for karma</K>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+/** A chain of carriers, each needing the next. `n` (0..1) reveals them. */
+const Carriers: React.FC<{ n: number }> = ({ n }) => (
+  <svg width={1300} height={120} viewBox="0 0 1300 120" style={{ overflow: "visible" }}>
+    {[0, 1, 2, 3].map((k) => (
+      <g key={k} opacity={Math.max(0, Math.min(1, n * 4 - k))}>
+        <rect x={k * 330} y={30} width={220} height={60} rx={12} fill="rgba(228,194,122,0.1)" stroke={GOLD} strokeWidth={4} />
+        <text x={k * 330 + 110} y={70} fill={GOLD} fontSize={26} textAnchor="middle" fontFamily="SourceSans">carrier</text>
+        {k < 3 && <text x={k * 330 + 275} y={72} fill={ROSE} fontSize={34} textAnchor="middle" fontFamily="SourceSans">?</text>}
+      </g>
+    ))}
+  </svg>
+);
+
+const RegressScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const chain = c("If it changes, each of its own moments has to get to the next");
+  const where = c("Where does the need for a bridge come from");
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["First, a bridge does not explain", 960, 120, <Wd c={GOLD} s={42} serif>a bridge does not explain</Wd>, { until: "Where does the need for a bridge come from" }],
+        ["It only passes the problem on", 960, 210, <Wd c={CHALK} s={30}>it only passes the problem on</Wd>, { until: "Where does the need for a bridge come from" }],
+        ["close to", 960, 290, <K c={VIOLET} s={24}>close to the refusal of the storehouse consciousness</K>, { until: "Ask of any carrier" }],
+        ["there is no end to it", 960, 370, <Wd c={ROSE} s={28}>add a layer: no end to it</Wd>, { until: "Ask of any carrier" }],
+        ["Ask of any carrier", 960, 300, <Wd c={CHALK} s={30}>ask of any carrier: does it last, or does it change?</Wd>, { until: "having-ceased is momentary too" }],
+        ["If it lasts, it cannot take in changing imprints", 600, 390, <K c={DIM} s={22}>lasts: cannot take in changing imprints</K>, { until: "having-ceased is momentary too" }],
+        ["If it changes, each of its own moments has to get to the next", 1320, 390, <K c={DIM} s={22}>changes: its moments need a carrier too</K>, { until: "having-ceased is momentary too" }],
+        ["having-ceased is momentary too", 960, 300, <Wd c={CHALK} s={28}>the having-ceased: momentary too, a continuum</Wd>, { until: "Where does the need for a bridge come from" }],
+        ["then the action's own sequence needs no link either", 960, 390, <K c={TEAL} s={24}>if its moments need no link, the act's sequence needs none</K>, { until: "Where does the need for a bridge come from" }],
+        ["Nothing has been added", 960, 470, <Wd c={GOLD} s={30}>nothing has been added</Wd>, { until: "Where does the need for a bridge come from" }],
+      ]} />
+      <At x={960} y={620} o={ramp(t, chain, 0.5) * (1 - ramp(t, where, 0.6))}><Carriers n={ramp(t, chain, 5)} /></At>
+      <Items items={[
+        ["Where does the need for a bridge come from", 960, 120, <Wd c={CHALK} s={38} serif>where the need for a bridge comes from</Wd>],
+        ["From the habit of the inherent framework", 960, 210, <K c={ROSE} s={26}>the habit of the inherent framework</K>],
+        ["moments taken as things standing on their own", 960, 290, <Wd c={DIM} s={26}>moments taken as standing on their own, a gap between</Wd>],
+        ["Experiential reality is never like that", 960, 370, <Wd c={TEAL} s={34} serif>Experiential reality is never like that.</Wd>],
+        ["that the act travels to the fruit", 600, 480, <SK strikeAt={c("It puts nothing in their place")} c={GOLD} s={24}>the act travels to the fruit</SK>],
+        ["and that the act ends in nothing before the fruit comes", 1320, 480, <SK strikeAt={c("It puts nothing in their place") + 0.3} c={VIOLET} s={24}>the act ends in nothing</SK>],
+        ["It puts nothing in their place", 960, 580, <Wd c={CHALK} s={30}>and nothing is put in their place</Wd>],
+        ["That the fruit follows the act was never a riddle", 960, 670, <K c={TEAL} s={26}>the fruit follows the act: never a riddle</K>],
+        ["Rice still comes from rice seed", 960, 750, <Wd c={GREEN} s={28}>rice still comes from rice seed</Wd>],
+        ["Only the demand for a bridge has to go", 960, 830, <Wd c={GOLD} s={30}>only the demand for a bridge goes</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+/** Firewood and ash, each in its own place. */
+const Firewood: React.FC = () => (
+  <svg width={260} height={160} viewBox="0 0 260 160" style={{ overflow: "visible" }}>
+    {[0, 1, 2].map((k) => <rect key={k} x={20 + k * 12} y={40 + k * 34} width={220} height={28} rx={14} fill="rgba(228,194,122,0.2)" stroke={WARM} strokeWidth={4} />)}
+  </svg>
+);
+const Ash: React.FC = () => (
+  <svg width={260} height={160} viewBox="0 0 260 160" style={{ overflow: "visible" }}>
+    <path d="M20 140 Q130 60 240 140 Z" fill="rgba(200,200,210,0.18)" stroke={DIM} strokeWidth={4} />
+  </svg>
+);
+
+const DogenScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const wood = c("Firewood burns to ash, and ash does not turn back into firewood");
+  const season = c("We do not say winter becomes spring");
+  const back = c("Firewood stays in its own place");
+  const show1 = ramp(t, wood, 0.6) * (1 - ramp(t, season, 0.5)) + ramp(t, back, 0.6);
+  const show2 = ramp(t, season, 0.6) * (1 - ramp(t, back, 0.5));
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["says it from the other side", 960, 110, <Wd c={CHALK} s={38} serif>firewood and ash</Wd>],
+      ]} />
+      <At x={600} y={330} o={show1}><Firewood /></At>
+      <At x={1320} y={330} o={show1}><Ash /></At>
+      <At x={600} y={330} o={show2}><Snowflake size={140} rot={t * 6} /></At>
+      <At x={1320} y={330} o={show2}><Sun size={140} rot={t * 6} /></At>
+      <Items items={[
+        ["Yet do not think of firewood as before and ash as after", 960, 470, <SK strikeAt={c("We do not say winter becomes spring")} c={DIM} s={24}>firewood "before", ash "after"</SK>, { until: "We do not say winter becomes spring" }],
+        ["Winter is wholly winter, spring wholly spring", 960, 470, <Wd c={ICE} s={30}>winter wholly winter · spring wholly spring</Wd>, { until: "Firewood stays in its own place" }],
+        ["and no winter-stuff crosses over", 960, 550, <SK strikeAt={c("and no winter-stuff crosses over") + 1} c={DIM} s={24}>winter-stuff crossing over</SK>, { until: "Firewood stays in its own place" }],
+        ["Firewood stays in its own place", 600, 470, <K c={WARM} s={24}>fully firewood, in its place</K>],
+        ["ash in its own place, fully ash", 1320, 470, <K c={DIM} s={24}>fully ash, in its place</K>],
+        ["Before and after are cut off", 960, 570, <Wd c={CHALK} s={28}>before and after cut off</Wd>],
+        ["but this is not the cut of annihilation", 960, 640, <Wd c={TEAL} s={26}>not annihilation: nothing destroyed into nothing</Wd>],
+        ["And the order holds", 960, 710, <K c={GOLD} s={24}>the order holds: firewood to ash, never back</K>],
+        ["Nothing travels, so nothing is carried", 600, 800, <Wd c={GOLD} s={28}>nothing carried</Wd>],
+        ["Nothing falls into nothing, so nothing is cut", 1320, 800, <Wd c={VIOLET} s={28}>nothing cut</Wd>],
+        ["And the fruit still follows the act", 960, 860, <Wd c={TEAL} s={30} serif>and the fruit still follows the act</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const Karma2Scene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const goes = c("Only the bridge goes");
+  return (
+    <AbsoluteFill>
+      <Items items={[["There is a second reason", 960, 110, <Wd c={CHALK} s={36} serif>a second reason</Wd>]]} />
+      <At x={960} y={420}><Bridge gone={ramp(t, goes, 1.2)} /></At>
+      <Items items={[
+        ["There is a second reason", 960, 240, <SK strikeAt={goes} c={GOLD} s={26}>the mere I as a bridge for karma</SK>],
+        ["rejects a mind that knows itself", 960, 640, <Wd c={DIM} s={26}>a mind that knows itself: posited to fill a gap</Wd>, { until: "It fills the gap", ud: 1 }],
+        ["It was posited to explain memory", 960, 700, <Wd c={DIM} s={24}>(to explain memory)</Wd>, { until: "It fills the gap", ud: 1 }],
+        ["it does the same job", 960, 640, <Wd c={ROSE} s={28}>the bridge does the same job: it fills the gap</Wd>, { d: 2, until: "Only the bridge goes" }],
+        ["so the person stays", 600, 760, <K c={TEAL} s={24}>the person stays</K>],
+        ["Only the bridge goes", 1320, 760, <K c={GOLD} s={24}>only the bridge goes</K>],
       ]} />
     </AbsoluteFill>
   );
@@ -630,6 +775,68 @@ const SeeScene: React.FC = () => {
   );
 };
 
+const SeeingScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const two = c("It needs two things standing on their own");
+  const complete = c("Each instant is complete");
+  const outside = c("It needs someone outside, looking");
+  const time = c("And it needs time as something on its own");
+  const sum = c("So the gap is never found in looking");
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["Why does this problem never come up in seeing", 960, 110, <Wd c={CHALK} s={38} serif>why it never arises in seeing</Wd>],
+        ["In the seen, just the seen", 960, 200, <Wd c={TEAL} s={30}>in the seen, just the seen</Wd>, { until: "It needs two things standing on their own" }],
+        ["The question needs a split that is not there", 960, 290, <K c={GOLD} s={26}>the question needs a split that is not there</K>, { until: "It needs two things standing on their own" }],
+      ]} />
+      <At x={960} y={360} o={ramp(t, two, 0.5) * (1 - ramp(t, outside, 0.5))}>
+        <svg width={760} height={120} viewBox="0 0 760 120" style={{ overflow: "visible" }}>
+          <rect x={0} y={30} width={220} height={60} rx={12} fill="none" stroke={VIOLET} strokeWidth={5} />
+          <rect x={540} y={30} width={220} height={60} rx={12} fill="none" stroke={GREEN} strokeWidth={5} />
+          <text x={110} y={70} fill={VIOLET} fontSize={28} textAnchor="middle" fontFamily="SourceSans">before</text>
+          <text x={650} y={70} fill={GREEN} fontSize={28} textAnchor="middle" fontFamily="SourceSans">after</text>
+          <text x={380} y={72} fill={ROSE} fontSize={30} textAnchor="middle" fontFamily="SourceSans" opacity={1 - ramp(t, complete, 0.8)}>gap</text>
+        </svg>
+      </At>
+      <Items items={[
+        ["In seeing, neither is found", 960, 480, <Wd c={CHALK} s={28}>in seeing, neither is found</Wd>, { until: "It needs someone outside, looking" }],
+        ["Each instant is complete", 960, 560, <Wd c={GOLD} s={36} serif>each instant is complete</Wd>, { until: "It needs someone outside, looking" }],
+        ["It needs someone outside, looking", 960, 300, <SK strikeAt={c("there is no seer behind the seeing")} c={DIM} s={26}>an observer outside both moments</SK>, { until: "And it needs time as something on its own" }],
+        ["there is no seer behind the seeing", 600, 420, <K c={TEAL} s={24}>no seer behind the seeing</K>, { until: "And it needs time as something on its own" }],
+        ["and in the same move no causer behind the causing", 1320, 420, <K c={TEAL} s={24}>no causer behind the causing</K>, { until: "And it needs time as something on its own" }],
+        ["And it needs time as something on its own", 960, 300, <SK strikeAt={c("Past and future are never met as places")} c={DIM} s={26}>time as a line the moments sit on</SK>, { until: "So the gap is never found in looking" }],
+        ["Remembering is this appearing, now", 960, 420, <K c={TEAL} s={24}>remembering: this appearing, now</K>, { until: "So the gap is never found in looking" }],
+        ["So the gap is never found in looking", 960, 230, <Wd c={CHALK} s={32}>the gap is never found in looking</Wd>],
+        ["It comes in when thought lines the instants up", 960, 320, <Wd c={DIM} s={26}>it comes in when thought lines the instants up</Wd>],
+        ["Without that framework, it is one complete stroke", 960, 420, <Wd c={GOLD} s={40} serif>one complete stroke</Wd>],
+        ["This is not a oneness", 600, 540, <K c={ROSE} s={22}>not a oneness</K>],
+        ["seeing is seeing, hearing is hearing", 600, 610, <Wd c={DIM} s={22}>six streams · no pure consciousness behind</Wd>],
+        ["And it is not a state to keep up", 1320, 540, <K c={ROSE} s={22}>not a state to keep up</K>],
+        ["Maintenance is the split", 1320, 610, <Wd c={DIM} s={22}>maintenance is the split</Wd>],
+        ["Clarity is never absent", 960, 730, <Wd c={TEAL} s={30}>clarity never absent · only not abstracted out</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const GapTryScene: React.FC = () => {
+  const c = useCue();
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["Try it with the gap", 960, 120, <Wd c={CHALK} s={38} serif>try it with the gap</Wd>],
+        ["Recall something you did years ago", 960, 240, <Wd c={DIM} s={28}>something you did years ago, its result now</Wd>],
+        ["Notice the feeling of a missing gap", 960, 340, <K c={ROSE} s={26}>the feeling of a missing gap</K>],
+        ["Look at that feeling", 960, 430, <Wd c={CHALK} s={28}>look at that feeling</Wd>],
+        ["Is the gap found anywhere", 960, 520, <Wd c={GOLD} s={32}>is the gap found anywhere?</Wd>],
+        ["Stay with it until the asking loosens", 960, 610, <Wd c={DIM} s={26}>stay until the asking loosens</Wd>],
+      ]} />
+      <At x={960} y={740}><Reveal text="The act still bore its fruit." at={c("The act still bore its fruit")} size={50} color={TEAL} speed={0.04} /></At>
+    </AbsoluteFill>
+  );
+};
+
 const TryScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -664,10 +871,15 @@ export const Body: React.FC = () => {
     ["Let me check it against", "deep", <OrthodoxScene />],
     ["adds a careful point", "dusk", <CapacityScene />],
     ["Now the hardest part", "doubt", <KarmaScene />],
+    ["First, a bridge does not explain", "search", <RegressScene />],
+    ["says it from the other side", "jade", <DogenScene />],
+    ["There is a second reason", "doubt", <Karma2Scene />],
     ["So I keep the phrase", "night", <GapScene />],
     ["That is where you can glimpse", "whole", <BeyondScene />],
     ["So how is this seen through", "jade", <SeeScene />],
-    ["Turn on a tap", "whole", <TryScene />],
+    ["Why does this problem never come up in seeing", "deep", <SeeingScene />],
+    ["Try it with the gap", "night", <GapTryScene />],
+    ["And one more", "whole", <TryScene />],
   ];
   const moods: Mood[] = [];
   order.forEach(([cue, k], i) => {
