@@ -1,4 +1,4 @@
-// After Anatta · Explorations: Mind Is Singled Out Too (thusness-website after-anatta/mind-singled-out.html,
+// After Anatta · Explorations: Mind and Consciousness: Both Are Also Singled Out (thusness-website after-anatta/mind-singled-out.html,
 // aa-mind-singled-out, the Explorations topic on mind, consciousness and luminosity; EBooks Bonus Articles/mind-is-singled-out-too).
 // Arc: a thought picked out -> why not "mind is the empty vivid appearing" -> singling out is the appearing (the blue world)
 // -> mind singled out too, cut four ways -> matter too, the Hard Problem's bridge -> all phenomena; clarity never absent,
@@ -265,7 +265,7 @@ const OpenScene: React.FC = () => {
         ["the sound in the room", 560, 600, <K c={DIM} s={28}>the sound in the room</K>, { until: "This is After Anatta", ud: 2.5 }],
         ["the feeling in the chest", 1360, 600, <K c={DIM} s={28}>the feeling in the chest</K>, { until: "This is After Anatta", ud: 2.5 }],
       ]} />
-      <At x={960} y={420} o={ramp(t, aa + 2.8, 0.8)}><Wd c={CHALK} s={72} serif>Mind Is Singled Out Too</Wd></At>
+      <At x={960} y={420} o={ramp(t, aa + 2.8, 0.8)}><Wd c={CHALK} s={60} serif>Mind and Consciousness: Both Are Also Singled Out</Wd></At>
     </AbsoluteFill>
   );
 };

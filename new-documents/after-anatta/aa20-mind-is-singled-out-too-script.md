@@ -1,14 +1,14 @@
 ---
 chapter: 20
 label: After Anatta · Explorations
-title: "Mind Is Singled Out Too"
+title: "Mind and Consciousness: Both Are Also Singled Out"
 series: "After Anatta · Explorations"
 source: thusness-website after-anatta/mind-singled-out.html (aa-mind-singled-out, the Explorations topic on mind, consciousness and luminosity); EBooks Bonus Articles/mind-is-singled-out-too (own-voice text, 2026-11-02)
 intro: yes
 voice: male
 ---
 
-# Mind Is Singled Out Too
+# Mind and Consciousness: Both Are Also Singled Out
 
 Notice a thought. Now notice that "a thought" has been picked out. This, rather than the sound in the room or the feeling in the chest.
 
