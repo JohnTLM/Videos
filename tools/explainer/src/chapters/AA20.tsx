@@ -164,7 +164,7 @@ const Pick: React.FC<{ at: number; w: number; h: number; color?: string }> = ({ 
   const p = ramp(t, at, 0.8);
   const len = 2 * Math.PI * Math.sqrt((w * w + h * h) / 8);
   return (
-    <svg width={w + 20} height={h + 20} style={{ overflow: "visible", position: "absolute", left: -(w + 20) / 2, top: -(h + 20) / 2 }}>
+    <svg width={w + 20} height={h + 20} style={{ overflow: "visible", position: "absolute", left: "50%", top: "50%", transform: "translate(-50%, -50%)" }}>
       <ellipse cx={(w + 20) / 2} cy={(h + 20) / 2} rx={w / 2} ry={h / 2} fill="none" stroke={color} strokeWidth={4}
         strokeDasharray={`${len * p} ${len}`} style={{ filter: `drop-shadow(0 0 10px ${color})` }} />
     </svg>
