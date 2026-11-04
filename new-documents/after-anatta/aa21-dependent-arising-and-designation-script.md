@@ -1,0 +1,131 @@
+---
+chapter: 21
+label: After Anatta · Explorations
+title: "Dependent Arising and Designation: What It Is and What It Is For"
+series: "After Anatta · Explorations"
+source: thusness-website after-anatta/dependent-arising.html (aa-dependent-arising, the Explorations topic on dependent arising); EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, 2026-11-05)
+intro: yes
+voice: male
+---
+
+# Dependent Arising and Designation: What It Is and What It Is For
+
+Listen to one sound near you. A car going by, or a fan. Now ask: what made it?
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+Dependent arising runs through almost everything I write. The eight steps of the logic use it. So do the pages on cause and effect, on continuity, and on mind. Each uses it for its own question. None of them sets out the view itself, whole, and says what it is for. This one does.
+
+That matters, because dependent arising is easy to agree with, and easy to mishear. Most people already accept that things depend on other things. Then they hear one of five things.
+
+A web: things are unfindable, but surely the connections are there, a network, a field of relations, the floor at last. A machine: causes working in the dark, each pushing the next. Only concepts: if it is designated, it is a story, and causes are not really there. A lower truth: fine for the world, to be left behind at the ultimate. And the shape of ignorance: the twelve links begin with ignorance, so dependent arising must be the pattern of confusion.
+
+Each takes something true and sets it on the wrong foot.
+
+Start with what it says.
+
+A bell rings when it is struck. A seed of rice gives rice. A harsh word, met with a certain mood, brings anger. The order is reliable, and actions have results. Dependent arising says: these conditions, met together, and this appears. Designated, and working.
+
+What it never says is that a cause, standing on its own, makes an effect and hands it across. The ringing is not made by the bronze, the strike, the air and the ear, and then sent out. It is their meeting. Nothing passes from the strike to the sound, and nothing stands behind the sound producing it. Yet without the strike, there is no ringing.
+
+This is what I call causal efficacy without causal power. Conditions condition, fully. And no power is ever found sitting in a cause.
+
+Dependent arising did not come to me as a theory. It came as the same seeing as anatta, turned outwards.
+
+Anatta is the insight that there is no doer behind seeing. In seeing, only the seen. In hearing, only the heard. The person does not disappear. You still have a name, catch the bus and keep your promises. What falls away is one picture: someone standing behind the action, making it happen.
+
+Nāgārjuna makes the same move everywhere. There is no goer behind going. There is no seer behind seeing, no fire standing apart from its fuel, and no producer behind arising. Dependent arising is this: no doer behind anything. The wind is blowing, and there is no wind apart from the blowing. It is raining, and there is no "it" that rains.
+
+So anatta and dependent arising are not two subjects. Anatta, met first, takes the doer out of seeing. Dependent arising takes it out of everything else: the cause, the object, the whole, the field.
+
+Now designation. It is not a second teaching beside dependent arising. It is the same seeing, turned on the "this" itself.
+
+Designation does not need words. It needs only singling out. This sound, this colour, this ache, picked out as "this". A "this" stands out only against what it is not, and only with these conditions. In a world of only blue, no one would see blue. So the singling out is not done to an appearance that was there first, waiting to be named. It is the appearing. And because it is already dependence, it is already empty. By appearing, a thing is already empty.
+
+The clearest case is the oldest. The monk Nāgasena asks King Milinda where his chariot is. It is not the pole, not the axle, not the wheels, not the frame, not their sum, and not something apart from them. Candrakīrti makes the search complete, in seven ways. The chariot is not the same as its parts, not other than them, does not possess them, is not in them, does not contain them, is not their collection, and is not their shape. Nothing is found.
+
+Yet the chariot is not denied. It still carries you to town. It is set up by designation, in dependence on its parts, and the world's way of speaking of it is left intact. For me, the chariot was never only about chariots. Walking is the chariot. Hearing is the chariot.
+
+And the parts are designated too. The chariot is designated on its wheels. But a wheel is singled out in turn, on rim, spokes and hub. And they on their wood. And the wood on its grain. No bottom layer is ever reached, where something finally stands by itself and receives the first name. Not because the search was cut short, but because there is nowhere for it to end.
+
+"Merely designated" does not mean "only a name". Designation and functioning arise together. The chariot is called a chariot because it carries. A designation holds because it works within its agreements and its setting. And the mind that seems to do the designating is singled out too. No one stands behind it, doing it.
+
+Once the things are seen through, two pictures creep back.
+
+The first puts the conditions underneath, as parts lined up below that then produce the appearing on top. But the conditions are the appearing, cut into parts by a framework, for explaining and for getting things done. The cook, the chemist and the physicist cut the same loaf differently, and each cut works. None of them is the loaf from its own side.
+
+The second keeps the relations when the things are gone: a web, a network, a field. But the line is as unfindable as the dot. Nāgārjuna says it plainly: coming into contact, what has come into contact, and the one who brings them together are not found. Relation and what is related are designated together. Neither comes first. Indra's net is a fine image, so long as the net itself is not taken as what is finally found.
+
+So "nothing stands alone" is only half of it. The other half is that the relations are not found from their own side either. What is left is not a web. It is this, appearing.
+
+There are two ways of knowing rightly here, and it helps not to collapse them.
+
+The first works through concepts, within the framework. Dependent arising is how the whole net comes about. The net is conventional and empty, and it keeps presenting itself upon conditions, for functional purposes. This is not a lesser knowing. It is how a doctor treats, how a cook cooks, how a promise is kept, how karma is understood. And in this mode, dependent arising also shows emptiness, and corrects the inherent reading from inside the framework.
+
+The second is freedom from all elaborations. It is not within the framework at all. Nothing is cut into before and after, part and whole, cause and effect. Without the framework, there is one complete stroke.
+
+Neither cancels the other. The first is not a ladder to throw away. The second is not a place outside the world to retreat to. Freedom kept apart from the framework would become a new ground. So after it, the taste is met again inside the framework, in ordinary life, with the parts and conditions now light.
+
+Within the framework, dependent arising does three kinds of work.
+
+It explains. It answers the question, how does this come about? These conditions, met together.
+
+It dismantles. Because a thing arises in dependence, it is not there from its own side. So dependence is the reason that takes apart the self, the object, the cause, the whole, the field, the substrate, energy and the web. It shows emptiness. Tsongkhapa's tradition calls it the king of reasons.
+
+And it describes the taste. Seen through, it is the taste itself: nothing standing on its own, nothing missing.
+
+They hang together. It can dismantle because it explains. What validly depends cannot also stand by itself. So the reasoning does not destroy the world it takes apart. What goes is only the "from its own side". And it puts nothing in place of what it removes. It dismantles itself too, since dependence is not found from its own side either.
+
+Dependent arising is an enlightened view. By that I do not mean a view that only the enlightened can hold. I mean the right view of how things are, which we do not yet live in.
+
+We do not live in the wisdom of dependent arising. We live reading the matrix as inherent, within the framework. Things seem to stand by themselves. Causes seem to push. A self seems to sit behind the seeing. That seeming is not a thought we hold. It is a deep habit of seeing, in the body, before thought.
+
+So I keep two frameworks apart. The default framework is the conventional cutting itself: parts and whole, before and after, cause and effect, set in a time sequence. It works, and we need it to speak, to cook and to keep promises. Dependent arising lives here. The inherent framework is the habit of taking what the cutting singles out as standing by itself. That is the matrix. Not a world, not a field. A habit of seeing.
+
+Dependent arising lives in the first, and unbinds the second. Run the two together, and "it lives in a framework" is heard as "it is only a story". That is the slide into annihilation.
+
+Some readings say dependent arising originates with ignorance, since the twelve links begin there. That reading needs refining. Ignorance is not a power, a thing in us with a force to blind. It is a very deep habit of confused seeing, designated as ignorance, and not found when searched for. It blinds reliably because its conditions keep being renewed. And it can end, because nothing stands behind it.
+
+Dependent arising, as a view, originates as the corrective antidote for that ignorance.
+
+If it simply came from ignorance, it would be strange to praise it as the supreme teaching. Yet that is what the texts do. Nāgārjuna opens his verses by bowing to the Buddha who taught dependent arising: without arising or ceasing, the stilling of elaborations, peace. Tsongkhapa wrote a whole praise to it, and said that seeing it reverses ignorance, the root of the round of birth and death. And the Buddha said: whoever sees dependent arising sees the Dhamma.
+
+The twelve links do begin with ignorance, and no master denies it. In forward order, they show how the round of suffering runs. In reverse order, they show how it ends. What is praised is dependent arising seen rightly, and that seeing is the antidote. No one praises ignorance. They praise the seeing that undoes it.
+
+I have read more than once that conventional truth is a veil. So dependent arising, being conventional, must be the veil. The source is genuine. The Sanskrit word for conventional, saṃvṛti, can mean a covering. But Candrakīrti gives the word three meanings: concealment, the ignorance that hides how things are; mutual dependence; and worldly convention, the names by which the world speaks.
+
+Read carefully, this supports the refinement. What veils is ignorance, the concealer. Dependent arising is the second meaning of the same word. The same appearance can be held two ways. Held by the concealer, it seems to stand by itself, and that seeming is the veil. Seen as dependent arising, it is the seeing that lifts the veil.
+
+Candrakīrti says as much himself. For those who have let go of that ignorance, things appear like reflections. Still appearing, still working, no longer taken as true. He calls this mere convention. The conventional, read with ignorance, veils. With wisdom, why would it veil?
+
+And here is how it meets spontaneous presence.
+
+Dependent arising is how the appearing is described when we analyse: these conditions, met together, designated, working. Spontaneous presence is how it is described when the habit of fixing stops: complete, effortless, with nothing behind it. They are not two things.
+
+Keep two questions apart. How does this appearing come about? Through causes and conditions, always. What is its nature? Empty. Not produced. Dzogchen says spontaneous presence is not made by causes and conditions. I read that as Nāgārjuna's "without arising": appearing through conditions, yet with no birth from its own side.
+
+Neither description is higher, and one does not become the other, any more than summer becomes winter. Dependent arising keeps spontaneous presence from being heard as coming from a hidden ground. Spontaneous presence keeps dependent arising from being heard as a mechanism.
+
+At the core, I do not think this departs from the orthodox view. It is the Prāsaṅgika reading of Nāgārjuna as Candrakīrti and Tsongkhapa give it: reasoning refutes production by its own nature, not production as the world speaks of it.
+
+Where I may part from how some masters are read is in four places. Its status: I hold dependent arising as an enlightened view, not only a description of the world to be left behind. Its origin: I read it as the antidote by which ignorance is undone, not as the pattern of ignorance. Its object: nothing stands alone, but the relations are not found either, so I do not make the net the real. And bridges: I do not need a link to carry an act to its fruit. These are my readings, not the schools'. Weigh both sides.
+
+Five guards, to end.
+
+Not only concepts. Designated does not mean unreal or arbitrary. Things work. Harm is harm. Actions bear fruit.
+
+Not uncaused. Every appearing has its conditions. What is gone is the producer, not the order.
+
+Not a web, and not a ground. The relations are no more found than the things. Emptiness is not a new something.
+
+Not a stage to leave behind. The framework is not the prison. Reifying it is. Dependent arising is held, lightly, in ordinary life.
+
+And not a state to keep. Seeing dependence is not maintained by effort. Maintenance is the split. It is seen, and in time the habit loosens.
+
+Try it. Take that sound again, the car or the fan. Find its conditions: the source, the air, the ear, attention. The sound is not made by them and sent out. It is their meeting.
+
+Change one condition. Cover one ear, or turn your head. It is not the same sound altered. It is a different appearing.
+
+Look for whoever is hearing. Then look for the "between" that joins the conditions. Can either be found apart from the hearing?
+
+Then ask: did any of this need a hearer behind it, a web underneath, or a power in the cause? Let the question go, and hear the sound.
