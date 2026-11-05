@@ -49,4 +49,4 @@ Read the page: https://atr-passerby.com/dependent-arising-and-designation/
 
 ### Tags
 
-after anatta, dependent arising, dependent designation, designation, singling out, causal efficacy, causal power, chariot, sevenfold search, conditions, not a web, Indra's net, two modes of right knowing, king of reasons, antidote to ignorance, twelve links, conventional truth, samvrti, veil, mere convention, spontaneous presence, Candrakirti, Tsongkhapa, Dzogchen, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, anatta, no self, Buddhist philosophy
+after anatta, dependent arising, dependent designation, singling out, causal efficacy, causal power, chariot, sevenfold search, conditions, not a web, Indra's net, two modes of right knowing, king of reasons, antidote to ignorance, twelve links, conventional truth, samvrti, veil, mere convention, spontaneous presence, Candrakirti, Tsongkhapa, Dzogchen, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, anatta, no self, Buddhist philosophy
