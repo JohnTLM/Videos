@@ -195,3 +195,4 @@ The notes below describe the first snapshot (2026-10-30).
   - Drive: private folder `voices for ebooks and articles` at the top of My Drive, id
     `1T-8zbX_6H8DxfsXcBT3GyKAnyFgP8rP_` (owner only). 142 MP3s (all NEW), `voice_manifest.json` and
     `AUDIO_CHANGELOG.md`; every upload checked by MD5, and the folder checked again afterwards.
+- 2026-11-07 (owner: "Disable download for non-approved users in the ebooks for readers", "Yes, use Drive"): the Drive folder `voices for ebooks and articles` (`1T-8zbX_6H8DxfsXcBT3GyKAnyFgP8rP_`) moves into `My-Book › Ebooks for readers`, so only the approved readers can open it; the site's Download button opens each file there (thusness-website `server/TASK-audio-limits.md`). `manifest.py` now finds the folder by name wherever it is. Playing on the site stays open to everyone, limited to 30 recordings a day per visitor.

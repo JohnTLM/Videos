@@ -8,7 +8,9 @@ voice settings: 🟢 NEW (not there before), 🟡 UPDATED (text or voice changed
 The manifest names, for each file, the website page it reads (slug, address from source/index.json), so the site
 can link the right recording to the right page later.
 
-Drive: one private folder, "voices for ebooks and articles", at the top of My Drive (made if missing; never shared).
+Drive: one folder, "voices for ebooks and articles". Since 2026-11-07 it sits inside "Ebooks for readers" (owner: only
+approved readers may download; they inherit that folder's readers), so it is found by name wherever it is, and made at
+the top of My Drive only if it is missing. Never shared with "anyone".
 Files keep friendly names ("Book 1 - Substrateless World - 02 - The Substantialist Misconception.mp3"). An UPDATED
 file replaces the Drive file of the same name in place (same id and link). Every upload is checked by its MD5.
 The sign-in is tools/publish/gauth.py (~/.config/thusness-publish/token.json), as for the other server uploads.
@@ -122,8 +124,10 @@ def upload(rows):
     from gauth import service
     from googleapiclient.http import MediaFileUpload
     drive = service("drive", "v3")
-    q = f"'root' in parents and name = '{FOLDER}' and mimeType = 'application/vnd.google-apps.folder' and trashed = false"
+    q = f"name = '{FOLDER}' and mimeType = 'application/vnd.google-apps.folder' and trashed = false and 'me' in owners"
     found = drive.files().list(q=q, fields="files(id)").execute()["files"]
+    if len(found) > 1:
+        sys.exit(f"More than one Drive folder named '{FOLDER}'; nothing uploaded.")
     folder = found[0]["id"] if found else drive.files().create(
         body={"name": FOLDER, "mimeType": "application/vnd.google-apps.folder"}, fields="id").execute()["id"]
     print(f"Drive folder '{FOLDER}': {folder}")
