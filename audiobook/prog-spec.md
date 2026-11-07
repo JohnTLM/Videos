@@ -19,6 +19,25 @@ Owner's request (John Tan, Thusness), 2026-10-30: produce read-aloud MP3s, **one
 
 **Not included:** *Nāgārjuna's Middle Way* (the 27 MMK chapters) and the Canon View page.
 
+**Widened on 2026-11-07** (owner's voice spec: all five books and all bonus articles, "Book 3" and "The Canon View"
+among them): every chapter and page the site has, 147 source files in nine sets, 142 recorded (about 36 hours):
+
+| Set | Files recorded | Words | About |
+|---|---|---|---|
+| `1-substrateless-world` | 18 (references left out; glossary only with `--glossaries`) | 40,900 | 4.1 h |
+| `2-anatta-to-emptiness` | 24 | 48,400 | 4.8 h |
+| `3-nagarjunas-middle-way` (new) | 27 (English translation read; the Sanskrit verse lines left out) | 59,000 | 5.9 h |
+| `4-observer-and-presence` | 27 (verse index and references left out; glossary only with `--glossaries`) | 18,400 | 1.8 h |
+| `5-the-logic-after-anatta` (The Logic: intro pages and Steps 1–8, as `pages.json` lists them) | 17 | 61,200 | 6.1 h |
+| `explorations` (was `questions`; `pages.json` `questions`) | 15 | 77,200 | 7.7 h |
+| `zoom-ins` (new; `pages.json` `essays`) | 6 | 18,800 | 1.9 h |
+| `the-canon-view` (new) | 1 (Part III and the source lists left out) | 10,600 | 1.0 h |
+| `bonus-articles` (the Library page) | 7 | 29,700 | 2.9 h |
+
+The owner's 19 articles are all in these sets: *The Lamp That Does Not Light Itself* is part of *Luminosity*
+(zoom-ins), *The Yang Spirit and the Rainbow Body* part of *Rainbow Body*, and *Three Descriptions, One Taste* was
+folded into *Dependent Arising and Designation* (both explorations).
+
 The numbers are from the raw text. After cleaning (section 4), the listening time will be about 5–10% less.
 
 ## 2. Rules from the owner (always apply)
@@ -39,8 +58,11 @@ The numbers are from the raw text. After cleaning (section 4), the listening tim
 
 ## 3. The voice
 
-- **Not decided yet.** The owner heard 14 sample voices on 2026-10-30, all free.
-- **Default until the owner chooses:** Andrew, `en-US-AndrewMultilingualNeural`.
+- **Chosen (owner, 2026-11-07: "Yes, free script with Jenny, run on the server"): Jenny, `en-US-JennyNeural`**,
+  American woman, at its own speed (`+0%`): Book 4 Chapter 1 came out at 4.7 min, 168 words a minute. It is the
+  default in `make_audiobook.py`. (The owner had first tried a paid Gemini voice script; it read only short
+  summaries, so it was set aside.)
+- Earlier: the owner heard 14 sample voices on 2026-10-30, all free; Andrew was the default until 2026-11-07.
 - **Settings:** the narrated videos use rate `-8%` and pitch `-2Hz` with `en-US-AndrewNeural` (`tools/build.py`). The read-alouds the owner liked on 2026-10-29 used `en-US-AndrewMultilingualNeural` at the default rate, about 160 words a minute.
 - **Ask the owner which voice before the full run.**
 
@@ -108,6 +130,16 @@ The source files are Markdown from the website (section 6). For each file, write
 
 ## 6. Where the text comes from
 
+**Since 2026-11-07: `refresh_source.py <EBooks> <thusness-website>`** rebuilds `source/` from EBooks `Website/` (the
+live site's text, refreshed by the server after every deploy) in the site's own order, and writes `source/index.json`
+(each file's page slug and address). Then `prepare_text.py`, then `make_audiobook.py`; `manifest.py` marks each MP3
+NEW, UPDATED or Unchanged (`out/voice_manifest.json`, `out/AUDIO_CHANGELOG.md`) and with `--upload` puts the new and
+changed ones in Drive `voices for ebooks and articles` (private, top of My Drive). A re-run records only what changed.
+`prepare_text.py` now also leaves out the Explorations "Zoom in" box, the "Last updated" line, the Canon View's source
+lists and Part III, and the MMK's Sanskrit verse lines (the English translation is read).
+
+The notes below describe the first snapshot (2026-10-30).
+
 - `audiobook/source/` is a snapshot, taken on 2026-10-30, of the website text kept in the knowledge base. That is GitHub `JohnTLM/EBooks`, folder `Website/`, commit `9d586c0` (live site version 129). The file names and numbers give the reading order:
   - Book 5 follows the site's *The Logic* list;
   - the bonus articles follow the Library page;
@@ -139,3 +171,10 @@ The source files are Markdown from the website (section 6). For each file, write
   - Test recording: Book 4 Chapter 1 (`04-ob-1`), Andrew, default rate: 4.4 min, 783 words, 177 words a minute,
     sent to the owner with the three questions (voice, speed, glossaries). Waiting for the answers.
   - Estimated full length at this speed: about 22 hours (236,000 words), plus 12 minutes if the glossaries go in.
+- 2026-11-07 (owner: "Yes, free script with Jenny, run on the server"): voice chosen, Jenny (`en-US-JennyNeural`).
+  Text refreshed from EBooks `Website/` (5fc1f41, live site of 7 Nov) with the new `refresh_source.py`, widened to
+  every book, page and article (section 1: 142 files, about 36 hours). New `manifest.py` (manifest, changelog in the
+  owner's NEW / UPDATED / Unchanged format, Drive upload). Test recording in the cloud session: Book 4 Chapter 1,
+  4.7 min, 168 words a minute, all checks passed. The full recording and the Drive upload are the server's:
+  thusness-website `server/TASK-audiobook-jenny.md`. Glossaries stay out unless the owner asks. Nothing on the
+  website yet: a player on each page is a later step, after the owner has listened.

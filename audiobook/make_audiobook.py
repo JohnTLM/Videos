@@ -20,7 +20,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 TEXT, OUT = HERE / "text", HERE / "out"
 WORK = OUT / ".work"
-VOICE, RATE, PITCH = "en-US-AndrewMultilingualNeural", "+0%", "+0Hz"
+VOICE, RATE, PITCH = "en-US-JennyNeural", "+0%", "+0Hz"   # owner, 2026-11-07: "free script with Jenny"
 ARTIST = "John Tan (Thusness)"
 PART_MAX = 2500
 PARA_GAP, HEAD_GAP = 0.8, 1.5

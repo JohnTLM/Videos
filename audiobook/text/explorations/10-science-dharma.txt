@@ -1,0 +1,366 @@
+title: Science and the Dharma
+album: Explorations
+
+Explorations. Science and the Dharma.
+
+Where quantum physics and cognitive science come closest to emptiness, and the one step they still leave to the Dharma.
+
+# The question.
+
+There is a strong parallel between the Dharma and modern science, and people feel it at once. Physics took apart the solid atom. Cognitive science took apart the little viewer sitting inside the head. Both sound like Nah-gar-joo-nah. So the question is simple: which scientists and philosophers of science come closest, and where do they stop?
+
+The answer in one line: science reaches "nothing stands alone; everything is relations". The Dharma takes one more step: the relations are not found from their own side either.
+
+That one step matters more than it looks. A world made of relations is still a world with a floor. The floor is just made of lines instead of dots. Nah-gar-joo-nah examined the lines as closely as the dots:
+
+Coming into contact, having come into contact, and the one who brings them into contact are not found. (MMK 14.8)
+
+So dependent arising is not a web of relations lying under things. It is how appearing is described when we divide it into pieces and links. Seen without the dividing, the same appearing is spontaneous presence: vivid, exact, following its conditions, with nothing found that produces it, not even the relations.
+
+This article goes through the authors one group at a time. Each section ends with where the author meets the Dharma, and where the author stops.
+
+# What "close" means here.
+
+Every view below is welcomed for what it takes away: the thing with a nature of its own, standing there before anyone looks. That is the shared ground, and it is large.
+
+Then each view is checked for one thing: does it put something in the empty place? A field, a wholeness, information, a network, a brain, a pure awareness. If it does, it has moved the old substance to a new address. If it does not, it is very close.
+
+This is not a contest. Science does not need the Dharma to do physics, and the Dharma does not rest on physics. Theories are frameworks: valid where they predict, open to revision. What can be said is modest and still remarkable: again and again, the search for a last thing has found that the supposed bottom was defined by relations.
+
+# Physics: Bohr.
+
+Niels Bohr was the first to refuse the question "what is the electron doing when no one measures it?" He used the word "phenomenon" in a strict way:
+
+…exclusively to refer to the observations obtained under specified circumstances, including an account of the whole experimental arrangement. (Bohr, "Discussion with Einstein on Epistemological Problems in Atomic Physics", 1949)
+
+A result is not a property of the electron alone. It belongs to the whole set-up: the source, the slits, the screen, the clock. Change the arrangement, and a different phenomenon appears.
+
+His assistant Aage Petersen later recalled Bohr saying: "There is no quantum world. There is only an abstract quantum physical description" (Petersen, "The Philosophy of Niels Bohr", 1963). These are Petersen's words for what Bohr used to say, not a sentence from Bohr's own writings.
+
+Where it meets the Dharma. Bohr refuses to describe an in-itself behind the phenomenon. No property can be stated apart from the arrangement in which it shows. That is very near the Mahd-yah-mah-kah refusal of own-nature.
+
+Where it stops. In two places.
+
+First, Bohr kept the classical apparatus and the classical concepts used to describe it outside the analysis. He treated them as the condition of any clear description, and so did not examine them. The Mahd-yah-mah-kah examines them too. The apparatus, the concepts and the physicist are designated, as much as the electron they observe.
+
+Second, all through his writing there is still "the atomic object", which interacts with the measuring instrument. He says the two cannot be sharply separated, and he refuses to say what the object is apart from the arrangement. But it stays in the sentence as the thing that interacts. So a something remains behind the phenomenon: undescribed and beyond knowing, but there first. It is very like Kant's thing-in-itself. Bohr does not describe an indeterminate state before measurement, as Heisenberg and Barad do. He leaves an object he will not describe. That is the same "something there first" in its quietest form (see Is there a "before"? below).
+
+Scholars still disagree on how to read him: some take Bohr as speaking only about what can be said, others, Barad most of all, as speaking about what there is.
+
+# Physics: Werner Heisenberg.
+
+Werner Heisenberg found the uncertainty relations, and he wrote more than any founder of quantum theory about what it means (Physics and Philosophy, 1958, from lectures given at St Andrews in 1955–56). He saw some of the same things as Bohr, and then he put a ground back in three places.
+
+Where he comes close. His best-known line puts the observing inside what is observed:
+
+…what we observe is not nature itself but nature exposed to our method of questioning. (Physics and Philosophy, p. 78)
+
+What appears depends on how it is asked for. That is close to dependent designation. He also says that atoms and elementary particles are not as "real" as the things of daily life: they form "a world of potentialities or possibilities rather than one of things or facts" (p. 160 in one edition). Read lightly, that is near the emptiness of the solid object. And the uncertainty relations themselves say that a particle does not carry a fixed position and a fixed momentum, waiting to be read off.
+
+Where he puts a ground back.
+
+1. Potentia. Heisenberg does not leave the world of possibilities empty. Following Aristotle, he makes it a layer of its own, which he describes as standing halfway between the solid reality of matter and the reality of an idea. The probability wave is this potentia in numbers, and measurement turns it into fact. The possibilities are now a store behind the click, waiting to be realised.
+
+2. Energy as the one substance. He says it outright, comparing energy to Heraclitus' fire: "Energy is a substance, since its total amount does not change, and the elementary particles can actually be made from this substance." That is a substance claim in plain words. Isn't Energy the Substrate? answers it: energy is a quantity whose total balances. How much there is depends on the frame, and its conservation follows from a symmetry. It is not a stuff that lasts through change.
+
+3. Mathematical form as what finally is. Late in life he sided with Plato against Democritus: at the bottom are not small things but symmetries and mathematical forms, and he worked for years on one fundamental equation for a primal matter. The ground moves into mathematics.
+
+Where it meets the Dharma. In seeing that the observing belongs to what appears, and that the particle is not a little thing.
+
+Where it stops. Three times over. The openness he saw is given a home: in potentia, in energy, in mathematical form. Nah-gar-joo-nah's step is to leave the place empty: no store of possibilities, no last stuff, no final form.
+
+# Physics: Karen Barad.
+
+Karen Barad, a physicist turned philosopher, takes Bohr from what can be said to what is. Her view is called agential realism (Meeting the Universe Halfway, 2007). Three ideas carry it.
+
+Intra-action. The usual word "interaction" assumes separate things that exist first and then meet. Barad's word "intra-action" denies that order: distinct agencies emerge through their intra-action; they do not precede it (p. 33). In her phrase, "relata do not preexist relations" (pp. 139–140).
+
+Phenomena. What exists first is not objects but phenomena, which she calls "the ontological inseparability of agentially intra-acting 'components'" ("Posthumanist Performativity", 2003, p. 815).
+
+The agential cut. Inside a phenomenon, a cut is made: this is the object, that is the instrument. The cut is not found in nature beforehand. It is enacted, and it is not arbitrary, because the material arrangement constrains it. Move the cut, and a different object and a different instrument appear.
+
+The owner of this site thinks Barad is very close, and in two places she is closer than anyone else in physics.
+
+First, the agential cut is dependent designation, seen from the side of the laboratory. "Object" and "instrument" are not found as two things waiting to be told apart. They are singled out together, and singling out is already dependence (see What the Logic Is Looking At). Yet the singling out is not arbitrary: it is held by the arrangement, as designation is held by what holds up under further experience. Book 1 calls the agential cut "close kin to conceptual designation".
+
+Second, no relata before relating. This is the move that most physics never makes. It is not "things first, then their relations". Neither comes first. That is exactly how Book 1 states mutual dependence: relation and relata are designated together.
+
+You can feel the agential cut directly. Hold a pen and write. Where do you feel the paper? Not in your fingers: you feel its roughness at the tip of the pen. The pen has become part of the hand. Now stop writing and look at the pen. It is an object again, out there, held by the hand. Nothing was added or removed. The cut moved.
+
+The one guard. Barad names her view a realism and gives it an ontology. Phenomena, she writes, are the primary ontological units (p. 139), and intra-action is what the world most basically is. That is the place to stop. If intra-action becomes the bottom layer, it is one more ground, made of relating instead of things. From the Mahd-yah-mah-kah side, the phenomenon in which a cut is made is itself designated, by the same framework that does the cutting. The intra-action is no more found from its own side than the objects it replaced.
+
+So the right reading is: Barad is very close in everything she takes away, and in her account of the cut. She stops where she turns intra-action into what there is. Read lightly, as a description of how boundaries are drawn and held, agential realism is about as near to dependent designation as physics has come. Read as the last floor, it is the same substantialism moved into the relating.
+
+# Physics: Carlo Rovelli.
+
+Carlo Rovelli's relational quantum mechanics (1996) says the trouble in quantum theory comes from one wrong idea: an observer-independent state of a system. A physical property has a value only relative to another system it interacts with. The same system can have one property relative to you and another relative to me, and both accounts are correct.
+
+Rovelli is the one physicist who goes to Nah-gar-joo-nah by name. In Helgoland (2020; English 2021) a section on Nah-gar-joo-nah, read through Jay Garfield's translation, presents the Moo-lah-mahd-yah-mah-kah-kah-ree-kah as a way to think of interdependence without anything that has its own essence. Rovelli also reports Nah-gar-joo-nah's point that emptiness itself is empty, and so no final metaphysics is left standing (paraphrase; see the note at the end).
+
+You can feel this one in time. Two identical watches, one left on a table and one taken up a mountain, no longer agree when they are brought back together. Neither shows "the true time". Each shows time relative to where it has been. GPS has to correct for it every day, or its positions drift by kilometres (see Step 4).
+
+Where it meets the Dharma. No property is found apart from its relation to something else. Rovelli takes this from the physics and then finds it, by his own account, already worked out in Nah-gar-joo-nah.
+
+Where it stops. Rovelli often describes the world as a net of interactions, with interaction as what everything is made of. Read that way, the net becomes the new fabric. Read more lightly, as how physical properties are designated, it is very nearly a Mahd-yah-mah-kah physics. The step he names, emptiness being empty, is the right step. The question is whether the net is let go along with it.
+
+# Physics: QBism.
+
+QBism, from Christopher Fuchs, Rüdiger Schack and N. David Mermin, reads the quantum state as an agent's personal degrees of belief about the agent's own future experiences. A measurement is "an action on the world by an agent that results in the creation of an outcome — a new experience for that agent" (Fuchs, Mermin and Schack, "An Introduction to QBism", 2014). The wavefunction is not a thing spread through space. It is a tool for betting well.
+
+Where it meets the Dharma. QBism refuses to make the wavefunction a substance. It puts the knower back into the account, and it is honest that physics is done by someone, from somewhere.
+
+Where it stops. It is easy to read the agent and the agent's experience as the new fixed point: the world becomes empty, and the experiencer stays solid. The Dharma removes the experiencer from its own side as well. Experience is not owned by a someone behind it; in the seen, just the seen (Decoding Anatta and MMK Chapter 3).
+
+# Philosophy of physics: Michel Bitbol.
+
+Michel Bitbol, a French physicist and philosopher, has written directly on Mahd-yah-mah-kah and quantum mechanics: "A Cure for Metaphysical Illusions: Kant, Quantum Mechanics and the Mahd-yah-mah-kah" (2003), and De l'intérieur du monde (2010), which sets dependent arising beside the relations of quantum physics. His argument is that the Kantian cure for metaphysics is not strong enough, and that Nah-gar-joo-nah supplies the stronger one.
+
+What makes him so close is that he sees the next trap. In quantum physics, he argues, there are no intrinsic properties, only relational ones; and the relations must not be made into things either. In one paper he contrasts relational quantum mechanics, which "objectifies (even reifies) relations", with a reading in which relations are not objects at all. Summaries of his talks put it in two phrases: even relations are relative; even emptiness is empty (paraphrase; see the note).
+
+Where it meets the Dharma. At the very point where Rovelli and Barad hesitate. Bitbol does not stop at "relations, not things". He refuses to let the relations become the floor.
+
+Where it stops. Bitbol's cure is philosophical: it frees the mind from a wrong picture of what physics describes. The Dharma says the same picture is held not only in theory but in seeing and hearing, by habit, and that the freedom is tasted, not only argued.
+
+# Philosophy: Jan Westerhoff.
+
+Jan Westerhoff is a philosopher and a scholar of Nah-gar-joo-nah. The Non-Existence of the Real World (2020) argues, mostly in the language of analytic philosophy, that there is no world existing independently of conditions, contexts and cognition. It does this in four steps: against an external world that stands by itself, against an inner self that stands by itself, against a foundation beneath both, and against a final, ultimately true theory. He calls the result irrealism, and says it is not one more theory of what there is.
+
+Where it meets the Dharma. Almost everywhere. This is Mahd-yah-mah-kah argued in a modern voice. Crucially, he includes the foundation itself: no bottom layer, not even one made of relations, and not even a last true description.
+
+Where it stops. Not in the view. Westerhoff's book is philosophy, not physics, and it argues rather than practises. As with Bitbol, what it shows is to be seen, not only followed.
+
+# Cognitive science: Varela, Thompson and Rosch.
+
+The Embodied Mind (1991), by Francisco Varela, Evan Thompson and Eleanor Rosch, began the enactive approach that grew into four-E cognition (embodied, embedded, enacted, extended). Its central claim:
+
+…cognition is not the representation of a pregiven world by a pregiven mind but is rather the enactment of a world and a mind on the basis of a history of the variety of actions that a being in the world performs. (p. xx)
+
+No world waiting out there, no mind waiting in here. They drew directly on Nah-gar-joo-nah, and called what they found groundlessness: neither mind nor world gives a fixed foundation. They presented it not as a crisis but as an opening, linked to compassion.
+
+Where it meets the Dharma. This is the closest any science has come, and on purpose. "Not a pregiven mind, not a pregiven world" is the subject and object designated together.
+
+Where it stops. Later enactivism sometimes rebuilt a ground. In Thompson's Mind in Life (2007) the self-producing living system, the organism keeping its own boundary, carries the deep continuity of life and mind. Taken as a bottom layer, that organism becomes the new bedrock. Thompson himself has since warned against making Buddhism the science of mind: in Why I Am Not a Buddhist (2020) he criticises "Buddhist exceptionalism" and the "neural Buddhism" that says cognitive science has confirmed there is no self. That warning is worth keeping. The Dharma's claim is not a finding about brains.
+
+# Cognitive science: Andy Clark.
+
+Andy Clark and David Chalmers made the extended mind famous ("The Extended Mind", 1998). Otto has Alzheimer's disease and keeps a notebook he always carries. Inga remembers that the museum is on 53rd Street; Otto reads it in his notebook. If Inga's memory counts as part of her mind, the notebook, doing the same job, counts as part of Otto's. They call this the parity principle.
+
+Where it meets the Dharma. The skull is not found as the mind's wall. The line is drawn for a purpose. The pen at the tip of your fingers is the same point.
+
+Where it stops. The extended mind can be read as the old container made bigger, with the notebook now inside its walls. The Dharma does not move the wall outwards. It does not find a wall (Book 1, Chapter 11).
+
+# Cognitive science: Anil Seth.
+
+Anil Seth, in Being You (2021), describes perception as controlled hallucination: the brain's best guess about the causes of its sensory signals, held in check by those signals. And the self, he argues, is a perception too: the experience of being a self is one more set of predictions, tied to keeping the body alive.
+
+You can feel this. Look at a red apple under candlelight: it turns orange. At dusk it goes grey. To a bee it shows patterns you cannot see. No red is found sitting on the apple. Yet the red appears vividly, without fail, whenever its conditions come together (Holding an apple).
+
+Where it meets the Dharma. Perception is not a window onto things already there. The "me" in here is constructed as much as the apple out there. That is very close to what the Dharma calls the knot: mental formation tying separate appearings into one thing "out there" with a "me" in here holding it.
+
+Where it stops. The account often rests on the brain as the thing that does the predicting. Then the brain, sealed in the skull, becomes the ground on which the hallucination is projected. But the brain is known in the same way as the apple: seen, measured, named. It cannot be the floor beneath the appearing it appears in. And "hallucination" can slide into nihilism: as if the apple were not validly functioning. It is. It feeds you.
+
+# Three that bring a ground back.
+
+These three are often quoted as close to the Dharma. Each is a good piece of thinking, and each puts something in the empty place.
+
+David Bohm described "undivided wholeness in flowing movement" (Wholeness and the Implicate Order, 1980, p. 11), with an implicate order, the holomovement, from which the explicate world of things unfolds. Wholeness sounds like emptiness. But an enfolded order from which things unfold is a source behind appearances. That is the ground in its most beautiful form.
+
+John Wheeler proposed "it from bit": every particle, field and even spacetime "derives its function, its meaning, its very existence entirely" from yes-or-no answers, bits (1989). Anton Zeilinger made information the founding principle of quantum mechanics (1999). Both rightly dissolve the solid particle. But if information is what everything is made of, information is the new substance. A bit is only a difference between two states; it has no being of its own to found anything.
+
+B. Alan Wallace, a Buddhist teacher and writer on science, speaks of a substrate consciousness: a continuum of consciousness from which the ordinary mind emerges and into which it dissolves at death, which he links to the ah-lah-yahvij-nyah-nah. Here the ground is not matter or information but awareness. The Canon View rejects this for the same reason it rejects matter as substance: consciousness made fundamental is one more ground. Luminosity is the knowing clarity of appearing, and it is as empty as everything else.
+
+# Is there a "before"? The indeterminate state.
+
+This is the most important place in the whole comparison, because almost every physicist above slips here, including the closest ones.
+
+Quantum theory describes a system by a wavefunction, a vector in an abstract mathematical space called Hilbert space. Between measurements it changes smoothly; at a measurement one definite outcome appears, with a probability the theory gives exactly. So the question comes by itself: what is the system before it is measured?
+
+Each physicist answers by keeping something there first:
+
+Heisenberg: a potentia, a layer of possibilities halfway between matter and idea, which measurement turns into fact.
+
+Wavefunction realists (David Albert, many-worlds readers): the wave itself, or one vector in Hilbert space, is what is there. The clicks of the detector are only its surface.
+
+Barad: before the agential cut there are no determinate properties at all. Not because we do not know them, but because there are none. The indeterminacy is in the world itself. Book 1 calls this "an indeterminate something".
+
+Bohr: an atomic object that interacts with the apparatus, there but beyond description.
+
+The words differ. The shape is the same: a something there before the relating, not yet determined, which the interaction then makes definite.
+
+# A substrate for emptiness.
+
+Book 1 (Chapter 15) names what is happening. The experiments show, with unusual clarity, that phenomena have no fixed nature: ask one way and a particle shows itself, ask another and an interference pattern. Nothing is fixed from its own side, so it can appear in strikingly different ways. That openness is emptiness, seen from the side of its function.
+
+The substantialist mind cannot let the openness simply be. If appearances are not fixed, it reasons, there must be something deeper that holds all the ways they might appear: a space of possibilities, a wave of tendencies, an indeterminate state in which every outcome is already folded up and waiting. So the emptiness of phenomena is itself abstracted into a new level and given a home behind them. It is the old substrate in its most refined form: not a substance with fixed properties, but a substance made of possibilities, or made of not-yet.
+
+# Nah-gar-joo-nah met this shape long ago.
+
+None of this is new to the Middle Way. Three of Nah-gar-joo-nah's chapters examine exactly this "something there first".
+
+The effect waiting in its cause. In his time the Sāṃkhya school taught that every effect already exists, unmanifest, inside its cause, and only comes out. Their unmanifest store of all effects does the same job as a Hilbert space taken as what is there. Nah-gar-joo-nah's first verse refuses it:
+
+Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen. (MMK 1.1)
+
+The outcome is not sitting in a store before it appears. Nor does it come from nowhere.
+
+The one there before seeing. Chapter 9 examines someone who is there first, before seeing and hearing, and who then sees and hears. The opponent argues just as the physicist does: how could seeing belong to something that does not exist? So it must be there before, already in place. Nah-gar-joo-nah answers:
+
+But that entity which is in place before seeing, hearing and the rest, and before feeling and the rest: by what is it designated? (MMK 9.3)
+
+Put "measurement" for "seeing", and "the system" for "that entity", and the verse asks the physicist's question back. The system before measurement is known and named only through measurements. Apart from them, by what is it designated?
+
+The thing without characteristics. Chapter 5 examines a thing that would exist first, without its characteristics, waiting to receive them:
+
+But no thing without a characteristic is found anywhere. And if there is no thing without a characteristic, where would the characteristic apply? (MMK 5.2)
+
+An indeterminate something, waiting to be determined, is exactly this: a thing without its characteristics, which the measurement then supplies. It is not found.
+
+# What, then, is there before?
+
+Not a hidden something, and not a blank either.
+
+A potential is not a thing waiting backstage. It is named only together with its actual result and its partner. Salt is "soluble" only in relation to water; a seed is a seed only in relation to the sprout. "Could" is a designation made within conditions. Book 1 puts it simply: to ask where Hilbert space is, or what the wavefunction is made of, is like asking where the number seven is kept.
+
+"Everything is possible" does not mean a store of possibilities. Nah-gar-joo-nah says that for whom emptiness is possible, everything is possible (MMK 24.14). The verb, yujyate, means "fits", "holds together", "works". It does not describe possibilities waiting somewhere to be realised. Things appear in such varied, context-dependent ways because they depend. Their openness is not drawn from a reservoir.
+
+Zog-chen has the better word. Not "potential" but ma 'gags pa, unobstructed: nothing blocks the display, and there is no store behind it from which the display comes (Book 4, Chapter 8). And the openness is not unlimited. Appearances are exactly as open as their conditions allow, and no more. A plasticity that could make anything by itself would be one more own-nature.
+
+The "before" and the measurement are designated together. System, apparatus, wavefunction, observer and outcome are singled out together; none of them is prior, and none is found on its own. The object before measurement is not hidden behind the click, waiting. It is designated together with the click.
+
+You can feel this directly. A car passes, and you hear it. Before that, was the sound already there somewhere, not yet determined, waiting: in the car, in the air, in your ear, in a space of possible sounds? Look. Nothing is found waiting. When engine, air, ear and attention come together, the sound is simply there: vivid, complete, not taken out of a store. The "before" is added afterwards, when we ask what was there before.
+
+# Two cautions.
+
+This takes nothing from the physics. The wavefunction and Hilbert space are valid, testable and astonishingly precise. They work: the same theory runs the transistors in your phone. What the Dharma refuses is only the further step of making them the world behind the detector's clicks.
+
+Nor is the answer "nothing exists until it is observed". That makes either the mind the new ground, or the unmeasured world a void. It is the same "before" with its sign reversed: a nothing waiting to be turned into something. The middle way between them is not a third thing. It is seeing that the "before", as something found from its own side, was never there to be either full or empty.
+
+# The step the Dharma adds.
+
+Line the authors up, and a clear picture shows.
+
+Most physics goes from things to relations. That is a genuine advance. It is also where most of it stops: the relations become what is there. Even Mermin once summed up his reading of quantum mechanics as "correlations without correlata", and said the correlations are what has physical reality.
+
+Many, when they look at what comes before measurement, put back a "before": a store of possibilities, a wave, an indeterminate state, an undescribed object. That is the relations' floor turned into a waiting room.
+
+A few go one step further. Bohr refuses to describe an in-itself. Barad refuses relata before relating. Bitbol refuses to reify the relations. Westerhoff refuses any foundation. Varela, Thompson and Rosch call the whole thing groundless.
+
+The Dharma's step is the last one: the relations are not found from their own side either. Relation and the things related are designated together; neither is prior, and neither is the ground. The line is as unfindable as the dot.
+
+Then what is left? Not a blank, and not a web. What is left is this: the sound of the car passing, the red of the apple, the feel of the paper at the tip of the pen. Vivid, exact, following its conditions without fail, and nothing found that makes it. Dependent arising is the description given while we divide it into pieces and links. Spontaneous presence is the same appearing when the dividing stops. The pieces and the links belong to the analysis, not to the appearing (The Limits of the Tools).
+
+That is why the Dharma does not rest on physics, and does not compete with it. Physics refines designations. It does not find a substrate, and it does not need one.
+
+# The table.
+
+A table. Author; The closest point; Where it stops.
+
+Jan Westerhoff: No world independent of conditions; no foundation, no final theory; Argued, not practised.
+
+Michel Bitbol: Mahd-yah-mah-kah as the cure for metaphysics in physics; relations not to be reified; A cure for a picture; the habit in seeing is not its subject.
+
+Karen Barad: The agential cut as designation; no relata before relating; Intra-action and phenomena made the primary units of what there is.
+
+Varela, Thompson, Rosch: Not a pregiven mind, not a pregiven world: groundlessness, from Nah-gar-joo-nah; Later enactivism can make the self-producing organism the bedrock.
+
+Niels Bohr: The phenomenon includes the whole arrangement; no in-itself described behind it; Classical apparatus and concepts left unexamined; an undescribed "atomic object" kept behind the phenomenon.
+
+Werner Heisenberg: "Nature exposed to our method of questioning"; particles not things; Potentia, energy and mathematical form each made the ground.
+
+Carlo Rovelli: No property except relative to another system; reads Nah-gar-joo-nah, and says emptiness is empty; The "net of interactions" taken as the fabric of the world.
+
+QBism: The wavefunction is not a thing; the knower is put back; The agent and its experience can become the fixed point.
+
+Andy Clark: The skull is not found as the mind's wall; The container made larger, not dissolved.
+
+Anil Seth: Perception and self are constructed: controlled hallucination; The brain as the ground; "hallucination" sliding into nihilism.
+
+Bohm, Wheeler, Zeilinger, Wallace: Dissolve the solid object; Wholeness, information or substrate consciousness made the new ground.
+
+Hilbert space and the probability wave, read as what is there: The openness of phenomena, shown exactly; A "before": a substance made of possibilities.
+
+So the ranking, closest first: Westerhoff and Bitbol (philosophers who refuse to let the relations become the ground), Barad (the closest in physics itself, read with the guard), Varela, Thompson and Rosch (the closest in cognitive science, and on purpose), then Bohr and Rovelli, then QBism, Clark and Seth. Heisenberg, Bohm, Wheeler, Zeilinger and Wallace bring a ground back. And nearly all of them, the closest included, are tempted by a "before": an indeterminate state waiting behind the measurement.
+
+# Try it.
+
+Take a pen and write a few words, slowly. Notice where the paper is felt: at the tip of the pen, not in the fingers.
+
+Now stop and look at the pen in your hand. It is an object again. Ask: where was the cut between "me" and "pen" a moment ago, and where is it now? Look for the cut itself. It is not found as a thing. Yet it is not arbitrary: you cannot feel the paper through a pen you are not holding.
+
+Then look for the relation. When the tip met the paper, was there a contact, a third thing, between them? Look for it. Not the tip, not the paper, not the hand, not something in between. "Coming into contact… is not found."
+
+And still the scratching of the pen is heard, the roughness is felt, the words appear on the page. Nothing is missing. Nothing is found that produces it. That is the step the Dharma adds.
+
+# Where I stand.
+
+Let me say plainly where I stand, after all these authors.
+
+I respect science, and I do not lean on it. Physics finds regularities of astonishing precision, and it works: bridges stand, the phone in your hand runs on quantum theory. But it does not prove the Dharma, and the Dharma did not foresee physics. Science refines designations. It does not uncover a substrate, and it does not need one. What moves me is something more modest: every time physics has looked for the last thing at the bottom, it has found that the bottom was defined by relations. That is dependent origination, seen from outside.
+
+What the physicists see. Nothing stands alone. The electron has no properties of its own, apart from the arrangement. Time on the watch depends on where the watch has been. The mind is not sealed in the skull. Up to here, Bohr, Heisenberg, Barad, Rovelli, Varela and the others are seeing what Nah-gar-joo-nah saw.
+
+What they still do. They abstract. Something is lifted out of the appearing and made into a thing: the relations become a net, intra-action becomes what the world is, the openness of phenomena becomes a Hilbert space or a probability wave waiting behind the click, a potentia, an indeterminate state, a "before". Elsewhere it is energy, information, a wholeness, or consciousness. It is always the same move. Abstract the conditions, and you get a web or a machine behind the world. Abstract the openness, and you get a store of possibilities. Abstract the clarity, and you get a Mind that gives off appearances. Abstract emptiness itself, and you get a ground, a field, a space everything sits in. Dependent arising undoes all of these.
+
+Where that move comes from. Not from the experiments. From habit. We think inherently out of habit, almost by intuition, and the way we do it follows the structure of our language. A sentence wants a subject and a verb, so we say "the wind blows", as if there were a wind apart from the blowing. Physics speaks the same grammar: "the system has a state", "the observer measures the system", "the particle was somewhere before it was detected". The grammar becomes the picture of the world, and then the picture is taken to be what was found. It was never found.
+
+How I see it. Four insights, each to be authenticated in direct experience, again and again, until it is no longer an idea:
+
+1. Vivid and unfindable. The click of the detector, the red of the apple, the sound of the car: fully there, and not found when looked for. Not vivid first and empty later. Both at once. That is emptiness.
+
+2. Appearance arises whenever conditions align. Source, apparatus, screen; light, eye, attention. When they come together, the phenomenon appears; when one is missing, it does not. Nothing comes out of a hidden place, and nothing goes back into one. And the conditions are not a solid network behind it: they too are vivid and not found. That is dependent origination.
+
+3. The habit. We read every appearing back into things, selves and grounds before we notice. That is ignorance: not a lack of information, but the innate grasping at things as existing from their own side.
+
+4. There is no given. No world is waiting behind what appears, with its own edges and things, before anyone looks, or before anything is measured. Nor is the mind the floor instead. Mind and object arise together, and neither comes first.
+
+So dependent arising is spontaneous presence. With no doer anywhere, and nothing put in its place, nothing is making the appearing. The sound is not a product waiting to be finished. It is complete, by itself, exactly as its conditions meet. Not uncaused: the car still has to go by. Not a source: nothing stands behind appearing, not even spontaneity. Dependent arising is how it is described when we analyse. Spontaneous presence is the same appearing when the habit of fixing stops. They are one appearing, described in two ways.
+
+Clarity is never missing. Physics often pictures a world running in the dark before measurement, waiting for an observer to light it up. That is the "before" again. You cannot talk about phenomena without clarity: a click is clear as a click, a colour vivid as colour. A phenomenon is whatever can be known. So the question is never whether there is clarity. It is only whether the clarity is abstracted out and made into a thing: removed, so that a dark world remains, or reified, so that "consciousness creates reality". Both are the same mistake. Left as it is, the clarity is the appearing's own.
+
+Everything is a phenomenon. Nothing is left outside dependent arising: not a hidden world before measurement, and not an absolute nothing either. "No phenomenon at all" is the same inherent view as a substance, looked at from the other side (Annihilation Is an Inherent View).
+
+Nothing is taken away. The table still holds the lamp. The equations still predict. Because nothing is there from its own side, things can change, meet and work. Once dependent arising is seen, mind and matter both lose their weight. Not because anything is removed, but because nothing was ever sitting inside them to be heavy. Things become light: magical and plastic, like a display that works perfectly and holds nothing.
+
+So read the physicists with gratitude. They loosen the habit from the outside. But the logic of dependency is understood only when it is seen, here, in this sound, this colour, this thought. Seeing comes first.
+
+# In brief.
+
+Science reaches relations. Nothing stands alone: not the electron, not the time on the watch, not the mind inside the skull.
+
+The closest go one step further. No relata before relating (Barad), no foundation (Westerhoff), relations not reified (Bitbol), groundlessness (Varela, Thompson, Rosch).
+
+The Dharma takes the last step. The relations are not found from their own side either. Relation and related are designated together; neither is the ground.
+
+What remains is not a web. It is vivid appearing, following its conditions, with nothing found that makes it: spontaneous presence.
+
+There is no "before" waiting. A potentia, a wave of possibilities, an indeterminate state, an undescribed object: each is emptiness given a home behind appearances. The "before" and the measurement are designated together (MMK 1.1, 5.2, 9.3).
+
+Watch for the new ground. A field, a wholeness, information, the brain, the organism, the agent, a substrate consciousness: each is the old substance at a new address.
+
+Do not oversell. Science has not proven the Dharma, and the Dharma did not foresee physics. Both are valid in their own domain.
+
+# Words to know.
+
+Relational ontology: the view that relations, not things, are what finally exists. The web as the floor.
+
+Intra-action (Barad): relating in which the things related do not exist before the relating.
+
+Agential cut (Barad): the line drawn inside a phenomenon between object and instrument; enacted, not found, and not arbitrary.
+
+Enaction: cognition as the bringing forth of a world and a mind together, through a history of action.
+
+four-E cognition: mind as embodied, embedded, enacted and extended.
+
+Hilbert space, wavefunction: the mathematics quantum theory uses to describe a system and predict how often each outcome appears. Valid and precise; not a place, and not a stuff.
+
+Potentia (Heisenberg): a layer of possibilities thought to stand behind outcomes, which measurement turns into fact.
+
+Indeterminate state: a system pictured as there before measurement, without definite properties, waiting to be made definite. Never found.
+
+Unobstructed (ma 'gags pa): nothing blocks the display, and there is no store behind it from which it comes.
+
+Controlled hallucination (Seth): perception as the brain's best guess, held in check by the senses.
+
+Dependent designation: something singled out and named in dependence on its parts, its conditions and the mind that singles it out; validly functioning, and not found from its own side.
+
+Spontaneous presence: appearing vivid and exact, following its conditions, with nothing found that produces it. Not a source.

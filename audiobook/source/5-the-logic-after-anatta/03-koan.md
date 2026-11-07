@@ -14,11 +14,11 @@ The ordinary picture is different. It says that things arise, stay for a while, 
 
 ## The substantialist reading
 
-The logic of substance starts with things and asks what happens to them. So it starts with "this moment" as a thing, and treats arising and ceasing as things that happen to it. This is the grammar of the sentence, subject then verb, taken for the shape of the world: "the moment arises", "the moment ceases", as if there were a moment apart from the arising and the ceasing ([*The Logic of Dependency*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic), "Change Without a Changer").
+The logic of substance starts with things and asks what happens to them. So it starts with "this moment" as a thing, and treats arising and ceasing as things that happen to it. This is the grammar of the sentence, subject then verb, taken for the shape of the world: "the moment arises", "the moment ceases", as if there were a moment apart from the arising and the ceasing ([*The Logic of Dependency*](https://atr-passerby.com/the-logic-of-dependency/), "Change Without a Changer").
 
 Given a thing, the question must be answered. There are four possible answers, and each one fails.
 
-- **It arises.** Then it comes into being and is there. But it ceases as it arises, so it is never there to have arisen. And if it stays even for an instant, that instant has a beginning, a middle and an end, and splits again into what is gone and what is not yet ([*Vivid and Nowhere*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon), section 4).
+- **It arises.** Then it comes into being and is there. But it ceases as it arises, so it is never there to have arisen. And if it stays even for an instant, that instant has a beginning, a middle and an end, and splits again into what is gone and what is not yet ([*Vivid and Nowhere*](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/), section 4).
 - **It ceases.** Then something passes away. But what passes away, if it never stood? "Ceasing does not make sense for a thing that is abiding. Nor does it make sense for a thing that is not abiding" (MMK 7.27). A thing that abides is not ceasing; a thing that never abides has nothing there to cease.
 - **Both.** Then one thing comes into being and passes away at one and the same time. But coming into being and passing away are opposites, like light and dark; they cannot belong to one thing at one time. "Birth and death are not found at one and the same time" (MMK 21.3).
 - **Neither.** Then there is no moment at all, and nothing happens. Yet a sound is being heard right now.
@@ -27,7 +27,7 @@ Taking arising and ceasing apart does not help either. An arising that never cea
 
 > There is no passing-away either apart from coming-into-being or together with it. There is no coming-into-being either apart from passing-away or together with it.
 >
-> Nāgārjuna, [*Middle Way*, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21), verse 1
+> Nāgārjuna, [*Middle Way*, Chapter 21](https://atr-passerby.com/nagarjuna-21-examination-of-becoming-and-destruction/), verse 1
 
 ### The ways out, and why they fail
 
@@ -81,7 +81,7 @@ Nāgārjuna has five core ways of taking the logic of substance apart, and each 
 
 **Substance.** The four logics above all fail for the same reason. Each needs a moment, an arising or a ceasing that is established on its own before it relates to anything. "Two things that cannot be established either together with each other or apart from each other: how could they be established at all?" (MMK 21.6). Arising and ceasing are just such a pair.
 
-**Dependency.** The fifth logic is not one more refutation. It is what the other four leave: "Dependent arising is what we call emptiness. That is a designation in dependence, and that itself is the middle way" (MMK 24.18). This moment's arising-and-ceasing is dependent arising, so it is empty, and because it is empty it can appear and pass at all: "For whom emptiness is possible, everything is possible" (MMK 24.14).
+**Dependency.** The fifth logic is not one more refutation. It is what the other four leave: "Dependent arising is what we call emptiness. That is a designation in dependence, and that itself is the middle way" (MMK 24.18). This moment's arising-and-ceasing is dependent arising, so it is empty. It appears and passes, and what appears and passes is found empty; a moment with a nature of its own could neither appear nor pass. As Nāgārjuna puts it: "For whom emptiness is possible, everything is possible" (MMK 24.14).
 
 Each logic searches a different hiding place of the "it": its source, its identity, its present, its marks, and its standing on its own. Each lands in the same place. No "it" is found, and the moment is still here.
 
@@ -95,11 +95,11 @@ Two answers can be given, and they are not in conflict.
 
 > Without ceasing, without arising, without annihilation, without permanence, not one thing and not many, without coming and without going.
 >
-> Nāgārjuna, [*Middle Way*, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1), homage
+> Nāgārjuna, [*Middle Way*, Chapter 1](https://atr-passerby.com/nagarjuna-1-examination-of-conditions/), homage
 
-"Without arising" here is not a denial that things appear. It is said of dependent arising itself. Because nothing arises as an "it", from its own side, things can appear, change and pass at all. The two answers are the two truths of [Step 4](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-4): not two worlds, but one moment seen two ways.
+"Without arising" here is not a denial that things appear. It is said of dependent arising itself. Because nothing arises as an "it", from its own side, things can appear, change and pass at all. The two answers are the two truths of [Step 4](https://atr-passerby.com/step-4-the-two-truths/): not two worlds, but one moment seen two ways.
 
-So the koan is not answered by choosing a corner. It is answered when the "it" is seen never to have been there. Then each moment is simply complete where it is, with nothing carried over and nothing left behind. Dōgen says it of firewood and ash: each abides in its own dharma-position, with a before and an after, yet cut off from before and after ([*The Architecture of Carrierless Continuity*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#carrierless), section 3.2). The Dzogchen tradition calls it self-release: a thought recognised as unfixed releases itself as it arises, like a drawing on water, which needs no eraser (*Vivid and Nowhere*, section 13).
+So the koan is not answered by choosing a corner. It is answered when the "it" is seen never to have been there. Then each moment is simply complete where it is, with nothing carried over and nothing left behind. Dōgen says it of firewood and ash: each abides in its own dharma-position, with a before and an after, yet cut off from before and after ([*Neither Carried Nor Cut*](https://atr-passerby.com/neither-carried-nor-cut/)). The Dzogchen tradition calls it self-release: a thought recognised as unfixed releases itself as it arises, like a drawing on water, which needs no eraser (*Vivid and Nowhere*, section 13).
 
 > Ask what arises, and the koan is a paradox. See that no "it" is found, and the koan is simply this moment.
 
@@ -113,7 +113,7 @@ So the koan is not answered by choosing a corner. It is answered when the "it" i
 
 If the moment is an "it", every experience is something to keep or to lose. A clear moment in meditation must be held on to; a painful one must be got rid of; the end of a life is the end of something that was really there. Craving and fear follow from the "it" as surely as the paradox does.
 
-Seen without the "it", there is nothing to keep and nothing to lose. Each moment is wholly itself and wholly gone, and nothing went anywhere. This is not indifference. The moment is met fully, because it is not being held on to. The same seeing runs through [Death and the Bardo](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-death) and [Time](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-time).
+Seen without the "it", there is nothing to keep and nothing to lose. Each moment is wholly itself and wholly gone, and nothing went anywhere. This is not indifference. The moment is met fully, because it is not being held on to. The same seeing runs through [Death and the Bardo](https://atr-passerby.com/death-and-the-bardo/) and [Time](https://atr-passerby.com/time/).
 
 ## Try it
 
@@ -121,20 +121,20 @@ Seen without the "it", there is nothing to keep and nothing to lose. Each moment
 - Watch a thought come and go. Ask "where did it go?", then notice that the question assumes a thought that went somewhere. Look for that thought.
 - Follow the out-breath to its end. Is there a breath that is ending, apart from the ending?
 
-**In the chain:** this page goes with [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon) (4 of 7); [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic) (6 of 7). The chain starts at [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro).
+**In the chain:** this page goes with [Vivid and Nowhere](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/) (4 of 7); [The Logic of Dependency](https://atr-passerby.com/the-logic-of-dependency/) (6 of 7). The chain starts at [Seeing Comes First](https://atr-passerby.com/seeing-comes-first/).
 
 ## In the books
 
-- [Nāgārjuna, Chapter 7](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-7): arising, abiding and ceasing examined, ending with the magic show and the dream (7.34).
-- [Nāgārjuna, Chapter 2](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-2): the road being walked, and the three times.
-- [Nāgārjuna, Chapter 10](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-10): fire and fuel, neither one nor other.
-- [Nāgārjuna, Chapter 24](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-24): dependent arising is emptiness.
-- [Nāgārjuna, Chapter 21](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-21): coming-into-being and passing-away, neither apart nor together.
-- [Nāgārjuna, Chapter 1](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#mmk-1): the homage, without arising and without ceasing.
-- [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): "Change Without a Changer" and the eight extremes turned over.
-- [Vivid and Nowhere](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon): section 4, Nāgārjuna dissects the present (bonus article).
-- [The Architecture of Carrierless Continuity](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#carrierless): section 3.2, Dōgen's dharma-positions (bonus article).
-- [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro): the key insights this koan puts to work.
+- [Nāgārjuna, Chapter 7](https://atr-passerby.com/nagarjuna-7-examination-of-the-conditioned/): arising, abiding and ceasing examined, ending with the magic show and the dream (7.34).
+- [Nāgārjuna, Chapter 2](https://atr-passerby.com/nagarjuna-2-examination-of-motion/): the road being walked, and the three times.
+- [Nāgārjuna, Chapter 10](https://atr-passerby.com/nagarjuna-10-examination-of-fire-and-fuel/): fire and fuel, neither one nor other.
+- [Nāgārjuna, Chapter 24](https://atr-passerby.com/nagarjuna-24-examination-of-the-four-noble-truths/): dependent arising is emptiness.
+- [Nāgārjuna, Chapter 21](https://atr-passerby.com/nagarjuna-21-examination-of-becoming-and-destruction/): coming-into-being and passing-away, neither apart nor together.
+- [Nāgārjuna, Chapter 1](https://atr-passerby.com/nagarjuna-1-examination-of-conditions/): the homage, without arising and without ceasing.
+- [The Logic of Dependency](https://atr-passerby.com/the-logic-of-dependency/): "Change Without a Changer" and the eight extremes turned over.
+- [Vivid and Nowhere](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/): section 4, Nāgārjuna dissects the present (bonus article).
+- [Neither Carried Nor Cut](https://atr-passerby.com/neither-carried-nor-cut/): one complete stroke and the sequence, and Dōgen's firewood and ash.
+- [Seeing Comes First](https://atr-passerby.com/seeing-comes-first/): the key insights this koan puts to work.
 
 ### Talks
 
@@ -157,4 +157,4 @@ Non-arising (*anutpāda*)
 Nothing arises from its own side. Said of dependent arising itself, not a denial that things appear.
 
 Dharma-position (*jū hōi*)  
-Dōgen's term for each moment abiding fully in its own place, with a before and an after, yet cut off from them.
+Dōgen's term for each moment abiding fully in its own place, with a before and an after, yet cut off from them: not carried over, and never annihilated. Neither carried nor cut.

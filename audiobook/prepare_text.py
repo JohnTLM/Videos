@@ -21,15 +21,22 @@ PRON = HERE.parent / "tools" / "pronunciation.json"
 SETS = {
     "1-substrateless-world": "The Logical Necessity of a Substrateless World",
     "2-anatta-to-emptiness": "The Transition from Anatta to Emptiness",
+    "3-nagarjunas-middle-way": "Nāgārjuna's Middle Way",
     "4-observer-and-presence": "The Observer and the Taste of Presence",
     "5-the-logic-after-anatta": "The Logic After Anatta",
+    "explorations": "Explorations",
+    "zoom-ins": "Zoom-ins",
+    "the-canon-view": "The Canon View",
     "bonus-articles": "Bonus Articles",
-    "questions": "The Questions",
 }
 SKIP = {"20-sw-references.md": "references", "27-ob-a.md": "verse index", "30-ob-d.md": "references"}
 # Sections left out with everything under them: reading lists, link lists and references.
 DROP_SECTIONS = re.compile(r"^(read more|further reading|sources and further reading|notes on sources|"
-                           r"references|in the books|talks)$", re.I)
+                           r"references|in the books|talks|part iii\. where the texts drift from this canon)$", re.I)
+# The Explorations "Zoom in (N)" box (a website button and its list), from that line to "Last updated …".
+ZOOM_START, ZOOM_END = re.compile(r"^Zoom in \(\d+\)$"), re.compile(r"^Last updated ")
+# Canon View source lists: "*SW §5, …; OP Ch 13, …; points 1, 4.*" (abbreviated references, not readable aloud)
+CITATION = re.compile(r"^\*(OP|AE|SW|MW|MMK|Art\.)\s.*\*$")
 # Website-only paragraphs: video links, page-to-page navigation, companion-page links.
 NAV = re.compile(r"^(\*\*Watch|\*\*Prefer to watch\?|\[Watch|\*\*In the chain:\*\*|\*Companion pages:|Three talks on rebirth on YouTube)")
 NOTATION = re.compile(r"^Notation:")                # Book 2 appendix: symbol formulas, not readable aloud
@@ -133,7 +140,8 @@ def convert(md, setname, notes, where):
         i += 1
     album = SETS[setname]
     t = inline(title)
-    intro = {"bonus-articles": f"Bonus article. {end(t)}", "questions": f"The Questions. {end(t)}"}.get(
+    intro = {"bonus-articles": f"Bonus article. {end(t)}", "explorations": f"Explorations. {end(t)}",
+             "zoom-ins": f"Zoom in. {end(t)}", "the-canon-view": end(t)}.get(
         setname, f"{album}. " + (f"Chapter {chapter}. " if chapter else "") + end(t))
     paras, drop_level = [intro], None
 
@@ -144,10 +152,25 @@ def convert(md, setname, notes, where):
             paras.append(end(" ".join(block)))
             block.clear()
 
-    rows, quote, skip_para = [], False, False
+    rows, quote, skip_para, zoom = [], False, False, False
     for raw in lines[i:] + [""]:
         l = raw.rstrip("\n")
         s = l.strip()
+        if ZOOM_START.match(s):
+            flush()
+            zoom = True
+            notes.append(f"{where}: Zoom in box left out")
+            continue
+        if zoom:
+            zoom = not ZOOM_END.match(s)
+            continue
+        if re.search(r"\\\|[*_]*\s*$", s):                   # Sanskrit verse lines (MMK, GRETIL), ending in a danda
+            notes.append(f"{where}: Sanskrit verse line left out") if not notes or "Sanskrit" not in notes[-1] else None
+            continue
+        if CITATION.match(s):
+            flush()
+            notes.append(f"{where}: source list left out ({s[:50]!r})")
+            continue
         if skip_para:                                     # a website-only paragraph, up to the next blank line
             skip_para = bool(s)
             continue
@@ -236,6 +259,8 @@ def main(only=None):
         if only and setname not in only:
             continue
         (OUT / setname).mkdir(parents=True, exist_ok=True)
+        for old in (OUT / setname).glob("*.txt"):    # files of pages that left the site or were renumbered
+            old.unlink()
         for f in sorted((SRC / setname).glob("*.md")):
             where = f"{setname}/{f.name}"
             if f.name in SKIP:

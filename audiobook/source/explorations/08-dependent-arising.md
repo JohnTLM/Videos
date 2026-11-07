@@ -1,0 +1,559 @@
+# Dependent Arising and Designation
+
+What dependent arising and designation say, and what they are for: how things work with no power in the cause, why designation is singling out, the two modes of right knowing, the three uses, why dependent arising is the antidote to ignorance, how the view is met as a taste, and how anatta, dependent arising and spontaneous presence are three descriptions of one taste.
+
+Zoom in (6)
+
+This page is the whole picture. Each article zooms into one part of it.
+
+- Causal efficacy without causal power; conditions are the appearing → [*Causal Efficacy Without Causal Power*](https://atr-passerby.com/causal-efficacy-without-causal-power/)
+- Conditions without production; conditions without a web → [*The Limits of the Tools*](https://atr-passerby.com/the-limits-of-the-tools/)
+- The doer behind the doing: MMK 2, 3, 10 and 1 → [*Decoding Anatta and MMK Chapter 3*](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/)
+- Designation is singling out; a world of only blue → [*What the Logic Is Looking At*](https://atr-passerby.com/what-the-logic-is-looking-at/)
+- Indra's net; two modes of right knowing → [*The Illusion of the Given*](https://atr-passerby.com/the-illusion-of-the-given/)
+- The logic of dependency step by step → [*The Logic of Dependency*](https://atr-passerby.com/the-logic-of-dependency/)
+
+Last updated 7 Nov 2026
+
+## How the tradition defines them
+
+Before anything of my own, here are the two words as the tradition defines them.
+
+**Dependent arising** (Sanskrit *pratītyasamutpāda*, Pāli *paṭiccasamuppāda*, Tibetan *rten cing ’brel bar ’byung ba*) is arising in dependence on causes and conditions. The Buddha gives it in one formula: when this is, that is; from the arising of this, that arises; when this is not, that is not; from the ceasing of this, that ceases. Applied to suffering, it is the twelve links, from ignorance to ageing and death: in forward order, how suffering comes about; in reverse order, how it ends. Candrakīrti reads the word itself: *pratītya*, meeting or depending; *samutpāda*, arising. Madhyamaka widens it from the twelve links to every phenomenon: nothing arises without depending, so nothing has a nature of its own. Tsongkhapa sets out three levels of dependence: on causes and conditions; on parts, a whole on its parts and the parts on their whole; and, the subtlest, on designation.
+
+**Designation** (Sanskrit *prajñapti*, Tibetan *btags pa*) is naming or imputing, by word and concept, in dependence on a basis of designation (*gdags gzhi*). The Abhidharma used it to sort what exists: some things exist only as designated, such as a chariot, a person or a forest; others exist substantially, the dharmas a search finally comes down to. Nāgārjuna takes that floor away: the dharmas are designated too. He joins the two words in one verse: what arises in dependence is what we call emptiness; that is a designation in dependence, and that itself is the middle way (MMK 24.18). For Candrakīrti and Tsongkhapa, a thing exists merely as designated in dependence on its basis, and when you look for what the name stands for, nothing is found. Depending and being designated are one fact seen from two sides: what depends cannot be found standing by itself, so it exists only as designated on its basis; and what is designated holds only in dependence on that basis. That is why the two words share one page. Nor does “by word and concept” make the chariot a thing in the mind: the concept that designates is singled out too, so the chariot is no more made of mind than of chariot-stuff (“Designation”).
+
+**In practice, many key insights.** I keep these definitions; nothing on this page goes against them. One word needs care: “arising” does not mean production. Conditions meet and this appears, and nothing is born from its own side; that is why Nāgārjuna can praise dependent arising as without arising (“Three descriptions, one taste” and “How the masters define it, and where I stand”). In practice, in meditative contemplation and in experience, dependent arising and designation open into many key insights, and those are what this page is mostly about: no doer behind the doing (“The doer behind the doing”), singling out (“Designation”), conditions as the appearing, and not a web (“Conditions are the appearing, and not a web”), one toss of an apple (“Tossing an apple: the whole view in one moment”), two modes of right knowing (“Two modes of right knowing”), the antidote to ignorance (“The antidote to ignorance”), and the taste (the sections from “How the view is met: the taste” to “What the view tastes like”). They matter because we do not live in the wisdom of dependent arising. We live reading the world as inherent. Even after anatta, when the taste is already met, the habit of seeing inherently stays: the taste is not yet freedom (“How the view is met: the taste”). If we did live in that wisdom, every experience would be *med par gsal snang*, vividly appearing yet unfindable, and centerless, mutual, seamless, effortless and intimate. Vividly appearing yet unfindable: as vivid as ever, and nothing found when looked for. Centerless: no one behind it, nothing at its middle. Mutual: each appears only with the others, and the relations are not found either. Seamless: no gap needing a bridge, and not merged into One. Effortless: nothing producing it, nothing to keep up. Intimate: no distance, nothing lighting it from outside. The section “What the view tastes like” comes back to all six.
+
+## In brief
+
+- **Defined in tradition, opened in practice.** Dependent arising is arising in dependence on causes and conditions (the twelve links; Tsongkhapa’s three levels); designation is naming on a basis of designation (MMK 24.18). In practice they open into many key insights. We do not live in the wisdom of dependent arising; if we did, every experience would be *med par gsal snang*, vividly appearing yet unfindable, and centerless, mutual, seamless, effortless and intimate. “Arising” here is not production, and “designated” is not “only in the mind”.
+- **This is the hub.** Dependent arising runs through everything I write, and it is often misheard: as a web behind things, a machine of causes, “only concepts”, a lower truth, or the shape of ignorance. This page sets out the view in one place and says what it is for. The full arguments live on their own pages, and I point to them.
+- **What it says.** These conditions, met together, designated, working. Things function fully. What is never found is a power in the cause, or a producer behind the meeting of conditions.
+- **Not skewed towards mind.** When the producer falls away, the appearing is often read as “my radiance clarity”: the *ting* is consciousness. That is a true non-dual insight. But almost everyone then folds everything into consciousness, as Yogācāra did. Dependency breaks that skew: a phenomenon is neither mind nor matter, but vivid, empty appearing.
+- **The same seeing as anatta.** Anatta finds no doer behind seeing. Dependent arising finds no doer behind anything: no maker behind arising, no goer behind going.
+- **Designation.** Whatever appears is singled out as “this”, and stands out only with its conditions. The chariot is not found among its parts or apart from them, and it still carries you. The parts are designated too, so no bottom layer is ever reached. It is not only a name and not only in the mind: designation and functioning arise together, the search removes only a chariot standing by itself, and the mind that designates is singled out too.
+- **Not a web.** The relations are no more found than the things.
+- **One example holds it all.** Tossing an apple: the habit sees a solid apple, thrower and receiver; looked at, there are many dependent arisings, an apple designated on its basis with no bottom layer, a toss that works by causal efficacy without causal power, and no thrower behind the throwing. The mere I still catches it.
+- **Two modes of right knowing, and three uses.** Right knowing by concepts within the framework, and freedom from all elaborations, not within it. Dependent arising explains, dismantles and describes the taste.
+- **An enlightened view, the antidote to ignorance.** We do not yet live in its wisdom. It does not originate with ignorance; it originates as the corrective antidote for it. That is why the masters praise it, and why what they call a veil is ignorance, not dependent arising.
+- **How the view is met.** First as a taste, right after anatta: seeing is just colours, hearing just sound, no effort, not even a process. But the habit of reifying stays. The logic brings it up, the mind gives up what it hinges on (parts, whole, qi, energy, field, relations, substrate), and the same taste is met again, free and stable. Then I re-enter the marketplace and meet it there too.
+- **Three descriptions, one taste.** Anatta says no one is behind it; dependent arising says nothing in it stands on its own; spontaneous presence says nothing is missing and nothing is making it. One appearing, neither higher. Once known, the taste is recognised in many faces.
+- **In line with the masters.** My view does not deviate at the core. Even “dependent arising is spontaneous presence” is understood in Nāgārjuna’s own terms: “not made by causes” read as “unborn by nature”.
+- **Every mistake on this path is the doer coming back** in a bigger coat: a vast Awareness, a cosmic whole, a web, a ground, a saviour.
+- **How it tastes.** Held properly, the view is tasted in every appearing as vividly appearing yet unfindable (*med par gsal snang*), centerless, mutual, seamless, effortless and intimate.
+
+![Diagram 1](../figures/aa-dependent-arising-diagram-1.svg)
+
+Three uses of one view. The conventional use gives the reasoning its force, and the reasoning takes away only the “from its own side”.
+
+## Why a page of its own
+
+Dependent arising is at the centre of almost everything I have written: the eight steps of the logic, *Causal Efficacy Without Causal Power*, *Neither Carried Nor Cut*, *Mind and Consciousness: Both Are Also Singled Out*. Each of those pages uses it for its own question. None of them sets out the view itself, whole, and says what it is for.
+
+That matters, because dependent arising is easy to agree with and easy to mishear. Most people already accept that things depend on other things. Then they hear one of five things:
+
+- **A web.** Things are unfindable, but surely the connections are there: a network, a field of relations, the floor at last.
+- **A machine.** Causes working in the dark, each pushing the next.
+- **“Only concepts”.** If it is designated, it is a story, and causes are not really there.
+- **A lower truth.** Fine for the world, to be left behind when one sees the ultimate.
+- **The shape of ignorance.** The twelve links begin with ignorance, so dependent arising is the pattern of confusion.
+
+Each takes something true and sets it on the wrong foot. This page is the hub: it gives the view in short, and points to where each part is worked out in full. It also tells how the view is met, as a taste, before it is understood and again after; and how anatta, dependent arising and spontaneous presence describe that one taste (“The antidote to ignorance” and “How the view is met: the taste”).
+
+## What it says
+
+A bell rings when it is struck. A seed of rice gives rice. A harsh word, met with a certain mood, brings anger. The order is reliable, and actions have results. Dependent arising says: these conditions, met together, and this appears. Designated, and working.
+
+What it never says is that a cause, standing on its own, makes an effect and hands it across. The ringing is not made by the bronze, the strike, the air and the ear, and then sent out; it is their meeting. Nothing passes from the strike to the sound, and nothing stands behind the sound producing it. Yet without the strike there is no ringing. This is what I call causal efficacy without causal power: conditions condition, fully, and no power is ever found sitting in a cause. The full argument, against MMK chapters 1, 20 and 24 and the *Rice Seedling Sūtra*, is in *Causal Efficacy Without Causal Power*; the bell and the three senses of “cause” are in *The Limits of the Tools*.
+
+**What is left over: the ringing as my clarity.** Conventionally we say the strike of the bell produces the sound, and that is fine. The analysis does not take it away. What the analysis shows is that our naive, inherent way of understanding masks and confuses how experience actually is: things do not function the way the inherent mind thinks they do. But when the producing cause falls away, one part is almost always left over. The appearing is what we conventionally designate as “radiance clarity”. The resounding *ting* is consciousness; it is my very radiance clarity.
+
+This reading is fine. It is in fact an important non-dual insight, and a recognition of anatta: no hearer stands apart from the *ting*; the *ting* is the hearing.
+
+What I want to stress is what tends to happen next. Many, almost without fail and only as a matter of degree, then subsume the whole endeavour into consciousness, much as Yogācāra did. The producer is gone and the hearer is gone, and mind is left standing as what everything is: the bell, the air and the ear become contents of one clarity. That is the ground coming back, this time as mind.
+
+At this juncture dependency is the key, used to break this skewing towards mind. The *ting* is there only with the bronze, the strike, the air and the ear. Being dependent, it is not mind from its own side, any more than it is bronze from its own side. “Clarity” and “consciousness” are singled out too (“Designation”; *Mind and Consciousness: Both Are Also Singled Out*). Clarity is never absent from what appears; but lifted out and made what everything is made of, it is one more reification.
+
+This is why I emphasise what a phenomenon is. A phenomenon leans neither to mind nor to matter. It is vivid, empty appearing: the *ting*, clear and resounding, arising with its conditions and found nowhere when looked for (*Vivid and Nowhere*; “How the view is met: the taste”, “Spontaneous presence: the taste revisited”).
+
+## The doer behind the doing
+
+Dependent arising did not come to me as a theory. It came as the same seeing as anatta, turned outwards.
+
+Anatta is the insight that there is no doer behind seeing. In seeing, only the seen; in hearing, only the heard. The person does not disappear: you still have a name, catch the bus and keep your promises. What falls away is one picture: someone standing behind the action, making it happen.
+
+Nāgārjuna makes the same move everywhere. There is no goer behind going: “a goer does not go, and a non-goer does not go” (MMK 2.8). There is no seer behind seeing (chapter 3), no fire standing apart from its fuel (chapter 10), and no producer behind arising (chapter 1). Dependent arising is this: no doer behind anything. The wind is blowing, and there is no wind apart from the blowing. It is raining, and there is no “it” that rains.
+
+When the witness is not found, experience does not go blank. The tree is more vivid, not less. Presence is not lost. It is simply no longer behind anything.
+
+But anatta does not do everything. It removes the one who watches. It does not, by itself, remove the things watched. As I put it in my second book: the observer has disappeared, but the world has not. Things, causes, time and space can still be held as solid, each sitting there from its own side. That is why I say anatta is a genuine and thorough insight, but not the whole view.
+
+So anatta and dependent arising are not two subjects. Anatta, met first, takes the doer out of seeing. Dependent arising takes it out of everything else: the cause, the object, the whole, the field. That is why, in my own path, the logic of dependence had to follow anatta, and why anatta read as a seal, not only as a first insight, already says what dependent arising says (*Decoding Anatta and MMK Chapter 3*).
+
+When I look back over my books and articles, the same move keeps turning up. Someone or something seems to stand behind an action, doing it. A seer behind seeing. A walker behind walking. A cause behind its effect, pushing it out. A ground behind appearances, giving them off. Each time, when it is looked for, it is not found. And each time, nothing is put in its place.
+
+Anatta, dependent arising and spontaneous presence are three names for that one finding, made in seeing, made everywhere, and met with nothing left to make the appearing. They are not three stages: anatta is a seal, not a stage.
+
+Two ways of saying this run through this page. One is negative: a removal. No doer is found, and nothing is found standing on its own. The other is what is met when that removal is complete: a taste. Nothing is added by it; it is only what is there when nothing is standing behind. So “one removal, made three times” and “three descriptions, one taste” (“Three descriptions, one taste”) are not two claims. They point at the same thing, once from the side of what is not found, and once from the side of what is met.
+
+![Diagram 2](../figures/aa-dependent-arising-diagram-2.svg)
+
+Top: the one finding, carried from seeing to everything, until nothing is left that makes the appearing. Bottom: the three places where the doer most often slips back.
+
+## Designation
+
+Dependent designation is not a second teaching beside dependent arising. It is the same seeing, turned on the “this” itself.
+
+**Singling out.** Designation does not need words. It needs only singling out: this sound, this colour, this ache, picked out as “this”. A “this” stands out only against what it is not, and only with these conditions. In a world of only blue, no one would see blue. So the singling out is not done to an appearance that was there first, waiting to be named. It is the appearing. Because it is already dependence, it is already empty. By appearing, a thing is already empty (*What the Logic Is Looking At*).
+
+**The chariot.** The clearest case is the oldest. Nāgasena asks King Milinda where his chariot is. It is not the pole, not the axle, not the wheels, not the frame, not their sum, and not something apart from them. Candrakīrti makes the search exhaustive, in seven ways: the chariot is not the same as its parts, not other than them, does not possess them, is not in them, does not contain them, is not their collection, and is not their shape. Nothing is found. Yet the chariot is not thereby denied. It carries you to town. It is established by designation in dependence on its parts, and the world’s way of speaking of it is left intact. For me the chariot was never only about chariots. Walking is the chariot. Hearing is the chariot. Every convention has its structure (Book 2, *The Chariot Comes Alive*).
+
+**The basis is designated too.** The chariot is designated on its wheels. But a wheel is singled out in turn, on rim, spokes and hub; and they on their wood; and the wood on its grain. Each basis of designation is itself designated. No bottom layer is ever reached where something finally stands by itself and receives the first name. That is where designation meets “no ground”: not because the search was cut short, but because there is nowhere for it to end.
+
+**Three levels.** Tsongkhapa sets out three levels of dependence: on causes and conditions; on parts; and on mere designation, being set up in dependence on a basis and a mind that designates it. The third is the subtlest and reaches what the others do not: permanent things, space, emptiness itself. All three hold together.
+
+**Not found, yet it carries you.** Here is where the expression is hardest. The chariot is not found in any of its parts, nor in all of them, and still we ride it to town. So what is a chariot that is “merely designated”? It is not only a name, and it is not only in the mind. Four points hold it.
+
+*Designation and functioning arise together.* Neither comes first. We do not first have a name and then stick it on a heap. The chariot is called a chariot because it carries, and it carries as what is called a chariot. That is why the name is not free. You cannot point at a heap of sand, call it a chariot and ride it to town: the sand has no wheels, no axle and no frame, no basis that can bear the name. A designation holds only where it works, within its agreements and setting, and where it passes the checks: known in the world, not overturned by another valid way of knowing, not overturned by the analysis of the ultimate.
+
+*What the search removes, and what it leaves.* The sevenfold search does not take away the carrying. It takes away a chariot standing from its own side: a chariot-thing inside the parts, or a chariot-power that makes them carry. That was never found, and the carrying never needed it. This is what I call causal efficacy without causal power. The wheels turn, the load moves, you arrive; nothing behind the meeting of wheel, axle, road and horse does the carrying.
+
+*Why it is not “only in the mind”.* “It is just a label in the mind” sounds like the humble answer, but it quietly sets up a mind that is found, standing behind and painting names onto a world. That mind is singled out too, on its own basis, and no labeller stands behind it, doing it (*Mind and Consciousness: Both Are Also Singled Out*). So the chariot is no more made of mind than it is made of chariot-stuff. “Only a story” takes the default framework, where conventions work, for the inherent one, where they are supposed to stand by themselves; finding that the inherent one fails, it throws out the default one as well. That is the slide into annihilation (“An enlightened view”).
+
+*The basis has no bottom layer.* The chariot rests on its wheels, the wheels on rim, spokes and hub, and so on down, with no floor that finally stands by itself. Functioning never needed such a floor. If anything stood by itself, it could not be built, could not move and could not wear out. Because nothing does, the chariot can be put together, carry you, break down and be mended.
+
+In one line: being unfound removes the chariot that stands by itself, and leaves the chariot that carries you, whole. The apple in “Tossing an apple: the whole view in one moment” shows the same thing in one moment.
+
+## Conditions are the appearing, and not a web
+
+Two pictures creep back once the things are seen through.
+
+The first puts the conditions underneath, as parts lined up below that then produce the appearing on top. But the conditions are the appearing, cut into parts by a framework for explaining and getting things done. The cook, the chemist and the physicist cut the same loaf differently, and each cut works within its own agreements and setting. None is the loaf from its own side (*Causal Efficacy Without Causal Power*, “Conditions are the appearing”).
+
+The second keeps the relations when the things are gone: a web, a network, a field. But the line is as unfindable as the dot. “Coming into contact, having come into contact, and the one who brings them into contact are not found” (MMK 14.8). Relation and relata are designated together; neither is prior. Indra’s net is a fine image so long as the net itself is not taken as what is finally found. And there are two quieter forms of the same trap: a machine of causes working in the dark, and a set of laws standing behind appearing. The order is fully valid; it is not a hidden code (*The Limits of the Tools*, “Conditions without a web”; *The Illusion of the Given*, Part III).
+
+So “nothing stands alone” is only half of it. The other half is that the relations are not found from their own side either. What is left is not a web. It is this, appearing.
+
+## Tossing an apple: the whole view in one moment
+
+Everything so far can be seen in one ordinary act. I toss an apple to a friend, and my friend catches it. Look at it twice: once as the habit sees it, and once as it actually occurs.
+
+![Diagram 3](../figures/aa-dependent-arising-diagram-3.svg)
+
+Tossing an apple, twice. Above, as the habit sees it: three solid things. Below, as it occurs: three designations, the apple itself many dependent arisings, and one event that works with nothing behind it.
+
+### The habit of inherent seeing
+
+When I feel a solid, standalone “apple” moving through the air, the habit of seeing at once projects a self-existent entity: a solid object out there that owns its shape, colour, weight and smell as its own properties. This is what I call the inherent framework, the matrix. It is not a thought I hold. It is a somatic, pre-conceptual habit of taking what is singled out as standing from its own side. It is the knot that ties the appearings of an apple into one apple out there (*What the Logic Is Looking At*, “Holding an apple”).
+
+### Many dependent arisings, not one apple-entity
+
+When I look at the moment directly, no single, standalone apple-entity is hiding behind the experience. There are many distinct dependent arisings, at once:
+
+- **The touch and the density:** a tactile appearing, upon the meeting of skin, nerve, pressure and resistance.
+- **The shape and the colour:** a visual appearing, upon the meeting of light, eye and the angle of seeing.
+- **The scent:** a smell, upon the meeting of what drifts from the apple and the nose.
+
+None of these belongs to a hidden apple core sitting underneath them. The conditions themselves are the appearing, cut and singled out within experience (“Conditions are the appearing, and not a web”).
+
+### Designated on a basis
+
+As the chariot is designated in dependence on its wheels, axle and frame, the “apple” is designated in dependence on its basis: the colour, the shape, the touch, and what it is for, being tossed, caught and eaten (“Designation”).
+
+- **Singling out.** “Apple” is the conventional cutting of experience into a distinct, recognisable unit, so that I can toss it, catch it, or eat it.
+- **No bottom layer.** If I look for the real apple inside the parts, I find only more bases: cells, molecules, visual tones, each designated in turn. No undesignated bottom brick is ever reached.
+
+### Why the toss still works
+
+Unfindable as a standalone object under analysis, the apple still flies across the room and lands in my friend’s hand. This is causal efficacy without causal power (“What it says”). When the conditions meet, the throwing, the flight and the catching happen reliably. The toss does not need an inherent apple-entity to work; the meeting of conditions is the working, completely.
+
+So I am not tossing a solid, independent thing. This is spontaneous, dependently arisen conditions functioning reliably, as mere convention.
+
+### The thrower, the hand and the receiver are singled out the same way
+
+The apple is designated on its basis, and so are the thrower, the hand and the receiver. Through the habit of inherent seeing I project three separate, solid entities: a solid thrower, a solid object and a solid receiver. Examined with the logic of dependence, the agent is no more solid or standalone than the object.
+
+- **No doer behind the throwing.** Anatta is first met as no doer behind seeing or hearing: in seeing, only the seen; in hearing, only the heard. Dependent arising turns the same seeing outwards onto action (“The doer behind the doing”). There is no goer behind going, no fire apart from its fuel, and no thrower apart from throwing. Intention arises, muscles contract, momentum carries, the apple moves. The conditions meet and the action functions fully, but no hidden “mini-me” sits inside the head or the hand pulling the levers. The wind blows with no wind apart from the blowing; the throwing happens with no thrower standing behind it.
+- **No bottom layer for the hand or the person.** If I look for the hand that tosses, I find fingers, palm, bones, muscles, skin and nerve signals. The hand is designated in dependence on them; the muscle in turn on cells, the cells on molecules, and so on. The person who tosses or catches is designated in dependence on the body, sensations, intentions and movement: the mere I. No bottom layer is reached where an undesignated ultimate thrower or ultimate hand sits.
+- **Co-designated as one event.** “Coming into contact, having come into contact, and the one who brings them into contact are not found” (MMK 14.8). Thrower, apple, tossing and receiver are designated together as one complete event. None comes first. They are conventions that depend on one another, cut by the framework to describe the world and take part in it.
+- **The conventional person stays.** That the thrower and the receiver lack inherent existence does not mean nobody catches the apple. The conventional person, the mere I, is fully there to toss apples, keep promises, take responsibility and catch the bus. It functions by causal efficacy without a hidden producer: conditions condition, function occurs, and life moves on lightly, without being reified.
+
+### What the toss tastes like
+
+When the thrower and the receiver are no longer taken as solid, independent entities, the simple act of catching an apple tastes like this (“What the view tastes like”):
+
+- **Centerless.** No central observer sits at the middle of the experience, holding court.
+- **Effortless.** The motion unfolds spontaneously, through conditions meeting, with no inner doer grinding away to keep it going.
+- **Seamless and intimate.** No distance or rigid boundary separates the thrower, the apple and the receiver. Seamless is not merged into one stuff: the throw stays the throw and the catch stays the catch, each with its own conditions, and nothing is needed to join them.
+
+## Two modes of right knowing
+
+There are two ways of knowing rightly here, and it helps not to collapse them.
+
+The first works through conceptual thought, within the framework. Dependent arising is how the whole of Indra’s net comes about: the net is conventional and empty, and it keeps presenting itself upon conditions, within the framework, for functional purposes. This is not a lesser knowing. It is how a doctor treats, how a cook cooks, how a promise is kept, how karma is understood. In this mode dependent arising also shows emptiness, and corrects the inherent reading from inside the framework.
+
+The second is freedom from all elaborations. It is not within the framework at all. Nothing reified is added; nothing is cut into before and after, part and whole, cause and effect. Without the framework there is one complete stroke. “One” here does not mean one stuff, the oneness of the refined non-dual (“How the view is met: the taste”, *The first taste*). It means not cut into before and after, parts and whole: the colour is still the colour and the sound still the sound, each with its own conditions, and nothing they are all made of. “Not within the framework” does not mean somewhere else. It means not known by cutting the appearing into concepts. It is the same appearing, known without the cutting.
+
+Neither cancels the other. The first is not a ladder to throw away, and the second is not a place outside the world to retreat to. Freedom from elaborations kept apart from the framework would become a new ground. That is why, after it, the taste is met again inside the framework, in ordinary life, with the parts and conditions now light.
+
+![Diagram 4](../figures/aa-dependent-arising-diagram-4.svg)
+
+The framework held three ways. The outer two are the two modes of right knowing. The middle one is where we live, in the matrix: the habit of taking what is singled out as standing by itself.
+
+## Three uses
+
+Within the framework, dependent arising does three kinds of work.
+
+1.  **It explains.** It answers “how does this come about?”: these conditions, met together.
+2.  **It dismantles and demonstrates.** Because a thing arises in dependence, it is not there from its own side. So dependence is the reason that takes apart the self, the object, the cause, the whole, the field, the substrate, energy and the web, and shows emptiness. That is the work it does on what the mind hinges on (“How the view is met: the taste”). Tsongkhapa’s tradition calls it the king of reasons.
+3.  **It describes the taste.** Seen through, it is the taste itself: nothing standing on its own, nothing missing.
+
+They hang together. It can dismantle because it explains: what validly depends cannot also stand by itself. So the reasoning does not destroy the world it takes apart; what goes is only the “from its own side”. Nāgārjuna joins the three in one verse: what arises in dependence is what we call emptiness; that is a designation in dependence, and that itself is the middle way (MMK 24.18). Two guards go with the second use: it puts nothing in place of what it removes, or emptiness becomes the next hinge; and it dismantles itself too, since dependence is not found from its own side either. A reason held as the final truth would be one more construct.
+
+## An enlightened view
+
+Dependent arising is an enlightened view. By that I do not mean a view only the enlightened can hold. I mean the right view of how things are, which we do not yet live in. We do not live in the wisdom of dependent arising; we live reading the matrix as inherent, within the framework. Things seem to stand by themselves, causes seem to push, a self seems to sit behind the seeing. That seeming is not a thought we hold. It is a deep habit of seeing, somatic and before thought.
+
+So I keep two frameworks apart:
+
+- **The default framework** is the conventional cutting itself: parts and whole, before and after, cause and effect, agent and action, named and set in a time sequence. It works, and we need it to speak, to cook and to keep promises. Dependent arising lives here. “How does this come about?” is a question only this framework can ask, and dependent arising is its answer.
+- **The inherent framework** is the habit of taking what the cutting singles out as standing by itself. That is the matrix: not a world, not a field, a habit of seeing.
+
+This does not mean that we live in a matrix and must escape it. The framework of parts and conditions is not what binds us. What binds us is living in it with reified thoughts: taking the parts, the conditions and the sequence to be there from their own side. Dependent arising is not the matrix. It is the wisdom that shows the matrix up. The framework is not the prison.
+
+Dependent arising lives in the first and unbinds the second. Run the two together and “dependent arising lives in a framework” is heard as “dependent arising is only a story”, which is the slide into annihilation.
+
+And when I live in the framework of parts and conditions with the wisdom of dependent arising, I begin to see that even spontaneous presence can be understood within it. Crudely and clumsily, because the framework still speaks in pieces and in sequence. But truly: conditions are the appearing; nothing produces it; it is complete as its conditions meet. Spontaneous presence is not a place beyond concepts, waiting outside the framework. That would make it a new ground.
+
+How is this different from reading a taste through a concept, which I warn against when “one’s radiance clarity” is read with the old framework (*Mind and Consciousness: Both Are Also Singled Out*)? The difference is not concepts. It is reification. There, the concepts are taken as found, so the taste is fixed into a self or a source. Here, the same concepts are held as designations, so they point and do not fix. Understanding is still not the taste. It is the taste understood rightly.
+
+## The antidote to ignorance
+
+Ignorance is not a power either. It is not a thing in us with a force to blind. It is a very deep habit of confused seeing, designated as ignorance, and not found when searched for. It blinds reliably because its conditions keep being renewed, and it can end because nothing stands behind it (*Causal Efficacy Without Causal Power*, “Ignorance is not a power either”).
+
+Some readings say dependent arising originates with ignorance, since the twelve links begin there. That reading needs refining. Dependent arising as a view originates as the corrective antidote for ignorance.
+
+### Why the masters praise it
+
+If dependent arising simply originated with ignorance, it would be odd to praise it as the supreme teaching. Yet that is what the texts do.
+
+- **Nāgārjuna.** In the opening homage of the *Fundamental Verses* he bows to the Buddha who taught dependent arising: without arising or ceasing, the stilling of elaborations, peace. In the closing verse of the *Refutation of Objections* he bows to the Buddha who taught that emptiness, dependent arising and the middle way have one meaning. The *Sixty Verses on Reasoning* open with homage to the Sage who taught dependent arising, by which arising and ceasing are both abandoned.
+- **Candrakīrti** opens his commentary, the *Clear Words*, by unpacking that homage. For him, dependent arising understood rightly is the middle way itself.
+- **Tsongkhapa.** His *Praise of Dependent Arising* praises the Buddha for this one teaching, the best of all he taught, and says that seeing it reverses the root of the round of birth and death, which is ignorance. In his *Three Principal Aspects of the Path*, the view is complete when appearances arising in dependence and emptiness no longer alternate, but are seen as one.
+- **The Buddha and the sūtras.** “Whoever sees dependent arising sees the Dhamma; whoever sees the Dhamma sees dependent arising” (MN 28). The *Rice Seedling Sūtra* says the same, and adds that whoever sees the Dhamma sees the Buddha. And dependent arising stands whether or not Tathāgatas arise (SN 12.20): not as a law kept somewhere behind things, but because this is how appearing is. So it is not something ignorance produced either.
+
+The twelve links do begin with ignorance, and none of these masters denies it. They read the links two ways. In forward order, from ignorance to old age and death, they show how the round of suffering runs. In reverse order, from ignorance ceasing to suffering ceasing, they show how it ends. What the masters praise is dependent arising seen rightly, and that seeing is the antidote. So the twelve links stay; the refinement only says which sense of dependent arising is being praised. No one praises ignorance. They praise the seeing that undoes it.
+
+### The veil is ignorance, not dependent arising
+
+I have read more than once that conventional truth is a veil, and so dependent arising, being conventional, must be the veil. The source is genuine. The Sanskrit word for “conventional”, *saṃvṛti*, can mean a covering. Candrakīrti, commenting on MMK 24.8 in the *Clear Words*, gives it three meanings: concealment, the ignorance that hides how things are; mutual dependence; and worldly convention, the designations by which the world speaks. In *Entering the Middle Way* he says delusion is called the concealer because it obscures the nature, and what it fabricates appears true; so conventional truth is “truth for the concealer”. Tsongkhapa follows him: what conceals is ignorance, and things are “true” in this sense only for ignorance, which takes them as existing from their own side.
+
+Read carefully, this supports the refinement. What veils is ignorance, the concealer. Dependent arising is the second meaning of the same word, and designation the third. The three meanings line up with what I have set out here: concealment is the inherent framework, the matrix; mutual dependence is dependent arising; worldly convention is the default framework, with its designations. The same appearance can be held two ways. Held by the concealer, it seems to stand by itself, and that seeming is the veil. Seen as dependent arising, it is the seeing that lifts the veil. Dependent arising is called conventional because it lives in the framework, not because it is the veil.
+
+Candrakīrti says as much himself. In his own commentary on *Entering the Middle Way*, he says conventional truth is set up by the force of afflictive ignorance. For those who have abandoned that ignorance, things appear like reflections, and they are not “truths” for them, because they no longer fixate on them as real. He calls this mere convention. The same appearances veil when held by ignorance. With wisdom they are mere convention: still appearing, still working, no longer veiling. The conventional, read and participated in with ignorance, veils. With wisdom, why would it veil?
+
+Some readings of the traditions deserve to be stated fairly here. Gorampa and the Sakya school, as they are commonly read, and some Kagyu and Dzogchen teachers, define the conventional as what appears to mistaken cognition, so that for a buddha there is no conventional truth at all. Then convention veils by definition. That is a deliberate choice of meaning, not a simple confusion: it takes the first meaning of *saṃvṛti* as the whole word. Where I differ is in giving the second and third meanings, dependence and designation, their own place. In Tsongkhapa’s tradition, things can still appear as standing by themselves after ignorance is no longer believed, as a subtle obscuration that lasts until buddhahood. That does not contradict what I say. It is the habitual tendency of seeing inherently: the veil of belief goes first, and the veil of habitual appearance thins in time.
+
+And even held without ignorance, the framework is still an elaboration compared with freedom from all elaborations. That is not a veil. It is the other mode of right knowing (“Two modes of right knowing”).
+
+![Diagram 5](../figures/aa-dependent-arising-diagram-5.svg)
+
+The links describe the round and its ending. What the masters praise is the seeing of dependence, which turns the round around.
+
+## How the view is met: the taste
+
+Dependent arising did not come to me first as a view. It came as a taste, and the view came to sync with it later. Looked back on, the taste was met three times: right after anatta, in seeing; again when every hinge was exhausted, free and stable; and again in the marketplace. In the taste itself there is no order. In a life there is one, and it goes round more than once.
+
+### What seeing is, in real time: the first taste
+
+In anatta there is only seeing, no seer; hearing, no hearer. I see through the agent and understand that it is a reified construct, taken to be there from its own side when it never was.
+
+But then: what are seeing and hearing? We say they are events, processes, not nouns. That is true as far as it goes, but it is still words. So look at seeing and hearing themselves. What are these events, in real-time experience?
+
+Seeing is just colours. No effort at all. Hearing is just sound. No effort at all.
+
+Nothing is doing the seeing, and the seeing is not being done. Even what we called a process does not seem to be a process at all: nothing runs underneath the colours, carrying them along from one moment to the next. It is so seamless and so effortless.
+
+And the colours are not dark. They are clear, known and vivid. The knowing is right there in the colour, and nothing stands behind it, knowing. Clarity is not added to the taste; it is the taste. It is just not lifted out and made into a knower.
+
+So here, right after anatta, is a first-hand taste of spontaneous presence: immediate, without intermediary, effortless and spontaneous. No agent is found, and not even what we called a process. Remember this taste. I will come back to it.
+
+How is this different from a refined non-dual state? A refined non-dual rests in oneness. It is still haunted by substance: it thinks of everything as made of the same luminosity, one clarity that colours, sounds and thoughts are all made of. The seer has merged into the seen, but the “one” it merged into is still a something. That is what anatta changes. Oneness merges the seer into everything; anatta finds no seer there to merge. With nothing merged, no “one” is left for everything to be made of. That is why the first taste comes after anatta, not before it.
+
+In this taste there is no “made of”. The colour is not made of luminosity; it is clear as colour. The sound is clear as sound. Each is complete with its own conditions, light and eye for the colour, air and ear for the sound, not a wave on one shared ocean. Nothing is found that all of them are made of, and nothing needs to be. Distinctions stay vivid, and nothing has become one. That is why I say clarity is never absent, but never speak of one clarity under appearances: six clarities, not one lamp: one clarity for each of the six streams, seeing, hearing, smelling, tasting, touching and thinking, each with its own conditions, and no single lamp lighting them all.
+
+So the test is simple to state. Is there a “one” that everything is made of? If so, it is the refined non-dual, resting in oneness, and substance is still there. If the clarity is the colour, the sound, the thought, each with its own conditions and none made of a shared stuff, it is the taste.
+
+At the same time, I am well aware how intimately different factors take part in the appearing. The colour is there only with light, with the eye, with attention, and against what it is not. The sound is there only with the air, the ear and the car going by. None of these stands outside the appearing, feeding it in.
+
+So three things are found together here, and none of them is anything like a process:
+
+- **Effortless:** no one is doing it.
+- **Seamless:** nothing strings it together from moment to moment.
+- **Intimate:** the factors are not outside it.
+
+It is like this: the alignment of these related factors is the appearing.
+
+Three cautions, so that the taste is not misheard:
+
+- **“Just colours” does not leave an object standing out there.** The seer is gone, but not so that a world of colours can stand on its own. “Just the seen” is the appearing itself, not an object apart from it. The colour too is singled out: picked out as “this” and named, in dependence, like everything else.
+- **“Alignment” is not two steps.** It does not mean factors that exist first and then line up, or someone lining them up. The factors are not found before the appearing. They are how we speak of the appearing when we take it apart. The aligning and the appearing are not two events. Can factors drawn out of the appearing still explain it? Yes, within their framework (“Conditions are the appearing, and not a web”).
+- **“Not a process” does not deny change.** In everyday terms, things change and causes work. What is not found is a process as a thing, running underneath.
+
+### Total exertion: the taste that comes after
+
+This taste does not stay in seeing and hearing. After anatta it widens, often by itself, before I had any view for it. I did not first understand it. I found myself living within it.
+
+Each event seems to spend itself completely. The sound of a car going by is wholly the sound; there is nothing behind it, holding back, directing it. Boundaries lose their solidity, yet distinctions never disappear. The car is still the car and the tree still the tree, more vivid than before. If anatta removes the observer, total exertion shows that nothing stands apart from what is happening, as if outside it, taking part in it.
+
+Dōgen called this total exertion: each thing spending itself fully in its own place. Firewood abides in its own dharma-position, and ash abides in its own. Each is complete. Each lacks nothing, and no wider whole stands behind it to complete it.
+
+Here I have to be careful with my own earlier words. Total exertion is easily heard as “the whole cosmos is present in each moment”. That is holism, which only makes the whole the ground instead of the parts. Nothing has merged, and nothing has become “one”. The event spends itself completely, with nothing held back behind it and no cosmos packed inside it.
+
+Total exertion is a taste, and a true one: the taste of dependent arising arriving early, before there was any view for it. It is not a second taste beside the first. It is the same taste, widening beyond the senses: in seeing and hearing I spoke of it as spontaneous presence, nothing making it; spreading through each event, it is total exertion, nothing standing apart. Already two descriptions of one taste, before I had a view for either. It is met again, now understood, in the marketplace (below). But a taste is not yet a view, and tasting dependent arising is not yet living in its wisdom. Around the taste, the habit still read the world as inherent (below). The wisdom of dependent arising (“An enlightened view”) is the taste and the view in sync.
+
+### The taste is not yet freedom
+
+All of the above is the taste: immediate, without intermediary, effortless and spontaneous. And still the mind has not released its habitual tendency to reify. Ignorance has not been unbound.
+
+How can both be there at once? Because they are not in the same place. The taste is in the immediacy of the senses: this colour, this sound, while it appears. The habit is in how the world is understood and oriented around that moment. While I am seeing a flower, the seeing is just colours, effortless, with no one behind it. Yet the moment I turn away, “the flower” is still assumed to be sitting there by itself, its red belonging to it. A cause is still felt to push its effect. Time still seems to run on as a line that things travel along. Death is still the end of a someone. The taste was free; the world the taste was set in was not. That is what I meant when I said the self had dissolved, but the universe had not.
+
+In my own case, for years after anatta, the taste was there and the view still treated each thing as standing by itself. That gap is what I call the desynchronisation: the experience non-substantialist, the framework still substantialist.
+
+The habit does not announce itself. It does not feel like a view. It is simply how we understand and orient ourselves in our world and our experiences, so deep that it seems to be the world itself. While it stays below the surface, nothing touches it, however good the taste.
+
+It is only when it is challenged by Nāgārjuna’s MMK that these habitual, inherent tendencies are brought to the surface. That is what the logic is for. Not to give a better taste, but to bring out the habit, and then to dismantle and unwind it with the right tools: seeing, case by case, how illogical and untenable it is, and how it does not match experience. Each time it is seen, the mind becomes clearer, and clearer, until it is free.
+
+The logic does not do this alone. The habit is deeper than thought. It is in perception itself, the knot that ties the appearings of an apple into one apple out there, and it is even held in the body. No argument, however good, unbinds that by being won. What the logic does is bring the habit up where it can be seen, and point to the place to look. Then I look, and check it against the taste: is a whole found apart from its parts? Is a cause found pushing? Is anything here from its own side? Each time the answer is seen in experience, not only agreed to in thought, the habit loosens a little. It is the seeing, again and again, that unwinds it. The logic and the taste work together. Insight without the logic drifts back into nouns; logic without the taste stays a clever argument about words.
+
+What closed the gap was not a deeper taste, but this logic, checked against the taste. Nāgārjuna makes the same move as anatta, again and again, on one thing after another: no seer behind seeing, no goer behind going, no fire apart from its fuel, no producer behind arising (“The doer behind the doing”). Chapter one goes furthest. It takes the doer out of causes. A self is the doer behind the doing, and a causal power is the doer behind the causing. When the first is not found in seeing, the same seeing, carried by the logic, finds the second nowhere either.
+
+The bridge for me was Nāgasena’s chariot. A chariot is not found apart from its parts, and not as the parts either. It is designated in dependence. The participants cannot be found before the participation. In that, the taste of total exertion recognised itself: what I had tasted as “each event wholly this” was what the logic says as “nothing here stands from its own side”.
+
+And then the logic turns on itself. Dependence too is not found. The conditions are not a web or a machine standing behind what appears. They are not a basement on which appearances are built. Conditions are the appearing. By appearing, a thing is already empty.
+
+So the two teachings meet. Anatta finds no doer in seeing, by looking; Nāgārjuna finds none anywhere, by reasoning, and shows why none could be found. This is the move from the first fold of emptiness to the second.
+
+### What the mind hinges on
+
+Before that freedom, the mind will always hinge on something. First it hinges on parts: a thing is made of its pieces, and the pieces are what is there. When the parts are seen through, it does not let go. It hinges on what we call the “whole”. When the whole is seen through, it finds something finer to stand on: qi, energy, a field, relations, a substrate. Each time, it is looking for a foundation.
+
+![Diagram 6](../figures/aa-dependent-arising-diagram-6.svg)
+
+The first taste comes right after anatta. The MMK brings up what the mind still hinges on, one foundation after another. When all are exhausted, the same taste is met again, now free and stable.
+
+The tools meet each hinge in turn. The chariot is not found among its parts, nor as their collection, nor as a whole apart from them. Qi and energy are not a stuff under appearances; they are singled out and designated like everything else (I take this up in *Isn’t Energy the Substrate?* and *Energy Practices*). A field is the whole again, in a softer form. Relations are not found either: dependence too is designated. And a substrate is the foundation the mind was looking for all along. It is not found.
+
+When all of these are exhausted, neither parts nor whole, with nothing left to hinge on, the mind becomes free from all elaborations, and in a stable way. This is not a state held up by effort. The habit itself has unwound.
+
+Stable does not mean the habit can never stir again. It means the freedom no longer needs looking, effort or the right conditions to be there. Some tendencies still turn up, often in areas I had not yet looked at, or when conditions are strong. When they do, they are met by the same seeing, and they do not take root as they did. That is why I also say the path goes round more than once: not because the freedom keeps being lost, but because the habit is unwound wherever it is still found.
+
+### Spontaneous presence: the taste revisited
+
+Then appearance is again tasted as vividly present, spontaneous and free. This is the first taste, revisited. It is the same taste. What has changed is the understanding around it: a much more matured understanding of the habitual tendency, of ignorance, of dependent designation, and of how the mind is confused. The first time, the taste sat inside a view that could still pull it back into things. Now the view no longer does.
+
+The same taste does not mean nothing has changed. Two things differ. The first is reach. At first the taste lives in seeing and hearing, in the senses, while I look. Revisited, it covers everything the habit had held: thought, the body, things, causes, space, time and death. The second is stability. At first the taste is there when I look, and the habit takes it back when I stop. Revisited, it no longer depends on looking. Nothing was added to the taste. What it was held inside of has gone. The shape is the same throughout: no one behind it, nothing standing on its own, nothing missing. That is why it is one taste. The reach is not the same, and that is why anatta, as the first insight, is only a partial description (“Three descriptions, one taste”): the shape was met, but only in the senses.
+
+Look at it once more. Take away the doer from everything, and put nothing in its place: no seer, no producing cause, and not even dependence kept as a new thing. Then nothing is making the appearing. If nothing makes the sound of a car going by, the sound is not a product. It shows up whole and vivid, exactly as its conditions meet.
+
+That is what spontaneous presence (*lhun grub*) means to me. Appearing is already complete, because nothing is hidden behind it, doing it. It is the last of the seven phases, and it is not a new state reached at the end. It is how it always was, once the doer is gone everywhere.
+
+It is not uncaused, and it is not a source (“Three descriptions, one taste”). Effortlessness belongs here too. Holding, pushing and managing are the agent itself. When no doer is found anywhere, there is no one left to push. The ease that anatta first gives in seeing now runs through everything. Mind and matter lose their weight, and become light, magical and plastic.
+
+Why do mind and matter lose their weight? Because of what we did not understand before. Ignorance, at bottom, is not understanding how certain conditions come together and appearances appear. We do not see the coming together as it is. We see it in the form of “production”: something there first, making something else. But the next appearing is not a production. Nothing is made, and nothing is handed on.
+
+The same misreading names what appears. When the colour, the sound and the thought appear, we call them “mind”. Yet they are dependent: the colour is there only with light, eye and attention; the sound only with air, ear and the car going by. Being dependent, mind is not mind from its own side. Matter is no different: it is there only with the seeing and touching it is singled out from. This dependency is exactly what we do not understand. That is why I do not call the appearing mind, or matter. Not because it is a third thing, neither one nor the other, and not because it is both. Each word cuts it from one side, and dependency is not found on either side.
+
+In ordinary talk I still say “my mind” and “this table”. The words work within the framework (“An enlightened view”). What goes is taking them to name something there from its own side.
+
+### In the marketplace
+
+After freedom from all elaborations, I re-enter the marketplace and dirty my hands. The marketplace is ordinary life: work, family, money, arguments, other people’s troubles, choices that have to be made. Back in the framework of parts and conditions, the same taste is met there too. Conditions are seen as the taste: this light, this eye, this attention, met, and nothing more needed. Emptiness is no longer a conclusion; it is tasted in the appearing. Total exertion, which came early, is met here again, now understood. Is this a crude understanding (“An enlightened view”), or a direct taste? Both at once. The taste is met directly, and the words the marketplace has for it are crude. The crudeness belongs to the words, not to the taste.
+
+Why does this encounter come after freedom from all elaborations, and not before? Because one can only re-enter a place one has been free of. Freedom from all elaborations does not stay apart. It goes back to work. The last of the Zen ox-herding pictures, *Entering the marketplace with helping hands* (Kuoan Shiyuan, twelfth century), shows it: barefoot and bare-chested he comes into the market, smeared with mud and ashes, smiling broadly. I borrow only the tenth picture. The ninth, *Returning to the origin*, is easily read as going back to a source; I read it as nothing behind appearing, not as a ground to return to. When I first wrote out the seven phases, in 2009, I put this as maha and ordinariness.
+
+Here dependent arising changes its role. Before, it was the tool that brought each hinge up and took it apart. In the marketplace I deal in causes and conditions all day: what helps, what harms, what follows from what. Dependent arising is how help works. Now the same parts and conditions are no longer reified, so they no longer need taking apart. They are seen as the taste. The marketplace is also the test of “stable”: a freedom that holds only in quiet is not yet stable. And it is where the habits still left come up, to be met by the same seeing.
+
+**Who decides?** The marketplace is full of choices: whom to help, what to say, when to say no. Nobody disappears. I still act, choose, keep my promises and answer for what I do, as a conventional person, designated in dependence like everything else. What is gone is the doer behind the doing: someone standing apart from the choosing, pulling the levers. Intention and choice are themselves conditions among conditions; they work, and they are not found from their own side. So acting without a doer is not passivity, and it is not a way of escaping responsibility. Responsibility is answered first, in the everyday sense, and nothing in the taste cancels it.
+
+**Why help, if no one is there?** The return is for others; that is why the hands are helping hands. But if others are not found from their own side, whom am I helping? Others are not found from their own side, and their suffering still functions, validly, and it arises in dependence. Because it is not fixed, it can be eased. Dependent arising is not a reason to stop helping. It is why help can work. A suffering that stood by itself could not be touched.
+
+This is not an eighth phase. It is Phase 7 rounded out: spontaneous perfection not only free from elaborations, but at home in the marketplace. Its guards are in “Guards, and where the doer comes back”.
+
+### Three encounters, one taste
+
+Looked back on, the journey has met one taste three times. In the taste itself there is no order. In a life there is one, and mine went like this:
+
+1.  **Anatta** (Phase 5), around 1997: no seer, no doer, in seeing; just colours, just sound. Then the desynchronisation, and the work of syncing the view (Phase 6).
+2.  **Freedom from all elaborations** (Phase 7): when every hinge is exhausted, the same taste met again, stable and wide. No maker, no knower, no background.
+3.  **Dependent arising and emptiness, in the marketplace:** the same taste met in ordinary life, with dirty hands.
+
+The encounters are when the taste is met; the descriptions in “Three descriptions, one taste” are how it is spoken of. They overlap without lining up one to one, and keeping them apart stops the descriptions being heard as stages. When I say the marketplace comes after spontaneous presence, I mean after the spontaneous presence met in the second encounter.
+
+The taste comes before the view and again after it; the logic does not produce the taste, it unbinds the habit. And it is not a ladder climbed once. It goes round more than once, wherever the habit of fixing returns, and each turn clarifies one seeing rather than adding a floor.
+
+## Three descriptions, one taste
+
+I say dependent arising is spontaneous presence. They are not two things. Dependent arising is how the taste is described when we analyse: these conditions, met together, designated, working. Spontaneous presence is how it is described when the habit of fixing stops: complete, effortless, with nothing behind it. And there is a third description, anatta. Three descriptions, one taste.
+
+| Description                       | What it says about the taste                                                   | Its guard                                                                                                                                                          |
+|-----------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Anatta**                        | No one is behind it: no seer, no doer.                                         | Not a blank; nobody disappears.                                                                                                                                    |
+| **Dependent arising (emptiness)** | Nothing in it stands on its own: conditions met, none found from its own side. | Not a web, not a ground.                                                                                                                                           |
+| **Spontaneous presence**          | Nothing is missing, and nothing is making it: complete, effortless.            | Not uncaused: every appearing has its conditions; what is gone is the maker, not the order. Not a source: nothing stands behind appearing, not even “spontaneity”. |
+
+They are three angles on one face. Each is a whole description, and none of them is the taste. None is higher: not a lower truth and a higher one, and not stages, first analysis and then recognition. Nor does one turn into another. I do not say that dependent arising becomes spontaneous presence, any more than we say summer becomes winter. That way of speaking brings back a traveller that crosses from one to the other. Nothing crosses.
+
+Anatta needs one note to stand here. As the first insight, anatta covers only the subject: the observer has disappeared, but the world has not. That would make it a partial description, and that is how it was met in the first encounter: the shape was there, but only in the senses. But anatta is a seal, not a stage. As the seal, all dharmas are without self: not only no seer behind seeing, but no self-nature in the seen, in the cause, in the condition. Read as the seal, anatta describes the whole taste, from the side of “no one”.
+
+Freedom from all elaborations is not a fourth description. It says nothing about the taste; it says that nothing reified is added to it. It is one of the times the taste is met (“How the view is met: the taste”).
+
+**Spontaneous presence adds nothing to the negation.** Nāgārjuna’s negation puts nothing in place of what it refutes, and that stays true here. Calling the appearing “spontaneous presence” does not slip a positive reality in behind the refutation. It names only what the refutation never denied: the appearing itself, conventionally, once nothing is added to it and nothing is looked for behind it. If spontaneous presence were heard as something found, a presence with a nature of its own, it would be one more thing for the analysis to take apart, and the analysis would take it apart.
+
+The descriptions keep each other honest. Dependent arising keeps spontaneous presence from being heard as “from nowhere”, or as coming from a hidden ground. Spontaneous presence keeps dependent arising from being heard as a mechanism: a web of causes working in the dark, waiting for a knower to light it up. Dependent arising is never a machine in the dark. Clarity is never absent from what appears; the only question is whether it is abstracted out and made into a thing.
+
+Keep two questions apart. How does this appearing come about? Through causes and conditions, always. What is its nature? Empty: not produced, so “why?” has nothing to point to. “Beyond cause and effect” answers the second question. It never cancels the first. It means beyond intrinsic cause and intrinsic effect, never beyond dependent arising. Dzogchen says spontaneous presence is not made by causes and conditions; I read that as Nāgārjuna’s “without arising”, and as the sūtra Candrakīrti quotes, “whatever is born from conditions is unborn”: appearing through conditions, yet not produced, with no birth from its own side.
+
+## Many faces
+
+From the taste, I recognise its many faces in very different situations: a sound, a thought, a flash of anger, a cause and its effect, a stretch of time, a death, washing the dishes. It is much like an AI model that recognises faces. It knows a face across light, angle and age, not because it has stored one photograph, but because it has learned the face’s structure. A sameness of structure is what mathematicians call an isomorphism. In the same way, once the taste is known, it is recognised by its shape wherever it shows up.
+
+A death, for instance. Conventionally someone has died, and that is mourned. But no one is found who goes, nothing that was there from its own side is cut off, and the grief, vivid as it is, has nothing behind it. The shape is the same: no one behind it, nothing standing on its own, nothing missing. What is not found is a self that was there and is now annihilated (*Neither Carried Nor Cut*).
+
+![Diagram 7](../figures/aa-dependent-arising-diagram-7.svg)
+
+Three ways of describing the taste, three times of meeting it, one taste. Once it is known, it is recognised by its shape in very different situations.
+
+Four things keep this recognition honest:
+
+1.  **Name the shape.** Recognition needs something to recognise. Here the shape is: no doer, nothing standing on its own, nothing added, complete as its conditions meet. That is what the three descriptions describe, and that is what is recognised in each situation.
+2.  **No one is doing the recognising.** “I recognise” is a way of speaking. The recognising is itself an appearing, singled out and designated, with no recogniser standing behind it. And the comparison with the face model stops at “known by its shape”. A model keeps what it learned in stored weights. Familiarity is valid in the everyday sense, a condition among conditions, but it is not a store sitting behind the seeing, and not a someone inside it, using it.
+3.  **The shape is not a thing that carries across.** A face model finds something stable in every photograph. Here nothing stable sits inside each situation, passing from one to the next. If the taste became an essence present in everything, it would be the carrier, or the ground, again. That is why isomorphism is the right word: the same form, not the same stuff.
+4.  **Recognition can misfire.** A model can match the wrong face, and so can we. The I AM presence, a blank quiet, a refined non-dual resting in oneness, all made of one luminosity (“How the view is met: the taste”, *The first taste*): each can look like the taste. The test is the shape. Is a witness, a source or a background still left? Is something being kept up? Here the logic keeps the recognition honest.
+
+## What the view tastes like
+
+Those who harbour the view properly will taste centerlessness, effortlessness, seamlessness and intimacy in every appearing. Put the other way, as at the start of this page: every experience is *med par gsal snang*, vividly appearing yet unfindable, and mutual.
+
+- **Vividly appearing yet unfindable.** The colour is as bright as ever, the sound as clear, and when you look for what the name stands for, nothing is found. Unfindable does not dim it, and vividness never needed anything findable.
+
+- **Centerless.** No doer stands behind seeing, and no one sits at the middle of what appears. The sound is not heard from a point; there is only the hearing, and the hearing is the sound (“The doer behind the doing”).
+
+- **Effortless.** Nothing produces the appearing, and nothing has to keep it going. Conditions meet, and this appears. There is nothing to hold, so nothing to maintain; maintenance is the split.
+
+- **Mutual.** Each appears only with the others: the sound with the ear and the air, the thrower with the catcher. The relations are not found from their own side either, so this is not a web behind things (“Conditions are the appearing, and not a web”).
+
+- **Seamless.** No gap opens between one moment and the next that would need a carrier or a bridge. Seamless does not mean merged into One: sight stays sight and sound stays sound, each with its own conditions, and nothing is needed to join them.
+
+- **Intimate.** No distance stands between a knower and what is known. The appearing is clear as it appears; nothing lights it, not another and not itself.
+
+**What the six describe.** They describe the appearing, conventionally: how it is met when the habit of fixing is not running. They do not describe emptiness as something found. Emptiness stays what it always was, the absence of own-nature, a negation and nothing more; the tastes are not its content. Nor is freedom from all elaborations one more taste on the list: it is only that nothing reified is added to the appearing (“Three descriptions, one taste”). If “the taste” were turned into a presence the ultimate consists of, it would be a new elaboration, and the logic would have to begin again on it.
+
+These are not six states to reach or to keep. They are how the appearing tastes when the view is no longer only held but lived, and the habit of fixing no longer reads things as standing by themselves. If one of them is taken up as a goal, the doer comes back to chase it.
+
+## Guards, and where the doer comes back
+
+- **Not “only concepts”.** Designated does not mean unreal or arbitrary. Things work. Harm is harm. Actions bear fruit.
+- **Not uncaused.** Every appearing has its conditions. What is gone is the producer, not the order.
+- **Not a web, not a ground.** The relations are no more found than the things. Emptiness is not a new something.
+- **Not a stage to leave behind.** The framework is not the prison; reifying it is. Dependent arising is held, lightly, in ordinary life.
+- **Not a state to keep.** Seeing dependence is not maintained by effort. Maintenance is the split. It is seen, and in time the habit loosens.
+
+Every mistake on this path has the same shape: the doer, put back somewhere else.
+
+- **After anatta:** a vast Awareness, a pure witness, a field of presence in which everything happens. The seer in a larger coat.
+- **In total exertion:** a cosmic whole present in each moment, or a fluid substrate flowing under the verbs. Holism instead of a self.
+- **In dependent arising:** a web, a net, a mechanism standing behind things. Dependence made into the new foundation.
+- **In spontaneous presence:** a source or ground that gives off appearances, or appearances “without causes”. The demand for a producer, granted one final exemption.
+- **In the marketplace:** the helper, someone who has arrived and now saves others; or quietism, “it is all empty, so nothing needs doing”. The first puts the doer back as a saviour, the second as a bystander.
+- **In the marketplace, misheard:** freedom kept outside the marketplace, a place beyond concepts, a refuge; or the return heard as a descent from a higher place to a lower one. Neither is higher; the marketplace is where the freedom lives. “Dirty” is a figure of speech: nothing is defiled, because no self was there to be stained. And that is not a licence: actions still bear fruit, harm is still harm, mistakes are owned and set right. “No one there, so no consequences” is the annihilation view again.
+- **In practice:** a state to keep up. Maintenance would be the split again. None of this is kept. It was always so. It is recognised.
+
+## How the masters define it, and where I stand
+
+The great masters define dependent arising in different ways. Though their definitions differ, I do not believe my view deviates from the orthodox view and understanding. Here is how I see it, master by master.
+
+| Master or tradition                          | How dependent arising is defined                                                                                                                                                                                                           | Where I stand                                                                                                                                                                     |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **The Buddha**                               | “When this is, that is”: conditions, and the twelve links. Who sees dependent arising sees the Dhamma. The middle way between “is” and “is not”.                                                                                           | The same. This is the first use: it explains. The taste I speak of is what the suttas give as insight.                                                                            |
+| **Nāgārjuna**                                | Dependent arising is emptiness, a designation in dependence, the middle way (MMK 24.18). In his opening homage it is without arising and without ceasing, and it stills elaboration.                                                       | The same, in all three uses. Nothing is put in place of what is removed, and freedom from all elaborations is his own phrase.                                                     |
+| **Candrakīrti**                              | Dependent arising read as dependent designation: the chariot is found neither among its parts nor apart from them. Conventions are left as the world uses them.                                                                            | The same. The chariot was my bridge, and the default framework is my word for the world’s conventions.                                                                            |
+| **Tsongkhapa**                               | Three levels of dependence: on causes, on parts, and most subtly on being designated by mind. Dependent arising is the king of reasons for emptiness. Appearance removes the extreme of nothing; emptiness removes the extreme of a thing. | The same at the core. My second use is his, and “it dismantles because it explains” is his point that appearance and emptiness support each other. I part on three points, below. |
+| **Gorampa and Mipham**                       | The ultimate as freedom from all elaborations; appearance and emptiness in union. For Mipham, authentic and inauthentic conventionals.                                                                                                     | Close. My second encounter is their language. I keep Tsongkhapa’s guard: the negation puts nothing in place of what it removes.                                                   |
+| **Dzogchen** (Longchenpa)                    | Primordial purity and spontaneous presence as aspects of the ground. Spontaneous presence is often said to be not made by causes and conditions.                                                                                           | The same, read with Nāgārjuna’s homage: “not made” means unborn by nature, not appearing without conditions. I part only from a reading that makes it an unconditioned ground.    |
+| **Dōgen**                                    | Total exertion: each thing spends itself fully in its own dharma-position. Being-time.                                                                                                                                                     | The same taste, met early. I guard it against holism: no cosmos packed inside it.                                                                                                 |
+| **Huayan** (Fazang), and modern “interbeing” | Interpenetration: Indra’s net, each in all.                                                                                                                                                                                                | Here I part. Nothing stands alone, but the relations are not found either. There is no net behind things.                                                                         |
+
+### Dependent arising is spontaneous presence, in their terms too
+
+The equation I make most often, dependent arising is spontaneous presence, is not mine alone. It is understood in the orthodox texts too. In his opening homage, Nāgārjuna praises dependent arising as without arising and without ceasing. For him, dependent arising is itself non-arising: what arises in dependence does not arise from its own side. Candrakīrti quotes a sūtra that says it plainly: whatever is born from conditions is unborn; it has no birth by nature.
+
+So two statements that seem to clash meet. Dzogchen says spontaneous presence is not made by causes and conditions. Madhyamaka says dependent arising is unborn by nature: it appears through conditions, yet nothing is produced. If nothing is produced, what do the conditions do? The two questions of “Three descriptions, one taste” answer it: how it comes about is through conditions, always; what it is, is unproduced. Read this way, “not made by causes” does not mean “appearing without conditions”. It means not produced: no maker, and no birth from its own side. That is what I mean by spontaneous presence: dependent arising without a producer, complete because nothing is hidden behind it, making it.
+
+So I do not narrow spontaneous presence. I read “not made by causes” as “unborn by nature”, which is Nāgārjuna’s own sense of dependent arising. Where a difference is left, it is not with Dzogchen as such, but with one reading of it: spontaneous presence as a ground whose qualities are there before and apart from any dependence at all. That would be the own-nature that Nāgārjuna’s chapter 15 refutes. I read Longchenpa’s ground as empty, as Mipham does, and many Nyingma teachers read it that way.
+
+### Where I do part
+
+- **From Tsongkhapa, on three points.** First, what anatta means. For him, the selflessness of persons and of phenomena negate the same thing and are equally subtle. My anatta is the experiential insight, no seer in seeing, which can come first while things are still reified; in his terms, my Phase 5 is not yet the full selflessness of persons. Read as the seal (“Three descriptions, one taste”), anatta is his selflessness of all dharmas; the first insight is only its first door. Second, the order of the path. His is study, reflection, then meditation: the view first. Mine was the taste first, and the view syncing with it later. That is a difference of route, not of content. And the first taste is not the direct realization of emptiness. It comes after anatta and is not yet freedom (“How the view is met: the taste”): the habit of reifying is still there. Freedom from all elaborations comes after the logic has done its work, so on what matters most the classical order holds: direct realization is the fruit of the analysis, not its starting point. What came first, in my case, was only a taste of no-self in seeing. Third, the bridge. He keeps disintegratedness, a functioning thing, and the mere I to link an act to its fruit across time. I keep neither carried nor cut, with no bridge (*Causal Efficacy Without Causal Power*).
+- **From the Gelug account of meditative equipoise.** There, emptiness is seen alone and appearances do not appear; illusion-like appearance comes after the session. In the taste I describe, appearing is vivid and empty at once. That is nearer Mipham’s union.
+- **From Huayan and “interbeing”,** on the web, as above.
+- **On its status and its origin.** Dependent arising is sometimes heard, at least by students, as conventional truth only: a description of the world, to be left behind at the ultimate. I hold it as an enlightened view: right knowing within the framework and, seen through, the taste itself. And because the twelve links begin with ignorance, it is sometimes heard as the pattern of ignorance. I read dependent arising as a view as the antidote by which ignorance is undone (“The antidote to ignorance”).
+- **On bridges.** I do not need a designated link to carry an act to its fruit: not the storehouse, not disintegratedness, not the mere I asked to hold imprints. The mere I I keep, as the conventional person who acts and meets the result (*Causal Efficacy Without Causal Power*, “The mere I”).
+
+### What I add
+
+The words “taste”, “encounters” and “many faces” are mine. No master defines dependent arising as a taste, though Zen, Mahāmudrā and Dzogchen speak of realisation this way. “Clarity is never absent” brings in Dzogchen and Mahāmudrā language, guarded by Madhyamaka. And “the default framework” is a plain, modern wording of Candrakīrti’s worldly convention and Tsongkhapa’s conventional valid cognition. On its own, “agreements within a setting” can sound like relativism, which is why I tie it to Tsongkhapa’s three tests in *Causal Efficacy Without Causal Power*.
+
+So at the core, what dependent arising is, what it negates, and that it puts nothing in its place, I stand with Nāgārjuna and Candrakīrti, and I think Tsongkhapa and Mipham would both recognise it. Where Gelug and Nyingma disagree with each other, I mostly side with Mipham, while keeping Tsongkhapa’s guard. At the core it is the Prāsaṅgika reading of MMK chapters 1, 20 and 24 as Candrakīrti and Tsongkhapa give it: reasoning refutes production established by its own nature, not production as the world speaks of it. These are my readings, not the schools’. Some lineages see it differently, and you should read them for yourself.
+
+## Try it
+
+Listen to a sound nearby: a car, a fan, a voice.
+
+1.  Look for the hearer behind the hearing. Is anyone there, receiving it? Then look at the hearing itself. Is there a process, running underneath? Or just sound, with no effort at all?
+2.  Find its conditions: the source, the air, the ear, attention. Is any of them standing behind the sound, pushing it out? The sound is not made by them and sent out. It is their meeting.
+3.  Change one condition: cover one ear, or turn your head. It is not the same sound altered. It is a different appearing.
+4.  Look for the “between” that joins the conditions. Did any of this need a hearer behind it, a web underneath, or a power in the cause? Then stop looking. The sound is complete, exactly as its conditions meet. Do not try to keep this. When the next sound comes, it is complete too.
+5.  Later in the day, when a thought or a flash of irritation comes, look for the same shape: anyone behind it? Anything in it standing on its own? Anything missing? Recognise the face; do not hold on to it.
+
+## Read more
+
+- [*Decoding Anatta and MMK Chapter 3*](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/): the doer behind the doing, and the same move in MMK 2, 3, 10 and 1.
+- [*What the Logic Is Looking At*](https://atr-passerby.com/what-the-logic-is-looking-at/): designation is singling out; a world of only blue.
+- Book 2, *The Transition from Anatta to Emptiness*, [*The Chariot Comes Alive*](https://atr-passerby.com/anatta-to-emptiness-the-chariot-comes-alive-dependent/): the chariot, the sevenfold search, exhaustive dependence.
+- [*Causal Efficacy Without Causal Power*](https://atr-passerby.com/causal-efficacy-without-causal-power/): causal efficacy without causal power; conditions are the appearing; the mere I; ignorance is not a power.
+- [*The Limits of the Tools*](https://atr-passerby.com/the-limits-of-the-tools/): conditions without production; conditions without a web.
+- [*The Illusion of the Given*](https://atr-passerby.com/the-illusion-of-the-given/): Indra’s net, two modes of right knowing.
+- [*Mind and Consciousness: Both Are Also Singled Out*](https://atr-passerby.com/mind-is-singled-out-too/): mind and matter as two cuts of one appearing; the path after anatta.
+- Book 2, [*The Taste of Total Exertion*](https://atr-passerby.com/anatta-to-emptiness-the-taste-of-total-exertion/) and [*The Great Desynchronization*](https://atr-passerby.com/anatta-to-emptiness-the-great-desynchronization/): total exertion, and the gap after anatta.
+- [*Isn’t Energy the Substrate?*](https://atr-passerby.com/isn-t-energy-the-substrate/) and [*Energy Practices*](https://atr-passerby.com/energy-practices/): why qi and energy are not a foundation either.
+- [*Neither Carried Nor Cut*](https://atr-passerby.com/neither-carried-nor-cut/): continuity without a carrier.
+- *Nāgārjuna’s Middle Way*: chapters 1, 2, 3, 10, 14, 20 and 24.
+
+## Words to know
+
+- **Dependent arising** (*pratītyasamutpāda*): these conditions, met together, designated, working. Not production, not a web.
+- **Dependent designation** (*prajñaptir upādāya*): whatever is singled out as “this” is set up in dependence on its basis and on the singling out; nothing is found apart from it, and it is not arbitrary.
+- **Basis of designation:** what a thing is designated on, such as the parts of a chariot. Itself designated in turn, so no bottom layer is reached.
+- **Sevenfold search:** Candrakīrti’s search for the chariot: not the same as its parts, not other, not possessing them, not in them, not containing them, not their collection, not their shape.
+- **Anatta:** no self; first met as no doer behind seeing; as a seal, no self-nature in anything.
+- **Causal efficacy and causal power:** that conditions condition and things function (kept); a force sitting in a cause from its own side (never found).
+- **Default framework:** the conventional cutting of the appearing into parts, causes and a sequence, for explaining and getting things done.
+- **Inherent framework, the matrix:** the habit of taking what the cutting singles out as standing by itself.
+- **Two modes of right knowing:** right knowing by concepts within the framework; freedom from all elaborations, not within it.
+- **King of reasons:** dependent arising as the reason that shows emptiness, in Tsongkhapa’s tradition.
+- **Saṃvṛti:** “conventional”; for Candrakīrti, concealment (ignorance), mutual dependence, and worldly convention.
+- **Mere convention** (*kun rdzob tsam*): Candrakīrti’s word for how things appear to those free of afflictive ignorance: like reflections, working, not taken as true.
+- **Spontaneous presence** (*lhun grub*): appearing complete, owing nothing to a hidden source, never uncaused. The same appearing as dependent arising, described when the habit of fixing stops.
+- **Total exertion:** Dōgen’s word for each thing spending itself fully in its own place, complete, with nothing held back. A taste, not a cosmic whole: the taste of dependent arising arriving early, before the view.
+- **Singled out:** picked out as “this” and named, in dependence on conditions and the framework. Whatever appears is singled out; nothing is found before the singling out.
+- **Desynchronisation:** the gap after anatta, when experience is free of a self but the view still treats things as standing by themselves.
+- **Elaboration:** whatever the mind adds to appearing to have something to stand on: a part, a whole, an energy, a field, a relation, a substrate.
+- **Habitual tendency:** the deep, unnoticed way of understanding and orienting ourselves that takes things as there from their own side. Its other name is ignorance.
+- **Taste:** what is met directly, before any description. Anatta, dependent arising and spontaneous presence are three descriptions of one taste.
+- **Isomorphism:** a sameness of structure. Here: the same shape recognised in different situations, not the same stuff carried between them.
+- **Marketplace:** ordinary life re-entered after freedom from all elaborations: work, people, choices, helping. From the tenth Zen ox-herding picture. Where the third encounter happens.
+- **Unborn by nature:** appearing through conditions, yet not produced, with no birth from its own side. Nāgārjuna’s sense of dependent arising, and how I read Dzogchen’s “not made by causes and conditions”.
+- **Refined non-dual:** subject and object felt as one, resting in oneness, with everything taken as made of the same luminosity. Still haunted by substance. Not the taste.
+- **Dharma-position:** Dōgen’s term for each thing complete in its own place, before and after cut off; designated, not found.
