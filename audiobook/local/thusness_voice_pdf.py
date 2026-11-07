@@ -18,7 +18,7 @@ Text mode (no window):
 One MP3 per chapter ("03 - Chapter title.mp3"), or one for the whole PDF when it has no bookmarks, in a folder
 "<PDF name> - voice" beside the PDF (or the folder you choose). Needs Python 3.9+ and:  pip install edge-tts pypdf
 """
-import argparse, asyncio, os, queue, re, subprocess, sys, threading, time, unicodedata
+import argparse, asyncio, json, os, queue, re, subprocess, sys, threading, time, unicodedata
 from collections import Counter
 from pathlib import Path
 
@@ -159,20 +159,41 @@ async def speak(text, voice, rate, proxy, stop):
             raise RuntimeError("stopped")
         try:
             com = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary", proxy=proxy)
-            audio, said = bytearray(), []
+            audio, said, marks = bytearray(), [], []
             async for ch in com.stream():
                 if ch["type"] == "audio":
                     audio += ch["data"]
                 elif ch["type"] == "WordBoundary":
                     said.append(ch["text"])
+                    marks.append(ch["offset"] / 1e7)     # seconds from the start of this part
             # the service names every word it spoke: all of the text must be there, or it stopped early
             if audio and len(letters(" ".join(said))) >= 0.97 * len(letters(text)):
-                return bytes(audio)
+                return bytes(audio), marks
             why = "stopped early"
         except Exception as e:
             why = f"{type(e).__name__}: {e}"
         await asyncio.sleep(4 * (attempt + 1))
     raise RuntimeError(f"a part could not be recorded ({why})")
+
+
+WORD = re.compile(r"\w+(?:['’\-]\w+)*")
+
+
+def split_sentences(text):
+    return [x for x in re.split(r"(?<=[.?!…])[\"”’)]*\s+(?=[A-Z\"“‘(\d])", text) if x.strip()]
+
+
+def timings(parts, results):
+    """[[start second, sentence], …] for a chapter, from the moment the voice reached each sentence's first word."""
+    out, base = [], 0.0
+    for text, (audio, marks) in zip(parts, results):
+        k = 0
+        for sent in split_sentences(text):
+            t = marks[min(k, len(marks) - 1)] if marks else 0.0
+            out.append([round(base + t, 2), sent.strip()])
+            k += len(WORD.findall(sent))
+        base += len(audio) * 8 / 48000                 # the free voices send 48 kbit/s MP3
+    return out
 
 
 def run(chapters, out_dir, voice, rate, report, stop, proxy=None):
@@ -193,14 +214,15 @@ def run(chapters, out_dir, voice, rate, report, stop, proxy=None):
                 done += len(p)
                 report(done, total, f"Chapter {i}: {title}")
                 return a
-        return b"".join(await asyncio.gather(*(one(p) for p in ps)))
+        results = await asyncio.gather(*(one(p) for p in ps))
+        return b"".join(a for a, _ in results), timings(ps, results)
 
     for n, (i, title, ps) in enumerate(jobs, 1):
         if stop.is_set():
             break
         report(done, total, f"Chapter {i}: {title} ({n} of {len(jobs)})")
         try:
-            audio = asyncio.run(chapter(i, title, ps))
+            audio, sentences = asyncio.run(chapter(i, title, ps))
         except Exception as e:
             if stop.is_set():
                 break
@@ -209,6 +231,9 @@ def run(chapters, out_dir, voice, rate, report, stop, proxy=None):
             continue
         f = out_dir / f"{i:02d} - {safe_name(title)}.mp3"
         f.write_bytes(audio)
+        # the text, sentence by sentence with the second each one starts, so a player can show it and follow along
+        f.with_suffix(".json").write_text(json.dumps({"title": title, "voice": voice, "sentences": sentences},
+                                                     ensure_ascii=False), encoding="utf-8")
         made.append(f)
     return made, failed
 

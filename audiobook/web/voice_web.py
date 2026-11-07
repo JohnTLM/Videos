@@ -114,11 +114,162 @@ def upload(path, folder):
     esc = path.name.replace("\\", "\\\\").replace("'", "\\'")
     same = drive().files().list(q=f"'{folder}' in parents and name = '{esc}' and trashed = false",
                                 fields="files(id)").execute()["files"]
-    media = MediaFileUpload(str(path), mimetype="audio/mpeg", resumable=True)
+    media = MediaFileUpload(str(path), mimetype="application/json" if path.suffix == ".json" else "audio/mpeg", resumable=True)
     if same:
         drive().files().update(fileId=same[0]["id"], media_body=media).execute()
     else:
         drive().files().create(body={"name": path.name, "parents": [folder]}, media_body=media).execute()
+
+
+# ------------------------------------------------------------------ listen and read
+READERS_VOICES = "voices for ebooks and articles"     # the 142 recordings for invited readers (Videos audiobook/)
+AUDIOBOOK = HERE.parent                                 # ~/videos/audiobook: text/ and out/voice_manifest.json
+allowed = set()                                        # folder ids the page may play from (filled by library())
+
+
+def library():
+    """The folders that hold recordings: each PDF's folder under Voice recordings, then the readers' recordings."""
+    if DEV:
+        root = Path(os.environ["VOICE_DEV_OUT"])
+        out = [{"id": str(d), "name": d.name} for d in sorted(root.rglob("*")) if d.is_dir() and any(d.glob("*.mp3"))]
+        allowed.update(x["id"] for x in out)
+        return out
+    d, out = drive(), []
+    top = drive_folder(OUT_NAME)
+    for f in d.files().list(q=f"'{top}' in parents and mimeType = 'application/vnd.google-apps.folder' and trashed = false",
+                            fields="files(id,name)", orderBy="modifiedTime desc", pageSize=200).execute()["files"]:
+        out.append({"id": f["id"], "name": f["name"]})
+    for f in d.files().list(q=f"name = '{READERS_VOICES}' and mimeType = 'application/vnd.google-apps.folder' and trashed = false",
+                            fields="files(id)").execute()["files"][:1]:
+        out.append({"id": f["id"], "name": "The books and articles (Jenny, for invited readers)"})
+    allowed.update(x["id"] for x in out)
+    return out
+
+
+def collection(folder):
+    if folder not in allowed:
+        library()
+    if folder not in allowed:
+        raise ValueError("Not one of your recording folders.")
+    if DEV:
+        files = [{"id": str(p), "name": p.name} for p in sorted(Path(folder).iterdir())]
+    else:
+        files, tok = [], None
+        while True:
+            r = drive().files().list(q=f"'{folder}' in parents and trashed = false", fields="nextPageToken,files(id,name)",
+                                     orderBy="name", pageSize=1000, pageToken=tok).execute()
+            files += r["files"]; tok = r.get("nextPageToken")
+            if not tok:
+                break
+    texts = {f["name"][:-5]: f["id"] for f in files if f["name"].endswith(".json")}
+    return [{"id": f["id"], "name": f["name"][:-4], "text": texts.get(f["name"][:-4])}
+            for f in files if f["name"].lower().endswith(".mp3")]
+
+
+def read_drive(file_id):
+    if DEV:
+        return Path(file_id).read_bytes()
+    return drive().files().get_media(fileId=file_id).execute()
+
+
+def plain_sentences(text):
+    return [x.strip() for x in engine.split_sentences(text) if x.strip()]
+
+
+LABELS = {"1-substrateless-world": "Book 1 - Substrateless World", "2-anatta-to-emptiness": "Book 2 - Anatta to Emptiness",
+          "3-nagarjunas-middle-way": "Book 3 - Nagarjuna Middle Way", "4-observer-and-presence": "Book 4 - Observer and Presence",
+          "5-the-logic-after-anatta": "Book 5 - Logic After Anatta", "explorations": "Explorations", "zoom-ins": "Zoom-ins",
+          "the-canon-view": "Canon View", "bonus-articles": "Article"}   # as in audiobook/manifest.py
+
+
+def reader_name(setname, stem, title):
+    clean = re.sub(r"\s+", " ", re.sub(r'[\\/*?:"<>|]', "", title).replace("’", "'")).strip()
+    return f"{LABELS[setname]} - {clean}" if setname == "bonus-articles" else f"{LABELS[setname]} - {stem.split('-')[0]} - {clean}"
+
+
+def unsay(s):
+    """The readers' text is spelled for the voice (Madhyamaka as Mahd-yah-mah-kah); put the words back for reading."""
+    f = AUDIOBOOK.parent / "tools" / "pronunciation.json"
+    back = {}
+    if f.exists():
+        for k, v in json.loads(f.read_text(encoding="utf-8")).items():
+            back.setdefault(v, k)
+    for v in sorted(back, key=len, reverse=True):
+        s = s.replace(v, back[v])
+    return s
+
+
+def reader_text(mp3_id, name):
+    """The text file of one of the readers' recordings: by the manifest, else by its file name."""
+    mf = AUDIOBOOK / "out" / "voice_manifest.json"
+    if mf.exists():
+        for r in json.loads(mf.read_text(encoding="utf-8")):
+            if r.get("drive_id") == mp3_id or r.get("drive_name", "")[:-4] == name:
+                t = (AUDIOBOOK / "text" / r["id"]).with_suffix(".txt")
+                if t.exists():
+                    return t
+    for t in sorted((AUDIOBOOK / "text").glob("*/*.txt")):
+        title = t.read_text(encoding="utf-8").split("\n", 1)[0].removeprefix("title:").strip()
+        if t.parent.name in LABELS and reader_name(t.parent.name, t.stem, title) == name:
+            return t
+    return None
+
+
+def text_for(mp3_id, name, text_id):
+    """The sentences of a recording: with their start times when the recording made them, else without (the page
+    then follows along by length)."""
+    if text_id:
+        d = json.loads(read_drive(text_id))
+        return {"timed": True, "sentences": d["sentences"]}
+    t = reader_text(mp3_id, name)                          # the readers' recordings: their text is in audiobook/text/
+    if t:
+        lines = unsay(t.read_text(encoding="utf-8")).split("\n")
+        while lines and lines[0].split(":")[0] in ("title", "album"):
+            lines.pop(0)
+        sents = []
+        for para in "\n".join(lines).split("\n\n"):
+            para = para.strip().removeprefix("# ")
+            if para:
+                sents += [[None, x] for x in plain_sentences(para)]
+        return {"timed": False, "sentences": sents}
+    return {"timed": False, "sentences": [], "note": "No text was kept with this recording."}
+
+
+def stream_audio(handler, file_id):
+    """Send an MP3 from Drive to the player, passing through the part it asks for, so it can skip ahead."""
+    rng = handler.headers.get("Range")
+    if DEV:
+        data = Path(file_id).read_bytes()
+        m = re.match(r"bytes=(\d+)-(\d*)", rng or "")
+        a, z = (int(m[1]), int(m[2] or len(data) - 1)) if m else (0, len(data) - 1)
+        handler.send_response(206 if m else 200); handler.send_header("Content-Type", "audio/mpeg")
+        handler.send_header("Accept-Ranges", "bytes")
+        if m:
+            handler.send_header("Content-Range", f"bytes {a}-{z}/{len(data)}")
+        handler.send_header("Content-Length", str(z - a + 1)); handler.end_headers(); handler.wfile.write(data[a:z + 1]); return
+    meta = drive().files().get(fileId=file_id, fields="parents,mimeType").execute()
+    if not set(meta.get("parents", [])) & allowed:
+        library()
+    if not set(meta.get("parents", [])) & allowed or meta.get("mimeType") != "audio/mpeg":
+        return handler.send(403, {"error": "Not one of your recordings."})
+    from google.auth.transport.requests import AuthorizedSession
+    from gauth import credentials
+    r = AuthorizedSession(credentials()).get(f"https://www.googleapis.com/drive/v3/files/{file_id}?alt=media",
+                                             headers={"Range": rng} if rng else {}, stream=True, timeout=60)
+    handler.send_response(r.status_code)
+    for k in ("Content-Type", "Content-Length", "Content-Range"):
+        if k in r.headers:
+            handler.send_header(k, r.headers[k])
+    handler.send_header("Accept-Ranges", "bytes")
+    handler.send_header("Cache-Control", "private, max-age=3600")
+    handler.end_headers()
+    try:
+        for chunk in r.iter_content(256 * 1024):
+            handler.wfile.write(chunk)
+    except (BrokenPipeError, ConnectionResetError):
+        pass
+    finally:
+        r.close()
 
 
 # ------------------------------------------------------------------ the job
@@ -135,6 +286,7 @@ def start_job(doc, picks, voice, rate):
         try:
             folder = drive_folder(re.sub(r"\.pdf$", "", doc["name"], flags=re.I), drive_folder(OUT_NAME))
             job["folder_link"] = folder if DEV else f"https://drive.google.com/drive/folders/{folder}"
+            job["folder_id"] = folder
             out = WORK / "out" / uuid.uuid4().hex
             chosen = [(i, *doc["chapters"][i - 1]) for i in picks]
 
@@ -152,6 +304,9 @@ def start_job(doc, picks, voice, rate):
                 for f in made:
                     job["message"] = f"Saving to Drive: {f.name}"
                     upload(f, folder)
+                    if f.with_suffix(".json").exists():       # the text with its timings, for Listen and read
+                        upload(f.with_suffix(".json"), folder)
+                        f.with_suffix(".json").unlink()
                     job["files"].append(f.name)
                     f.unlink()
                 job["failed"] += failed
@@ -228,6 +383,21 @@ class H(BaseHTTPRequestHandler):
             return self.send(200, list_pdfs())
         if r == "/api/job":
             return self.send(200, job_view())
+        from urllib.parse import parse_qs, urlparse
+        q = {k: v[0] for k, v in parse_qs(urlparse(self.path).query).items()}
+        try:
+            if r == "/api/library":
+                return self.send(200, library())
+            if r == "/api/collection":
+                return self.send(200, collection(q.get("id", "")))
+            if r == "/api/text":
+                return self.send(200, text_for(q.get("id", ""), q.get("name", ""), q.get("text") or None))
+            if r == "/api/audio":
+                return stream_audio(self, q.get("id", ""))
+        except ValueError as e:
+            return self.send(400, {"error": str(e)})
+        except Exception as e:
+            return self.send(500, {"error": f"{type(e).__name__}: {e}"})
         self.send(404, {"error": "not found"})
 
     def do_POST(self):
@@ -315,6 +485,9 @@ ul.ch{list-style:none;margin:0;padding:0;max-height:22rem;overflow:auto;border:1
 ul.ch li{border-bottom:1px solid var(--rule)}ul.ch label{display:flex;gap:.6rem;padding:.45rem .6rem;cursor:pointer}ul.ch .m{margin-left:auto;color:var(--muted);white-space:nowrap}
 progress{width:100%;height:1.1rem;accent-color:var(--saffron)}.muted{color:var(--muted)}.err{color:#c0392b}
 a{color:var(--saffron)}[hidden]{display:none!important}
+.txt{max-height:24rem;overflow:auto;border:1px solid var(--rule);border-radius:8px;background:var(--paper);padding:.8rem 1rem;font:1.05rem/1.7 Georgia,serif}
+.txt span{cursor:pointer;border-radius:3px}.txt span.on{background:color-mix(in srgb,var(--saffron) 35%,transparent)}
+ul.ch button.it{all:unset;display:flex;gap:.6rem;width:100%;padding:.45rem .6rem;cursor:pointer;box-sizing:border-box}ul.ch button.it.cur{font-weight:700;color:var(--saffron)}
 </style></head><body><main>
 <h1>Thusness Voice</h1><p class="sub">Read an ebook or article PDF aloud into MP3 files. Private: for the site's owner only.</p>
 <section id="signin" hidden><h2>Sign in</h2><p>Sign in with your Google account to use this page.</p>
@@ -328,6 +501,11 @@ a{color:var(--saffron)}[hidden]{display:none!important}
 <section><h2>3 · Voice and speed</h2><div class="row"><select id="voice"></select><select id="rate"><option value="-20%">Slower (-20%)</option><option value="-10%">A little slower (-10%)</option><option value="+0%" selected>Normal</option><option value="+10%">A little faster (+10%)</option><option value="+20%">Faster (+20%)</option></select></div></section>
 <section><h2>4 · Record</h2><div class="row"><button id="start" disabled>Start</button><button class="ghost" id="stop" disabled>Stop</button></div>
 <p style="margin:.8rem 0 .3rem"><progress id="bar" max="1000" value="0"></progress></p><div id="status">Ready.</div><div id="eta" class="muted"></div><div id="result"></div></section>
+<section id="lr"><h2>5 · Listen and read</h2>
+<div class="row"><select id="coll"><option>Loading your recordings…</option></select></div>
+<ul class="ch" id="items" style="margin-top:.6rem;max-height:14rem"></ul>
+<div id="player" hidden><p style="margin:.8rem 0 .3rem"><b id="ptitle"></b></p><audio id="aud" controls preload="metadata" style="width:100%"></audio>
+<p class="muted" id="pnote" style="margin:.3rem 0"></p><div id="txt" class="txt"></div></div></section>
 <p><button class="ghost" id="logout">Sign out</button></p></div>
 </main>
 <script src="https://accounts.google.com/gsi/client" async></script>
@@ -338,7 +516,7 @@ VOICES.forEach(([n,v])=>$("voice").add(new Option(n,v)));
 window.onGoogle=r=>api("login",{method:"POST",body:JSON.stringify({credential:r.credential})}).then(()=>location.reload()).catch(e=>$("loginmsg").textContent=e.message);
 $("devlogin").onclick=()=>onGoogle({credential:"dev"});
 if(!"{{CLIENT_ID}}")$("devlogin").hidden=false;
-function show(){ $("signin").hidden=AUTHED; $("app").hidden=!AUTHED; if(AUTHED){loadPdfs();watch();} }
+function show(){ $("signin").hidden=AUTHED; $("app").hidden=!AUTHED; if(AUTHED){loadPdfs();watch();loadLib();} }
 function loadPdfs(){api("pdfs").then(l=>{const s=$("pdf");s.innerHTML="";l.forEach(f=>{const o=new Option((f.folder?f.folder+" › ":"")+f.name+"  ("+(f.size/1e6).toFixed(1)+" MB)",f.id);o.dataset.name=f.name;s.add(o)});if(!l.length)s.add(new Option("No PDFs found in Ebooks for readers"))}).catch(e=>$("status").textContent=e.message)}
 function opened(j){doc=j.doc;$("docname").textContent="· "+j.name+" ("+j.pages+" pages)";const ul=$("list");ul.innerHTML="";
  j.chapters.forEach(c=>{const li=document.createElement("li"),l=document.createElement("label"),b=document.createElement("input"),t=document.createElement("span"),m=document.createElement("span");
@@ -357,9 +535,24 @@ $("logout").onclick=()=>api("logout",{method:"POST"}).then(()=>location.reload()
 function paint(j){const run=j.state==="running";$("stop").disabled=!run;$("start").disabled=run||!doc;
  if(j.state==="idle")return j;$("bar").value=run?1000*j.done/j.total:(j.state==="finished"?1000:$("bar").value);
  $("status").textContent=(run?j.message+"   "+Math.round(100*j.done/j.total)+"%":j.message);$("eta").textContent=run?(j.eta||""):"";
- const r=$("result");r.textContent="";if(j.folder_link&&!run&&j.files&&j.files.length){const a=document.createElement("a");a.href=j.folder_link;a.target="_blank";a.rel="noopener";a.textContent="Open the Drive folder ("+j.files.length+" files)";r.append(a)}
+ const r=$("result");r.textContent="";if(j.folder_link&&!run&&j.files&&j.files.length){const a=document.createElement("a");a.href=j.folder_link;a.target="_blank";a.rel="noopener";a.textContent="Open the Drive folder ("+j.files.length+" files)";r.append(a);if(j.folder_id){const b=document.createElement("button");b.className="ghost";b.style.marginLeft=".6rem";b.textContent="Listen and read";b.onclick=()=>{loadLib(j.folder_id);$("lr").scrollIntoView({behavior:"smooth"})};r.append(b)}}
  if(j.failed&&j.failed.length){const p=document.createElement("div");p.className="err";p.textContent="Not recorded: "+j.failed.join(", ")+". Tick just those and press Start again.";r.append(p)}
  return j}
+let sents=[],timed=false,cur=-1;
+function loadLib(sel){api("library").then(l=>{const s=$("coll");s.innerHTML="";l.forEach(f=>s.add(new Option(f.name,f.id)));if(!l.length)s.add(new Option("No recordings yet"));if(sel)s.value=sel;if(l.length)loadColl()}).catch(e=>$("coll").innerHTML="<option>"+e.message+"</option>")}
+function loadColl(){const id=$("coll").value;const ul=$("items");ul.innerHTML="<li class='muted' style='padding:.5rem'>Loading…</li>";
+ api("collection?id="+encodeURIComponent(id)).then(l=>{ul.innerHTML="";if(!l.length)ul.innerHTML="<li class='muted' style='padding:.5rem'>No MP3 files in this folder.</li>";
+  l.forEach(x=>{const li=document.createElement("li"),b=document.createElement("button");b.className="it";b.textContent="▶ "+x.name;b.onclick=()=>{document.querySelectorAll("#items .it").forEach(e=>e.classList.remove("cur"));b.classList.add("cur");play(x)};li.append(b);ul.append(li)})}).catch(e=>ul.innerHTML="<li class='err' style='padding:.5rem'>"+e.message+"</li>")}
+$("coll").onchange=loadColl;
+function play(x){$("player").hidden=false;$("ptitle").textContent=x.name;const a=$("aud");a.src="/voice/api/audio?id="+encodeURIComponent(x.id);a.play().catch(()=>{});
+ $("txt").textContent="Loading the text…";$("pnote").textContent="";cur=-1;
+ api("text?id="+encodeURIComponent(x.id)+"&name="+encodeURIComponent(x.name)+(x.text?"&text="+encodeURIComponent(x.text):"")).then(d=>{
+  sents=d.sentences;timed=d.timed;const t=$("txt");t.textContent="";
+  $("pnote").textContent=d.note||(timed?"The sentence being read is highlighted. Tap a sentence to jump there.":"The highlight follows the reading roughly (this recording has no timings). Tap a sentence to jump near it.");
+  let total=sents.reduce((n,s)=>n+s[1].length,0)||1,acc=0;sents.forEach((s,i)=>{s.f=acc/total;acc+=s[1].length;const sp=document.createElement("span");sp.textContent=s[1]+" ";sp.onclick=()=>{a.currentTime=timed?s[0]:s.f*(a.duration||0);a.play()};t.append(sp)})})}
+$("aud").ontimeupdate=()=>{const a=$("aud");if(!sents.length)return;let i;
+ if(timed){i=0;while(i+1<sents.length&&sents[i+1][0]<=a.currentTime)i++}else{const f=a.duration?a.currentTime/a.duration:0;i=0;while(i+1<sents.length&&sents[i+1].f<=f)i++}
+ if(i===cur)return;const sp=$("txt").children;if(sp[cur])sp[cur].classList.remove("on");cur=i;if(sp[i]){sp[i].classList.add("on");const box=$("txt"),y=sp[i].offsetTop-box.offsetTop-box.clientHeight/3;box.scrollTo({top:y,behavior:"smooth"})}};
 function watch(){clearInterval(poll);const tick=()=>api("job").then(j=>{paint(j);if(j.state!=="running")clearInterval(poll)}).catch(()=>{});tick();poll=setInterval(tick,1500)}
 show();
 </script></body></html>"""
