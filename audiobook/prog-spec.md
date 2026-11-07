@@ -179,3 +179,19 @@ The notes below describe the first snapshot (2026-10-30).
   thusness-website `server/TASK-audiobook-jenny.md`. Glossaries stay out unless the owner asks. Nothing on the
   website yet: a player on each page is a later step, after the owner has listened.
 - 2026-11-07 (owner: "Leave the glossaries out"): the two glossaries (`19-sw-glossary`, `28-ob-b`) stay out of the recordings for good; `make_audiobook.py` leaves them out by default, so never pass `--glossaries`.
+- 2026-11-07 (server, thusness-website `server/TASK-audiobook-jenny.md`): **full recording done and in Drive.**
+  - Text refreshed from EBooks `Website/` and the site with `refresh_source.py` + `prepare_text.py`: no change from
+    the committed `source/` and `text/`.
+  - Recorded on the server (edge-tts 7.3.1, Jenny, default rate), about 75 minutes: **142 files, 41.3 hours**
+    (1.2 GB of MP3s): Book 1 18, Book 2 24, Book 3 27, Book 4 27, Book 5 17, Explorations 15, Zoom-ins 6, Canon View 1,
+    articles 7. No part failed to record; all 142 files decode cleanly. More hours than the 36 estimated: Jenny
+    speaks more slowly than Andrew (about 140–150 words a minute with the pauses).
+  - **The speed check flags 34 files below 140 words a minute** (lowest: Zoom-in `01-pathway` 87, Book 4 `29-ob-c` 111,
+    Book 2 `24-ae-appendix` 123; the rest 128–140): 12 of Book 2, 7 of Book 3, 2 of Book 4, 8 Explorations, 3 Zoom-ins,
+    the Canon View and the article `04-beyond`. They are complete (every part passed the word check). A low rate
+    means more pauses for the number of words (short lines, lists, tables), not lost words. They were uploaded as
+    they are. `WPM_MIN` (140) was set for Andrew; for Jenny about 120 would fit, with `01-pathway` as the one
+    exception. Left for the owner to judge on listening; a re-run gives the same result (the parts are cached).
+  - Drive: private folder `voices for ebooks and articles` at the top of My Drive, id
+    `1T-8zbX_6H8DxfsXcBT3GyKAnyFgP8rP_` (owner only). 142 MP3s (all NEW), `voice_manifest.json` and
+    `AUDIO_CHANGELOG.md`; every upload checked by MD5, and the folder checked again afterwards.
