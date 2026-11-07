@@ -178,3 +178,4 @@ The notes below describe the first snapshot (2026-10-30).
   4.7 min, 168 words a minute, all checks passed. The full recording and the Drive upload are the server's:
   thusness-website `server/TASK-audiobook-jenny.md`. Glossaries stay out unless the owner asks. Nothing on the
   website yet: a player on each page is a later step, after the owner has listened.
+- 2026-11-07 (owner: "Leave the glossaries out"): the two glossaries (`19-sw-glossary`, `28-ob-b`) stay out of the recordings for good; `make_audiobook.py` leaves them out by default, so never pass `--glossaries`.
