@@ -1,45 +1,46 @@
-# Thusness Voice: make the recordings on your own computer
+# Thusness Voice: read your ebooks and articles aloud, on your own computer
 
-Free. It records the five books and the bonus articles as MP3 files, in Jenny's voice (or another Microsoft voice
-you choose), from the latest text on the website. Nothing runs on the server and nothing is charged.
-(Owner, 2026-11-07: "Make it as a separate program that I can generate separately locally.")
+Free. Choose a PDF (for example from your **Ebooks for readers** folder), tick the chapters, pick a voice, press
+**Start**. A progress bar and the time left show it is working. You get one MP3 per chapter.
+Microsoft's natural voices (Jenny, Aria, Ava, Andrew, …) through edge-tts: no account, no key, no charge.
+(Owner, 2026-11-07: "a separate program where I can generate the voices read of my ebooks or articles. Show a
+progress bar … It must allow me to load a pdf from my readers for ebooks folder.")
 
-## Once: set up
+## Once: set up (about 5 minutes)
 
-1. Install Python from https://www.python.org/downloads/ (on Windows, tick "Add python.exe to PATH").
-2. Open a terminal (Windows: Start, type `cmd`; Mac: Terminal) and type:
-
-       pip install edge-tts
-
-3. Download `thusness_voice.py` from this folder (on GitHub: open the file, then the download button) and put it in
-   a folder of its own, for example `Documents\Thusness Voice`. On Windows you can put `run-windows.bat` beside it.
+1. Install Python from https://www.python.org/downloads/
+   - Windows: on the first screen tick **"Add python.exe to PATH"**, then Install.
+   - Mac: run the installer as it is.
+2. Download these two files from this GitHub folder (open each file, then the download button ⤓) into a new folder,
+   for example `Documents\Thusness Voice`:
+   - `thusness_voice_pdf.py` (the program)
+   - `run-windows.bat` (Windows only: double-click to start)
+3. Windows: double-click `run-windows.bat`. The first time it installs what it needs (a minute), then the window opens.
+   Mac: open Terminal and type `pip3 install edge-tts pypdf`, then `python3 ~/Documents/Thusness\ Voice/thusness_voice_pdf.py`.
 
 ## Each time
 
-In the terminal, go to that folder (`cd Documents\Thusness Voice`) and type one of these:
+1. **1. Choose a PDF…** Your readers' folder in Google Drive for desktop is usually
+   `G:\My Drive\My-Book\Ebooks for readers` (Windows) or Google Drive › My Drive › My-Book › Ebooks for readers (Mac).
+   A PDF you downloaded works too.
+2. **Chapters.** The list comes from the PDF's bookmarks (the five books have them; an article is one piece).
+   Contents, Glossary, References and the title page start unticked. Click a line to tick or untick it.
+3. **Voice and Speed.** Jenny is first. Speed -10% is a little slower.
+4. **Start.** The bar fills as each part is recorded; the line under it says which chapter and the time left.
+   **Stop** stops after the part in progress. When it says *Finished*, press **Open the folder**.
 
-| To do this | Type |
-|---|---|
-| Record everything (about 41 hours of audio; takes about an hour) | `python thusness_voice.py` |
-| See what there is, with minutes | `python thusness_voice.py --list` |
-| Record a few files only | `python thusness_voice.py --only pathway sw-1` |
-| Record one set | `python thusness_voice.py --sets bonus-articles` |
-| Another voice | `python thusness_voice.py --voice en-US-AriaNeural` |
-| List the voices | `python thusness_voice.py --voices` |
-| Slower or faster | `python thusness_voice.py --rate -10%` |
+The MP3s go into a folder named `<PDF name> - voice` beside the PDF (or press **Change folder…**), named
+`05 - Chapter 1 The Substantialist Misconception.mp3` and so on. If a chapter shows "Not recorded" (the free service
+sometimes drops out), press Start again with just that chapter ticked.
 
-On Windows you can instead double-click `run-windows.bat`: it installs edge-tts if needed and records everything.
+Speed: a 10-minute chapter takes about 20–30 seconds; a whole book of 5–7 hours about 10–15 minutes.
 
-The files go into the folder `voices for ebooks and articles` beside the program, with `AUDIO_CHANGELOG.md`
-(each file marked NEW, UPDATED or Unchanged) and `voice_manifest.json`. Run it again after the books change: only
-the changed chapters are recorded again. If a file fails (the free service sometimes drops out), run it again.
+## Without the window
 
-To have the files in Google Drive by themselves, use Google Drive for desktop and point the program there, e.g.
-`python thusness_voice.py --out "G:\My Drive\voices for ebooks and articles"`.
+    python thusness_voice_pdf.py --cli "5 The Logic After Anatta.pdf" --list
+    python thusness_voice_pdf.py --cli "5 The Logic After Anatta.pdf" --chapters 3-6 --voice en-US-AriaNeural --rate -10%
 
-## Where the text comes from
+## Also here
 
-The public GitHub repository JohnTLM/videos, `audiobook/text/`: the website's text with links, figures, reference
-lists and Sanskrit verse lines left out, made by `audiobook/refresh_source.py` and `prepare_text.py`. When the site
-changes, a Claude session refreshes that text (ask: "refresh the audiobook text"); the program then picks it up.
-The two glossaries are left out (owner's choice).
+`thusness_voice.py` records from the website's text instead of a PDF (all books and articles, cleaned for listening:
+no figures, reference lists or Sanskrit verse lines). See its first lines for how to run it.
