@@ -1,0 +1,737 @@
+{
+ "1-substrateless-world/01-sw-intro": {
+  "slug": "sw-intro",
+  "title": "Introduction: The Unravelling of the Substantialist Premise",
+  "address": "substrateless-world-introduction-the-unravelling"
+ },
+ "1-substrateless-world/02-sw-1": {
+  "slug": "sw-1",
+  "title": "The Substantialist Misconception",
+  "address": "substrateless-world-1-the-substantialist-misconception"
+ },
+ "1-substrateless-world/03-sw-interlude": {
+  "slug": "sw-interlude",
+  "title": "Interlude: Same Words, Different Worlds",
+  "address": "substrateless-world-interlude-same-words-different-worlds"
+ },
+ "1-substrateless-world/04-sw-2": {
+  "slug": "sw-2",
+  "title": "The Logical Impossibility of Intrinsic Nature",
+  "address": "substrateless-world-2-the-logical-impossibility-of-intrinsic"
+ },
+ "1-substrateless-world/05-sw-3": {
+  "slug": "sw-3",
+  "title": "Unfindability and Freedom from the Eight Extremes",
+  "address": "substrateless-world-3-unfindability-and-freedom"
+ },
+ "1-substrateless-world/06-sw-4": {
+  "slug": "sw-4",
+  "title": "Mutual Dependency and the Non-Hierarchy of Relation",
+  "address": "substrateless-world-4-mutual-dependency"
+ },
+ "1-substrateless-world/07-sw-5": {
+  "slug": "sw-5",
+  "title": "The Non-Dimensional Two Truths",
+  "address": "substrateless-world-5-the-non-dimensional-two-truths"
+ },
+ "1-substrateless-world/08-sw-6": {
+  "slug": "sw-6",
+  "title": "The Impossibility of Absolute Nothingness",
+  "address": "substrateless-world-6-the-impossibility-of-absolute"
+ },
+ "1-substrateless-world/09-sw-7": {
+  "slug": "sw-7",
+  "title": "Dissolving the Hard Problem of Consciousness",
+  "address": "substrateless-world-7-dissolving-the-hard-problem"
+ },
+ "1-substrateless-world/10-sw-8": {
+  "slug": "sw-8",
+  "title": "States of Awareness, Deep Sleep, and Death",
+  "address": "substrateless-world-8-states-of-awareness-deep-sleep"
+ },
+ "1-substrateless-world/11-sw-9": {
+  "slug": "sw-9",
+  "title": "The Reconceptualization of Continuity",
+  "address": "substrateless-world-9-the-reconceptualization-of-continuity"
+ },
+ "1-substrateless-world/12-sw-10": {
+  "slug": "sw-10",
+  "title": "Perceptual Co-Arising",
+  "address": "substrateless-world-10-perceptual-co-arising"
+ },
+ "1-substrateless-world/13-sw-11": {
+  "slug": "sw-11",
+  "title": "Alignment with 4E Cognition",
+  "address": "substrateless-world-11-alignment-with-4e-cognition"
+ },
+ "1-substrateless-world/14-sw-12": {
+  "slug": "sw-12",
+  "title": "Dissolution of Internal vs. External Worlds",
+  "address": "substrateless-world-12-dissolution-of-internal-vs-external"
+ },
+ "1-substrateless-world/15-sw-13": {
+  "slug": "sw-13",
+  "title": "Conceptual Designation vs. Mere Naming",
+  "address": "substrateless-world-13-conceptual-designation-vs-mere-naming"
+ },
+ "1-substrateless-world/16-sw-14": {
+  "slug": "sw-14",
+  "title": "The Role of Function in Conventional Reality",
+  "address": "substrateless-world-14-the-role-of-function-in-conventional"
+ },
+ "1-substrateless-world/17-sw-15": {
+  "slug": "sw-15",
+  "title": "Science in a Substrateless World",
+  "address": "substrateless-world-15-science-in-a-substrateless-world"
+ },
+ "1-substrateless-world/18-sw-conclusion": {
+  "slug": "sw-conclusion",
+  "title": "Conclusion: The Freedom of a Substrateless World",
+  "address": "substrateless-world-conclusion-the-freedom"
+ },
+ "1-substrateless-world/19-sw-glossary": {
+  "slug": "sw-glossary",
+  "title": "Glossary of Key Terms",
+  "address": "substrateless-world-glossary-of-key-terms"
+ },
+ "1-substrateless-world/20-sw-references": {
+  "slug": "sw-references",
+  "title": "References",
+  "address": "substrateless-world-references"
+ },
+ "2-anatta-to-emptiness/01-preface": {
+  "slug": "preface",
+  "title": "Preface",
+  "address": "anatta-to-emptiness-preface"
+ },
+ "2-anatta-to-emptiness/02-method": {
+  "slug": "method",
+  "title": "A Note on Method",
+  "address": "anatta-to-emptiness-a-note-on-method"
+ },
+ "2-anatta-to-emptiness/03-ae-start": {
+  "slug": "ae-start",
+  "title": "The Starting Point: The Journey Through Presence",
+  "address": "anatta-to-emptiness-the-starting-point-the-journey-through"
+ },
+ "2-anatta-to-emptiness/04-ae-intro": {
+  "slug": "ae-intro",
+  "title": "Introduction: The Architecture of a Direct Realization",
+  "address": "anatta-to-emptiness-introduction-the-architecture"
+ },
+ "2-anatta-to-emptiness/05-ae-observer": {
+  "slug": "ae-observer",
+  "title": "The Collapse of the Observer",
+  "address": "anatta-to-emptiness-the-collapse-of-the-observer"
+ },
+ "2-anatta-to-emptiness/06-ae-exertion": {
+  "slug": "ae-exertion",
+  "title": "The Taste of Total Exertion",
+  "address": "anatta-to-emptiness-the-taste-of-total-exertion"
+ },
+ "2-anatta-to-emptiness/07-ae-desync": {
+  "slug": "ae-desync",
+  "title": "The Great Desynchronization",
+  "address": "anatta-to-emptiness-the-great-desynchronization"
+ },
+ "2-anatta-to-emptiness/08-ae-chariot": {
+  "slug": "ae-chariot",
+  "title": "The Chariot Comes Alive—Dependent Designation and the Birth of Conventional Reality",
+  "address": "anatta-to-emptiness-the-chariot-comes-alive-dependent"
+ },
+ "2-anatta-to-emptiness/09-ae-refuge": {
+  "slug": "ae-refuge",
+  "title": "The Last Refuge of Ontology: Dependent Arising Dismantles Itself",
+  "address": "anatta-to-emptiness-the-last-refuge-of-ontology-dependent"
+ },
+ "2-anatta-to-emptiness/10-ae-stroke": {
+  "slug": "ae-stroke",
+  "title": "The Logic of the Single Stroke & The Eye as a Living Chariot",
+  "address": "anatta-to-emptiness-the-logic-of-the-single-stroke-the-eye"
+ },
+ "2-anatta-to-emptiness/11-ae-negation": {
+  "slug": "ae-negation",
+  "title": "The Disease of Relentless Negation & The Principle of Formation",
+  "address": "anatta-to-emptiness-the-disease-of-relentless-negation"
+ },
+ "2-anatta-to-emptiness/12-ae-yeshes": {
+  "slug": "ae-yeshes",
+  "title": "Ye Shes: When Analysis Becomes Transparent & Freedom from Elaboration",
+  "address": "anatta-to-emptiness-ye-shes-when-analysis-becomes"
+ },
+ "2-anatta-to-emptiness/13-ae-resonances": {
+  "slug": "ae-resonances",
+  "title": "Resonances and Open Questions",
+  "address": "anatta-to-emptiness-resonances-and-open-questions"
+ },
+ "2-anatta-to-emptiness/14-ae-epilogue": {
+  "slug": "ae-epilogue",
+  "title": "Epilogue: The Synchronization of Experience and Understanding",
+  "address": "anatta-to-emptiness-epilogue-the-synchronization"
+ },
+ "2-anatta-to-emptiness/15-ae-mountain": {
+  "slug": "ae-mountain",
+  "title": "The Formation of a Mountain",
+  "address": "anatta-to-emptiness-the-formation-of-a-mountain"
+ },
+ "2-anatta-to-emptiness/16-ae-flower": {
+  "slug": "ae-flower",
+  "title": "The Formation of a Flower: Three Levels Down",
+  "address": "anatta-to-emptiness-the-formation-of-a-flower-three-levels"
+ },
+ "2-anatta-to-emptiness/17-ae-space": {
+  "slug": "ae-space",
+  "title": "Space Is Also a Formation",
+  "address": "anatta-to-emptiness-space-is-also-a-formation"
+ },
+ "2-anatta-to-emptiness/18-ae-ricecake": {
+  "slug": "ae-ricecake",
+  "title": "The Painted Rice Cake: Designation Is Also a Formation",
+  "address": "anatta-to-emptiness-the-painted-rice-cake-designation-is"
+ },
+ "2-anatta-to-emptiness/19-ae-extremes": {
+  "slug": "ae-extremes",
+  "title": "Beyond the Extremes: Why Life and Death Were Never the Right Words",
+  "address": "anatta-to-emptiness-beyond-the-extremes-why-life-and-death"
+ },
+ "2-anatta-to-emptiness/20-ae-taste": {
+  "slug": "ae-taste",
+  "title": "The Taste, Not the Argument",
+  "address": "anatta-to-emptiness-the-taste-not-the-argument"
+ },
+ "2-anatta-to-emptiness/21-ae-science": {
+  "slug": "ae-science",
+  "title": "Independent Paths: What Science Gave Up",
+  "address": "anatta-to-emptiness-independent-paths-what-science-gave-up"
+ },
+ "2-anatta-to-emptiness/22-ae-edges": {
+  "slug": "ae-edges",
+  "title": "At the Edges of Science: Mechanism, Evidence and Consciousness",
+  "address": "anatta-to-emptiness-at-the-edges-of-science-mechanism"
+ },
+ "2-anatta-to-emptiness/23-ae-companion": {
+  "slug": "ae-companion",
+  "title": "A Beginner's Companion to the Main Text",
+  "address": "anatta-to-emptiness-a-beginner-s-companion-to-the-main-text"
+ },
+ "2-anatta-to-emptiness/24-ae-appendix": {
+  "slug": "ae-appendix",
+  "title": "Appendix: From Rheomode to Relation",
+  "address": "anatta-to-emptiness-appendix-from-rheomode-to-relation"
+ },
+ "3-nagarjunas-middle-way/01-mmk-1": {
+  "slug": "mmk-1",
+  "title": "Examination of Conditions",
+  "address": "nagarjuna-1-examination-of-conditions"
+ },
+ "3-nagarjunas-middle-way/02-mmk-2": {
+  "slug": "mmk-2",
+  "title": "Examination of Motion",
+  "address": "nagarjuna-2-examination-of-motion"
+ },
+ "3-nagarjunas-middle-way/03-mmk-3": {
+  "slug": "mmk-3",
+  "title": "Examination of the Senses",
+  "address": "nagarjuna-3-examination-of-the-senses"
+ },
+ "3-nagarjunas-middle-way/04-mmk-4": {
+  "slug": "mmk-4",
+  "title": "Examination of the Aggregates",
+  "address": "nagarjuna-4-examination-of-the-aggregates"
+ },
+ "3-nagarjunas-middle-way/05-mmk-5": {
+  "slug": "mmk-5",
+  "title": "Examination of the Elements",
+  "address": "nagarjuna-5-examination-of-the-elements"
+ },
+ "3-nagarjunas-middle-way/06-mmk-6": {
+  "slug": "mmk-6",
+  "title": "Examination of Desire and the Desirous",
+  "address": "nagarjuna-6-examination-of-desire-and-the-desirous"
+ },
+ "3-nagarjunas-middle-way/07-mmk-7": {
+  "slug": "mmk-7",
+  "title": "Examination of the Conditioned",
+  "address": "nagarjuna-7-examination-of-the-conditioned"
+ },
+ "3-nagarjunas-middle-way/08-mmk-8": {
+  "slug": "mmk-8",
+  "title": "Examination of the Agent and Action",
+  "address": "nagarjuna-8-examination-of-the-agent-and-action"
+ },
+ "3-nagarjunas-middle-way/09-mmk-9": {
+  "slug": "mmk-9",
+  "title": "Examination of the Prior Entity",
+  "address": "nagarjuna-9-examination-of-the-prior-entity"
+ },
+ "3-nagarjunas-middle-way/10-mmk-10": {
+  "slug": "mmk-10",
+  "title": "Examination of Fire and Fuel",
+  "address": "nagarjuna-10-examination-of-fire-and-fuel"
+ },
+ "3-nagarjunas-middle-way/11-mmk-11": {
+  "slug": "mmk-11",
+  "title": "Examination of the Initial and Final Limits",
+  "address": "nagarjuna-11-examination-of-the-initial-and-final-limits"
+ },
+ "3-nagarjunas-middle-way/12-mmk-12": {
+  "slug": "mmk-12",
+  "title": "Examination of Suffering",
+  "address": "nagarjuna-12-examination-of-suffering"
+ },
+ "3-nagarjunas-middle-way/13-mmk-13": {
+  "slug": "mmk-13",
+  "title": "Examination of Compounded Phenomena",
+  "address": "nagarjuna-13-examination-of-compounded-phenomena"
+ },
+ "3-nagarjunas-middle-way/14-mmk-14": {
+  "slug": "mmk-14",
+  "title": "Examination of Connection",
+  "address": "nagarjuna-14-examination-of-connection"
+ },
+ "3-nagarjunas-middle-way/15-mmk-15": {
+  "slug": "mmk-15",
+  "title": "Examination of Essence",
+  "address": "nagarjuna-15-examination-of-essence"
+ },
+ "3-nagarjunas-middle-way/16-mmk-16": {
+  "slug": "mmk-16",
+  "title": "Examination of Bondage and Liberation",
+  "address": "nagarjuna-16-examination-of-bondage-and-liberation"
+ },
+ "3-nagarjunas-middle-way/17-mmk-17": {
+  "slug": "mmk-17",
+  "title": "Examination of Actions and Their Fruits",
+  "address": "nagarjuna-17-examination-of-actions-and-their-fruits"
+ },
+ "3-nagarjunas-middle-way/18-mmk-18": {
+  "slug": "mmk-18",
+  "title": "Examination of the Self and Entities",
+  "address": "nagarjuna-18-examination-of-the-self-and-entities"
+ },
+ "3-nagarjunas-middle-way/19-mmk-19": {
+  "slug": "mmk-19",
+  "title": "Examination of Time",
+  "address": "nagarjuna-19-examination-of-time"
+ },
+ "3-nagarjunas-middle-way/20-mmk-20": {
+  "slug": "mmk-20",
+  "title": "Examination of Combination",
+  "address": "nagarjuna-20-examination-of-combination"
+ },
+ "3-nagarjunas-middle-way/21-mmk-21": {
+  "slug": "mmk-21",
+  "title": "Examination of Becoming and Destruction",
+  "address": "nagarjuna-21-examination-of-becoming-and-destruction"
+ },
+ "3-nagarjunas-middle-way/22-mmk-22": {
+  "slug": "mmk-22",
+  "title": "Examination of the Tathāgata",
+  "address": "nagarjuna-22-examination-of-the-tathagata"
+ },
+ "3-nagarjunas-middle-way/23-mmk-23": {
+  "slug": "mmk-23",
+  "title": "Examination of Errors",
+  "address": "nagarjuna-23-examination-of-errors"
+ },
+ "3-nagarjunas-middle-way/24-mmk-24": {
+  "slug": "mmk-24",
+  "title": "Examination of the Four Noble Truths",
+  "address": "nagarjuna-24-examination-of-the-four-noble-truths"
+ },
+ "3-nagarjunas-middle-way/25-mmk-25": {
+  "slug": "mmk-25",
+  "title": "Examination of Nirvāṇa",
+  "address": "nagarjuna-25-examination-of-nirvana"
+ },
+ "3-nagarjunas-middle-way/26-mmk-26": {
+  "slug": "mmk-26",
+  "title": "Examination of the Twelve Links",
+  "address": "nagarjuna-26-examination-of-the-twelve-links"
+ },
+ "3-nagarjunas-middle-way/27-mmk-27": {
+  "slug": "mmk-27",
+  "title": "Examination of Views",
+  "address": "nagarjuna-27-examination-of-views"
+ },
+ "4-observer-and-presence/01-ob-preface": {
+  "slug": "ob-preface",
+  "title": "Preface",
+  "address": "observer-preface"
+ },
+ "4-observer-and-presence/02-ob-method": {
+  "slug": "ob-method",
+  "title": "Note on Method",
+  "address": "observer-note-on-method"
+ },
+ "4-observer-and-presence/03-ob-howto": {
+  "slug": "ob-howto",
+  "title": "How to Read This Book",
+  "address": "observer-how-to-read-this-book"
+ },
+ "4-observer-and-presence/04-ob-1": {
+  "slug": "ob-1",
+  "title": "The Witness Behind Experience",
+  "address": "observer-1-the-witness-behind-experience"
+ },
+ "4-observer-and-presence/05-ob-2": {
+  "slug": "ob-2",
+  "title": "Vividness Without a Viewer",
+  "address": "observer-2-vividness-without-a-viewer"
+ },
+ "4-observer-and-presence/06-ob-3": {
+  "slug": "ob-3",
+  "title": "Ignorance and Its Habit",
+  "address": "observer-3-ignorance-and-its-habit"
+ },
+ "4-observer-and-presence/07-ob-4": {
+  "slug": "ob-4",
+  "title": "Two Logics",
+  "address": "observer-4-two-logics"
+ },
+ "4-observer-and-presence/08-ob-5": {
+  "slug": "ob-5",
+  "title": "The Given",
+  "address": "observer-5-the-given"
+ },
+ "4-observer-and-presence/09-ob-6": {
+  "slug": "ob-6",
+  "title": "Conceptual All the Way Down?",
+  "address": "observer-6-conceptual-all-the-way-down"
+ },
+ "4-observer-and-presence/10-ob-7": {
+  "slug": "ob-7",
+  "title": "Energy",
+  "address": "observer-7-energy"
+ },
+ "4-observer-and-presence/11-ob-8": {
+  "slug": "ob-8",
+  "title": "Potentiality and Plasticity",
+  "address": "observer-8-potentiality-and-plasticity"
+ },
+ "4-observer-and-presence/12-ob-9": {
+  "slug": "ob-9",
+  "title": "Continuity Without a Carrier",
+  "address": "observer-9-continuity-without-a-carrier"
+ },
+ "4-observer-and-presence/13-ob-10": {
+  "slug": "ob-10",
+  "title": "The Candle and the Weight of Watching",
+  "address": "observer-10-the-candle-and-the-weight-of-watching"
+ },
+ "4-observer-and-presence/14-ob-11": {
+  "slug": "ob-11",
+  "title": "Change Without a Changer",
+  "address": "observer-11-change-without-a-changer"
+ },
+ "4-observer-and-presence/15-ob-12": {
+  "slug": "ob-12",
+  "title": "The Eight Extremes",
+  "address": "observer-12-the-eight-extremes"
+ },
+ "4-observer-and-presence/16-ob-13": {
+  "slug": "ob-13",
+  "title": "Identity, Convention and the Criteria of Truth",
+  "address": "observer-13-identity-convention-and-the-criteria-of-truth"
+ },
+ "4-observer-and-presence/17-ob-14": {
+  "slug": "ob-14",
+  "title": "Analysis and the Dividing Mind",
+  "address": "observer-14-analysis-and-the-dividing-mind"
+ },
+ "4-observer-and-presence/18-ob-15": {
+  "slug": "ob-15",
+  "title": "Reification and Svabhāva as a Way of Seeing",
+  "address": "observer-15-reification-and-svabhava-as-a-way-of-seeing"
+ },
+ "4-observer-and-presence/19-ob-16": {
+  "slug": "ob-16",
+  "title": "Non-Dividing Seeing",
+  "address": "observer-16-non-dividing-seeing"
+ },
+ "4-observer-and-presence/20-ob-17": {
+  "slug": "ob-17",
+  "title": "The Three Assumptions and the Fourth",
+  "address": "observer-17-the-three-assumptions-and-the-fourth"
+ },
+ "4-observer-and-presence/21-ob-18": {
+  "slug": "ob-18",
+  "title": "Spontaneous Presence",
+  "address": "observer-18-spontaneous-presence"
+ },
+ "4-observer-and-presence/22-ob-19": {
+  "slug": "ob-19",
+  "title": "Two Traditions, One Risk",
+  "address": "observer-19-two-traditions-one-risk"
+ },
+ "4-observer-and-presence/23-ob-20": {
+  "slug": "ob-20",
+  "title": "The Gap and Its Absence",
+  "address": "observer-20-the-gap-and-its-absence"
+ },
+ "4-observer-and-presence/24-ob-21": {
+  "slug": "ob-21",
+  "title": "The Taste of Pacified Reification",
+  "address": "observer-21-the-taste-of-pacified-reification"
+ },
+ "4-observer-and-presence/25-ob-22": {
+  "slug": "ob-22",
+  "title": "Painted Food, Painted Hunger",
+  "address": "observer-22-painted-food-painted-hunger"
+ },
+ "4-observer-and-presence/26-ob-23": {
+  "slug": "ob-23",
+  "title": "Recognition, Not Effort",
+  "address": "observer-23-recognition-not-effort"
+ },
+ "4-observer-and-presence/27-ob-a": {
+  "slug": "ob-a",
+  "title": "Appendix A: The Verse Text, an Index",
+  "address": "observer-appendix-a-the-verse-text-an-index"
+ },
+ "4-observer-and-presence/28-ob-b": {
+  "slug": "ob-b",
+  "title": "Appendix B: Glossary",
+  "address": "observer-appendix-b-glossary"
+ },
+ "4-observer-and-presence/29-ob-c": {
+  "slug": "ob-c",
+  "title": "Appendix C: The Beginner's Companion, in Eleven Rounds",
+  "address": "observer-appendix-c-the-beginner-s-companion-in-eleven"
+ },
+ "4-observer-and-presence/30-ob-d": {
+  "slug": "ob-d",
+  "title": "Appendix D: References",
+  "address": "observer-appendix-d-references"
+ },
+ "5-the-logic-after-anatta/01-intro": {
+  "slug": "aa-intro",
+  "title": "Seeing Comes First",
+  "address": "seeing-comes-first"
+ },
+ "5-the-logic-after-anatta/02-looking": {
+  "slug": "aa-looking",
+  "title": "What the Logic Is Looking At",
+  "address": "what-the-logic-is-looking-at"
+ },
+ "5-the-logic-after-anatta/03-koan": {
+  "slug": "aa-koan",
+  "title": "Does It Arise or Cease?",
+  "address": "does-it-arise-or-cease"
+ },
+ "5-the-logic-after-anatta/04-seeing": {
+  "slug": "aa-seeing",
+  "title": "Decoding Anatta and MMK Chapter 3",
+  "address": "decoding-anatta-and-mmk-chapter-3"
+ },
+ "5-the-logic-after-anatta/05-continuity": {
+  "slug": "aa-continuity",
+  "title": "Neither Carried Nor Cut",
+  "address": "neither-carried-nor-cut"
+ },
+ "5-the-logic-after-anatta/06-annihilation": {
+  "slug": "aa-annihilation",
+  "title": "Annihilation Is an Inherent View",
+  "address": "annihilation-is-an-inherent-view"
+ },
+ "5-the-logic-after-anatta/07-essay-illusion": {
+  "slug": "aa-illusion",
+  "title": "The Illusion of the Given",
+  "address": "the-illusion-of-the-given"
+ },
+ "5-the-logic-after-anatta/08-limits": {
+  "slug": "aa-limits",
+  "title": "The Limits of the Tools",
+  "address": "the-limits-of-the-tools"
+ },
+ "5-the-logic-after-anatta/09-logic": {
+  "slug": "aa-logic",
+  "title": "The Logic of Dependency",
+  "address": "the-logic-of-dependency"
+ },
+ "5-the-logic-after-anatta/10-step-1": {
+  "slug": "aa-1",
+  "title": "Step 1: Two Logics",
+  "address": "step-1-two-logics"
+ },
+ "5-the-logic-after-anatta/11-step-2": {
+  "slug": "aa-2",
+  "title": "Step 2: What Is Negated",
+  "address": "step-2-what-is-negated"
+ },
+ "5-the-logic-after-anatta/12-step-3": {
+  "slug": "aa-3",
+  "title": "Step 3: Designated, Not Found",
+  "address": "step-3-designated-not-found"
+ },
+ "5-the-logic-after-anatta/13-step-4": {
+  "slug": "aa-4",
+  "title": "Step 4: The Two Truths",
+  "address": "step-4-the-two-truths"
+ },
+ "5-the-logic-after-anatta/14-step-5": {
+  "slug": "aa-5",
+  "title": "Step 5: The Four Corners",
+  "address": "step-5-the-four-corners"
+ },
+ "5-the-logic-after-anatta/15-step-6": {
+  "slug": "aa-6",
+  "title": "Step 6: The Two Traps",
+  "address": "step-6-the-two-traps"
+ },
+ "5-the-logic-after-anatta/16-step-7": {
+  "slug": "aa-7",
+  "title": "Step 7: Function Without Substance",
+  "address": "step-7-function-without-substance"
+ },
+ "5-the-logic-after-anatta/17-step-8": {
+  "slug": "aa-8",
+  "title": "Step 8: The Four Questions",
+  "address": "step-8-the-four-questions"
+ },
+ "explorations/01-q-phenomenon": {
+  "slug": "aa-phenomenon",
+  "title": "What Is a Phenomenon?",
+  "address": "what-is-a-phenomenon"
+ },
+ "explorations/02-q-rebirth": {
+  "slug": "aa-rebirth",
+  "title": "Rebirth and Karma",
+  "address": "rebirth-and-karma"
+ },
+ "explorations/03-q-powers": {
+  "slug": "aa-powers",
+  "title": "The Six Powers",
+  "address": "the-six-powers"
+ },
+ "explorations/04-q-realms": {
+  "slug": "aa-realms",
+  "title": "Many Worlds, Many Realms",
+  "address": "many-worlds-many-realms"
+ },
+ "explorations/05-q-world": {
+  "slug": "aa-world",
+  "title": "The World Itself",
+  "address": "the-world-itself"
+ },
+ "explorations/06-q-death": {
+  "slug": "aa-death",
+  "title": "Death and the Bardo",
+  "address": "death-and-the-bardo"
+ },
+ "explorations/07-mind-singled-out": {
+  "slug": "aa-mind-singled-out",
+  "title": "Mind and Consciousness: Both Are Also Singled Out",
+  "address": "mind-is-singled-out-too"
+ },
+ "explorations/08-dependent-arising": {
+  "slug": "aa-dependent-arising",
+  "title": "Dependent Arising and Designation",
+  "address": "dependent-arising-and-designation"
+ },
+ "explorations/09-q-cause": {
+  "slug": "aa-cause",
+  "title": "Cause and Effect",
+  "address": "cause-and-effect"
+ },
+ "explorations/10-science-dharma": {
+  "slug": "aa-science-dharma",
+  "title": "Science and the Dharma",
+  "address": "science-and-the-dharma"
+ },
+ "explorations/11-q-time": {
+  "slug": "aa-time",
+  "title": "Time",
+  "address": "time"
+ },
+ "explorations/12-q-rainbow": {
+  "slug": "aa-rainbow",
+  "title": "Rainbow Body",
+  "address": "rainbow-body"
+ },
+ "explorations/13-q-energy": {
+  "slug": "aa-energy-practices",
+  "title": "Energy Practices",
+  "address": "energy-practices"
+ },
+ "explorations/14-q-ethics": {
+  "slug": "aa-ethics",
+  "title": "Ethics and Compassion",
+  "address": "ethics-and-compassion"
+ },
+ "explorations/15-q-practice": {
+  "slug": "aa-practice",
+  "title": "Practice and Realisation",
+  "address": "practice-and-realisation"
+ },
+ "zoom-ins/01-pathway": {
+  "slug": "aa-pathway",
+  "title": "The Post-Anatta Pathway",
+  "address": "post-anatta-pathway"
+ },
+ "zoom-ins/02-q-science": {
+  "slug": "aa-science",
+  "title": "Science and Physics",
+  "address": "science-and-physics"
+ },
+ "zoom-ins/03-causal-efficacy": {
+  "slug": "aa-causal-efficacy",
+  "title": "Causal Efficacy Without Causal Power",
+  "address": "causal-efficacy-without-causal-power"
+ },
+ "zoom-ins/04-practice-insights": {
+  "slug": "aa-practice-insights",
+  "title": "Insights and Tastes for Practice",
+  "address": "insights-and-tastes-for-practice"
+ },
+ "zoom-ins/05-q-mind": {
+  "slug": "aa-mind",
+  "title": "Mind and Consciousness",
+  "address": "mind-and-consciousness"
+ },
+ "zoom-ins/06-q-luminosity": {
+  "slug": "aa-luminosity",
+  "title": "Luminosity",
+  "address": "luminosity"
+ },
+ "the-canon-view/01-canon": {
+  "slug": "aa-canon",
+  "title": "The Canon View",
+  "address": "the-canon-view"
+ },
+ "bonus-articles/01-energy": {
+  "slug": "energy",
+  "title": "Isn't Energy the Substrate?",
+  "address": "isn-t-energy-the-substrate"
+ },
+ "bonus-articles/02-presence": {
+  "slug": "presence",
+  "title": "Dependent Designation and the Taste of Presence",
+  "address": "dependent-designation-and-the-taste-of-presence"
+ },
+ "bonus-articles/03-modes": {
+  "slug": "modes",
+  "title": "Two Modes, One Seeing",
+  "address": "two-modes-one-seeing"
+ },
+ "bonus-articles/04-beyond": {
+  "slug": "beyond",
+  "title": "Beyond Cause and Effect",
+  "address": "beyond-cause-and-effect"
+ },
+ "bonus-articles/05-insubstantial": {
+  "slug": "insubstantial",
+  "title": "Insubstantial Appearances",
+  "address": "insubstantial-appearances"
+ },
+ "bonus-articles/06-phenomenon": {
+  "slug": "phenomenon",
+  "title": "Vivid and Nowhere: What a Phenomenon Is",
+  "address": "vivid-and-nowhere-what-a-phenomenon-is"
+ },
+ "bonus-articles/07-rebirth": {
+  "slug": "rebirth",
+  "title": "One Flame Lights Another",
+  "address": "one-flame-lights-another"
+ }
+}

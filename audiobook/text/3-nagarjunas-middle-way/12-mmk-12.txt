@@ -1,0 +1,100 @@
+title: Examination of Suffering
+album: Nāgārjuna's Middle Way
+
+Nah-gar-joo-nah's Middle Way. Chapter 12. Examination of Suffering.
+
+When we suffer, we look for whom to blame. Sometimes it is ourselves: I brought this on myself. Sometimes it is others: they did this to me. Sometimes both, and sometimes no one: it just happened. Each answer feels like a complete account. Each also shapes how we live with the pain.
+
+In Nah-gar-joo-nah's time these four answers were also philosophical positions about suffering (duḥkha) in general. Was it made by the very person who suffers, by someone else, by both, or by no cause at all? This chapter applies the fourfold test of Chapter 1 to suffering, and finds that none of the four can be held, because each assumes a sufferer and a maker who stand on their own. It is a short chapter, but it carries the argument from things to persons.
+
+# The verses.
+
+The translation is new, made from the Sanskrit for this site. The Sanskrit is given above each verse; it follows the GRETIL e-text (CC BY-NC-SA 4.0).
+
+# Verse 12.1.
+
+Some hold that suffering is made by oneself, some by another, some by both, and some without a cause. But it makes no sense for suffering to be an effect produced in any of these ways.
+
+# Verse 12.2.
+
+If it were made by itself, it would not arise in dependence. But those aggregates arise in dependence on these aggregates.
+
+# Verse 12.3.
+
+If these were other than those, or those other than these, suffering would be made by another: those would be made by these, which are other.
+
+# Verse 12.4.
+
+If suffering were made by one's own person, who is that person, apart from the suffering, by whom the suffering is made?
+
+# Verse 12.5.
+
+If suffering came from another person, who is the one it is given to, apart from the suffering, once the other has made it?
+
+# Verse 12.6.
+
+If suffering came from another person, who is that other person, apart from suffering, who makes it and sends it on to someone else?
+
+# Verse 12.7.
+
+Since self-made suffering is not established, how could suffering be made by another? For the suffering the other makes would be, for that other, self-made.
+
+# Verse 12.8.
+
+First, suffering is not self-made, for it is not made by that very thing. And if the other is not self-made, how could suffering be made by another?
+
+# Verse 12.9.
+
+Suffering might be made by both, if it could be made by each one alone. And suffering made neither by another nor by oneself, without a cause: where could that be?
+
+# Verse 12.10.
+
+Not only for suffering are the four ways not found. For outer things too, the four ways are not found.
+
+# Four ways suffering might be made.
+
+Verse 12.1 lists the four positions. It is the same set as in Chapter 1, now asked about suffering: made by itself, by another, by both, or without a cause. The early discourses record the Buddha refusing all four when asked about suffering (in the dialogue with Kassapa). He answered instead with dependent arising. Nah-gar-joo-nah shows why the refusal was right.
+
+Verse 12.1 and the reasons that follow. As in Chapter 1, refusing all four is not a fifth theory. It shows that a self-standing maker of suffering is not found.
+
+# Neither the same nor other: this life and the next.
+
+Verses 12.2 and 12.3 take a concrete case. The suffering of a life is carried by its aggregates: body, feeling, perception, formations and consciousness. In the Buddhist picture, the aggregates of one life arise in dependence on the aggregates of the life before, as a flame is lit from a flame.
+
+Self-made? Then the suffering would not have to arise in dependence on anything. But it does: those aggregates arise in dependence on these (12.2). Something that depends on what went before is not simply made by itself.
+
+Made by another? Then the earlier aggregates and the later ones would have to be wholly other, two separate things (12.3). But if they were wholly other, nothing would link them. The later life could just as well come from anyone's earlier life, as rice could come from barley seed. The dependence is exactly what shows they are not wholly other.
+
+Verses 12.2–3. Dependence rules out both answers at once: what depends on something is neither simply itself nor simply other. The flame lit from a flame is the classic picture.
+
+# Who is the person apart from the suffering?
+
+Verses 12.4–6 turn from aggregates to persons. Say that suffering is made by one's own person. Then which person is that, apart from the suffering (12.4)? The person is designated on the very aggregates that are suffering. There is no one standing outside them, holding a tool, making suffering and then stepping into it.
+
+The same holds the other way round (12.5–6). Say that another person makes my suffering and hands it to me. Then who is the 'me' who receives it, apart from the suffering? And who is the other person, apart from his own suffering, who makes it and sends it across? The picture needs two people, each complete apart from their experience, passing suffering between them like a parcel. Neither person is found that way.
+
+Verses 12.4–6. The parcel picture of suffering needs a maker and a receiver who exist apart from their own experience. That is the self the earlier chapters failed to find.
+
+Verses 12.7–8 tighten the knot. 'Made by another' depends on 'made by oneself': whatever the other does, it is self-made from the other's side. So if self-making fails, making by another fails with it. And self-making does fail: suffering is not made by that very suffering, as a knife cannot cut itself (12.8). And both together fail because each alone failed (12.9). Two empty hands do not make a full one. Finally, suffering without any cause would come from nowhere, need nothing, and could not be ended by changing anything.
+
+# Beyond suffering.
+
+The last verse widens the point (12.10). It is not only suffering that resists the four ways. Outer things too, a pot, a sprout, a storm, cannot be made by themselves, by another, by both or by nothing. The test of Chapter 1 was about things; this chapter carries it into the personal world, where it matters most.
+
+# What is left standing.
+
+None of this makes suffering unreal or uncaused. A careless word still hurts, and a kind one still helps. Actions still have results, and responsibility is still meaningful. What goes is the picture of suffering as a thing made in one place and delivered to another, with a fixed author and a fixed victim.
+
+Seen through dependent arising, suffering arises from many conditions together: one's own habits and reactions, others' actions, circumstances, body and history. That is why it can be changed from many sides. 'It's all my fault' and 'it's all their fault' both freeze the situation around a self-standing someone. Dependent arising unfreezes it. This is the practical heart of the chapter: the way out of suffering opens exactly because no one, and nothing, owns it from its own side.
+
+# Words to know.
+
+Suffering (duḥkha): unease and pain in all forms, from plain hurt to the unsatisfactoriness of what changes.
+
+Made by oneself, by another (svayaṃkṛta, parakṛta): two of the four positions on the origin of suffering.
+
+Aggregates (skandha): body, feeling, perception, formations and consciousness; what a person is designated on.
+
+Person (pudgala): the one designated in dependence on the aggregates.
+
+The four ways (cāturvidhya): from self, from other, from both, without cause.

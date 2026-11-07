@@ -1,0 +1,314 @@
+# Mind and Consciousness: Both Are Also Singled Out
+
+Why I do not say that mind is the empty vivid appearing: mind, consciousness, luminous clarity and matter are all singled out, all designated, all phenomena.
+
+Zoom in (8)
+
+This page is the whole picture. Each article zooms into one part of it.
+
+- Knowing without a knower behind it → [*Mind and Consciousness*](https://atr-passerby.com/mind-and-consciousness/)
+- Clear and empty, never a hidden substance; the lamp that does not light itself → [*Luminosity*](https://atr-passerby.com/luminosity/)
+- Who sees? The doer behind the doing → [*Decoding Anatta and MMK Chapter 3*](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/)
+- Holding an apple: the knot → [*What the Logic Is Looking At*](https://atr-passerby.com/what-the-logic-is-looking-at/)
+- Six streams, no carrier, no pure awareness behind them → [*Neither Carried Nor Cut*](https://atr-passerby.com/neither-carried-nor-cut/)
+- Clarity under anaesthesia → [*Annihilation Is an Inherent View*](https://atr-passerby.com/annihilation-is-an-inherent-view/)
+- The embodied mind (4E cognition) → [*Science and the Dharma*](https://atr-passerby.com/science-and-the-dharma/)
+- Two modes, one seeing → [*Two Modes, One Seeing*](https://atr-passerby.com/two-modes-one-seeing/)
+
+Last updated 2 Nov 2026
+
+## In brief
+
+- **Whatever appears is singled out as "this".** Nothing appears first and gets picked out later. The singling out is the appearing, and it is already dependence.
+- **Mind is singled out too.** So are consciousness and luminous clarity. Their characteristics and behaviour depend on all the other factors in that act of singling out, and on the conventional framework they have to fit.
+- **Matter is singled out too.** Mind and matter are two cuts in the same vivid appearing. Neither is the floor under the other.
+- **So I do not say "mind is the empty vivid appearing".** That would make one of the cuts the name of the whole, and a ground comes back.
+- **"Appearances are one's radiance clarity" is a genuine taste, between phases 4 and 5.** The taste is direct. The view is unclear, so it is spoken vaguely, inside the old framework.
+- **Letting go of concepts gives the taste, not the view.** Quieting the symbolic layer lets luminous clarity be tasted, non-dual with appearances. It does not undo the distorted view that caused the confusion.
+- **Bare attention is one part of the training; anatta completes that course.** Bare attention, the suppression of symbolic layering and naked awareness train the direct taste of luminous clarity. Tasting appearances as one's radiance clarity is another insight. With a direct taste of anatta, in my view, that whole course is done.
+- **After anatta, the path goes in stages:** the desynchronisation (the experience non-substantialist, the framework still substantialist), then refining and syncing the view with the tools of dismantling and relaxing into openness, then spontaneous perfection, where the veil dissipates with clear seeing. It goes round more than once.
+- **In line with Nāgārjuna and with Dzogchen read without a ground.** Where it can be misheard ("already empty", "who singles out?", "clarity never absent", "one's radiance clarity", "anatta completes the course"), I answer in the section *Where this meets Nāgārjuna and Dzogchen*.
+- **On ordinary mind and rigpa, my reading is closer to Mahāmudrā.** One mind, held two ways. Dzogchen separates them more sharply, and rightly: ordinary mind can imitate rigpa. Separating them is discerning, not finding two things.
+- **Spontaneous presence is dependent arising.** In the appearing itself, one appearing described two ways, neither higher. In practice the tools and the taste can come in an order, like Dōgen's firewood and ash: each complete in its position, and I do not say one becomes the other, any more than summer becomes winter. Each refines our reading of the other.
+- **What is needed is both:** to taste vivid empty appearances clearly, and to understand the habit and the framework, the matrix, that does the cutting.
+
+## Why I do not say "mind is the empty vivid appearing"
+
+People often expect me to say it. Anatta is seen, the witness is gone, and what remains is vivid appearing, clear and knowing. Why not simply call that mind? Why not say mind is the empty vivid appearing?
+
+Because mind too is a singling out. It is picked out as "this", and designated. Saying "mind is the appearing" takes one thing that was singled out and makes it the name of everything that appears. That move looks harmless. It is the same move that once made the Witness, the Source and the Mirror. The cut is quietly promoted to the whole.
+
+So I do not give mind that place. Not because mind is less than appearances, but because nothing singled out gets that place: not mind, not matter, not clarity, not emptiness.
+
+![Diagram 1](../figures/aa-mind-singled-out-diagram-1.svg)
+
+Making mind the floor is the old move with a new name. Mind, consciousness, clarity and matter are all phenomena, side by side.
+
+## Everything that appears is singled out
+
+I have said this on *What the Logic Is Looking At*. Designation does not need words. It needs only singling out: this sound, this colour, this ache, picked out as "this". A "this" stands out only against what it is not, only with this seeing, this light, this attention, these conditions. In a world of only blue, no one would see blue.
+
+So singling out is not something done to an appearance that was there first. It is the appearing. And because it is already dependence, it is already empty. By appearing, a thing is already empty. This is about what appearing is, not about how it seems to us; to us it seems to stand by itself, and that seeming is the habit I come to in the section *The habit and the matrix*.
+
+Up to here most readers agree, as long as we talk about apples, sounds and tables. The difficulty starts when we turn the same seeing on the one who seems to be doing the singling out.
+
+## Mind is a singling out too
+
+Mind is not standing outside the act of singling out, doing it. Mind is one of the things singled out. If you ask who, then, does the singling out: no one stands behind it. The act, what is singled out and the mind arise together (the section *Where this meets Nāgārjuna and Dzogchen*). It is picked out as "this knowing", "this thought", "my mind", and like every "this" it stands out only with its conditions and against what it is not.
+
+Its characteristics and its behaviour are not its own. They depend on all the other factors in that act of singling out, and they comply with the conventional framework in which mind is being singled out. Look at how differently mind is cut:
+
+- **In everyday talk**, mind is "my thoughts", "my feelings", something inside the head that I own and that can be calm or upset.
+- **In the Abhidharma**, mind is a run of mind-moments with their mental factors, counted and classified.
+- **In Yogācāra**, mind is eight consciousnesses: the six sense consciousnesses, a mind that takes them as "I", and a storehouse.
+- **In neuroscience**, mind is brain activity: networks, signals, measurable states.
+
+Each of these works. Each holds within its own agreements and its own setting: the doctor can treat with the fourth, the meditator can train with the second and third, a friend can comfort with the first. None of them is mind as it is from its own side, because no such mind is found. In each framework, mind behaves exactly as that framework's cut requires.
+
+![Diagram 2](../figures/aa-mind-singled-out-diagram-2.svg)
+
+Four ways of singling out "mind". Each works within its own agreements; none is mind from its own side.
+
+This is what I mean when I say mind is designated. It does not mean mind is a mere word. It means that what we call mind, its edges, its unity, its properties, arises together with the act that singles it out, and is not found apart from it.
+
+## Matter is a singling out too
+
+The same holds the other way. Matter is not stuff standing by itself, on which mind floats. It is a singling out and designated, just as mind is.
+
+A table is singled out as "this table" by eye, hand and use. A physicist singles it out as molecules, then fields, then probabilities. The cook, the chemist and the physicist cut the same loaf differently, and each cut works within its agreements. None of them is the loaf from its own side.
+
+Once both are seen this way, the old puzzle loosens. The Hard Problem asks how matter, complete without experience, could give rise to mind. But that question begins by taking two cuts, each singled out within one vivid appearing, and treating each as standing on its own side. Then it asks for a bridge between them. No bridge can be found, because the gap was made by the starting point. I set this out in Book 1, Chapter 7.
+
+One caution about the word "cut". The appearing is never found uncut, waiting for a framework to slice it. "One appearing" means "not two", not a whole lying underneath its parts.
+
+So I do not say all is mind, and I do not say all is matter. Mind and matter are not two things to be joined, and not one thing in two disguises. They are two ways the appearing is singled out, each within its framework.
+
+## Mind, consciousness, luminous clarity: all phenomena
+
+So mind, consciousness and luminous clarity are the same in this respect. They are phenomena. A phenomenon is whatever can be known, singled out as "this". Mind can be known, consciousness can be known, clarity can be known. So they are phenomena, dependently arisen, and empty like every other.
+
+This needs care, because I also say that clarity is never absent. You cannot talk about phenomena without clarity. That stays. Every appearing is clear, known as it appears. Dependent arising is never a mechanism in the dark that a knower then lights up. "Never absent" means never absent from what appears. It does not mean an awareness that stays switched on. Under anaesthesia, when the conditions for the six streams are not met, nothing appears, and no clarity is left over, waiting in the dark; I go into this in *Annihilation Is an Inherent View*.
+
+But clarity being never absent is not the same as clarity being the floor. When clarity is singled out as "clarity", as "awareness", as "mind", it is designated like anything else. Its sameness across sights, sounds and thoughts is easily lifted out and taken to stand on its own, as a background or a Mind that gives off appearances. That is the abstraction I keep warning about. Not lifted out, the clarity stays the appearing's own. Lifted out and held, it becomes the last refuge of the self.
+
+So I put it this way. Clarity is never missing from what appears. And the moment clarity is picked out and named, it is one more phenomenon, not the thing all phenomena are made of.
+
+## "Appearances are one's radiance clarity"
+
+There was a very key phase in my own insight: the recognition that appearances are one's radiance clarity. It came between phases 4 and 5 of the seven phases I describe on *Seeing Comes First*: after phase 4, Presence as mirror-bright clarity, and before phase 5, no mirror reflecting, when anatta became clear.
+
+It is a direct taste. Appearances are not out there, reflected in a mirror. They are luminous, vivid, intimate, and the distance between knower and known collapses. I do not deny any of it.
+
+But it misses something, and at the time I did not know it was expressing itself in a vague way within the framework. Look at the wording:
+
+- **"One's"** keeps an owner. The appearances belong to someone, even if that someone has become very large and very subtle.
+- **"Radiance"** pictures a source and what it gives off. Appearances become the shining of something behind them.
+- **"Clarity"** quietly becomes the stuff that appearances are made of, the one thing that is really there.
+
+![Diagram 3](../figures/aa-mind-singled-out-diagram-3.svg)
+
+The taste was direct. Each word of the phrase quietly added a picture the old framework supplied.
+
+So the taste was non-dual, but the framework reading it was still inherent. This was the first desynchronisation I met: taste ahead of view. It comes back after anatta at a deeper level (the section *The path after anatta*). Experience is direct, the view is unclear, and one oscillates. One moment the taste is vivid and complete. The next, the mind tries to say what it is, and what it says is contradictory and untenable, exactly as Nāgārjuna's analysis shows. A self-luminous mind that lights its own appearances is the lamp of Chapter 7. A clarity that is the source of everything is the self-standing cause of Chapter 1. The MMK takes these apart one by one. The taste was not wrong. Its reading was.
+
+## Letting go of concepts gives the taste, not the view
+
+Many practices work by quieting the symbolic layer: dropping labels, suspending thought, resting without elaboration. Bare attention, bare awareness, naked awareness. I do not dismiss this. Suppressing the symbolic layer and letting go of concepts does allow a direct taste of luminous clarity, and of its non-duality with what we call appearances.
+
+But I see it for what it is. The suppression, or the training of bare attention and bare awareness, is just one part of the training: learning to taste luminous clarity directly. Tasting that appearances are one's radiance clarity is another insight again. And for those who break through and have a direct taste of anatta, in my view the whole course is completed: bare attention, the elimination and suppression of symbolic layering, naked awareness. Once there is no seer behind seeing, there is nothing left for that training to strip away to reach the seeing. In seeing, only the seen.
+
+But suppressing the symbolic layer does not resolve the distorted view that led to the confusion. When thought returns, and it always does, the same framework reads the taste again. The clarity becomes a ground, the presence becomes a universal substance, or the openness becomes a field from which appearances emerge. The experience was right. Its interpretation puts back what the experience had begun to undo. In Book 2 I called this the spiritual bypass of "direct experience".
+
+The habit was never only in the concepts. It runs deeper than words. Singling out happens before language, and so does the habit of taking what is singled out as standing on its own. Quieting words does not reach it. Seeing it does.
+
+So concepts are not the enemy, and silence is not the cure. The cure is understanding the habit that takes each cut as given by itself.
+
+## The path after anatta: desynchronisation, syncing the view, spontaneous perfection
+
+So what is needed after anatta is not more bare attention. It is work on the view: the right tools to deconstruct and dismantle the framework, with clear seeing. In my own case, as I describe in Book 2, it goes in stages. It also goes round more than once: a taste, then the view, then the taste again, this time read without a ground.
+
+![Diagram 4](../figures/aa-mind-singled-out-diagram-4.svg)
+
+The path after anatta. Each round, the same taste is read with less of a ground behind it.
+
+### After anatta
+
+In seeing, only the seen. There is thinking, no thinker. This is the first fold of emptiness. Presence is not lost; it is simply no longer behind anything. And grasping turns out to be the inherent view itself, felt directly.
+
+Here the course of bare attention is done. There is no seer left to reach by stripping things away. But anatta is a seal, not a stage. It removes the one who watches. It does not by itself remove the things watched, the moment, the space they seem to sit in, the causes that seem to drive them.
+
+### The desynchronisation
+
+So the next stage is a strange one. It is the same pattern as the radiance phase (the section *“Appearances are one’s radiance clarity”*), one level deeper. There the self was still in the reading; here the self is gone, but things are not. The experience has become non-substantialist, but the framework that reads it is still substantialist. The self has dissolved, but the universe has not. For years after 1997 this was my own situation.
+
+The habit does not disappear with the self. It moves. Space quietly sits as a container. Time runs like a conveyor belt. Conditions look like separate factors acting on one another. And awareness, presence or energy quietly becomes a subtle ground. Insights come as flashes that do not fit together, because the mind keeps trying to arrange them inside a world of things standing by themselves. Language helps it along: every sentence puts a noun behind the action, a wind behind the blowing, a mind behind the thinking.
+
+The danger here is that it feels complete. The observer is gone, practice is effortless; what more could there be? Then "this is beyond concepts" becomes a reason not to look, and the old framework survives under the language of non-conceptuality. This is where the taste of luminous clarity is so easily read back into a Source, as I once read "appearances are one's radiance clarity".
+
+### Refining and syncing the view
+
+By 2009 I had become very serious about the view. Experiences and insights alone cannot fully open body and mind. Inherent habits run far deeper than the surface.
+
+So I would say: get familiar with the logic and the tools of dismantling. The two logics, the search for what is designated, the four corners, the eight negations, the steps of *The Logic After Anatta*. Not as beliefs to hold, but as tools to use, again and again, wherever the mind assumes something is standing by itself. It had to be seen through in each place where it works: in the self, then in space, time, cause, death and the world itself. The rules of reasoning do not change; what changes are the premises they had been applied to. This is the second fold of emptiness: the scenery, the sound, the moment itself, looked for apart from what each depends on, none is found.
+
+It helps to catch the framework while it is working, not only in theory. Take sadness. "My mind is heavy" arrives as one solid fact: a mind, and its heaviness. Look at what is actually there: a weight in the chest, a sinking, a thought replaying, a face that comes to mind. Each is vivid; none is the mind those words placed underneath them. "My mind" was the cut that tied them together and took itself as found. It is the same knot as *Holding an apple*, turned inward.
+
+Then taste relaxing into openness. This is not bare attention coming back. Bare attention strips things away to reach a seeing. Relaxing lets go of a holding that the tools have already shown to be unfounded. Nothing is reached, and nothing is kept. It is not a state to build or keep up, and not an effort to stay open. Maintenance would be the split again.
+
+This takes time, because we are so used to the inherent framework. It has shaped how we see for as long as we have seen, and it does not give way to one argument or one good sitting.
+
+### Spontaneous perfection
+
+In time, the veil dissipates with clear seeing. It is not torn away by force, and nothing hidden is uncovered behind it. The veil was the habit of seeing inherently, and as the seeing becomes clear, it loosens by itself.
+
+Seen this way, there is nothing left to turn the logic on. Awareness was never a witness standing apart, and appearances were never things that had to be dissolved. Appearing presents itself: no maker, no knower, no background. This is spontaneous presence, and it is dependent arising itself (the section *Dependent arising and spontaneous presence*). Mind and matter lose their weight and become light, magical and plastic.
+
+As the deconstruction went on, something happened that I had not expected: the mind and the body's energy began opening by themselves, without effort. Less attachment, less compulsive thought, more direct radiance arising on its own: radiance now with no source behind it. I did not aim at this; it came as the root that held things closed was seen through.
+
+None of this is a state that is kept. It was always so. It is recognised, and recognised again wherever the habit of fixing still returns. The tools are not the seeing, and the seeing does not replace the tools too early. Without the tools, the taste is read back into a ground. Without the taste, the tools stay dry.
+
+## The habit and the matrix
+
+What has to be understood, then, is two things that work together.
+
+**The habit.** By default we see inherently. Whatever is singled out is taken as there by itself, with its own edges and its own unity, waiting to be known. This is not a belief we chose. It is a deep habitual way of seeing, and we designate it as ignorance. It does not need concepts to work, though concepts carry it further.
+
+**The framework, the matrix.** Every singling out happens within a framework. The framework breaks the appearing into parts, mind and matter, subject and object, cause and effect, for explanatory and functional purposes, and those parts work within a set of agreements in a given setting. That is how I put it in *Causal Efficacy Without Causal Power*: the conditions are the appearing, and the parts belong to the framework.
+
+The matrix is not a field beneath appearances, and not a hidden structure holding things up. It is the framework itself: the whole way of cutting, the agreements and the habit of taking the cuts as found. It too is singled out when I name it, and it too is empty.
+
+The trouble is never that we single out. Singling out is the appearing; it goes on, vivid and exact. The trouble is that we do not see the framework as a framework. We take its cuts as the joints of the world. Then mind becomes a thing, matter becomes a thing, and the question of how the two meet seems urgent.
+
+So the practice has two sides, and neither can be dropped. Clearly taste vivid empty appearances, so the view does not go dry. Understand the habit and the matrix, so the taste is not read back into a ground.
+
+## Where this meets Nāgārjuna and Dzogchen
+
+I want to be clear about how this reading stands against orthodox Madhyamaka and against Dzogchen read without a ground. At its core it is in line with both. There are a few places where it can be heard differently, and I answer them here.
+
+**With Nāgārjuna.** That mind is designated like everything else is MMK 24.18–19: whatever arises dependently is empty, with no exception for mind. It is also Candrakīrti's answer to Mind-Only: you cannot keep the mind and throw out the objects. Conventionally both stand; searched for, neither is found. Singling out is designation in dependence, and the framework with its agreements is what Madhyamaka calls the world's convention.
+
+**With Dzogchen.** Reading the basis as primordially pure, empty of being a ground, follows Longchenpa's line that the ground is called a ground only from a relative point of view. Refusing to make clarity the floor is Dzogchen's own warning against a subtle ground that can be found.
+
+Then the places where I can be misheard.
+
+**"By appearing, a thing is already empty."** A Gelug teacher would say: for ordinary beings, things appear as if they stand by themselves, so appearing does not show emptiness. I agree. "Already empty" is about what appearing is, not about how it is seen. The appearance of standing by itself is exactly the habit, the knot. That is what the tools take apart.
+
+**"Who does the singling out?"** If mind is singled out, something seems to be needed to single it out, and then something to single out that, without end. But there is no singler behind the singling out. The act, what is singled out and the mind arise together, as the doer and the deed do in MMK 8. A singler standing behind would be the witness again.
+
+**"Clarity is never absent."** Tsongkhapa refuses self-knowing awareness even conventionally. I do not posit it. Clarity is not a second act of knowing turned back on the first. It means only that whatever appears is known as it appears. "Not lit by another" is a denial. It does not claim a mind that lights itself; that is the lamp of MMK 7.
+
+**"Appearances are one's radiance clarity."** A Dzogchen teacher might defend this phrase. Dzogchen speaks of appearances as rigpa's own display, so why call the phrase confused? I do not call the words wrong. Longchenpa himself separates the all-ground, the base of habits, from the truth body. "Self-display" heard with an owner and a source still in it is resting in the all-ground mistaken for the ground. That is the phase I describe. The words can be the same; the view reading them is not.
+
+**"Anatta completes the course."** Here both traditions would push back. Tsongkhapa holds that a direct realisation of emptiness needs calm abiding and insight together, so stability is never simply done. Dzogchen holds that after recognition comes familiarisation, resting again and again until it is stable. What I say is completed is one project: stripping away the symbolic layer to reach a bare seeing behind it. Anatta shows there was never a seer to reach. Stability is not thrown away. After anatta it serves the view instead of chasing a state. The tools that dismantle the framework are what Mipham calls certainty, and relaxing into openness is Dzogchen's familiarisation. Analysis gives certainty; resting lets the certainty become how things are seen. Neither needs a state kept up.
+
+## Ordinary mind and rigpa: Mahāmudrā and Dzogchen
+
+On one question my reading is closer to Mahāmudrā than to strict Dzogchen, and I would rather say so.
+
+I keep the distinction between ordinary mind and rigpa. But I hold it this way. Ordinary mind, what Dzogchen calls *sems*, is appearing held by the habit of fixing. Rigpa is the same appearing known without that fixing. It is a difference in how appearing is held. It is not two things, one conditioned and one unconditioned, standing side by side. And once rigpa is singled out and named "rigpa", that name is designated like any other. Calling rigpa "uncompounded" means nothing is fixed or produced in it. It does not mean rigpa is a thing exempt from emptiness.
+
+**This is Mahāmudrā's shape.** Mahāmudrā uses "ordinary mind" (*tha mal gyi shes pa*) for the mind as it is, the same mind as always: recognised, it is the truth body; not recognised, it is saṃsāra. Gampopa's formula is well known: co-emergent mind is the truth body; co-emergent appearances are the light of the truth body. Thoughts are not thrown out; they are recognised. One mind, held two ways.
+
+Gampopa's line is also very close to the phrase of my own phase between 4 and 5, "appearances are one's radiance clarity". Heard with an owner and a source, it is that phase. Heard with no ground, it is Mahāmudrā's own view. Even within Mahāmudrā there are readings that lean towards a ground and readings that do not, so the name alone does not settle which one is meant.
+
+**Dzogchen puts it more sharply.** It insists on telling ordinary mind and rigpa apart. Ordinary mind is the movement that grasps. Rigpa is the knowing of the basis, which does not move into grasping. The reason is practical: a calm, clear, non-conceptual ordinary mind can pass for rigpa. Dzogchen writers sometimes press this point against Mahāmudrā, and it is a good point.
+
+**How I answer it.** Dzogchen is right to separate them, because ordinary mind can imitate rigpa: a still, clear mind feels like the genuine thing. But separating them is discerning, not finding two entities. Ordinary mind is the knowing caught in the movement of fixing. Rigpa is the knowing of the basis, which does not move into fixing, and the basis is primordially pure: empty, not a ground. Rigpa is not an awareness that *is* the basis. Once it is singled out and named, it too is designated.
+
+So the Mahāmudrā way of putting it and the Dzogchen way meet here, read without a ground. The difference that matters is not between two schools. It is between a clarity lifted out and held, and a clarity left as the appearing's own.
+
+## Dependent arising and spontaneous presence
+
+This links directly to what I have long said: spontaneous presence is dependent arising. But I have to say how, or the sentence is easily misread.
+
+**In the appearing itself, they are not even two.** Dependent arising is the appearing described while the dividing is at work: this condition, that condition, this result. Spontaneous presence is the same appearing when the fixing stops: already complete, owing its completeness to nothing hidden, with nothing found that produces it. One appearing, described two ways, at the same time. Not two things side by side, not two positions, and not a lower truth and a higher one. It is the same shape as ordinary mind and rigpa.
+
+![Diagram 5](../figures/aa-mind-singled-out-diagram-5.svg)
+
+Spontaneous presence is dependent arising: one appearing, described two ways at the same time.
+
+**In practice, they can come in an order.** As in the section *The path after anatta*, the path goes round more than once. Often the tools come first: the analysis of dependent arising, used again and again to dismantle the framework. The taste comes after: relaxing into openness, the appearing met as already complete. Here Dōgen's firewood and ash fit. Firewood is complete in its own position, and ash is complete in its own position. Neither is a lesser stage of the other. In the same way, the analysis is not a lower step that the taste leaves behind, and the taste is not a higher state the analysis climbs to and then disappears into. And I do not say that dependent arising becomes spontaneous presence, any more than we say summer becomes winter. That way of speaking brings back a traveller, something that crosses from the analysis into the taste. Nothing crosses.
+
+**None is higher, and each refines the other.** What is refined is our understanding, not the appearing. The appearing needs no refining; our two ways of reading it do.
+
+- **Dependent arising refines spontaneous presence.** Without it, spontaneous presence is easily heard as a source: a ground that gives off appearances by itself, uncaused. Dependent arising keeps it honest: every appearing has its conditions, and "spontaneous" never means "from nowhere" or "from a hidden ground".
+- **Spontaneous presence refines dependent arising.** Without it, dependent arising is easily heard as a mechanism: a web of causes and relations running in the dark, waiting for a knower to light it up. Spontaneous presence keeps it honest: nothing produces the appearing, the relations are not found either, and clarity was never missing.
+
+**An objection from Dzogchen.** Traditionally, spontaneous presence is said to be not made by causes and conditions, so calling it dependent arising can sound wrong. I keep two questions apart, as in *Causal Efficacy Without Causal Power*. How does an appearance come about? From causes and conditions, every one of them. What is the nature of what appears? Emptiness, which is not produced, so "why" and "made by" do not apply to it. "Spontaneous" speaks of that nature and of appearing met without fixing. It never means "uncaused" or "from a source".
+
+## Two guards
+
+**"Vivid empty appearing" is singled out too.** When I say it, I have picked something out. If I do not mark that, "vivid empty appearing" becomes the next floor, a quieter name for the Mind I just set down. It is not a better word that frees. It is seeing that every word, this one included, is a cut within what it names.
+
+**Nothing is lost.** Mind still works. Thinking, remembering, feeling and choosing are as they were. The brain still matters: anaesthesia stops pain, medicine helps, and a stroke can take away speech. These hold, conventionally and fully. What is denied is only a mind that stands on its own side, apart from the act that singles it out and the framework it fits, and a matter that does the same.
+
+## Try it
+
+- Notice a thought. Then notice that "a thought" has been singled out: this, rather than the sound in the room or the feeling in the chest. Look for the thought apart from that singling out.
+- Now notice "the mind that knows the thought". That too has been singled out. Look for it apart from that.
+- Do the same with "this table" and "this hand". See that "matter" is picked out in the same way as "mind".
+- Take one tool, the search for what is designated, and use it on one thing today: "my mind", "this room", "this moment". Then let go of the holding it shows to be unfounded, and rest there without trying to keep anything.
+- If a sense of luminous presence comes, do not push it away. Ask only: is this clarity standing on its own, behind what appears? Or is it the appearing's own, and empty too?
+
+## Read more
+
+- [*Mind and Consciousness*](https://atr-passerby.com/mind-and-consciousness/): a zoom-in: no knower behind the knowing, the witness, the two traps.
+- [*What the Logic Is Looking At*](https://atr-passerby.com/what-the-logic-is-looking-at/): singling out is already dependence; the blue world.
+- [*Vivid and Nowhere: What a Phenomenon Is*](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/): a phenomenon is whatever can be known.
+- [*Luminosity*](https://atr-passerby.com/luminosity/): a zoom-in: clarity is the appearing's own; the lamp that does not light itself; the subtle clear light.
+- [*Annihilation Is an Inherent View*](https://atr-passerby.com/annihilation-is-an-inherent-view/): under anaesthesia; clarity is never absent from what appears, not an awareness always on.
+- [*Causal Efficacy Without Causal Power*](https://atr-passerby.com/causal-efficacy-without-causal-power/): conditions are the appearing; the parts belong to the framework.
+- [*Insights and Tastes for Practice*](https://atr-passerby.com/insights-and-tastes-for-practice/): view and taste correct each other; maintenance is the split.
+- [*Seeing Comes First*](https://atr-passerby.com/seeing-comes-first/): the seven phases read through the two logics.
+- [*The Great Desynchronization*](https://atr-passerby.com/anatta-to-emptiness-the-great-desynchronization/): Book 2, experience ahead of view, and the bypass of "direct experience".
+- [*Dissolving the Hard Problem of Consciousness*](https://atr-passerby.com/substrateless-world-7-dissolving-the-hard-problem/): Book 1, Chapter 7.
+
+## Words to know
+
+Anatta  
+No self: in seeing, only the seen; no seer, hearer or thinker found behind the seeing, hearing or thinking. A seal, not a stage.
+
+Singling out  
+Picking something out as "this" rather than that, by perception, concept or language. Not a label on a bare appearance; the appearing itself, in dependence.
+
+Designated  
+Arising together with the act that picks it out, and not found apart from it. Not a mere word, and not demoted.
+
+Phenomenon  
+Whatever can be known: whatever appears, singled out as "this". Mind, consciousness and clarity included.
+
+Luminous clarity  
+The knowing clarity of appearing itself. Never absent from what appears; once singled out and named, one more phenomenon, empty like the rest.
+
+Framework (the matrix)  
+The way the appearing is broken into parts, mind and matter, subject and object, for explanatory and functional purposes, within a set of agreements. Not a field beneath things.
+
+Basis and primordial purity (*gzhi*, *ka dag*)  
+In Dzogchen, the basis is the original condition of every being; "primordially pure" says it was never made of anything inherent. Read here as the emptiness of appearing, not a ground behind it.
+
+Ordinary mind (*sems*)  
+In Dzogchen, the mind that moves into grasping: appearing held by the habit of fixing.
+
+Ordinary mind (*tha mal gyi shes pa*)  
+In Mahāmudrā, the mind as it is: recognised, the truth body; not recognised, saṃsāra.
+
+Rigpa  
+The knowing of the basis, which does not move into fixing. Not an awareness that is the basis; once singled out and named, designated like anything else.
+
+All-ground (*kun gzhi*)  
+In Dzogchen, the base of habits, which can be mistaken for the ground. Longchenpa sets it apart from the truth body (*chos sku*).
+
+Spontaneous presence (*lhun grub*)  
+The appearing when the fixing stops: already complete, with nothing found that produces it. The same appearing that dependent arising describes; neither is higher.
+
+Taste  
+A direct, felt recognition, such as the vividness of appearing or the absence of a seer. Genuine, but open to being read through a wrong view.
+
+Insight  
+A taste that has become seeing: it changes how appearing is met, not only how one feels in a moment. Anatta is an insight.
+
+View  
+The framework that reads tastes and insights. Inherent or not, it decides whether a taste becomes a ground or stays the appearing's own.
+
+Desynchronisation  
+Experience and insight ahead of view: the taste is non-dual, while the framework reading it is still inherent.

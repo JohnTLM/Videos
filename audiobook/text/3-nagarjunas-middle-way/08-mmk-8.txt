@@ -1,0 +1,132 @@
+title: Examination of the Agent and Action
+album: Nāgārjuna's Middle Way
+
+Nah-gar-joo-nah's Middle Way. Chapter 8. Examination of the Agent and Action.
+
+Someone bakes bread. There is a baker, and there is the baking, and the two seem easy to tell apart. The baker was there before the bread and will be there after it; the baking is something the baker does. Our whole idea of responsibility rests on this picture. Someone did it, and the deed is theirs.
+
+This short chapter asks how a doer and a deed are related. It follows straight on from Chapter 2, where the goer and the going were found to be named together, and from Chapter 7, where arising, abiding and ceasing could not be found as marks things have on their own. Here the question is about action. If the agent and the action each exist on their own, can one do the other? Nah-gar-joo-nah tests every combination and finds that none works. Then, in one of the key verses of the whole text (8.12), he says how they do go together: each is established only in dependence on the other.
+
+# The verses.
+
+The translation is new, made from the Sanskrit for this site. The Sanskrit is given above each verse; it follows the GRETIL e-text (CC BY-NC-SA 4.0).
+
+# Verse 8.1.
+
+An agent that really exists does not do an action that really exists. Nor does an agent that does not really exist take up an action that does not really exist.
+
+# Verse 8.2.
+
+For what really exists there is no activity: the action would then have no agent. For what really exists there is no activity: the agent would then have no action.
+
+# Verse 8.3.
+
+If an agent that does not exist did an action that does not exist, the action would have no cause, and the agent would have no cause.
+
+# Verse 8.4.
+
+Without a cause, there is neither effect nor means. Without these, there is no activity, no agent and no means of acting.
+
+# Verse 8.5.
+
+If activity and the rest are impossible, there is neither good conduct nor bad. And without good and bad conduct, there is no fruit born of them.
+
+# Verse 8.6.
+
+Without fruit, there is no path to liberation or to heaven, and it follows that every action is pointless.
+
+# Verse 8.7.
+
+An agent that both exists and does not exist does not do an action that both exists and does not. For existing and not existing contradict each other: how could they be in one place?
+
+# Verse 8.8.
+
+An agent that exists does not do what does not exist, and an agent that does not exist does not do what exists. For with such an agent all the same faults follow.
+
+# Verse 8.9.
+
+An agent that exists does not do an action that does not exist, or one that both exists and does not, for the reasons already given.
+
+# Verse 8.10.
+
+An agent that does not exist does not do an action that exists, or one that both exists and does not, for the reasons already given.
+
+# Verse 8.11.
+
+An agent that both exists and does not exist does not do an action that exists or one that does not. Understand this by the reasons already given.
+
+# Verse 8.12.
+
+The agent proceeds in dependence on the action, and the action proceeds in dependence on the agent. We see no other basis on which they could be established.
+
+# Verse 8.13.
+
+Understand grasping in the same way, from this refutation of action and agent. By means of action and agent, examine all the remaining things too.
+
+# An agent and an action.
+
+Two words carry the chapter. The agent (kāraka, kartṛ) is the one who acts. The action (karma) is what is done. Here karma means simply a deed, not yet the karma of rebirth, which comes in Chapter 17. A third word matters too: sadbhūta, 'really existing'. It means existing already, complete and on its own, from its own side. Its opposite, asadbhūta, means not existing at all.
+
+So the question is precise. Suppose the agent and the action are each a thing with its own existence, there before they meet. Can such an agent do such an action? There are three possibilities for each: really existing, not existing, or a mixture. That gives nine pairings, and Nah-gar-joo-nah checks all of them.
+
+The nine pairings of verses 8.1–11. The three on the diagonal are argued in full; the other six inherit the same faults, as the verses say, 'for the reasons already given'.
+
+# A real agent and a real action.
+
+Start with the common-sense case (8.1–2): a baker who really exists, on their own, and a baking that really exists, on its own. Can this baker do this baking?
+
+Look at what 'already really exists' means. A baking that already exists, complete in itself, does not need anyone to do it. It is done. So it would be an action without an agent. And an agent who is already complete as an agent, with nothing that makes them one, does not need an action to be an agent. So they would be an agent without an action: a baker who never bakes. In both directions, the doing has no work left. Something fully there from its own side cannot be in the middle of becoming anything.
+
+This is the point the chapter turns on. If the doer and the deed were each complete in themselves, they would not need each other, and so they could not meet in doing.
+
+# An unreal agent and an unreal action.
+
+The opposite case (8.3) fails more obviously. If an agent who does not exist did an action that does not exist, the action would come from nothing, and so would the agent. They would have no cause at all.
+
+Verses 8.4 to 8.6 follow this out, and they are worth reading slowly, because they show what Nah-gar-joo-nah thinks is at stake. Without causes, there are no effects and no means. Without these, there is no activity and no agent. Without activity, there is no good or bad conduct. Without conduct, there is no fruit. Without fruit, there is no path to a good rebirth or to liberation, and every action in the world becomes pointless.
+
+Verses 8.4–6. What would really destroy ethics and the path is an action cut off from causes. Emptiness does not do this; the theory of self-standing or non-existent agents does.
+
+This turns a familiar worry around. People often fear that if the doer is empty, no one is responsible and nothing matters. Nah-gar-joo-nah argues the reverse. It is the picture of self-standing agents and actions, or of actions from nothing, that would make conduct meaningless. He makes the same point at length in Chapter 24.
+
+# The mixed cases.
+
+Could the agent be a mixture, partly existing and partly not (8.7)? Existing and not existing contradict each other. They cannot both be true of the same thing in the same respect, any more than a light can be both on and off. So a 'both' agent is not a coherent candidate.
+
+The remaining six pairings (8.8–11) mix the cases: a real agent with an unreal action, an unreal agent with a real action, and so on. Each simply inherits the faults already found. A real agent still has nothing left to do; an unreal agent still has no cause; a mixed one is still self-contradictory. The verses say so briefly, 'for the reasons already given'.
+
+# Named together.
+
+After nine failures, verse 8.12 gives the way agent and action actually go together. The agent is an agent in dependence on the action. The action goes on in dependence on the agent. 'We see no other basis on which they could be established.'
+
+Verses 8.12–13. Neither doer nor deed comes first and grounds the other. They are designated together, and the same reasoning is to be used on every other pair.
+
+Notice what this does not say. It does not say the action is real and the agent is a mere label, as if only doing exists. Nor does it say the agent is real and the action is something they own. Neither is the ground of the other. Someone is a baker because there is baking; something is baking because someone bakes. When you look for the baker apart from all baking, or for baking apart from anyone baking, neither is found. When you do not look for them apart, the baker bakes, the bread comes out of the oven, and everyone eats.
+
+Some readers hear the verse as a vicious circle: if each depends on the other, which comes first? But the circle is only a problem for someone who expects dependence to pass existence along from a starting point, as if one of the two had to exist first and lend its existence to the other. Nah-gar-joo-nah's point is that neither exists first. That is exactly why neither exists from its own side.
+
+# Everything else in the same way.
+
+The last verse widens the result (8.13). Understand grasping (upādāna) in the same way: the one who grasps and the grasping are established together, as agent and action are. Upādāna means both the taking-up and what is taken up; in the commentaries, what is taken up is the body and mind (the aggregates) and the one who takes them up is the self. So the verse looks ahead to the self examined in Chapter 18 and Chapter 27. Then: examine all remaining things by means of agent and action. Seer and seen, goer and going, fire and fuel (Chapter 10): the same test applies, and the same result follows.
+
+This is why the chapter is short. It sets out a pattern that the rest of the text uses again and again.
+
+# What is left standing.
+
+The baker still bakes, and the bread is theirs. We can still say who did what, praise good work and hold people to their promises. Courts can still decide who signed a contract. None of this needs an agent who exists on their own before acting.
+
+In fact, responsibility works better without one. An agent fixed in their own nature could not learn, regret or change; their nature would already be complete. Because the agent is designated in dependence on what they do, a person who acts differently becomes, in a real sense, a different kind of agent. This is why practice is possible. What goes is only the hidden doer standing behind the doing, and the doing that floats free of anyone doing it.
+
+# Words to know.
+
+Agent (kāraka, kartṛ): the one who acts.
+
+Action (karma): what is done; in this chapter simply a deed.
+
+Really existing (sadbhūta): existing already, complete and on its own. Its opposite is asadbhūta, not existing.
+
+Good and bad conduct (dharma and adharma): actions that bring good or bad results.
+
+Grasping (upādāna): taking something up as 'mine'; with the grasper, it follows the same pattern as action and agent.
+
+Mutual dependence: two things each established only in relation to the other, with neither coming first.

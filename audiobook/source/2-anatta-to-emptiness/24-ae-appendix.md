@@ -146,7 +146,7 @@ The three syntheses below are not proofs in any formal sense — no inference ru
 
 Variables: Spontaneous Presence (SP), Non-Referential Luminosity (\[\*\]), and Spontaneous Expression (\[~\]).
 
-Restated using the axioms: Manifestations cannot be located as independent substrates, which requires applying Spontaneous Expression (\[~\]) and the Invalidation Protocol (=!=). Reality is empty of a core and arises seamlessly through Relational Co-Emergence (~\>) and Specific Conditionality (::), with no matrix beneath it. This relational web requires no external observer or projector, presenting vividly and unceasingly through Manifest Identity (\[@\]) and Non-Referential Luminosity (\[\*\]).
+Restated using the axioms: Manifestations cannot be located as independent substrates, which requires applying Spontaneous Expression (\[~\]) and the Invalidation Protocol (=!=). Reality is empty of a core and arises seamlessly through Relational Co-Emergence (~\>) and Specific Conditionality (::), with no matrix beneath it. It is not a relational web either, for the relations are designated, not found; it requires no external observer or projector, presenting vividly and unceasingly through Manifest Identity (\[@\]) and Non-Referential Luminosity (\[\*\]).
 
 Notation: SP ~\> ( \[\*\] \<\> \[~\] )
 

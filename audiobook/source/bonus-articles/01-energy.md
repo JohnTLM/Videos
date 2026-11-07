@@ -4,10 +4,10 @@ Bonus article · The Logical Necessity of a Substrateless World
 
 Energy is conserved through every change. Is it the modern successor to substance?
 
-[91](https://drive.google.com/file/d/18q4Lm0ET34LK76-ySM_DTe_uLeKvTVMX/view)
+[91](https://youtu.be/OMphta1TVQU)
 
 **Watch the talk.** The full narrated video.  
-[Watch the full video](https://drive.google.com/file/d/18q4Lm0ET34LK76-ySM_DTe_uLeKvTVMX/view) · [Phone-size version](https://drive.google.com/file/d/10dpiLKlnPsGLvFlTcGv4CDleh1HSabhe/view)
+[Full quality](https://youtu.be/OMphta1TVQU)
 
 A reader trained in physics may feel that a carrier has been found after all. Energy is conserved. It changes form, chemical into heat, heat into motion, mass into light, while the total stays the same. Surely energy is the something that persists through every change: the modern successor to substance.
 
@@ -17,4 +17,4 @@ Three further facts confirm that energy is no substrate. Its amount depends on t
 
 From the side of this book, 'where did the energy come from, and where did it go?' is the extreme of coming and going asked of a number. When a match burns, chemical energy 'becomes' heat and light. The sentence is correct, and the regularity it records is among the most reliable conventions there are. But nothing is found leaving the match head and travelling into the flame. Conservation is a designated regularity of the highest reliability. It is not a passenger.
 
-*From* [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#logic).
+*From* [The Logic of Dependency](https://atr-passerby.com/#logic).

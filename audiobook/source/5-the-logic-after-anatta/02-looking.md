@@ -2,7 +2,7 @@
 
 Listen to a sound nearby: a car, a bird, the hum of a fridge. It is vivid and clear, and it needs no help to be known. Every step that follows looks at something: a self, an object, a cause, matter, a person. It is easy to read them as many topics, each analysed from outside, one after another. They are not many topics. Each time, the logic is looking at a phenomenon: what Buddhism calls a *dharma*.
 
-So this page begins by saying what a phenomenon is. Then it shows why the logic and the direct taste meet in it. Read it before Step 1, and come back to it after Step 8. It goes with the article [*Vivid and Nowhere: What a Phenomenon Is*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon) and the question page [What Is a Phenomenon?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-phenomenon)
+So this page begins by saying what a phenomenon is. Then it shows why the logic and the direct taste meet in it. Read it before Step 1, and come back to it after Step 8. It goes with the article [*Vivid and Nowhere: What a Phenomenon Is*](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/) and the question page [What Is a Phenomenon?](https://atr-passerby.com/what-is-a-phenomenon/)
 
 ## What the logic looks at: a dharma
 
@@ -43,12 +43,12 @@ Now let one other colour appear in that world: a spot of red. At once both appea
 This simple example gives a clear illustration of how the key points we meet again and again in these pages come together, if it is clearly understood. It tells us that blue and red don't arise one after the other. They arise together, in one stroke. Here is what follows from that:
 
 1.  **Neither comes first.** Blue wasn't sitting there unseen, waiting for red to reveal it. Red didn't arrive and then get compared with a blue already there. The moment red appears, blue and red both appear, each by contrast with the other. This is “no seer without the seen” again, and “long and short”, and “here and there”: named together, neither prior.
-2.  **Dependence isn't a sequence.** We usually picture dependence as something waiting on something else in time: first the cause, then the effect. Here nothing waits. The dependence is in the appearing itself, all at once. [Book 2](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-stroke) calls this the Logic of the Single Stroke: the parts, their relations and their designation “do not arise in sequence; they are simultaneous aspects of one dependently arisen event”.
+2.  **This dependence isn't a handover.** We usually picture dependence as one thing passing something to another: first the cause, then the effect. Blue and red are not cause and effect. Nothing waits and nothing is handed across; they are named together, in the appearing itself. Where a process does run in time, a seed before its sprout, the order stays, and still nothing is handed across. [Book 2](https://atr-passerby.com/anatta-to-emptiness-the-logic-of-the-single-stroke-the-eye/) calls this the Logic of the Single Stroke: the parts, their relations and their designation “do not arise in sequence; they are simultaneous aspects of one dependently arisen event”.
 3.  **So each colour is empty, and vivid, at the same moment.** Blue has no blueness of its own. Alone, it isn't even seen. Yet the instant red is there, blue is bright and unmistakable. Being empty and being vivid aren't two stages. They are one appearing.
 4.  **Nothing produced it.** Red didn't make blue appear, and blue didn't make red appear. Neither is the cause of the other. With the meeting, the whole scene is just there, already complete, not built up step by step. That is spontaneous presence in the plainest example: not uncaused, since without the contrast nothing appears, but not produced either.
 5.  **And it isn't one thing either.** Blue and red appearing together doesn't merge them into one big “field of colour” behind both. Each is distinct and clear. They are neither one nor two: not separate things that meet, and not one thing in two shades.
 
-In short: appearing is relation from the start, all at once, with nothing first and nothing behind. That's why, by appearing, a thing is already empty, and why the same appearing is complete by itself.
+In short: appearing is relation from the start, with nothing first and nothing behind. That's why, by appearing, a thing is already empty, and why the same appearing is complete as it is, with nothing behind it to finish it.
 
 So the singling out is the appearing, and the appearing is already empty. Nothing appears first and turns out empty later. By appearing, it is already empty.
 
@@ -64,7 +64,7 @@ None of this makes the world thin. Singling out is not the problem. A mirror sho
 
 Someone passes you an apple, and you hold it in your hand. It seems plain that you are holding a solid apple that exists out there, by itself, and that the senses only report on it. Look again. The holding is dependent arising, and so is each thing the apple seems to be made of.
 
-**Touch.** The hardness is not stored in the apple, waiting to be felt. It arises when skin meets fruit, the fingers press, the nerves respond and touch-consciousness is there. Press lightly and it is firm; press with the thumb and it gives; to a stone it is soft. The coolness depends on the warmth of your hand, the smoothness on how lightly the fingertips move. The weight in your palm is a pull with the earth, met by the muscles of your arm ([Step 2](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-2), "Your own weight").
+**Touch.** The hardness is not stored in the apple, waiting to be felt. It arises when skin meets fruit, the fingers press, the nerves respond and touch-consciousness is there. Press lightly and it is firm; press with the thumb and it gives; to a stone it is soft. The coolness depends on the warmth of your hand, the smoothness on how lightly the fingertips move. The weight in your palm is a pull with the earth, met by the muscles of your arm ([Step 2](https://atr-passerby.com/step-2-what-is-negated/), "Your own weight").
 
 **Sight.** The red depends on light falling on the skin, on the skin returning some of that light, and on the eye and seeing-consciousness. Under candlelight it turns orange; at dusk it goes grey; a colour-blind friend sees another colour, and a bee sees patterns you cannot. No red is found sitting on the apple apart from all this. Yet it appears vividly, without fail, whenever its conditions come together.
 
@@ -77,6 +77,8 @@ Someone passes you an apple, and you hold it in your hand. It seems plain that y
 Search for the apple apart from its conditions, and it is not found. Search for the holder apart from the holding, and that is not found either. There is just this hardness, this red, this coolness, this sweetness, vivid, appearing as their conditions come together. Nothing is lost. You can still eat the apple, share it and plant its seeds. It functions because it is dependently arisen: an apple that stood on its own, unchanging and unrelated, could never ripen, be bitten or feed anyone.
 
 > The senses give appearings. The habit ties them into an apple out there. Untied, nothing is missing: just this, vivid and light.
+
+**The same knot, told from the side of light.** The five aggregates are all here: form (the hardness, the red), feeling (the sweetness is pleasant), perception (the shape recognised as "apple"), formations and consciousness (touch, seeing, tasting, each its own stream, unmixed). The knot is the aggregate of formations. Dzogchen tells the same movement from the side of light. Each aggregate, freed, is one of five lights; grasped as something standing over there, the lights harden into solid elements, a solid world and a solid body. So the habit that ties the appearings into an apple out there is the grasping that hardens the lights. Untied, the aggregates are seen as display: many vivid streams of appearing, with no core underneath and no one holding them. This is also what the rainbow body is, in essence: a realization, not the body disappearing. The lights are not a stuff beneath the aggregates. They name the aggregates' own clarity, as empty as they are.
 
 ## The clarity, mistaken as self and Self
 
@@ -111,16 +113,16 @@ Each step ends by gathering its "beyond the moment" examples back into this one 
 - Look at your hand. It is already "a hand", singled out, vivid. Look for a hand apart from its being singled out. Look for the one doing the singling out. Do not argue. Just look.
 - Notice the clarity: everything is already known, without effort. Look for where the knowing comes from. Is it behind the scene, or is it just the scene, bright and clear?
 
-**The chain, 2 of 7.** Next: [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing), why anatta and Nāgārjuna are one insight, and how it ends in spontaneous presence.
+**The chain, 2 of 7.** Next: [Decoding Anatta and MMK Chapter 3](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/), why anatta and Nāgārjuna are one insight, and how it ends in spontaneous presence.
 
 ## Read more
 
-- [Seeing Comes First](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-intro): the four key insights after anatta.
-- [Vivid and Nowhere: What a Phenomenon Is](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon).
-- [The Illusion of the Given](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion): why experience is not a raw given under the words.
-- [Step 3: Designated, Not Found](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-3).
-- [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing): in seeing, just the seen.
-- [Luminosity](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-luminosity): the clarity, as empty as everything else.
+- [Seeing Comes First](https://atr-passerby.com/seeing-comes-first/): the four key insights after anatta.
+- [Vivid and Nowhere: What a Phenomenon Is](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/).
+- [The Illusion of the Given](https://atr-passerby.com/the-illusion-of-the-given/): why experience is not a raw given under the words.
+- [Step 3: Designated, Not Found](https://atr-passerby.com/step-3-designated-not-found/).
+- [Decoding Anatta and MMK Chapter 3](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/): in seeing, just the seen.
+- [Luminosity](https://atr-passerby.com/luminosity/): the clarity, as empty as everything else.
 
 ## Words to know
 

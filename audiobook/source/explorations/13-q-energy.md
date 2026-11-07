@@ -1,0 +1,113 @@
+# Energy Practices
+
+Channels, winds, heat and light: what the practices of the subtle body do, and what they show.
+
+Zoom in (4)
+
+This page is the whole picture. Each article zooms into one part of it.
+
+- What practice is said to do to the body → [*Rainbow Body*](https://atr-passerby.com/rainbow-body/)
+- The subtle clear light, and keeping a lamp lit → [*Luminosity*](https://atr-passerby.com/luminosity/)
+- Is wind or energy the ground? → [*Isn't Energy the Substrate?*](https://atr-passerby.com/isn-t-energy-the-substrate/)
+- No very subtle mind carried across → [*Neither Carried Nor Cut*](https://atr-passerby.com/neither-carried-nor-cut/)
+
+Last updated 3 Nov 2026
+
+Taoist inner alchemy, Indian tantra and Tibetan Vajrayana all work with a subtle body: channels, breath or wind, heat, drops and light. All three say this work can change the body and the mind. Set side by side, they show the same thing as the rainbow body and the yang spirit: **the method is shared; the view is not.**
+
+The answer in one line, as I see it: **energy practices work on the winds; insight practices work on deconstructing the mind’s reifications. What frees is seeing through the inherent framework, not where the winds go. The body still matters: the habit is held in the body too, and the deconstruction frees the energy that was tied up in keeping the ego in place.**
+
+## The three maps
+
+- **The Taoist orbits.** Three elixir fields (丹田): the lower one below the navel for essence (精), the middle one at the heart for energy (气), the upper one between the brows for spirit (神). In the *small heavenly orbit* (小周天), energy gathered in the lower field rises up the back along the Governing Vessel (督脉), through three gates (三关: 尾闾 at the tailbone, 夹脊 between the shoulder blades, 玉枕 at the back of the head) to the crown, and comes down the front along the Conception Vessel (任脉). The tongue on the palate is the “magpie bridge” (鹊桥) that joins the two. Many schools tie the small orbit to the first stage, refining essence into energy, and the *great heavenly orbit* (大周天) to the second; what the great orbit covers differs from school to school. The shape is a loop, and the logic is *reversal* (逆): the ordinary flow, outward to dissipation, ageing and death, is turned back toward the source.
+- **The Indian wheels.** In the *Description of the Six Wheels* (*Ṣaṭ-cakra-nirūpaṇa*, Pūrṇānanda, 1577; Arthur Avalon’s *The Serpent Power*), the central channel (*suṣumnā*) runs up the spine between a left and a right channel (*iḍā*, *piṅgalā*), with six wheels (*cakra*) on it and the thousand-petalled lotus above. Breath, locks (*bandha*) and attention wake the power (*kuṇḍalinī*) coiled at the base. It rises, pierces three knots (*granthi*), dissolves each element into the next above it, and joins Śakti with Śiva at the crown. The shape is a column, and the logic is *reunion*.
+- **The Tibetan channels, winds and drops** (*rtsa rlung thig le*). The central channel (*dbu ma*) has a right and a left channel beside it (*ro ma*, *rkyang ma*), which wrap around it at the wheels; at the heart the wrapping is six-fold, the hardest knot. In the Gelug presentation the wheels have 32 spokes at the crown, 16 at the throat, 8 at the heart and 64 at the navel. Inner heat (*gtum mo*) is lit at the navel, rises in the central channel and melts the white drop at the crown; as it comes down, the four joys arise. When the winds enter, stay and dissolve in the central channel, the signs of dying appear in order: a mirage, smoke, fireflies, a steady flame, then white appearance, red increase and black near-attainment, as the eighty kinds of conception (thirty-three, forty and seven) cease, and last the clear light. The same sequence, the texts say, comes to everyone at death; the yogi meets it while alive. The shape is three parallel channels and wheels, and the logic is *dissolution*.
+
+|                         | Taoist inner alchemy                                      | Indian tantra                                                   | Tibetan Vajrayana                                                                                      |
+|-------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| The map                 | Three elixir fields; the Governing and Conception Vessels | Six wheels on the central channel; the coiled power at the base | Central channel, side channels wrapped at the wheels; winds and drops                                  |
+| The movement            | A loop: up the back, down the front                       | A column: up, piercing the knots                                | Heat rising, the drop coming down, the winds dissolving at the heart                                   |
+| What is reached         | Return to the Dao (还虚, 合道)                            | Śakti joined with Śiva                                          | The clear light                                                                                        |
+| How the school reads it | A source returned to                                      | A supreme consciousness reunited                                | A clear light always present, or a ground luminosity, empty of its own nature; for me, no deeper floor |
+
+## What the maps are
+
+- **The details differ, even inside each tradition.** The colours and sides of the Tibetan channels change between lineages, and between men and women. Later Indian pictures often show the left and right channels crossing at each wheel; Tibetan texts have them run beside the central channel and wrap it. The number of Tibetan wheels is four, five or six, by text. What the great orbit covers differs by school.
+- **They are maps for practice, not anatomy.** No dissection finds the channels. What has been measured is narrower: Herbert Benson’s team recorded fingers and toes warming during inner-heat practice (*Nature*, 1982), and Maria Kozhevnikov’s team found the core temperature rise with the forceful vase breathing (*PLoS ONE*, 2013). The breath stopping without harm, and the knots coming loose, are what the texts say, not what has been shown.
+- **Words from physics do not fit them.** Some modern accounts speak of thermodynamic pressure breaking the heart knot, or of the left and right channels as the two halves of the nervous system. That turns a map for attention and breath into plumbing.
+
+## Where the view parts
+
+The three maps work in much the same way: breath, attention, an axis, heat, light. Each tradition also says what the practice reaches, and there the view parts, as it does for the yang spirit and the rainbow body ([*Rainbow Body*](https://atr-passerby.com/rainbow-body/)). The Taoist and Indian answers are plain. The Tibetan one needs more care, because there I part in places from the schools’ own words, and I should say where, in my own name.
+
+- **A source.** For the Taoist, the orbit turns the flow back to the Dao, the source everything came from. For the Indian tantric, Śakti returns to Śiva, a supreme consciousness. Both are grounds in the sense of the [Canon View](https://atr-passerby.com/the-canon-view/).
+- **Dependent arising is not a fourth source.** It is easy to draw a chart with the Dao at the top of one column, Śiva at the top of the next, and dependent arising at the top of the Tibetan one. That puts it in the place of a source. Dependent arising is not where things come from. It is why nothing is found that they come from. Here Gelug, and Dzogchen read with Mipham, say the same.
+- **What the Tibetan schools teach.** In Gelug, the very subtle clear light mind is always present beneath the coarse minds. When the winds dissolve at the heart it dawns: at death for everyone, and in the completion stage for the yogi. It goes on from life to life, a stream on which the person is designated, and it is empty of any nature of its own. Tsongkhapa holds that the view is the same in sūtra and tantra: one emptiness, known in both (*Great Exposition of Secret Mantra*). What tantra changes is the mind that knows it: the very subtle clear light mind is a sharper knower than the coarse mind, and that, for Gelug, is why the tantric path is faster. The indestructible drop at the heart is so called because it lasts until death; at death it opens, and only the very subtle wind and mind go on. At buddhahood that mind becomes the truth body, and its wind the form body, through the illusory body. Because every result needs a substantial cause of its own kind, and merit is only a helping cause of the form body, Gelug holds that the sūtra path alone stops at the tenth stage and that every buddha completes the path through highest yoga tantra; it even teaches that Śākyamuni did so in Akaniṣṭha before showing awakening in India. The insight into emptiness, it agrees, can be reached by the sūtra path. Dzogchen speaks of the ground luminosity, pure from the beginning and not made by causes and conditions. At death this mother luminosity dawns; one who has come to know it in practice, the child luminosity, meets it as a child meets its mother, and is freed into the ground, as the texts put it. Both schools train the practitioner to stay present through the dissolution: Gelug by mindfulness kept through the dark stage, Dzogchen by sustaining recognition without distraction. In neither school is any of this a self, or a thing with a nature of its own.
+- **Where I part.** I keep their emptiness, and part from four of their pictures.
+  - *No deeper floor.* I read “subtle” as fewer conditions, not a deeper level beneath the coarse minds. The coarse minds were never darkness (MMK 7.9), so what goes at the heart is the knot, not a covering over a hidden mind ([*Luminosity*](https://atr-passerby.com/luminosity/), “The lamp under the basket”). The ground luminosity I read with Mipham: emptiness and appearance together, with nothing behind the lights.
+  - *No carrier needed.* I do not deny the stream. I deny that it needs a very subtle mind to carry it: the stream is [neither carried nor cut](https://atr-passerby.com/neither-carried-nor-cut/). It is the same point I make on Tsongkhapa’s mere I, and where Mipham and I part ([*Causal Efficacy Without Causal Power*](https://atr-passerby.com/causal-efficacy-without-causal-power/)).
+  - *No keeper.* Sustaining without effort and without a keeper, as Dzogchen means it, is not what I refuse. What I refuse is a watcher kept lit by effort: maintenance is the split. Gelug’s training aims at emptiness; the danger is that it slides into keeping a state.
+  - *No cause of its own kind needed.* Gelug’s need for energy practice at the end rests on one rule: a buddha’s form body must have a substantial cause of its own kind, and only the very subtle wind can be that cause. To me this is the same move as the mere I and disintegratedness: a bridge posited because something seems to be missing. The form bodies need no producer of their kind. Appearing is dependent arising without a producer, and that is spontaneous presence. Most other traditions do not make energy practice necessary either. Theravāda frees by insight alone, the ending of the taints. The sūtras, and Nāgārjuna’s *Ratnāvalī*, give the form body to merit and the truth body to wisdom. Chan says seeing one’s nature is buddhahood (见性成佛); Hakuin used breath and energy only to cure “Zen sickness”. Gampopa taught a sūtra Mahāmudrā, which Sakya Paṇḍita attacked. Most Dzogchen teachers say trekchö alone frees, the winds freeing themselves in recognition. Sakya, like Gelug, holds that full buddhahood needs tantra, and Taoism needs the energy side too (性命双修).
+
+  These are my readings, not the schools’. Those who follow Gelug or Dzogchen will hear these points put differently by their own teachers, and should weigh mine against theirs.
+
+None of this says the practices do not work. It says what they show. Energy can be gathered and the body changed, by Taoists, yogis and Vajrayana practitioners alike; that is the shared method. What frees is seeing through the inherent framework, not where the winds go. I have not practised forcing the winds myself, so I cannot judge how effective it is. What I have seen is that many who force these practices suffer sleeplessness and energy imbalances, and they need a qualified master. The insights of anatta and emptiness do not wait on them: they come from seeing through reification.
+
+## Why the body matters
+
+Somatic practices are not an optional preliminary, and they are not an obstacle course to finish before insight is allowed to come. They matter for a simpler reason. The habit of seeing things as inherently existent is not only a mistake of thought. It has been rehearsed until it is somatic, reflexive and preconceptual (*The Transition from Anatta to Emptiness*, “The Taste”). It is held in the body as bracing, guarded breathing and contraction. If insight stays a clean deduction, the body goes on with its old, defensive work underneath. The insight has to reach the body too, and the body has to stay balanced, rooted and supple while it does.
+
+It works the other way as well. Energy practices work on the winds; insight practices work on deconstructing the mind’s reifications. Insight deconstructs reification, and that opens the mind; the opening is natural, and so is the balancing that comes with it. A lot of energy is tied up in keeping the ego and reified constructs in place. When they are seen through, that energy is freed, and the body is freed with it. Somatic practices help along the journey; the deconstruction is what frees.
+
+### Do not over-focus on the crown
+
+The crown is extremely sensitive to energy. Over-focus on that region, or on the brow, often results in energy imbalances. When attention is held tight in the head, the body pushes back against the top-heavy pressure. The traditions report this with striking agreement:
+
+- **Chinese internal traditions** speak of qigong deviation (气功偏差, *qigong piancha*): misdirected intent drives the qi upward, and the signs they report include dizziness, tightness in the chest, agitation and, in severe cases, disturbed perception. Their remedy is the same every time: let the breath sink to the lower field (气沉丹田).
+- **Tibetan medicine** describes disorders of the life-sustaining wind (*srog ’dzin rlung*), brought on by forced concentration and grasping in the head: restlessness, palpitations, heat in the head, anxiety and sleeplessness.
+- **Hakuin**, the Rinzai master, pushed his practice so hard that he fell into “Zen sickness” (*zenbyō*): his head burned, his lungs felt dry, his eyes watered and his feet were ice-cold. More striving did not help. The hermit Hakuyu taught him introspection (*naikan*) and the soft-butter method, bringing breath and attention down into the lower belly (*tanden*) until the feet were warm and the head was cool (*Yasen Kanna*).
+
+### What balances it
+
+Balancing is settling, not a forceful intervention. The heat and tension in the head ease when the ground below is settled:
+
+- **Gentle vase breathing below the navel.** The breath is drawn softly down past the navel and gathered gently, like liquid poured into a round vase, so that the lower belly fills and relaxes. The diaphragm is not clamped and the throat is not strained.
+- **An upright, unforced posture.** In the seven points of Vairocana or in zazen, the spine is naturally upright: not rigid like a soldier at attention, but as if hung from above like a plumb line. The ribs soften, the shoulders drop away from the ears, and the jaw softens.
+- **The lower belly, still and moving.** In stillness, attention rests in the lower field. Movement helps too: Daoist pelvic circling, qigong rooting, the Tibetan movement yogas (*’khrul ’khor*). They loosen the tension held in the hips and lower body, and, as the traditions put it, keep the winds moving through the whole body instead of gathering in the head.
+
+The *Hatha Yoga Pradīpikā* puts the link plainly: “When the breath moves, the mind moves; when the breath is still, the mind is still” (2.2). The breath and the mind lean on each other, but neither is a controller. Settling the breath is not taking charge of the mind, and a calmer mind is not someone steering the breath. Each is a condition for the other, and no one stands behind either.
+
+Brain studies of the breath are real and useful, but they show calm and attention, not channels and drops. Slow breathing raises heart-rate variability and lowers stress hormones, and the in-breath and out-breath nudge the brainstem’s arousal centre (the locus coeruleus) up and down. None of this measures a central channel or an indestructible drop, and it does not prove the maps. As I said above, the maps are maps for practice, not anatomy; the studies are studies of calm.
+
+> **Safety.** These practices are a re-balancing, not an endurance test. Learn breath retention from a qualified teacher. Never force or strain the holding of the breath: that can bring dizziness, headaches and agitation. If you have high blood pressure or a heart condition, or are pregnant, ask a doctor before any retention or lower-belly breath practice.
+
+### Clarity must be natural
+
+Luminous clarity must be natural, effortless and open. Its nature is free, clear and empty; restrict it and imbalance follows. Trying to make clarity by holding tight to the crown or the brow is the very effort that brings on the sickness. Straining to keep the light on is not awakening. It is a contraction in the body that passes for awareness.
+
+As I put it in *Luminosity*, maintenance is the split. The moment clarity seems to need bracing, holding in place or a watchman, the separate self has come back in by the back door.
+
+Dzogchen says the nature of mind is uncontrived (*ma bcos pa*). Rigpa, as Dzogchen names it, never needed a pump, an anchor or a watchman, and it is not a lamp standing behind what appears. It does not grow brighter because energy is pushed to the crown, and it does not dim when the energy rests in the soles of the feet. When contriving stops, the winds settle; once you stop treating the head as a command centre, it begins to cool.
+
+The view frees: it clears away the belief that awareness must be defended or produced. The somatic practices keep the ground balanced, so that this freedom can reach the stubborn reflexes of the body. The channels open, the breath descends, the tension uncoils, and through it all there is still no keeper.
+
+## Read more
+
+- [*Rainbow Body*](https://atr-passerby.com/rainbow-body/): what Dzogchen and Gelug say practice does to the body, the five lights, and the yang spirit and other traditions.
+- [*Luminosity*](https://atr-passerby.com/luminosity/) (“The lamp under the basket” and “Not maintenance: a wisdom practice”): the subtle clear light read without a ground, and why keeping a lamp lit is the split.
+- [*Neither Carried Nor Cut*](https://atr-passerby.com/neither-carried-nor-cut/): the stream with no carrier.
+- [*Causal Efficacy Without Causal Power*](https://atr-passerby.com/causal-efficacy-without-causal-power/) (“The mere I”): why no bridge is needed.
+- [*Isn’t Energy the Substrate?*](https://atr-passerby.com/isn-t-energy-the-substrate/): why energy, wind included, is not a ground.
+- The [Canon View](https://atr-passerby.com/the-canon-view/): emptiness never a ground; luminosity the knowing clarity of appearing.
+
+## Words to know
+
+- **Inner alchemy** (内丹): Taoist practice that refines essence, energy and spirit within the body.
+- **Small and great heavenly orbit** (小周天, 大周天): energy circled up the back and down the front; then, by school, through the whole body.
+- **Kuṇḍalinī**: in Indian tantra, the power coiled at the base of the central channel, woken to rise to the crown.
+- **Channels, winds and drops** (*rtsa rlung thig le*): the Tibetan map of the subtle body.
+- **Inner heat** (*gtum mo*): heat lit at the navel, rising in the central channel.
+- **Vase breathing** (*bum pa can*, *kumbhaka*): the breath guided gently below the navel and lightly met by a slight lift of the pelvic floor, so that a soft, rounded fullness forms in the lower belly without straining the chest.
+- **Lower field** (丹田, *dantian*; Japanese *tanden*): the centre of gravity about three finger-widths below the navel, deep in the belly; in the internal traditions the root of vitality and grounding, where the breath is let sink.
+- **Four empties**: white appearance, red increase, black near-attainment and the clear light, as the winds dissolve at the heart; a map from Indian tantra (the *Guhyasamāja* and the *Pañcakrama*), taught in all the Tibetan schools.
+- **Illusory body** (*sgyu lus*): in Gelug tantra, a body of very subtle wind that becomes the form body.

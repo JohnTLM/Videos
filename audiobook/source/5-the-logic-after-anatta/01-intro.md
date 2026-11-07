@@ -1,8 +1,10 @@
 # Seeing Comes First
 
+New here? See the reading path: [*The Post-Anatta Pathway*](https://atr-passerby.com/post-anatta-pathway/).
+
 Look at a red apple on the table. The red is bright, impossible to miss. Now look for it. Is it in the skin of the apple? In the light? In the eye? Somewhere between them? It is not found in any of them, and not anywhere else. Yet the apple is still red, as vivid as before.
 
-The eight steps that follow teach two logics: the logic of substance and the logic of dependency. Both are set out mainly in the article [*The Logic of Dependency*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic), and the steps unpack it one piece at a time. Before you start, I want to say one thing plainly. The logic of dependency cannot be understood clearly by reasoning alone. It needs a direct insight into the nature of phenomena: into what a sound, a thought or a cup actually is. That is why the article [*Vivid and Nowhere: What a Phenomenon Is*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon) is so important, and why seeing it was a key insight in my own journey.
+The eight steps that follow teach two logics: the logic of substance and the logic of dependency. Both are set out mainly in the article [*The Logic of Dependency*](https://atr-passerby.com/the-logic-of-dependency/), and the steps unpack it one piece at a time. Before you start, I want to say one thing plainly. The logic of dependency cannot be understood clearly by reasoning alone. It needs a direct insight into the nature of phenomena: into what a sound, a thought or a cup actually is. That is why the article [*Vivid and Nowhere: What a Phenomenon Is*](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/) is so important, and why seeing it was a key insight in my own journey.
 
 ## Four key insights after anatta
 
@@ -28,11 +30,11 @@ This habit runs almost by default. Whatever experiences and insights we have, it
 
 No world is already there, with its own edges and things, waiting behind what appears. One bowl of liquid is water to us, pus to a hungry ghost, a home to a fish. The habit says that a real bowl of something must sit underneath, a neutral stuff that each kind of being merely filters in its own way. Look for it, and it is not found. What appears and how it is picked out arise together. Beings still agree, and the world still holds together, without any hidden object beneath it. Nor is the mind the floor instead: mind and object arise together, and neither comes first.
 
-This too has to be seen, not only followed. Until it is, the logic of dependency is quietly laid over a world still pictured as given, and the old floor stays in place under the new words. I go through it in [The Illusion of the Given](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion).
+This too has to be seen, not only followed. Until it is, the logic of dependency is quietly laid over a world still pictured as given, and the old floor stays in place under the new words. I go through it in [The Illusion of the Given](https://atr-passerby.com/the-illusion-of-the-given/).
 
 The first two are one fact, seen from two sides. Nāgārjuna says that what arises dependently is what is called emptiness (MMK 24.18): emptiness is not found anywhere apart from dependent arising, and dependent arising is never anything but empty. The third is what hides that fact. The fourth takes away its last hiding place: a given world beneath it all.
 
-Where does anatta fit in this? Anatta is the first door. In seeing, no seer is found: no doer behind the doing. Nāgārjuna takes the same insight through every thing: the walker, the fire, the cause, even the seeing. That is why the Bāhiya teaching and his chapter three say the same thing, though many read them as opposed. I set this out in [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing).
+Where does anatta fit in this? Anatta is the first door. In seeing, no seer is found: no doer behind the doing. Nāgārjuna takes the same insight through every thing: the walker, the fire, the cause, even the seeing. That is why the Bāhiya teaching and his chapter three say the same thing, though many read them as opposed. I set this out in [Decoding Anatta and MMK Chapter 3](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/).
 
 And where do the four insights lead? When the habit of the third stops, and no given is left beneath, the first two are tasted together. With no doer anywhere, and nothing put in its place, nothing is making the appearing. The sound is not a product waiting to be finished. It is already complete, by itself, exactly as its conditions meet. The Dzogchen tradition calls this spontaneous presence (*lhun grub*), and it is the last of the seven phases: presence is spontaneously perfected. It is not uncaused, and it is not a source behind things. It is dependent arising itself, met without the fixing. That is why I say that dependent arising is spontaneous presence.
 
@@ -80,7 +82,7 @@ From that starting point, practice becomes the removal of concepts: stripping aw
 
 But at most, that is all they do. Removing concepts does not show what appearances are. Phenomena can be tasted vividly and still be taken, quietly, as real on their own side. The mind can be tasted too, as pure, clear awareness, and then taken as the one thing that is really there. But the mind is a phenomenon like any other. Its clarity is as empty as the red of the apple. Without the view, the nature of phenomena, mind included, is never known.
 
-The reason is the third insight. Whatever experiences and insights we have will be distorted, because by default we analyse and think inherently. Even the idea behind these practices is shaped by it. Conceptual layering is pictured as labels and symbols placed over a given, objective reality, so practice becomes peeling the labels off to reach the reality underneath. That picture is itself the logic of substance: a world already there, with its own edges, waiting to be named. But a thing and its designation arise together. Designation is not a label on top of a thing, and there is no undesignated layer underneath waiting to be uncovered ([*The Illusion of the Given*](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion) looks at this in depth). Stripping the labels does not reveal how things are. It leaves the habit in place, now without comment, and the clear, wordless experience is read in the old way. That is how luminous clarity becomes a Witness, a ground, a Source. It was my own story in the I AM years.
+The reason is the third insight. Whatever experiences and insights we have will be distorted, because by default we analyse and think inherently. Even the idea behind these practices is shaped by it. Conceptual layering is pictured as labels and symbols placed over a given, objective reality, so practice becomes peeling the labels off to reach the reality underneath. That picture is itself the logic of substance: a world already there, with its own edges, waiting to be named. But a thing and its designation arise together. Designation is not a label on top of a thing, and there is no undesignated layer underneath waiting to be uncovered ([*The Illusion of the Given*](https://atr-passerby.com/the-illusion-of-the-given/) looks at this in depth). Stripping the labels does not reveal how things are. It leaves the habit in place, now without comment, and the clear, wordless experience is read in the old way. That is how luminous clarity becomes a Witness, a ground, a Source. It was my own story in the I AM years.
 
 > Bare attention can taste the clarity of appearances. Only the view shows what they are.
 
@@ -111,7 +113,7 @@ A few verses later he says what that wisdom is: "understanding emptiness of inhe
 >
 > Dōgen, “Mountains and Waters Sūtra” (*Sansuikyō*), translated by Arnold Kotler and Kazuaki Tanahashi, in *Moon in a Dewdrop*
 
-He also rejected the luminous true self that clear, wordless experience is so easily taken for: “the wrong view that mind is permanent and forms perish” is not the Buddha’s teaching (“On the Endeavor of the Way”, *Bendōwa*, translated by Lew Richmond and Kazuaki Tanahashi). And he warned against being satisfied with an experience: “When dharma does not fill your whole body and mind, you think it is already sufficient” (“Actualizing the Fundamental Point”, *Genjōkōan*, translated by Robert Aitken and Kazuaki Tanahashi). His “Painting of a Rice-cake” makes the point about words: they are not a veil over a hidden real thing (see [The Painted Rice Cake](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-ricecake) in Book 2).
+He also rejected the luminous true self that clear, wordless experience is so easily taken for: “the wrong view that mind is permanent and forms perish” is not the Buddha’s teaching (“On the Endeavor of the Way”, *Bendōwa*, translated by Lew Richmond and Kazuaki Tanahashi). And he warned against being satisfied with an experience: “When dharma does not fill your whole body and mind, you think it is already sufficient” (“Actualizing the Fundamental Point”, *Genjōkōan*, translated by Robert Aitken and Kazuaki Tanahashi). His “Painting of a Rice-cake” makes the point about words: they are not a veil over a hidden real thing (see [The Painted Rice Cake](https://atr-passerby.com/anatta-to-emptiness-the-painted-rice-cake-designation-is/) in Book 2).
 
 **Longchenpa** (fourteenth century). The great Dzogchen master puts the view first, and examining before settling:
 
@@ -151,7 +153,7 @@ None of them says that experience does not matter. Mipham ends the same text by 
 
 For years after the realisation of I AM, presence was vivid and unmistakable. The vividness was never what was missing. What was missing was seeing what that vividness is. I read it through the logic of substance: first a Witness, then a non-dual Presence, but still something real on its own side, behind everything.
 
-I met the wall again after anatta. Experience and insight had become non-substantialist, but my view had not. I describe this desynchronisation of view, insight and experience in [The Transition from Anatta to Emptiness](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#ae-desync). By 2009 I had become very serious about the view. Experiences and insights alone cannot fully open up body and mind; right view is needed. Inherent habits run far deeper than surface insights can penetrate and unbind.
+I met the wall again after anatta. Experience and insight had become non-substantialist, but my view had not. I describe this desynchronisation of view, insight and experience in [The Transition from Anatta to Emptiness](https://atr-passerby.com/anatta-to-emptiness-the-great-desynchronization/). By 2009 I had become very serious about the view. Experiences and insights alone cannot fully open up body and mind; right view is needed. Inherent habits run far deeper than surface insights can penetrate and unbind.
 
 What changed things was seeing directly what a phenomenon is: vivid and nowhere, with no knower behind the knowing and no ground behind the appearing. Only then did the logic of dependency become clear, not as a theory I agreed with, but as how things are. That is why I put *Vivid and Nowhere* first. The steps give the reasoning. The article points to what the reasoning is about.
 
@@ -159,18 +161,18 @@ What changed things was seeing directly what a phenomenon is: vivid and nowhere,
 
 Two articles carry this introduction. *Vivid and Nowhere* is about the seeing. *The Logic of Dependency* is the logic itself: the logics are mainly contained there, and the eight steps take it apart one piece at a time. Read both, first or alongside the steps. All the pages below take the logic further:
 
-- [Vivid and Nowhere: What a Phenomenon Is](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#phenomenon): the insight the logic rests on. Read it first.
-- [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking): the next page. Self, object, cause and person are one vivid appearing, singled out, dependent, and by appearing already empty. Read it before Step 1.
-- [Decoding Anatta and MMK Chapter 3](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-seeing): why anatta and Nāgārjuna are one insight, and how it ends in spontaneous presence.
-- [Does It Arise or Cease?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-koan): a koan worked through with both logics.
-- [What Is a Phenomenon?](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-phenomenon): the same insight as a question page, with the four questions applied to it.
-- [The Logic of Dependency](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-logic): the logics themselves, set out in full: the two starting points, whether we actually think substantially, change without a changer, the eight extremes, identity, continuity without a carrier, and the main objections. The eight steps unpack it.
-- [The Illusion of the Given](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-illusion): the fourth insight, that there is no given. How many beings can agree about a world with no hidden object behind it, and what "many worlds" means. It goes with Step 4, The Two Truths.
-- [The Architecture of Carrierless Continuity](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#carrierless): how something continues with nothing carrying it, through dependence and designation together. It goes with Step 3, Designated, Not Found.
+- [Vivid and Nowhere: What a Phenomenon Is](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/): the insight the logic rests on. Read it first.
+- [What the Logic Is Looking At](https://atr-passerby.com/what-the-logic-is-looking-at/): the next page. Self, object, cause and person are one vivid appearing, singled out, dependent, and by appearing already empty. Read it before Step 1.
+- [Decoding Anatta and MMK Chapter 3](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/): why anatta and Nāgārjuna are one insight, and how it ends in spontaneous presence.
+- [Does It Arise or Cease?](https://atr-passerby.com/does-it-arise-or-cease/): a koan worked through with both logics.
+- [What Is a Phenomenon?](https://atr-passerby.com/what-is-a-phenomenon/): the same insight as an exploration, with the four questions applied to it.
+- [The Logic of Dependency](https://atr-passerby.com/the-logic-of-dependency/): the logics themselves, set out in full: the two starting points, whether we actually think substantially, change without a changer, the eight extremes, identity, continuity without a carrier, and the main objections. The eight steps unpack it.
+- [The Illusion of the Given](https://atr-passerby.com/the-illusion-of-the-given/): the fourth insight, that there is no given. How many beings can agree about a world with no hidden object behind it, and what "many worlds" means. It goes with Step 4, The Two Truths.
+- [Neither Carried Nor Cut](https://atr-passerby.com/neither-carried-nor-cut/): how something continues with nothing carried over and nothing cut off, seen in the six streams of consciousness.
 
 Each step ends with a few things to try. When you do them, don't stop at following the argument. Turn to what is appearing now, a sound, a colour, a thought, and look. That looking is where the logic becomes clear.
 
-**The chain, 1 of 7.** Next: [What the Logic Is Looking At](https://claude.ai/artifact/Qpz9X7zL4i265i8pTjNfeJ#aa-looking), what a phenomenon is: singled out, dependent, and by appearing already empty.
+**The chain, 1 of 7.** Next: [What the Logic Is Looking At](https://atr-passerby.com/what-the-logic-is-looking-at/), what a phenomenon is: singled out, dependent, and by appearing already empty.
 
 ### Talks
 

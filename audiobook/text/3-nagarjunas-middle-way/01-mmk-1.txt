@@ -1,0 +1,178 @@
+title: Examination of Conditions
+album: Nāgārjuna's Middle Way
+
+Nah-gar-joo-nah's Middle Way. Chapter 1. Examination of Conditions.
+
+Nah-gar-joo-nah's Fundamental Verses on the Middle Way open with the most ordinary question there is: how does anything come about? Seeds become sprouts, matches become flames, a word spoken in anger becomes a quarrel. We say that one thing causes another, and the saying works. The first chapter asks what we think is happening when we say it, and finds that the picture behind the saying cannot be made to hold together.
+
+The chapter is short: two verses of homage and fourteen verses of argument. The homage states the whole view in advance. The argument then tests the most widely held theory of causes in Nah-gar-joo-nah's time, the Abhidharma's list of four conditions, and shows that it cannot do what it promises. What is left at the end is not a world without causes. It is a world in which causes and effects are found only together, and never on their own.
+
+# The verses.
+
+The translation is new, made from the Sanskrit for this site. The Sanskrit is given above each verse; it follows the GRETIL e-text (CC BY-NC-SA 4.0), which does not include the homage.
+
+# Homage.
+
+Without ceasing, without arising, without annihilation, without permanence, not one thing and not many, without coming and without going: so the fully awakened one taught dependent arising, the quieting of elaborations, peace. To him, the best of all who speak, I bow.
+
+# Verse 1.1.
+
+Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen.
+
+# Verse 1.2.
+
+There are four conditions: the causal condition, the object condition, the immediately preceding condition and the dominant condition. There is no fifth.
+
+# Verse 1.3.
+
+The own-nature of things is not found in their conditions or the like. And where there is no own-nature, there is no other-nature either.
+
+# Verse 1.4.
+
+There is no producing activity that has conditions, and none that lacks them. There are no conditions without such activity, and none that have it.
+
+# Verse 1.5.
+
+'These are conditions, because in dependence on them that arises': so it is said. But for as long as that has not arisen, why are these not non-conditions?
+
+# Verse 1.6.
+
+A condition makes no sense for a thing that does not exist, nor for one that does. If it does not exist, what is the condition a condition of? If it already exists, what is the condition for?
+
+# Verse 1.7.
+
+Since no phenomenon comes forth as existent, as non-existent or as both, how, this being so, could a producing cause make sense?
+
+# Verse 1.8.
+
+An existing mental event, it is taught, is simply without an object. But if the mental event is without an object, how can there be an object condition at all?
+
+# Verse 1.9.
+
+While the next events have not yet arisen, the ceasing of the one before makes no sense; so an immediately preceding condition does not hold. And once it has ceased, what condition could it be?
+
+# Verse 1.10.
+
+Since things without own-nature have no existence of their own, the formula 'when this exists, that comes to be' does not hold.
+
+# Verse 1.11.
+
+The effect is not in the conditions, taken one by one or all together. How could something that is not in the conditions come from the conditions?
+
+# Verse 1.12.
+
+If the effect, though not in them, still comes from those conditions, why does it not come from non-conditions as well?
+
+# Verse 1.13.
+
+The effect is made of its conditions, you say. But the conditions are not made of themselves. How can an effect made from what is not self-made be made of conditions?
+
+# Verse 1.14.
+
+So no effect is found, either made of conditions or made of non-conditions. And with no effect, where are conditions or non-conditions?
+
+# The homage: eight things that are not found.
+
+Nah-gar-joo-nah begins with a bow, and the bow already contains the book. The Buddha, he says, taught dependent arising as without ceasing and without arising, without annihilation and without permanence, not one thing and not many, without coming and without going. These are the eight extremes, in four pairs.
+
+It is easy to read the verse as a contradiction. Dependent arising sounds like a description of arising: things coming into being because of other things. How can it also be without arising? The answer is the key to the whole text. The eight negations do not describe something other than dependent arising. They describe dependent arising itself. If a sprout could be found arising, from its seed or from anything else, it would have an arising of its own, and it would not need to depend. That it depends is exactly why no arising of its own is found when it is looked for.
+
+All eight extremes ask one kind of question: where is it? Where did it start, where does it end, does it stay, is it gone, where did it come from, where did it go, is it this or that? Each question takes for granted a thing with whereabouts, something that can be placed in time, in space or in identity from its own side. Take that thing away and the eight questions do not have to be answered one by one. They lose what they were about.
+
+Left: the habit of mind pictures a thing at the centre, and every extreme is a question about where it is. Right: what appears in dependence has no such centre when looked for, so the eight questions have nothing to be about. Nothing is denied that the world relies on; only the centre is let go.
+
+The last words of the homage say what this does: it quiets elaborations (prapañca). An elaboration is the mind's spinning-out of 'it is', 'it is not', 'it came', 'it went' around something it takes to be there. When the something is not found, the spinning stops by itself. That stopping is called peace.
+
+# Four ways a thing might arise.
+
+The first verse of argument is the most quoted in all of Mahd-yah-mah-kah. Nothing, anywhere, is found to arise from itself, from another, from both, or without a cause. These four cover every possibility. Either the effect comes from something that is the same as it, or from something different, or from a mixture, or from nothing at all.
+
+The four options of verse 1.1 and why each fails. Rejecting all four is not a fifth theory of arising. It shows that arising, taken as something a thing does on its own, is not found.
+
+From itself. If the sprout were already in the seed, it would already be there, and there would be nothing for arising to do. And if a thing could produce itself once, nothing would stop it producing itself again and again.
+
+From another. This is the option common sense takes. The seed is one thing, the sprout another, and the first brings about the second. But 'other' in the strong sense means two things each standing on its own, with nothing to connect them. If a sprout could come from a seed that is wholly other than it, it could come equally from a stone, which is just as other. Rice comes from rice seed, not from barley seed, and that already shows that seed and sprout are not simply other.
+
+From both. A mixture of self and other carries the faults of each. Two failed answers do not make a good one.
+
+Without a cause. If things came from nothing, nothing would need its causes. No one would plant, no one would strike a match, and everything would appear everywhere or nowhere.
+
+The rejection is a non-implicative negation (prah-sahj-yah prah-tee-shay-dah). It refuses all four answers without installing a fifth. Nah-gar-joo-nah is not saying that things arise in some subtle way not on the list, and he is not saying that the world is frozen. He is saying that arising, taken as something a thing does from its own side, is not found when looked for.
+
+# The four conditions.
+
+Verse 1.2 states the theory to be tested. The Abhidharma schools listed four kinds of condition, and claimed that every event can be explained by them.
+
+A table. Condition; What it does; Example: seeing a flower. Causal (hetu): The main cause, like a seed for a sprout; The seeing's own causes: earlier moments of the same mind, and the attention and feeling that arise with it. Object (ālambana): What a mental event is about; The flower, as what is seen. Immediately preceding (samanantara): The moment of mind just before, which makes room for this one; The moment of mind just before the seeing. Dominant (adhipati): Whatever, being present, lets the event happen; The eye, which decides that this is seeing and not hearing.
+
+The list is careful and useful, and Nah-gar-joo-nah does not mock it. His question is narrower. The Abhidharma took each condition to be a real thing with its own nature (svah-bhah-vah), a self-standing item that produces its effect. The rest of the chapter asks whether conditions of that kind can do the job.
+
+# No own-nature, so no other-nature.
+
+Verse 1.3 sets up the argument. The own-nature of the sprout is not found in the seed, the soil, the water or the warmth. Look in each and you find seed, soil, water and warmth, not sprout. So the sprout's nature is not sitting in its conditions waiting to come out.
+
+Then a further step: where there is no own-nature, there is no other-nature either. To be 'other' than something, a thing must first be itself. If neither seed nor sprout has a nature of its own, neither can be the other of the other. This takes away the support of 'arising from another', the option that seemed most like common sense.
+
+# What makes a condition a condition?
+
+Verses 1.4 and 1.5 look at the word itself. When do we call something a condition? A seed is called the condition of a sprout because a sprout arises in dependence on it. A seed in a jar on a shelf is a seed, but it is not the condition of anything. It becomes a condition only when a sprout comes up.
+
+So the condition does not hold its status by itself. 'These are conditions, because in dependence on them that arises' (1.5). But then, before the sprout arises, why are they not non-conditions? Condition and effect are named together, in relation to each other. Neither is a condition, or an effect, on its own.
+
+Verse 1.5. 'Condition' is not a property a seed carries around. It is a name given in dependence on the sprout, just as 'effect' is a name given in dependence on the seed.
+
+Verse 1.4 says the same about the activity of producing. If conditions produce by an activity of their own, does that activity have conditions? Then it needs further conditions, and so on. Is it without conditions? Then it is a thing that arises from nothing, which verse 1.1 has already ruled out. Now turn to the conditions. Without such an activity they produce nothing, so they are not conditions. With it, they are conditions only because of an activity that, as just seen, cannot be found. The 'power to produce' is not found as a separate thing inside the conditions.
+
+# For something that exists, or something that does not?
+
+Verses 1.6 and 1.7 ask what a condition would act on. Either the effect exists when the condition acts, or it does not. If it already exists, the condition has nothing left to do. If it does not exist, there is nothing for the condition to act on: a condition of nothing is not a condition. Something half-existing, both existing and not, has the faults of both.
+
+Verse 1.6. Production in the strong sense needs a thing on both sides of an edge: first absent, then present. Neither side of the edge gives the condition anything to do.
+
+This sounds like a trick, but try it with a match. Strike it, and there is a flame. When exactly did the flame pass from not being to being? When the head touched the strip, when it caught, when the first glow appeared? At every moment something is going on, and at no moment is there a flame crossing over from nowhere. Nothing here stops you lighting the stove. What goes is only the picture of a finished thing being pushed across an edge by another finished thing.
+
+# The three other conditions tested.
+
+Verses 1.8 to 1.10 take the remaining conditions one by one, using the same pattern.
+
+The object condition (1.8). The Abhidharma held that a mental event, such as seeing, really exists in its own right, and that its object is a condition for it. But if the seeing already exists in its own right, it does not need an object to be what it is: taken that way, it stands 'without an object'. And then there is nothing for an object condition to do. If instead it needs the object, it does not exist in its own right. The theory cannot have both.
+
+The immediately preceding condition (1.9). Each moment of mind is said to make way for the next by ceasing. But while the next moment has not yet arisen, what is the ceasing making way for? And once the earlier moment has ceased, it is gone: a moment that no longer exists cannot be the condition of anything. A gap or an overlap would be needed, and neither is found.
+
+The dominant condition (1.10). The Buddha's own formula for dependence is 'when this exists, that comes to be'. The Abhidharma used it to define the dominant condition, which is why the verse quotes it here. But if things have no existence of their own, there is no 'this' that exists on its own to bring about a 'that'. The formula still works as a description of how things go together. It does not work as a description of one self-standing thing powering another.
+
+# Is the effect in the conditions?
+
+The last four verses turn from the conditions to the effect. Look for the effect in the conditions, one by one and all together (1.11). A cloth is made of threads. Is the cloth in any one thread? No. Is it in all the threads, gathered in a pile? No: a pile of threads is not a cloth. Then how can something that is not in the threads come from the threads?
+
+If you answer that it comes from them even though it is not in them (1.12), then it could come equally from anything else that does not contain it. Why not cloth from straw?
+
+The obvious reply is that the cloth is made of the threads (1.13). But the threads are not made of themselves either. Each is made of fibres, each fibre of smaller parts, and nowhere does the search reach something self-made on which the rest could rest.
+
+Verse 1.13. 'Made of its conditions' only moves the question down a level. The search never reaches a self-made floor, so the effect cannot borrow existence of its own from its conditions.
+
+So the chapter ends (1.14): no effect is found, either made of conditions or made of non-conditions. And without an effect, there is nothing to call conditions, and nothing to call non-conditions either. The analysis started with causes and finds that causes, too, were standing on the effect they were meant to produce.
+
+# What is left standing.
+
+Read quickly, the chapter seems to deny causes altogether. It does not. Rice still grows from rice seed, and a match still lights a stove. What the chapter refuses is a particular picture of how this happens: a cause that is complete in itself, holding a power of its own, pushing out an effect that then stands on its own in turn.
+
+Once that picture goes, the ordinary account of causes works better, not worse. A cause and its effect are found only together. Each is what it is called because of the other, within a way of picking things out that also depends. That is what 'dependent arising' means. Later commentators, Chun-drah-keer-tee and Tsong-kah-pah among them, put it precisely: what reasoning negates is arising established by its own nature, not mere arising as the world speaks of it.
+
+The chapter can be checked at any time with whatever is at hand. Hear a sound fade. Look for where it came from and where it went. It was not in the car before it passed, not in the air, not in the ear alone. Yet it was heard, clearly, and you turned your head. Present, and not found to arise: the homage, met in one sound.
+
+# Words to know.
+
+Dependent arising (prah-teet-yah-sah-moot-pah-dah): things appearing only in dependence on other things, and on the way they are picked out.
+
+Own-nature (svah-bhah-vah): a nature a thing would have from its own side, apart from everything else. Mahd-yah-mah-kah argues that nothing has it.
+
+Condition (pratyaya): what something arises in dependence on. The Abhidharma listed four kinds.
+
+The eight extremes: arising and ceasing, permanence and annihilation, coming and going, identity and difference.
+
+Elaboration (prapañca): the mind's spinning-out of 'is' and 'is not' around something it takes to be there.
+
+Non-arising (anutpāda): no arising found from a thing's own side, which is not the same as no causes.
+
+Non-implicative negation (prah-sahj-yah prah-tee-shay-dah): a denial that puts nothing in place of what it denies.

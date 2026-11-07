@@ -1,0 +1,343 @@
+# Luminosity
+
+Clear and empty, never a hidden substance.
+
+A zoom-in of the exploration [*Mind and Consciousness: Both Are Also Singled Out*](https://atr-passerby.com/mind-is-singled-out-too/).
+
+Sit by a window and listen to the rain. The sound is clear, and nothing has to light it up. This page asks what that clarity is, and turns the Logic on the last place a ground likes to hide.
+
+## The question
+
+The traditions call the mind luminous. An early discourse says "luminous, monks, is this mind" (Aṅguttara Nikāya 1.51–52), and Dzogchen speaks of the clear, knowing nature of mind. The Logic finds nothing that exists by itself, and Step 2 gave the mind no exemption. So is something left over when the search ends: a light that is the one exception?
+
+This question is personal for me. For years my answer was yes.
+
+## The substance reading
+
+Stated fairly, it says: appearances come and go, but something must know them. That knowing is steady, bright and untouched, like a lamp behind a window or a mirror behind its reflections. Sounds, colours and thoughts pass through it. It does not pass.
+
+![Diagram 1](../figures/aa-q-luminosity-diagram-1.svg)
+
+The substance picture puts the clarity behind what appears. The dependency picture finds it in the appearing itself, and empty like everything else.
+
+This was my view through phases 1 to 4 (see [Step 1](https://atr-passerby.com/step-1-two-logics/)). The I AM was real and unmistakable, and I would not deny it now. What I did with it was the mistake: I made it a Witness, then a Source, then a Mirror, each standing on its own side. The taste is real. Making it a Self is the error.
+
+## What the tradition says
+
+> In reference to the seen, there will be only the seen. In reference to the heard, only the heard.
+>
+> The Buddha to Bāhiya, *Udāna* 1.10 · tr. Ṭhānissaro Bhikkhu
+
+> The basis is called a ground only from a relative point of view. In the true nature of things it is empty of being a ground.
+>
+> Longchenpa, on the basis (*gzhi*) · paraphrase
+
+> A thought recognised as unfixed releases itself as it arises, like a drawing on water, which needs no eraser.
+>
+> The Dzogchen teaching of self-release (*rang grol*) · paraphrase
+
+One thing should be said plainly. Reading Dzogchen together with Nāgārjuna's Middle Way, as I do here, is my own reading. It is a fair reading of Longchenpa and Mipham, not the only one; some lineages treat Dzogchen as its own vehicle.
+
+## Applying the logic
+
+|                                       |                                                                                                                                                                                                                                                                            |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 · What would a substance view say?  | Luminosity is a radiant awareness behind appearances, existing from its own side: the screen everything plays on, the one thing that never comes or goes.                                                                                                                  |
+| 2 · What does dependency say instead? | Clarity is the appearing itself. A sound is heard as sound. Its clarity is not found apart from the sound, the ear and the hearing, so it arises dependently and is empty like everything else (MMK 24.19). Clarity and emptiness go together, and neither owns the other. |
+| 3 · What is affirmed conventionally?  | Vividness, clear knowing and the taste of presence, all genuine. And the Dzogchen words, read without a ground: unobstructed, primordially pure, spontaneously present.                                                                                                    |
+| 4 · What is never found?              | A light behind the display, a witness looking on, a background awareness, or a store that appearances come out of.                                                                                                                                                         |
+
+Put the clarity through the test of Step 1. Look for it apart from what is clear. It would have to be one with what it lights up, or other than it, and it is found as neither. And when the witness is not found, experience does not go blank. The tree is more vivid, not less. What goes is the distance, not the shining.
+
+That is all "vivid" means here: nothing in between. It is not extra intensity, and it is not a raw layer found under thought.
+
+The Dzogchen words keep their sense on these terms. **Unobstructed** means nothing blocks the showing, not that something lasts for ever. **Primordially pure** means there was never a time when things existed by themselves; nothing was ever there to clean. That does not mean a confused life is already free. **Spontaneous presence** means appearing is already complete and owes that to nothing hidden. It never means uncaused. It is dependent arising described from the side of experience rather than analysis, and neither description is higher. **Rigpa** is knowing the nature of things: recognising appearing as unfixed, dependent and empty. It is not a super-awareness that is their nature.
+
+## Two traps
+
+Too much: eternalism
+
+"Awareness is the one real thing." The self dissolves, and Presence quietly becomes the new Self. It is hard to see because it feels so complete. I held it for years. The question that turned it was simple: does Presence itself inherently exist?
+
+Too little: nihilism
+
+"No witness, so nothing is clear." Emptiness taken as a blank, or thoughts pushed down until a stillness forms, which then becomes one more thing to hold. The clarity was never denied. Only its standing on its own.
+
+## The hardest question: Nāgārjuna's lamp
+
+The books say that luminosity is the knowing clarity of appearing itself. A sound is clear as sound. A colour is vivid as colour. Nothing stands behind them to light them up.
+
+A careful reader of Nāgārjuna will stop here and ask a hard question. In Chapter 7 of the *Middle Way*, Nāgārjuna takes apart a lamp that lights up both itself and other things. Later Madhyamaka uses the same move against a mind that knows itself. So when we say "the clarity is the appearing itself", are we not bringing back the very lamp that Nāgārjuna put out?
+
+The rest of this page answers it. The short answer: no. Read slowly, Nāgārjuna's lamp is the clearest proof we have that clarity is never missing, and the clearest warning against making it a light of its own.
+
+## The lamp in Chapter 7
+
+Chapter 7 examines the marks of the conditioned: arising, staying and ceasing. The opponent wants arising to produce both the thing and itself, so that no second arising is needed to produce the first. He reaches for a famous image:
+
+> 'Just as a lamp lights up both itself and other things, so arising gives rise to both itself and other things.' (MMK 7.8)
+
+Nāgārjuna looks at the lamp:
+
+> There is no darkness in the lamp, nor where the lamp stands. Then what does the lamp light up? For lighting up means dispelling darkness. (MMK 7.9)
+
+Then at the darkness around it:
+
+> How is darkness dispelled by a lamp that is just coming to be? For a lamp that is coming to be does not reach the darkness. (MMK 7.10)
+
+> And if a lamp dispels darkness without reaching it, then a lamp standing here would dispel the darkness of the whole world. (MMK 7.11)
+
+And he turns the image round:
+
+> If a lamp lights up both itself and others, then darkness too, without doubt, would hide both itself and others. (MMK 7.12)
+
+None of this stops anyone reading by lamplight. "The lamp lit the room" is valid in daily life. What fails is a lamp with a power of its own, which turns back on itself, or crosses over and acts on a separate thing called darkness.
+
+## The lamp comes back as mind
+
+The same lamp returns in a later debate, about whether the mind knows itself.
+
+Some Buddhist thinkers held that every moment of knowing also knows itself (*svasaṃvedana*, Tibetan *rang rig*). Their favourite example was the lamp: a lamp needs no second lamp to be seen, so a cognition needs no second cognition to be known. The Buddhist logicians Dharmakīrti and Prajñākaragupta built on this.
+
+The Madhyamaka writers answered with Nāgārjuna's own tools.
+
+- **The blade.** A sword does not cut itself; a fingertip does not touch itself. If knowing turns back to know itself, it splits into a knower and a known. Candrakīrti presses this in the sixth chapter of his *Madhyamakāvatāra*.
+- **The lamp, again.** Śāntideva, in the ninth chapter of the *Bodhicaryāvatāra* (verses 17 to 19 in most numberings), takes up the lamp objection and gives Nāgārjuna's answer: the lamp is not lit up, because it was never hidden by darkness. To say a flame "lights itself" is only a manner of speaking.
+- **Seeing.** Nāgārjuna had already said it of the eye: "Seeing does not see itself. And if it does not see itself, how will it see anything else?" (MMK 3.2)
+
+So the challenge is fair. If our "clarity" is a knowing that shines on itself, or a light that lights up sounds and colours, it falls to every one of these arguments.
+
+## Read 7.9 again
+
+Now look at verse 7.9 again, slowly.
+
+"There is no darkness in the lamp." Nāgārjuna does not say the lamp is dark. He says the opposite: there is no darkness in it at all. That is why "the lamp lights itself" describes nothing. There is nothing dark in it to be lit.
+
+Put a sound in place of the lamp. Is there a moment when the sound is there but dark, waiting for an awareness to light it up? Look. There is not. The sound is clear as it sounds. There is no darkness in it.
+
+So the verse that refutes self-lighting also shows something else. **Clarity is never missing.** No appearing ever waited in the dark. And because no appearing was ever dark, nothing has to light it up: not another light, and not itself.
+
+This is the point I once put in one line: "You cannot talk about phenomena without clarity. Just whether clarity is abstracted out and reified." A phenomenon is whatever can be known. There is no such thing as an unknown phenomenon sitting in the dark, which a knower then reaches and lights up.
+
+## Not lit by itself, not lit by another
+
+Nāgārjuna opens the *Middle Way* with four corners:
+
+> Not from itself, not from another, not from both, and not without a cause: no thing anywhere, of any kind, is ever found to have arisen. (MMK 1.1)
+
+Put the clarity of a sound through the same four corners.
+
+1.  **Lit by itself?** Then the sound would have to turn back and shine on itself, a second act on top of the first. Blade and fingertip: that act is not found. And there was no darkness in it to lift (7.9).
+2.  **Lit by another?** Then an awareness behind the sound would have to reach it. Before they meet, the light does not touch the dark; if it works without meeting, one awareness here would light the whole world (7.10–11). This is the witness, the background, the mirror. It is looked for and not found.
+3.  **Lit by both?** That only adds the two problems together.
+4.  **Without conditions?** No. The sound is clear only with an ear, the sound's own conditions, attention and the rest. Block the ear and there is no sound to be clear.
+
+So what is left? The sound, clear as it sounds, on its conditions. That is what "self-luminous" can mean on this view. It is a negation: *not lit by another*. It is not a claim about an act of self-lighting. It does not say "the sound lights itself"; it says the question "what lights it?" never had a place to start.
+
+This is why I do not take up the logicians' lamp as they meant it. I do not posit self-knowing awareness, not even as convention. What the word points to, I keep only as a denial: knowing is not lit by another, and nothing lights it, not even itself. There is no second act and no knower behind; this clarity is as empty as what appears (Canon View, Part II, points 7 and 12). Take the denial away and the lamp becomes a self again.
+
+## The dark room
+
+Here is a test anyone can do. Sit in a room with the lights off. Pitch dark.
+
+Is anything clear? Yes: the darkness. It is seen, vividly, as dark. You know at once that it is dark. Seeing darkness is not a failure of clarity. It is a sight, as clear as any other.
+
+Verse 7.12 points straight at this. If darkness could hide itself, we could not even know that it is dark. But we do. So darkness is not a lack of clarity, and light is not its source. Light and dark are two appearings, each clear as it appears, named in relation to each other.
+
+That is why "luminous" here does not mean bright. A dull ache is clear as dull. A faint sound is clear as faint. A blur is clear as a blur. Even confusion is known as confusion. Luminosity is not a high level of brightness that some moments reach. It is that whatever appears is known as it appears.
+
+## Six lamps, not one
+
+Now take the six streams: seeing, hearing, smelling, tasting, touching and thinking. Each is clear on its own conditions. Seeing is clear with eye, form and light. Hearing is clear with ear, sound and air. A thought is clear as a thought.
+
+There is no single lamp moving from the eye to the ear and lighting each in turn. Seeing is not lit by hearing, and neither is lit by a third light behind both. Each is complete as it appears.
+
+But the clarity feels the same in all of them. The mind notices this sameness and lifts it out: "awareness", "presence", the one light in which all six appear. That is the abstraction. Once lifted out, it is taken to stand on its own, as a background, a witness, a Mind that gives off appearances. Nāgārjuna's lamp, put back up on a stand.
+
+Left as it is, the sameness is not lifted out. It stays the appearing's own: this sound's clearness, this colour's vividness, found only as them. Six lamps, not one; and no lamp that lights itself. (*Neither Carried Nor Cut* traces the same lifting-out in time: a carrier invented to bridge the six.)
+
+## What the old words mean on this reading
+
+**The luminous mind.** The early discourse says: "Luminous, monks, is the mind. And it is defiled by incoming defilements" (AN 1.51, tr. Ṭhānissaro Bhikkhu). On this reading, the defilements are "incoming": they do not belong to the mind's nature, because the mind has no nature of its own for them to belong to. Its clarity was never dark. That is all the line needs. It does not need a lamp that is always on behind the six. (Later Theravāda commentary identified this luminous mind with *bhavaṅga*, a life-continuum mind; Ṭhānissaro Bhikkhu notes that the suttas never make that link. A coming article can take this up.)
+
+**Self-knowing (*rang rig*).** Not posited, not even as convention. Kept only as a denial: knowing is not lit by another, and nothing lights it, not even itself. No second act, and no knower behind.
+
+**Clarity and emptiness inseparable.** The clarity is not found from its own side, and the emptiness is never a blank. Each is the other's way of being said.
+
+## Where the lamp hides
+
+The lamp comes back in four disguises. Each is the same mistake: clarity lifted out and given a place of its own.
+
+- **The lamp always on.** "Awareness is there in every moment, so it must be one thing that lasts." The sameness has been lifted out and made a lasting light.
+- **The lamp in the dark.** "In deep sleep or under anaesthesia, awareness is still lit, with nothing to light." Here the lamp is kept burning in a room where nothing appears. (*Annihilation Is an Inherent View*, section *Under anaesthesia*, takes this up.)
+- **The lamp behind glass.** The mirror, the screen, the witness: a light that lights appearances from behind them. This is "lit by another".
+- **The lamp put out.** The opposite error: "If no lamp lights itself, then nothing is clear; emptiness is darkness." But Nāgārjuna never said the lamp is dark. He said there is no darkness in it.
+
+## The lamp under the basket: the subtle clear light
+
+The tantras give the lamp its strongest form. In Gelug teaching on death, the coarse elements dissolve one into the next. Three appearances follow, white, red and black. Then comes the clear light. These four stages are called the four empties. What dawns at the end is called the innate mind of clear light. It is one with the very subtle wind, and the Dalai Lama calls it the final basis on which a person is designated. Its continuum has no beginning and no end.
+
+It is easy to picture this as a lamp under a basket. Life piles coarse minds on top of it. Death lifts them off one by one, and the true light, which was there all along, is laid bare.
+
+The Gelug teachers themselves refuse that picture, at least in part. They say the clear light mind is not a soul, and that it is empty. Each moment of it is produced and passes, so it is a stream, not a fixed ground. And they divide the words in two. The *object* clear light is emptiness. The *subject* clear light is the subtle mind that realises it. A clear light that only shines, and does not see emptiness, frees nothing.
+
+One more point in their account matters here. In Alexander Berzin's account of Gelug, every mind coarser than the clear light makes things appear as truly existing; the clear light itself does not. That is close to *Holding an apple*. The coarse minds are where the knot is tied, where the appearings are bound into a solid thing "out there".
+
+Read with the logic, the picture changes in three places.
+
+- **"Subtle" means fewer conditions, not a deeper stuff.** As the coarse winds dissolve, the conditions that tie the knot stop arising. What appears then is one more appearing, clear on its own conditions. It is not a floor that was waiting underneath. The canon refuses an "undesignated floor uncovered when designation stops" (Part II, point 8).
+- **The coarse minds were never darkness.** The basket picture needs the coarse minds to hide the light. But verse 7.9 already answered it: there is no darkness in the lamp. A coarse thought is clear as a thought, and a solid table is vivid as a table. What the coarse minds add is the knot, not a cover. So nothing is uncovered at death. What can happen is that the knot does not form, and the appearing is known as it is.
+- **"Beginningless and endless" is a stream, neither carried nor cut.** Each moment depends on the one before. It is not the same moment, and not another unconnected one. Read so, the continuum is valid conventionally: no moment of it stands on its own, and nothing travels through it. Read as one thing that lasts, it becomes Sāti's carrier again, a subtle traveller in the empty seat (*Neither Carried Nor Cut*; *One Flame Lights Another*, "The Very Subtle Mind").
+
+So the subtle clear light is not the lamp at last found. It is the same clarity as every other appearing, under the finest conditions, and as empty.
+
+## Keeping the lamp lit day and night
+
+Some Vajrayana practice sets out to keep awareness unbroken: through the day, into dream, through falling asleep, and through deep sleep. In the Six Yogas of Nāropa, dream yoga and the yoga of clear light carry recognition from waking into dream and into the clear light of falling asleep. Dzogchen and Bön speak of the natural light of sleep (Namkhai Norbu's *Dream Yoga and the Practice of Natural Light*; Tenzin Wangyal's *The Tibetan Yogas of Dream and Sleep*). Outside Buddhism, some Advaita teaching speaks of *turiya*, a witness said to stay through deep sleep. The aim is often put in a phrase: awareness 24/7.
+
+What it gets right is plain. Recognition can arise under finer and finer conditions: on the edge of sleep, inside a dream, in the subtle clarity of falling asleep. Practitioners report this, and there is no reason to deny it. The question is how it comes about: by keeping something going, or by seeing something through.
+
+What it can slide into is the lamp kept lit.
+
+1.  **The sameness is lifted out.** "Awareness 24/7" assumes one awareness that must stay unbroken. That is the clarity of each moment abstracted into a thing that lasts. Then the practice becomes guarding that thing.
+2.  **The effort makes a keeper.** Holding awareness needs a holder. The more it is held, the more firmly the watcher sits behind it. The canon already says: "the moment one tries to keep it, one has left it" (*Two Modes, One Seeing*). Presence is "not reached by one more act of knowing" (Book 4, Chapter 20), and recognition is not effort (Chapter 23).
+3.  **Deep sleep is not a dark room with a lamp in it.** Either something subtle appears, and then it is one more appearing, clear on its conditions. Or none of the six streams arises, and then "awareness still lit" is a lamp burning in a room where nothing appears (*Annihilation Is an Inherent View*, "Under anaesthesia").
+4.  **The fear underneath.** The wish never to lose awareness is often a fear that a gap means ending. That is the fear of annihilation, and it shares the inherent view: only a thing that was there from its own side can be threatened by a gap. Seen as neither carried nor cut, nothing is lost when no stream arises, and nothing needs to be guarded.
+
+### Not maintenance: a wisdom practice
+
+I would put the whole matter in a few lines:
+
+> In whatever case, there cannot be a case of "maintenance", which is the split. For recognition to be complete, it must unbind the habitual tendencies of seeing in an inherent pattern, not a maintenance of efforting during sleep. The process is effortless due to clear recognition freeing oneself from seeing inherency. A wisdom practice rather than śamatha.
+
+Take it a piece at a time.
+
+- **Maintenance is the split.** To maintain awareness there must be two: an awareness, and someone keeping it up. However fine the effort, it sets a keeper beside what is kept. That is the knower and the known pulled apart again, the very gap that anatta saw through. A practice built on keeping can only rebuild the one it hoped to free.
+- **What has to go is a habit, not a gap.** The problem was never that awareness goes out at night. It is the habitual tendency to see in an inherent pattern: to tie the appearings into things, a self, a world "out there", and now a lasting awareness too. Recognition is complete only when that tendency is unbound. Then there is nothing left that needs to be kept on.
+- **Effortless because it is seen.** The freedom does not come from trying harder. It comes from seeing clearly that nothing appears from its own side. Once that is seen, the knot does not form, and nothing has to hold it open. The ease is a result of the seeing, not a technique laid on top of it.
+- **Wisdom, not calm.** *Śamatha*, calm abiding, steadies the mind and can make it very still and bright. That has its place. But stillness held through the night is still something held, and when the holding stops, the old pattern comes back. Only wisdom (*prajñā*), seeing through inherency, unbinds the pattern itself. This is the same line the books draw between the two kinds of practice: the one that quiets thought, and the one that sees what thought was making.
+
+Three things keep this from being misheard.
+
+- **Effortless is the fruit, not the start.** Before recognition there is work: looking, questioning, seeing through the self and then through things. That takes effort. What is effortless is what comes after, when nothing needs to be held up. "Effortless" does not mean "do nothing".
+- **The dream yogas can be wisdom too.** Recognising a dream as a dream can be a way of seeing that appearances have no substance. Used like that, it is not maintenance. The line does not run between one tradition and another. It runs between keeping awareness going and seeing through.
+- **"Sustaining" in Dzogchen is not this maintenance.** Dzogchen teachers speak of sustaining the natural state, and of the continuity of presence. In their own sense this means not being distracted, with no effort and no one doing it. That is not what is refused here. What is refused is maintenance by a keeper, an effort to hold awareness up.
+- **Gelug aims at emptiness.** In Gelug, the yoga of clear light is meant to realise emptiness with the subtlest mind. Its aim is the same insight. The danger is only that the practice slides into keeping a state going, and so away from the seeing it was meant to serve.
+- **A caution from experience.** "In my experience, many suffered enormous sleeplessness and energy imbalances. It has to be guided by a qualified master. To me, it is not necessary and seems to deviate from the emptiness and anatta insights." Trying to stay awake inside sleep can break sleep itself and unsettle the body's energies. Anyone who takes up these practices should do so only under a qualified teacher. And for the insights of anatta and emptiness, they are not needed. If sleeplessness goes on, see a doctor as well.
+
+So if recognition does appear in a dream or in falling asleep, it is not a lamp that was kept burning. It is what happens when the habit of seeing inherently has loosened enough that it does not form there either.
+
+### In sleeping, fully sleep
+
+If each instant is complete, sleep is complete as sleep. It does not need a witness standing guard, and it lacks nothing. Then the wish to "stay aware" through the night turns out to be a refusal to let sleep be sleep. Dōgen says the same of life and death: when there is birth, there is nothing but birth.
+
+The Chan tradition tells it as a story. A Vinaya master named Yuan asked the Chan master Dazhu Huihai whether he still made an effort in the Way. Huihai said yes. Asked how, he answered: "When hungry, I eat; when tired, I sleep." Yuan said everyone does that. Huihai said it is not the same: others will not simply eat when they eat, or sleep when they sleep; their minds keep running on.
+
+That is the whole point of this section. The keeper is what stops sleep being sleep. Without the keeper, sleeping is fully sleeping, and nothing is lost.
+
+So what is "24/7" when the lamp is gone? Not an awareness kept on. Whenever anything appears, it is already clear and already empty. There was never darkness in it to fight off (7.9). Nothing has to be held up through the night. What lasts, if anything can be said to last, is that the knot is no longer tied: each instant complete, clear by itself, owing nothing to a light behind it.
+
+## In brief
+
+|                        | The lamp reading                                               | The dependency reading                                                           |
+|------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------|
+| What clarity is        | A light that shines on things, or on itself                    | The appearing, clear as it appears                                               |
+| Before knowing         | Things wait in the dark to be lit                              | No appearing was ever dark                                                       |
+| Self-luminous          | Knowing turns back and lights itself                           | Not lit by another; no second act                                                |
+| The six streams        | One light moves through all six                                | Six clarities, each on its conditions                                            |
+| Darkness               | The absence of clarity                                         | One more appearing, clear as dark                                                |
+| Deep sleep             | The lamp still burns with nothing to see                       | No six streams arise; clarity is not a lamp left on                              |
+| The subtle clear light | The true light, uncovered when the coarse minds are lifted off | The same clarity under the finest conditions, when the knot does not form; empty |
+| Awareness 24/7         | One awareness that must be kept unbroken                       | Nothing to keep: whenever anything appears, it is already clear and empty        |
+| The practice           | Maintenance: effort to keep awareness going, even in sleep     | Wisdom: recognition unbinds the habit of seeing inherently, so it is effortless  |
+| Nāgārjuna 7.9          | A refutation of luminosity                                     | The proof that clarity is never missing                                          |
+
+## In practice
+
+- Thoughts are display, not dust on a mirror. There is no need to fight them. Seen as unfixed, they release themselves.
+- When a bright, still presence appears, enjoy it, and then ask of it what you asked of the self: does it exist by itself?
+- Listen to one sound. You will find the sound and the hearing. Look for a listener standing apart from both.
+
+## Try it
+
+Sit with your eyes closed and let a sound come: a fan, a car, rain.
+
+First, ask: was there a moment when the sound was there but dark, before awareness reached it? Look.
+
+Then ask: is the hearing turning back to light itself up? Is there a second act on top of the hearing? Look.
+
+Then ask: is there a light behind the sound, which the sound appears in? Look for where it stands.
+
+Then open your eyes in a dim room, and see the dark. Notice that it is clear as dark.
+
+Tonight, as you fall asleep, notice any wish to "stay aware". Ask what it is trying to keep, and who would keep it. Do not hold anything up. Let the question do its work, and then sleep fully.
+
+What is found is the sound, clear as it sounds, and the dark, clear as it is dark. No lamp, and no darkness.
+
+**In the chain:** this page goes with [What the Logic Is Looking At](https://atr-passerby.com/what-the-logic-is-looking-at/) (2 of 7); [Decoding Anatta and MMK Chapter 3](https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/) (3 of 7). The chain starts at [Seeing Comes First](https://atr-passerby.com/seeing-comes-first/).
+
+## In the books
+
+- [Vividness Without a Viewer](https://atr-passerby.com/observer-2-vividness-without-a-viewer/): Book 4, Chapter 2, the clarity of the display itself, and the colour red.
+- [Spontaneous Presence](https://atr-passerby.com/observer-18-spontaneous-presence/): Book 4, Chapter 18, *lhun grub* as appearing with no producer.
+- [Ye Shes](https://atr-passerby.com/anatta-to-emptiness-ye-shes-when-analysis-becomes/): Book 2, thought as display, self-release, and how analysis completes itself.
+- [The Starting Point](https://atr-passerby.com/anatta-to-emptiness-the-starting-point-the-journey-through/): Book 2, how Presence became my new Self, and the question that undid it.
+- [The Taste of Total Exertion](https://atr-passerby.com/anatta-to-emptiness-the-taste-of-total-exertion/): Book 2, intimacy beyond relationship, seamless without fusion.
+- [Two Traditions, One Risk](https://atr-passerby.com/observer-19-two-traditions-one-risk/): Book 4, Chapter 19, Madhyamaka and Dzogchen, argued rather than assumed.
+- [The Gap and Its Absence](https://atr-passerby.com/observer-20-the-gap-and-its-absence/): Book 4, Chapter 20, why presence is not reached by one more act of knowing.
+- [Vivid and Nowhere](https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/): sections 12 and 13, clarity without a knower and the Dzogchen words read without a ground (bonus article).
+- [Examination of the Conditioned](https://atr-passerby.com/nagarjuna-7-examination-of-the-conditioned/): Nāgārjuna's Middle Way, Chapter 7, "The lamp that lights itself" (7.8–12).
+- [Examination of the Senses](https://atr-passerby.com/nagarjuna-3-examination-of-the-senses/): Chapter 3, seeing does not see itself (3.2).
+- [Recognition, Not Effort](https://atr-passerby.com/observer-23-recognition-not-effort/): Book 4, Chapter 23.
+- [Neither Carried Nor Cut](https://atr-passerby.com/neither-carried-nor-cut/): the carrier, lifted out in time.
+- [Annihilation Is an Inherent View](https://atr-passerby.com/annihilation-is-an-inherent-view/): "Under anaesthesia".
+- [One Flame Lights Another](https://atr-passerby.com/one-flame-lights-another/): "The Very Subtle Mind" and "The Clear Light Read Without a Ground" (bonus article).
+- [Two Modes, One Seeing](https://atr-passerby.com/two-modes-one-seeing/): Candrakīrti, the blade and the logicians' lamp (bonus article).
+
+### Talks
+
+- [MMK Non-Implicative Negation ironically shows: Dependent Arising = Spontaneous Presence](https://youtu.be/W2elnef_4gA): talk on YouTube.
+
+## Words to know
+
+Luminosity (*'od gsal*)  
+The knowing clarity of appearing itself. Not a light behind things, and empty too.
+
+Unobstructed (*ma 'gags pa*)  
+Nothing blocks the showing. Not "lasting", and not a store behind the display.
+
+Display (*rtsal*)  
+Thoughts and appearances, with nothing standing behind them.
+
+Self-release (*rang grol*)  
+A thought seen as unfixed frees itself as it comes. No eraser, and no one doing the releasing.
+
+Spontaneous presence (*lhun grub*)  
+Appearing already complete, owing nothing to a hidden source. Dependent arising met from the side of experience.
+
+Primordial purity (*ka dag*)  
+From the beginning, never fixed. No cleaning ever happened, because nothing was there to clean.
+
+Rigpa  
+Knowing the nature of things: appearing recognised as unfixed, dependent and empty. Not a witness and not a ground.
+
+Self-knowing (*svasaṃvedana*, *rang rig*)  
+The claim that knowing is known without a second knower. I do not posit it, not even as convention; I keep only the denial: not lit by another, and nothing lights it, not even itself, with no second act and no knower behind.
+
+Abstraction  
+Lifting the sameness of clarity out of the many appearings and taking it as one thing of its own.
+
+Non-implicative negation  
+A denial that puts nothing in place of what it denies. "Not lit by another" does not put "lit by itself" in its place.
+
+Four empties  
+In the tantras, the white, red and black appearances and the clear light, which dawn as the coarse elements and minds dissolve at death or in deep practice.
+
+Object and subject clear light  
+In Gelug, emptiness (the object) and the subtle mind that realises it (the subject).
+
+Dream and sleep yoga  
+Practices that carry recognition into dream and into the clear light of falling asleep.
+
+Śamatha and prajñā  
+Calm abiding, which steadies the mind; and wisdom, which sees through inherency. Only the second unbinds the habit.

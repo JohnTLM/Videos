@@ -1,0 +1,114 @@
+title: Examination of the Aggregates
+album: Nāgārjuna's Middle Way
+
+Nah-gar-joo-nah's Middle Way. Chapter 4. Examination of the Aggregates.
+
+Pick up a clay cup. It is solid, it has weight and colour, and it is made of something: clay, and the clay of earth and water. Buddhist schools called this physical side of things 'form' (rūpa), and they explained it by its causes, the four great elements. The fourth chapter asks a simple question about that explanation: can form be found apart from its cause, or its cause apart from form?
+
+The chapter belongs with Chapter 1 on conditions and Chapter 3 on the senses. Chapter 3 examined the faculties that experience comes through. Chapter 4 examines what experience is made of: the five aggregates (skandha), the heaps into which the Abhidharma sorted everything about a person. It works through the first of them, form, in detail, and then says the rest go the same way.
+
+# The verses.
+
+The translation is new, made from the Sanskrit for this site. The Sanskrit is given above each verse; it follows the GRETIL e-text (CC BY-NC-SA 4.0).
+
+# Verse 4.1.
+
+Form is not found apart from the cause of form. And the cause of form is not seen apart from form.
+
+# Verse 4.2.
+
+If form were apart from the cause of form, form would have no cause. But nothing, anywhere, is without a cause.
+
+# Verse 4.3.
+
+If the cause of form were apart from form, it would be a cause without an effect. But there is no cause without an effect.
+
+# Verse 4.4.
+
+If form already exists, a cause of form makes no sense. If form does not exist, a cause of form makes no sense either.
+
+# Verse 4.5.
+
+And form without any cause makes no sense at all. So one should not build any concepts around form.
+
+# Verse 4.6.
+
+It does not make sense that the effect is like its cause. Nor does it make sense that the effect is unlike its cause.
+
+# Verse 4.7.
+
+For feeling, mind, perception and formations, in every respect, and indeed for all things, the analysis is the same as for form.
+
+# Verse 4.8.
+
+When an argument has been made by means of emptiness, whoever offers a rebuttal has rebutted nothing, for the rebuttal is itself in the same position as what is still to be proved.
+
+# Verse 4.9.
+
+When an explanation has been given by means of emptiness, whoever raises an objection has objected to nothing, for the objection is itself in the same position as what is still to be proved.
+
+# Five heaps.
+
+The Buddha described a person as five aggregates, or heaps: form (the body and the physical world), feeling (pleasant, painful, neutral), perception (recognising this as that), formations (intentions, habits and other mental activity) and consciousness. No self is found apart from them. That much every Buddhist school agreed on.
+
+The Abhidharma went further. Having taken the self apart into aggregates, it treated the aggregates, and the smaller elements inside them, as the real building blocks, each with its own nature. Form, for example, was said to be made of the four great elements (mahābhūta): earth (solidity), water (cohesion), fire (heat) and air (motion). The elements are the cause of form; form is what they make. Chapter 4 tests whether this cause-and-made relation can hold between things that each have their own nature.
+
+# Form and its cause.
+
+The first verse states the finding (4.1). Form is not found apart from its cause, and its cause is not found apart from form. Verses 4.2 and 4.3 show why, one side at a time.
+
+Verses 4.1–3. Pull form away from its cause and it becomes uncaused. Pull the cause away from form and it stops being a cause. The pair cannot be separated into two self-standing items.
+
+If form existed apart from its cause, it would be uncaused (4.2). But nothing anywhere is uncaused; a cup does not appear from nowhere. If the cause existed apart from form, it would be a cause with no effect (4.3). But a cause with no effect is not a cause. Clay that never becomes anything is just clay, not 'the cause of the cup'. This is the point of Chapter 1, verse 1.5, applied to matter: cause and effect are named together.
+
+So form and its cause are not two things, one sitting behind the other. They are designated in dependence on each other.
+
+# Before or after?
+
+Verses 4.4 and 4.5 run the existence test. When the cause acts, either form already exists or it does not. If it already exists, a cause has nothing to do. If it does not exist, the cause has nothing to be the cause of. And form with no cause at all is ruled out completely (4.5), stated with a double 'not at all' for emphasis.
+
+The conclusion: one should not build any concepts around form (4.5). This does not mean we should stop thinking about tables. It means we should not build a theory in which form is a self-standing stuff with its own nature, linked by a self-standing causal tie to self-standing elements. Each piece of such a theory fails when looked for.
+
+# Like or unlike?
+
+Verse 4.6 adds a test that recurs in later Mahd-yah-mah-kah. Is the effect like its cause or unlike it?
+
+Verse 4.6. 'Like' and 'unlike', taken strictly, both fail. A cup is not clay over again, and not something with no connection to clay. Its relation to clay holds only as a relation, not as a link between two finished things.
+
+If the effect were just like its cause, nothing new would have come about; the cause and the effect could not be told apart. If it were wholly unlike its cause, there would be no reason why this cause gives this effect: clay might as well give a song. The cup is neither the clay again nor unconnected to the clay. That middle position cannot be held by two things each with a fixed nature. It can be held by a relation in which both are named.
+
+# The same for every aggregate.
+
+Verse 4.7 extends the analysis. Feeling, mind, perception and formations, and indeed all things, go the same way as form. A feeling is not found apart from what it is a feeling of and the contact that gives rise to it, and the contact is not a cause apart from the feeling. The same for perception and the rest.
+
+Verse 4.7. The Abhidharma took the self apart into five aggregates and kept the aggregates as real building blocks. Nah-gar-joo-nah applies the same analysis to the blocks.
+
+This is the turning point between early Buddhist analysis and Mahd-yah-mah-kah. Taking the person apart into aggregates shows there is no self apart from them. But if the aggregates themselves were kept as self-standing units, the analysis would have stopped one step short: the self would be gone, and a new set of substances would have taken its place. Nah-gar-joo-nah takes the last step. The aggregates, too, are empty. As the books put it, the person is designated in dependence on the aggregates, and the aggregates are designated too.
+
+# Arguing with emptiness.
+
+The last two verses (4.8–9) are a rule of debate. When someone argues by means of emptiness, any rebuttal 'is in the same position as what is to be proved'. What does that mean?
+
+Suppose Nah-gar-joo-nah has shown that form has no own-nature. An opponent replies: 'But the elements have their own nature, and they cause form.' That reply simply assumes the elements are exactly the kind of thing whose existence is in question. The same analysis applies to them at once. So the rebuttal does not escape; it stands in the same place as the claim it tried to defend. Every objection that relies on some item having its own nature can be met the same way, because the analysis is general (4.7). In Chun-drah-keer-tee's reading, the Mādhyamika does not have to defend some self-standing thing of their own here. It is enough to show, on the opponent's own terms, that each proposed self-standing thing fails.
+
+# What is left standing.
+
+Cups are still made of clay, and potters still need it. Physics still describes matter, and its descriptions still work. The chapter does not deny that form has causes. It denies that form and its causes are two self-standing things joined by a tie.
+
+Once that picture goes, cause and effect are seen as one relation named from two sides. The clay is 'the cause of the cup' because the cup arises from it; the cup is 'made of clay' because it arose from the clay. The body is form designated on the elements, and the elements are designated too. Nothing is a final building block, and nothing needs to be for the potter to work.
+
+Hold a cup and look for where the clay stops and the cup starts. You will find the cup, and the clay, and no line between two separate things. The cup is not less real for that. It holds the tea.
+
+# Words to know.
+
+Aggregates (skandha): the five heaps of a person: form, feeling, perception, formations, consciousness.
+
+Form (rūpa): the physical aggregate: the body and material things.
+
+The four great elements (mahābhūta): earth, water, fire and air, taken as the cause of form.
+
+Cause and effect (kāraṇa, kārya): what makes and what is made, named in relation to each other.
+
+Concept, conceptual construction (vikalpa): building a picture of what is there; here, a theory of form as a self-standing stuff.
+
+Like and unlike (sadṛśa, asadṛśa): whether an effect resembles its cause.
