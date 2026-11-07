@@ -1,0 +1,20 @@
+# Thusness Voice, the owner's private page https://atr-passerby.com/voice/ (audiobook/web/voice_web.py).
+# Installed once by thusness-website server/TASK-voice-page.md, which replaces SERVER_USER with the user that owns
+# ~/videos and ~/.venvs/publish:
+#   sed "s/SERVER_USER/$(id -un)/g" audiobook/web/thusness-voice.service | sudo tee /etc/systemd/system/thusness-voice.service
+#   sudo systemctl daemon-reload && sudo systemctl enable --now thusness-voice
+# Settings (GOOGLE_CLIENT_ID, SESSION_KEY, READERS_FOLDER) are in /etc/thusness-voice.env, mode 600, never in git.
+[Unit]
+Description=Thusness Voice: read PDFs aloud into MP3s (owner only)
+After=network-online.target
+
+[Service]
+User=SERVER_USER
+EnvironmentFile=/etc/thusness-voice.env
+WorkingDirectory=/home/SERVER_USER/videos/audiobook/web
+ExecStart=/home/SERVER_USER/.venvs/publish/bin/python voice_web.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
