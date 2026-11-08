@@ -61,10 +61,9 @@ claude.ai"). So:
 Every Claude session that makes or remakes a video saves its **text files** in this repository before it finishes,
 in the folder for its series (table above): the approved script, the narration text, the drawings
 (`*-scenes.tsx`) and the subtitles (`.srt`), plus the series settings when they change, with a short README for a new
-video; for a bonus article, also the NotebookLM source and prompt once written (`NOTEBOOKLM-VIDEOS.md`). Commit and
-push them (on a `claude/` branch; ask the owner before pushing). The **MP4s** never go here (too large): the server uploads them (`tools/publish/publish_drive.py`) to the owner's Google Drive, in the series' `Videos/<video>/` folder, beside copies of the same text
-files, and the drawings also go to the engine backup in Drive (`_engine/explainer/src/chapters/`). The video is not
-finished until both are done.
+video; for a bonus article, also the NotebookLM source and prompt once written (`NOTEBOOKLM-VIDEOS.md`). Commit, push
+and merge them (standing OK, owner 2026-10-29). The **MP4s** never go here (too large): they go to the owner, who
+uploads them to YouTube (rule above; no Drive copy since 2026-10-30).
 
 ## Where the video specs live
 
