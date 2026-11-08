@@ -31,8 +31,7 @@ Packs made before 2026-11-08 keep their old names (`…-notebooklm-source.md` / 
 2. **`<article-slug>-notebooklm-instructions.md`**: what the owner does in NotebookLM.
    - **He is a practitioner, never a teacher** (owner, 2026-11-08: "I m not a teacher and refused to be one. I m a practitioner sharing my journey, experiences and researches on those I have gone through"): never stage a student asking him, never call viewers or readers his students, never give him a teaching, advising or guiding role. He shares his own journey, experiences and research (EBooks `prog-spec.md` section 2).
    - Setup steps: a new notebook containing only this source; Video Overview; Cinematic style.
-   - The text for the "Customise" box: a full steering prompt and a short version for when the box has a character
-     limit. Name the key points, the most likely slips and the main visuals, and the Canon View stance to keep.
+   - The text for the "Customise" box: one full steering prompt only, no short version (owner, 2026-11-08: "Just the long one will do, noteboolm doesn't cut now"). Name the key points, the most likely slips and the main visuals, and the Canon View stance to keep.
    - A record of the canon check: date, and what was changed to fit the canon.
 
 The owner approves both. **Where they are saved:** in EBooks `Bonus Articles/<slug>/drive/` (their one home): the server copies that folder
