@@ -40,8 +40,9 @@ Read-aloud MP3s of the books and articles, one per chapter or page, in a free vo
 
 - **Jenny, `en-US-JennyNeural`, at its own speed (`+0%`)** (owner, 2026-11-07), the default in `make_audiobook.py`.
   About 140–150 words a minute with the pauses.
-- The speed check (`WPM_MIN` 140, set for Andrew) flags 34 of the 142 files as slow: more pauses for the words
-  (lists, tables, short lines), not lost words. About 120 would suit Jenny; left for the owner to judge on listening.
+- The speed check passes a whole file at **120–185 words a minute** (owner, 2026-11-08: "Relax the check for Jenny";
+  it was 140, set for Andrew). Of the 142 files only Zoom-in `01-pathway` (87, mostly short lines) and Book 4 `29-ob-c`
+  (111) still fall below; they are complete, and a low rate there means more pauses, not lost words.
 - Other free voices the owner heard (14 samples, 2026-10-30) are listed in `CHANGELOG.md`.
 
 ## 4. Preparing the text (`prepare_text.py`; kept in `audiobook/text/`)
