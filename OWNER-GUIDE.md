@@ -1,79 +1,56 @@
 # Making videos: a guide for John
 
-What to do when you want a video for a new bonus article or a new ebook. Claude does the work. This page shows
-where you come in.
+Where you come in when you want a new article, a video or a new ebook. Claude and the server do the rest.
+(Updated 2026-11-08 to how things work now.)
 
-**Every time:** when you start a Claude session, select **both repositories**: `JohnTLM/Videos` (everything for
-making videos) and `JohnTLM/thusness-website` (the website). Then say what you want in plain words. The session
-finds the rules in these repositories, so there is nothing to explain.
+**Every time:** start a Claude session with the repositories the job needs: `JohnTLM/EBooks` for articles and
+ebooks, `JohnTLM/Videos` for videos, `JohnTLM/thusness-website` for the site. Then say what you want in plain words.
+For a big new job, start a **new** session: a long-running one costs more for every reply.
 
 ## A new bonus article
 
-**Start:** put the article in Drive (`website/bonus-articles`) and say, for example:
-*"Make the video for my new bonus article The Illusion of the Given."*
+**Start:** say, for example, *"Write an article on …"*, or share your own text: paste it, or share the file into
+Drive `Inbox` from your phone and name it.
 
-No session watches that folder, so **always name the article** (its title or file name), or, surest of all,
-**paste its Drive link** (in Drive: Share → Copy link). The session then finds it with the Google Drive connection;
-if it says it cannot see your Drive, turn the Google Drive connector on in the session's settings.
+1. **Draft.** Claude writes it in your own voice and saves it in GitHub (EBooks). A private copy appears in Drive
+   by itself.
+2. **You read it** and ask for changes.
+3. **"Put it on the site."** Claude prepares the page and hands it to the server, which publishes it on
+   atr-passerby.com within about 5 minutes. Claude tells you when it is live.
+
+## A video for it
 
 1. **Script.** Claude writes the narration: 10–12 minutes, longer when the article is rich. **You approve it.**
-2. **Drawings and build.** Claude draws the scenes and builds the video in Andrew's voice, with subtitles.
-   The voice is free.
-3. **Preview.** Claude shows you the video. **You approve it, or ask for changes.**
-4. **Video files.** Claude sends you two MP4s (full size and phone size). **You drop them into the Drive folder
-   Claude names.**
-5. **Saving.** Claude saves the script, drawings and subtitles here and opens a pull request. **You merge it.**
-6. **Website.** Claude adds the article and its video to the site. **You say "go live", then "push".**
-7. **Optional.** Once you are happy with the video, Claude can write the NotebookLM files for a second version
+2. **Build.** Claude draws the scenes and builds the video in Andrew's voice (free), with subtitles.
+3. **One MP4 comes to you.** **You upload it in YouTube Studio as Unlisted**, then tell Claude **"Uploaded"** with
+   its YouTube link.
+4. **The server does the rest:** title, description, tags, playlist, and the video on its page.
+5. **Optional.** Once you are happy with the video, Claude can write the NotebookLM files for a second version
    (`NOTEBOOKLM-VIDEOS.md`). Making that version is up to you.
+
+No Drive copy of new videos is needed: YouTube keeps them, and GitHub keeps what is needed to rebuild them.
 
 ## A new ebook
 
-**Start:** put the manuscript in Drive and say, for example:
-*"Add my new book X to the website and make videos for its chapters."*
+**Start:** share the manuscript (Drive `Inbox` or a link) and say, for example: *"Add my new book X to the website
+and make videos for its chapters."*
 
-A new book is a new video series, so first **you make a few choices**: the drawing style, the colour, the voice,
-and whether any chapters reuse an existing bonus-article video.
+A new book is a new video series, so first **you make a few choices**: the drawing style, the colour and the voice.
 
 1. **Pilot.** Claude makes the first two chapters' videos. **You approve them** before the rest are made.
-2. **The rest.** Claude writes all the other scripts. **You approve them** before the drawings are made. Then they
-   are built one by one.
-3. Then steps 4–6 above (Drive, merge, go live), in batches.
-4. If you want the book as a PDF, say so (the website's notes, `prog-spec.md` section 9a, have the steps).
-
-## Putting new videos on YouTube
-
-1. Claude makes the videos and their YouTube texts, and sends you the files.
-2. You upload them in **YouTube Studio** as **Unlisted**: select all the files at once.
-3. You tell the orchestrating Claude session (the one you named on 2026-10-30): **"Uploaded."** It hands the job to
-   the server, which adds the titles, descriptions, tags and playlist, puts the video on its page and publishes (owner,
-   2026-10-30: "I will do the transfer of the videos files and upload to YouTube ... Then server take from there").
-   You do not need to open the server.
-4. The ebook's watch links are updated at its next build.
-
-Who does what (owner, 2026-10-30): the **cloud Claude** makes the videos (it is faster) and their YouTube texts, and
-saves the texts in GitHub; **you** carry the files and upload them; the **server Claude** is the only one that puts
-links on the website, rebuilds `index.html` and publishes. Cloud sessions do not publish the website. One cloud session
-is the orchestrating one: it takes your requests, keeps the server's queue and reports back (thusness-website
-`ARCHITECTURE.md`).
-
-No links to copy. (Uploads stay by hand because Google's approval for automatic uploads was skipped.)
+2. **The rest.** Claude writes the other scripts; **you approve them**; then they are built one by one, and you
+   upload each to YouTube as above.
+3. **PDF, EPUB, Word:** the server builds them and puts them in Drive, and in *Ebooks for readers* if you want.
 
 ## Your short checklist
 
-- Select **both repositories** when you start a session.
-- **Approve** scripts and previews.
-- **Drop the MP4s** into the Drive folder you are given.
-- **Merge** the pull request on GitHub: press **"Merge pull request"**, then **"Confirm merge"**. The page then shows
-  a purple "Merged" badge.
-- Say **"go live"** and **"push"** for the website.
-- At the end, ask: *"Is everything saved to the Videos repo?"*
+- **Approve** articles, scripts and videos; say **"put it on the site"** when ready.
+- **Upload** each MP4 to YouTube (Unlisted) and say **"Uploaded"** with the link.
+- Nothing else: Claude saves and merges everything in GitHub by itself (your standing OK, 2026-10-29), and Drive,
+  the site and the ebooks follow.
 
 ## Words used here
 
 - **Repository:** a project's folder on GitHub, with its full history.
-- **Branch:** a working copy where changes are made before they are accepted.
-- **Pull request:** a request to take a branch's changes into the main version. You see every change first, and
-  nothing changes until you merge it.
-- **Merge:** accept the changes. Future sessions see them from then on.
-- **Push:** send saved work from the session to GitHub.
+- **Task note:** the job card Claude leaves for the server; it records your yes.
+- **Unlisted:** a YouTube video only people with the link can see.
