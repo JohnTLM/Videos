@@ -38,8 +38,9 @@ SKIP_TITLES = re.compile(r"^(contents|table of contents|also by|copyright|licen[
 
 
 # ---------------------------------------------------------------- reading the PDF
-def load_pdf(path):
-    """Return (chapters, total_pages); each chapter is (title, text). Bookmarks give the chapters."""
+def load_pdf(path, name=None):
+    """Return (chapters, total_pages); each chapter is (title, text). Bookmarks give the chapters.
+    A PDF without bookmarks is one chapter, named after the file (name: its real name, when path is a temporary copy)."""
     from pypdf import PdfReader
     r = PdfReader(str(path))
     pages = [unicodedata.normalize("NFKC", p.extract_text() or "") for p in r.pages]
@@ -66,7 +67,8 @@ def load_pdf(path):
             seen.add((t, p)); uniq.append((t, p))
     marks = uniq
     if not marks:
-        return [(Path(path).stem, clean(" \n".join(pages)))], len(pages)
+        title = re.sub(r"\.pdf$", "", name or Path(path).name, flags=re.I)
+        return [(title, clean(" \n".join(pages)))], len(pages)
     chapters = []
     starts = []
     for title, p in marks:
@@ -148,13 +150,15 @@ def safe_name(s):
 
 # ---------------------------------------------------------------- speaking
 def letters(s):
-    return "".join(c.lower() for c in s if c.isalnum())
+    """The plain letters and digits of a text, accents dropped. Words in other scripts (Chinese, Tibetan) are left out:
+    an English voice passes over them, so they must not count when checking that every word was spoken."""
+    return "".join(c.lower() for c in unicodedata.normalize("NFKD", s) if c.isascii() and c.isalnum())
 
 
 async def speak(text, voice, rate, proxy, stop):
     import edge_tts
-    why = ""
-    for attempt in range(8):
+    why, best = "", (0, None, None)
+    for attempt in range(6):
         if stop.is_set():
             raise RuntimeError("stopped")
         try:
@@ -167,12 +171,17 @@ async def speak(text, voice, rate, proxy, stop):
                     said.append(ch["text"])
                     marks.append(ch["offset"] / 1e7)     # seconds from the start of this part
             # the service names every word it spoke: all of the text must be there, or it stopped early
-            if audio and len(letters(" ".join(said))) >= 0.97 * len(letters(text)):
+            share = len(letters(" ".join(said))) / max(1, len(letters(text)))
+            if audio and share >= 0.97:
                 return bytes(audio), marks
-            why = "stopped early"
+            if audio and share > best[0]:
+                best = (share, bytes(audio), marks)
+            why = f"stopped early, {share:.0%} of the words"
         except Exception as e:
             why = f"{type(e).__name__}: {e}"
         await asyncio.sleep(4 * (attempt + 1))
+    if best[0] >= 0.85:          # nearly all of it, every time: keep the best try rather than lose the whole chapter
+        return best[1], best[2]
     raise RuntimeError(f"a part could not be recorded ({why})")
 
 
@@ -191,7 +200,7 @@ def timings(parts, results):
         for sent in split_sentences(text):
             t = marks[min(k, len(marks) - 1)] if marks else 0.0
             out.append([round(base + t, 2), sent.strip()])
-            k += len(WORD.findall(sent))
+            k += sum(1 for w in WORD.findall(sent) if letters(w))   # words the voice skips (Chinese) have no mark
         base += len(audio) * 8 / 48000                 # the free voices send 48 kbit/s MP3
     return out
 
@@ -226,7 +235,7 @@ def run(chapters, out_dir, voice, rate, report, stop, proxy=None):
         except Exception as e:
             if stop.is_set():
                 break
-            failed.append(title)
+            failed.append(f"{title} ({e})")
             report(done, total, f"Not recorded: {title} ({e}). Run it again later.")
             continue
         f = out_dir / f"{i:02d} - {safe_name(title)}.mp3"
