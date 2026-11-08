@@ -427,7 +427,7 @@ class H(BaseHTTPRequestHandler):
                     name = docs.get(a["upload"], {}).get("name", "upload.pdf")
                 else:
                     fetch_pdf(a["id"], path); name = a.get("name", "document.pdf")
-                chapters, pages = engine.load_pdf(path)
+                chapters, pages = engine.load_pdf(path, name)
                 docs[tok] = {"name": name, "path": path, "chapters": chapters}
                 return self.send(200, {"doc": tok, "name": name, "pages": pages, "chapters": [
                     {"n": i, "title": t, "min": max(1, round(len(x.split()) / 160)), "tick": not engine.SKIP_TITLES.match(t)}

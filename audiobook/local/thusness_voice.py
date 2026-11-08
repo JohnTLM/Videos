@@ -91,7 +91,9 @@ def cut(text, limit=PART_MAX):
 
 
 def letters(s):
-    return "".join(c.lower() for c in s if c.isalnum())
+    """Plain letters and digits, accents dropped; other scripts (Chinese) left out, since an English voice skips them."""
+    import unicodedata
+    return "".join(c.lower() for c in unicodedata.normalize("NFKD", s) if c.isascii() and c.isalnum())
 
 
 async def speak(text, voice, rate, proxy):
