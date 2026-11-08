@@ -29,6 +29,8 @@ Narration and visuals: AI-generated with Google NotebookLM, edited from two Note
 
 #Buddhism #Philosophy #Nagarjuna
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ## Tags (paste as one comma-separated line; 418 characters, within YouTube's 500 limit)
 
 carrierless continuity, personal identity, no self, anatta, anatman, emptiness, Madhyamaka, Middle Way, Nagarjuna, Mulamadhyamakakarika, dependent designation, dependent arising, prajnapti, Prasangika, Nagasena, lamp analogy, Dogen, Shobogenzo, firewood and ash, Tsongkhapa, mere I, Derek Parfit, substantialism, philosophy of mind, Buddhist philosophy, metaphysics, consciousness, anesthesia, death, impermanence, Zen

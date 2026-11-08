@@ -52,6 +52,8 @@ Dzogchen: the five lights, the body as light not recognised, cutting through and
 
 Read the page: https://atr-passerby.com/rainbow-body/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 rainbow body, ja lus, Dzogchen, Gelug, Tsongkhapa, thogal, illusory body, tukdam, five lights, five aggregates, yang spirit, Taoism, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -99,6 +101,8 @@ Dzogchen: the five lights, the body as light not recognised, cutting through and
 12:32 What turns into light?
 
 Read the page: https://atr-passerby.com/rainbow-body/
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 

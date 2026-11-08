@@ -47,6 +47,8 @@ Designation is singling out. The chariot is not found among its parts or apart f
 
 Read the page: https://atr-passerby.com/dependent-arising-and-designation/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, dependent arising, dependent designation, singling out, causal efficacy, causal power, chariot, sevenfold search, conditions, not a web, Indra's net, two modes of right knowing, king of reasons, antidote to ignorance, twelve links, conventional truth, samvrti, veil, mere convention, spontaneous presence, Candrakirti, Tsongkhapa, Dzogchen, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, anatta, no self, Buddhist philosophy

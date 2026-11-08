@@ -39,6 +39,8 @@ No. Read slowly, the verse that refutes the lamp shows that clarity is never mis
 
 Read the page: https://atr-passerby.com/luminosity/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, luminosity, clear light, luminous mind, rigpa, self-knowing, svasamvedana, Nagarjuna lamp, MMK 7, dream yoga, sleep yoga, 24/7 awareness, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

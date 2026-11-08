@@ -49,6 +49,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 the logic after anatta, seeing comes first, three insights, logic of substance, logic of dependency, koan, Atisha, Tsongkhapa, Longchenpa, Dogen, witness, naked awareness, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -86,6 +88,8 @@ Read the page: Step 1, Two Logics, on the website (After Anatta · The Logic): h
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
 
 #Buddhism #Madhyamaka #Emptiness
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
@@ -125,6 +129,8 @@ Read the page: Step 2, What Is Negated, on the website (After Anatta · The Logi
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
 
 #Buddhism #Madhyamaka #Emptiness
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
@@ -170,6 +176,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 four corners, tetralemma, catuskoti, Vacchagotta, fire going out, unanswered questions, prapanca, elaboration, Doppler effect, siren, beyond concepts, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -213,6 +221,8 @@ Read the page: Step 6, The Two Traps, on the website (After Anatta · The Logic)
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
 
 #Buddhism #Madhyamaka #Emptiness
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
@@ -258,6 +268,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 function without substance, causal efficacy, emptiness and function, MMK 24, Dogen, painted rice cake, solidity, atoms, key and lock, conventional validity, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -295,6 +307,8 @@ Read it on the website (After Anatta · The Logic): https://atr-passerby.com/#aa
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
 
 #Buddhism #Madhyamaka #Emptiness
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 

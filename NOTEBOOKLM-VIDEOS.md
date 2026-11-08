@@ -55,7 +55,8 @@ the same files.
    than show the removed shot. Check every join: transcribe across it and look at frames on both sides.
 5. **YouTube texts.** Title: **never "NotebookLM"**; it says what the video is about (owner, 2026-11-08; the
    description may mention NotebookLM). Description with chapters (each checked against the cut video's audio, at
-   least 10 s each), tags within 500 characters, and a 1280×720 thumbnail: a frame from the video beside a dark panel,
+   least 10 s each), ending with the owner's disclaimer (EBooks `prog-spec.md` section 2: "All views and understanding
+   here are my own …"), tags within 500 characters, and a 1280×720 thumbnail: a frame from the video beside a dark panel,
    Cormorant Garamond title in `#ece7da`, Source Sans 3 kicker in `#b9b4a6`.
 6. **Hand over and save.** Send the cut MP4 and the thumbnail (`SendUserFile`). The owner uploads it as Unlisted and
    says "Uploaded" with the link; then the same route as the main video (`README.md`). Commit the two Markdown files,

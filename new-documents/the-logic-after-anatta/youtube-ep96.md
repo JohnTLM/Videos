@@ -54,6 +54,8 @@ The overview of The Logic, from After Anatta: notes by John Tan (Thusness) on wh
 
 Read the page: https://atr-passerby.com/seeing-comes-first/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, seeing comes first, four key insights, the logic of dependency, logic of substance, koan, spontaneous presence, there is no given, bare attention, what is a phenomenon, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

@@ -55,6 +55,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 Bahiya sutta, in the seen just the seen, MMK chapter 3, seer and seen, doer behind the doing, spontaneous presence, lhun grub, non-implicative negation, clarity, luminosity, Ernst Mach, walker and walking, fire and fuel, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -101,6 +103,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 what is a phenomenon, dharma, designation, singling out, blue and red, single stroke, spontaneous presence, neither one nor two, luminosity, clarity, holding an apple, mental formation, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -146,6 +150,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Emptiness
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 the logic after anatta, seeing comes first, four insights, there is no given, spontaneous presence, logic of substance, logic of dependency, koan, Atisha, Tsongkhapa, Longchenpa, Dogen, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -175,6 +181,8 @@ Read it on the website (After Anatta · The Logic): https://atr-passerby.com/#aa
 From After Anatta: notes by John Tan (Thusness) on the logic after the insight of anatta. Narrated with a synthetic voice, with animated drawings; the script is drawn from the website.
 
 #Buddhism #Madhyamaka #Emptiness
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
