@@ -11,7 +11,7 @@ Thusness website (its own repository, [thusness-website](https://github.com/John
 | repo root + `chapter-builder/` | *The Logical Necessity of a Substrateless World* | one short narrated video per chapter |
 | [`mmk/`](mmk/README.md) | *Nāgārjuna's Middle Way* (the MMK) | 27 chapter videos; see [mmk/README.md](mmk/README.md) |
 | [`anatta-to-emptiness/`](anatta-to-emptiness/VIDEO-SPEC.md) | *The Transition from Anatta to Emptiness* | the series' own spec (its stance rules replace the base list) |
-| [`NEW-DOCUMENT-VIDEOS.md`](NEW-DOCUMENT-VIDEOS.md) | New articles and episodes on the website | how to make one with the Drive tools (`build.py`, Remotion) |
+| `README.md`, *Making one video* (below) | New articles and episodes on the website | the steps and the cloud build settings (`build.py`, Remotion) |
 | [`new-documents/`](new-documents/) | Bonus articles | each video's script, drawings (`*-scenes.tsx`) and subtitles |
 | [`NOTEBOOKLM-VIDEOS.md`](NOTEBOOKLM-VIDEOS.md) | New bonus articles, from 2026-10-24 | the NotebookLM route: the two Markdown files Claude writes for each video, then review, cuts and YouTube text |
 | [`observer-and-presence/`](observer-and-presence/README.md) | *The Observer and the Taste of Presence* (Book 4) | 18 chapter videos: script, drawings, subtitles, series settings |
@@ -81,139 +81,38 @@ The two copies of the base spec had drifted apart; on 2026-10-21 this master cop
 drawing sections (switches, spoken opening, Remotion style, explainer drawings, subtitle sizes), so it now
 holds both sets of changes. The Drive working copy has not been updated yet.
 
-The rest of this page is about the Substrateless World videos.
+## Making one video: the steps
 
-This repo turns the book *The Logical Necessity of a Substrateless World* into short narrated
-videos, one per chapter. Each video is about 3 to 4 minutes: a title card, then calm narration
-over a dark background, with subtitles.
+The rules are `VIDEO-SPEC.md` (base) and `anatta-to-emptiness/VIDEO-SPEC.md` (that book's stance rules, which replace
+the base stance list). **All the tools are in [`tools/`](tools/README.md)**: `build.py` does it all: script → voice
+(free edge-tts, Andrew) → subtitles → spoken title → Remotion drawings → MP4 → check frames.
 
-Claude Code does the work. It follows a written spec. A small plugin adds a
-**▶ Build Next Chapter** button so you can build one chapter at a time and watch its progress.
+**Length of a bonus-article video** (owner, 2026-10-24): aim for **10–12 minutes** (about 1,800–2,000 words at Andrew's
+pace), longer when the article is rich; cover the whole argument rather than cut it to fit. The 450–550-word limit is
+for book chapters only. `build.py` marks longer scripts "check" in `manifest.csv`; for a bonus video that is expected.
+Only after the owner is satisfied with the video does Claude write the two NotebookLM files (`NOTEBOOKLM-VIDEOS.md`),
+and only if the owner wants a NotebookLM version.
 
-- [ARCHITECTURE.md](ARCHITECTURE.md): how the parts fit together
-- [VIDEO-SPEC.md](VIDEO-SPEC.md): the full instructions Claude follows
-- [chapter-builder/README.md](chapter-builder/README.md): the plugin in brief
+1. Write `<ep|ch>NN-script.md` (450–550 words for a chapter, 10–12 minutes or more for a bonus article; front matter
+   `chapter: bonus` for a bonus, `intro: yes`, `voice: male`) following the right VIDEO-SPEC, and get the owner's
+   approval of the script.
+2. Write the drawings `tools/explainer/src/chapters/<PREFIX>NN.tsx` (a `PHRASES` list copied from the script in order,
+   plus a `Body` of scenes; model: `AE03.tsx`). Phrases must not include words the pronunciation map respells
+   (Madhyamaka, svabhāva, Longchenpa...), because cues are matched on the spoken text.
+3. Build, look at a contact sheet of frames, fix, rebuild (the voice is cached).
+4. Send the MP4 to the owner and save the text files here (the rules above).
 
-Readers watch the finished videos, and read each chapter, on the Thusness website. This repository
-used to hold a second, small book website (`site/`); it was removed on 2026-10-21 because the
-Thusness website already does that job.
+**Building in a Claude cloud session:**
+- The network must allow `speech.platform.bing.com`.
+- `pip install -r tools/requirements-video.txt` and `npm ci` in `tools/explainer` (`tools/README.md`). Fonts are in
+  `tools/assets/fonts/`.
+- Run the series' `build.py` (for example `tools/series/anatta-to-emptiness/build.py --chapter 94`) with
+  `TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt
+  REMOTION_BROWSER=/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell`.
+  Remotion needs the headless shell, not full Chromium. Rendering takes roughly 3–4 minutes per minute of video.
 
-## Prerequisites
+The old guide `NEW-DOCUMENT-VIDEOS.md` (with the Drive and phone-copy steps from before 2026-10-30) was folded in here
+on 2026-11-08; it is in the git history.
 
-- **Claude Code** (the command-line app).
-- **Windows** with Google Drive for desktop. The book and outputs live on `G:\My Drive\...`.
-- **Python** with `edge-tts` and `pillow`: `pip install edge-tts pillow`.
-- **ffmpeg**: `winget install Gyan.FFmpeg`, or check that `ffmpeg -version` works.
-- **Internet**, for the voice service used by edge-tts and for the Google Fonts download.
-
-Claude can install the Python packages and ffmpeg for you during setup (spec §6 and §10).
-
-## Install the plugin
-
-The repo is a plugin **marketplace** (a list of plugins) named `videos`. It holds one plugin,
-`chapter-builder`. In a terminal:
-
-```
-claude plugin install chapter-builder --marketplace JohnTLM/videos
-```
-
-Or inside Claude Code:
-
-```
-/plugin marketplace add JohnTLM/videos
-/plugin install chapter-builder@videos
-```
-
-Restart Claude Code after installing.
-
-## Set up the Videos folder
-
-1. Create the output folder:
-   `G:\My Drive\Avatar-brain\My-Book\New Book\Book-1-complete\Substrateless-World\Videos\`
-2. Copy `VIDEO-SPEC.md` into it. This copy is the **working copy**. Claude reads it there, and
-   your feedback is written there. The copy in this repo is the master. The plugin warns you if
-   the `Videos\` folder has no `VIDEO-SPEC.md`.
-3. Start Claude Code **inside** that `Videos\` folder.
-   Or set the folder once in `/config` under `chapter-builder.videosDir`.
-
-## Workflow (the original Book 1 chapter plugin, 2026-10; for new videos see "How a new video goes from idea to the website" above)
-
-1. **Setup.** Ask Claude to do the setup step in `VIDEO-SPEC.md` §10. It installs the tools,
-   makes the background and fonts, creates `pronunciation.json`, and lists every chapter in
-   `chapters.json`. The plugin uses that file to know how many chapters there are.
-2. **Pilot: Chapter 1.** Press **▶ Build Next Chapter (Ch 1)**. You can also press `n` when the
-   button area has focus, or type `/next-chapter`. A progress bar moves through 7 stages:
-   script → narration text → audio → subtitles → title card → video → check frames.
-3. **Review.** Claude stops after Chapter 1. It reports the script, the length, new
-   pronunciation entries, and the check frames. Watch the video and listen to the voice.
-4. **Give feedback.** Tell Claude what to change (voice, pace, look, how much to condense).
-   Ask it to write the changes into `VIDEO-SPEC.md` in `Videos\` so they stick. Then copy
-   that file back to this repo, so the master stays up to date.
-5. **Approve the pilot.** The button now says **Approve pilot** instead of offering Chapter 2.
-   Press it (hotkey `a`), or type `/approve-pilot`, when you are happy. This writes a file
-   named `PILOT-APPROVED` in `Videos\`. You can also create that file yourself.
-6. **Batch.** Press the button again for each next chapter. After each one, Claude gives a
-   one-line status and pauses if a check fails.
-7. **Finish.** After the last chapter the band says **All N chapters built**. Ask for the
-   summary table of all chapters and the list of words to listen to.
-
-### Commands
-
-| Command | What it does |
-|---|---|
-| `/next-chapter` | Same as the button: builds the next chapter. |
-| `/chapter-status` | Shows the button again (after "Hide") and says what is built. Builds nothing. |
-| `/approve-pilot` | Approves Chapter 1, so later chapters can be built. |
-| `/reset-chapter` | Stops tracking a build that is stuck. Deletes no files. |
-
-## Where outputs go
-
-Everything goes under `...\Substrateless-World\Videos\`:
-
-- `chNN-<slug>\` per chapter, for example `ch01-the-coldness-of-ice\`. It holds the script
-  (`.md`), narration text (`.txt`), audio (`.mp3`), subtitles (`.srt`), title card, the
-  final `chNN-<slug>.mp4`, and four check frames: `chNN-frame-0002.png`, `-0030`, `-0200`
-  and `-end`.
-- `VIDEO-SPEC.md`: the working copy of the spec.
-- `chapters.json`: every chapter's number and title, written at setup.
-- `PILOT-APPROVED`: there once you approve the pilot.
-- `manifest.csv`: one row per chapter with words, duration and status.
-- `pronunciation.json`: how to say Sanskrit, Pali, Tibetan and Japanese terms.
-- `assets\`: fonts, the background image, and an optional `music.mp3`.
-
-Claude must never delete or overwrite anything outside `Videos\`.
-
-## Running the tests
-
-The plugin has offline tests. They use a fake file system and a fake clock, so they are free
-and need no internet or keys. From the repo root:
-
-```
-claude plugin test chapter-builder
-```
-
-To check the manifests: `claude plugin validate .`
-
-## Troubleshooting
-
-- **Button shows a chapter you think is built.** A chapter counts as built only when its
-  `chNN-<slug>\` folder holds `chNN-<slug>.mp4` (not empty) and all four check frames, made
-  after the video. Check the file names. Check that Claude Code runs in the right `Videos\`
-  folder, or set `chapter-builder.videosDir`.
-- **Button says "Approve pilot".** Chapter 1 is built and waits for your review. See Workflow
-  step 5.
-- **Button shows "Ch N" past the last chapter, or "Chapter count unknown".** `chapters.json`
-  is missing or broken. Ask Claude to write it (spec §10, step 1).
-- **Bar stuck on one stage.** Stages count in order. If one file is missing, later files do
-  not count. Check the file names match the table in ARCHITECTURE.md.
-- **"Stopped at: ..." message.** The build turn ended early. Press the button again. It picks
-  the same chapter and reuses files already made.
-- **"Chapter N is already being built."** A build is still running. Wait for the turn to end.
-  If it is stuck on "Queued", press **Reset** or type `/reset-chapter`. A build that has not
-  started after 10 minutes is cancelled by itself. If the queued prompt starts later anyway,
-  the bar picks it up again.
-- **Button gone.** You pressed "Hide". Type `/chapter-status` to bring it back. It builds nothing.
-- **"No VIDEO-SPEC.md in the Videos folder".** Copy the spec from this repo into `Videos\`.
-- **Subtitle errors from ffmpeg on Windows.** Run ffmpeg inside the chapter folder and pass the
-  SRT as a bare file name (spec §7).
-- **edge-tts wrote a `.vtt` file.** Convert it: `ffmpeg -i in.vtt out.srt` (spec §6).
+The chapter-builder plugin (the original *Substrateless World* chapter button) is described in
+[`chapter-builder/README.md`](chapter-builder/README.md) and [`chapter-builder/ARCHITECTURE.md`](chapter-builder/ARCHITECTURE.md).

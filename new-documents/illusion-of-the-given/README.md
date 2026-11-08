@@ -21,7 +21,7 @@ The MP4s (`ep94-illusion-of-the-given.mp4`, 188 MB, and `ep94-preview-720p.mp4`)
 they were sent to the owner to keep in Drive, `Anatta-to-Emptiness/Videos/ep94-illusion-of-the-given/`.
 
 **Local changes to the copied `build.py`** (cloud session only, not in Drive), on top of those listed in
-`NEW-DOCUMENT-VIDEOS.md`: edge-tts pins its own certificate bundle, so when `SSL_CERT_FILE` is set the builder points
+`README.md` (*Making one video*): edge-tts pins its own certificate bundle, so when `SSL_CERT_FILE` is set the builder points
 edge-tts at it; and the speech retry now also retries a paragraph whose audio comes back cut short (its word
 timings do not cover the whole text), which otherwise stops the build with "alignment failed".
 

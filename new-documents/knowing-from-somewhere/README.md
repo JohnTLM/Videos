@@ -25,7 +25,7 @@ did not start from the seer. The rebuild says "a thing with a nature fixed from 
 combine, or change", and every cone opens from its seer.
 
 **Local changes to the copied `build.py`** (cloud session only, not in Drive): the ones listed in
-`NEW-DOCUMENT-VIDEOS.md` and in the ep94 README (edge-tts pointed at `SSL_CERT_FILE`; a paragraph is retried up to four
+`README.md` (*Making one video*) and in the ep94 README (edge-tts pointed at `SSL_CERT_FILE`; a paragraph is retried up to four
 times when its audio is missing or cut short). The Drive `_engine` backup has no `package-lock.json` here, so
 `npm install` resolved Remotion 4.0.538. Fonts came from Google Fonts as static files (Cormorant Garamond 600,
 Source Sans 3 400) under the names the builder expects.
