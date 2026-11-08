@@ -8,14 +8,14 @@ read a script, source text or log in full when a search will do.
 
 | Task | Read |
 |---|---|
-| A new video for a bonus article or After Anatta page (the usual task) | `README.md` from the top to *Where the video specs live*, then `NEW-DOCUMENT-VIDEOS.md` and `tools/README.md` |
+| A new video for a bonus article or After Anatta page (the usual task) | `README.md` (all of it; about 10 KB) and `tools/README.md` |
 | Its drawings, voice, subtitles, checks | `VIDEO-SPEC.md`, only the section you need (`grep -n '^## ' VIDEO-SPEC.md`) |
 | An *Anatta to Emptiness* video | `anatta-to-emptiness/VIDEO-SPEC.md` (its stance rules replace the base list) |
 | A NotebookLM pack | `NOTEBOOKLM-VIDEOS.md` |
 | YouTube texts or uploads (server only) | `tools/publish/README.md` |
 | Audiobooks | `audiobook/prog-spec.md` (log in `audiobook/CHANGELOG.md`) |
 | Book 4 or MMK series | `observer-and-presence/README.md` or `mmk/README.md` |
-| The chapter-builder plugin | `ARCHITECTURE.md` |
+| The chapter-builder plugin (old Book 1 series) | `chapter-builder/README.md` and `chapter-builder/ARCHITECTURE.md` |
 
 ## Rules that always apply
 

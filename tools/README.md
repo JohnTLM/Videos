@@ -16,7 +16,7 @@ which is now the backup; this folder is the master copy of the tools.
 | `SETUP-AND-ARCHITECTURE.md` | The full guide from Drive: how the parts fit together and how to set up the owner's Windows computer |
 
 The main book (`ch` folders, `Ch` drawings) runs `build.py` here directly; the other series run their own
-`series/<name>/build.py`. Bonus articles follow their series (`NEW-DOCUMENT-VIDEOS.md`).
+`series/<name>/build.py`. Bonus articles follow their series (`README.md`, *Making one video*).
 
 ## Set up (once per machine)
 

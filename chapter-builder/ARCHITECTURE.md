@@ -85,7 +85,7 @@ videos/                              (this repo; also a plugin "marketplace")
 `mmk/` makes the 27 videos for *Nāgārjuna's Middle Way*. It does not use the spec or the plugin:
 `make_video.py` builds one chapter from `narration/<n>.json`, taking the verses and diagrams from
 the chapter page in the website repository (`thusness-website/mmk/mmk-<n>.html`, found next to
-this repository or through `THUSNESS_WEBSITE`). Details: [mmk/README.md](mmk/README.md).
+this repository or through `THUSNESS_WEBSITE`). Details: [mmk/README.md](../mmk/README.md).
 
 ### Where the videos are shown
 

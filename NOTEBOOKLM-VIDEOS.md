@@ -1,7 +1,7 @@
 # Bonus-article videos made with NotebookLM
 
 The second, optional version of a bonus-article video. **`build.py` is the main route** (owner's rule,
-2026-10-24): first build the `build.py` video (`NEW-DOCUMENT-VIDEOS.md`), and write these NotebookLM files only after
+2026-10-24): first build the `build.py` video (`README.md`, *Making one video*), and write these NotebookLM files only after
 the owner is satisfied with it. The owner may or may not then make the NotebookLM version. **There is no word
 limit** here: the 450–550-word script rule belongs only to `build.py`'s synthetic-voice drawing videos. The source
 covers the whole article.
