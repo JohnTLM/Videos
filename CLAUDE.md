@@ -8,7 +8,7 @@ read a script, source text or log in full when a search will do.
 
 | Task | Read |
 |---|---|
-| A new video for a bonus article or After Anatta page (the usual task) | `README.md` (all of it; about 10 KB) and `tools/README.md` |
+| A new video for a bonus article or After Anatta page (the usual task) | `README.md` (5 KB) and `tools/README.md` |
 | Its drawings, voice, subtitles, checks | `VIDEO-SPEC.md`, only the section you need (`grep -n '^## ' VIDEO-SPEC.md`) |
 | An *Anatta to Emptiness* video | `anatta-to-emptiness/VIDEO-SPEC.md` (its stance rules replace the base list) |
 | A NotebookLM pack | `NOTEBOOKLM-VIDEOS.md` |

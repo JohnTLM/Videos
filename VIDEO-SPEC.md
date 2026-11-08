@@ -16,7 +16,7 @@ to the audio (`.srt`, also burned in), and the video (`.mp4`) with a spoken titl
 
 Each video has a folder `<prefix>NN-<slug>/` (slug: the title in lowercase kebab-case, about 5 words at most) with
 `<prefix>NN-script.md`, the narration, `.mp3`, `.srt`, the `.mp4` and four check frames; `manifest.csv` has one row per
-video. The text files are saved in this repository (`README.md`, *Rule: save every video here*); the MP4 is not.
+video. The text files are saved in this repository (`README.md`, *Rules*); the MP4 is not.
 
 ## 3. Fixed settings
 
