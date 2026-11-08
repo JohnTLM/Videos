@@ -1,96 +1,44 @@
-# Publish tools: YouTube and Drive without manual uploads
+# Publish tools: YouTube and Drive from the owner's server
 
-These tools let Claude Code on the owner's Google Cloud server upload finished videos to YouTube (with title,
-description, chapters, tags and playlist) and copy files to Google Drive. They use a one-time Google sign-in, never a
-password. All of it is free.
+Claude Code on the owner's Google Cloud server uses these to put texts (title, description, chapters, tags) and
+playlists on YouTube videos and to copy files to Google Drive. One-time Google sign-in, no password; all free.
 
 | File | What it does |
 |---|---|
 | `google_login.py` | One-time sign-in. Saves a token that can manage the YouTube channel and Drive files |
-| `publish_youtube.py` | `upload` a video with its texts, `update` the texts of a video already up, `info` (title, privacy, length), list a `playlist` or all `playlists` |
+| `publish_youtube.py` | `upload` a video with its texts, `update` the texts of a video already up, `info` (title, privacy, length), `uploads` (recent uploads), list a `playlist` or all `playlists` |
 | `publish_drive.py` | Copy files into a Drive folder and check each one arrived whole (`--replace` trashes the old copy) |
 | `fix_site_links.py` | Point YouTube descriptions and `new-documents/**/youtube*.md` at atr-passerby.com instead of the old claude.ai site (`plan`, `apply`, `texts`) |
 | `gauth.py` | Shared sign-in code |
 | `requirements-publish.txt` | The Python packages |
+| `TASK-*.md` | Past jobs (After Anatta texts and playlists, 2026-10-28 on), with their video ids; done |
 
-**Where the secrets live.** The sign-in key (`client_secret.json`) and the token (`token.json`) go in
-`~/.config/thusness-publish/` on the server, readable only by its user. They are never put in this repository,
-never printed, never pasted into a chat. Not in `.env` either: the token is a file of its own.
+**Secrets.** `client_secret.json` (the sign-in key) and `token.json` live in `~/.config/thusness-publish/` on the
+server, readable only by its user. Never in this repository, never printed, never pasted into a chat, not in `.env`.
 
-## Setup (once)
-
-### Part A: the owner, in a browser (about 15 minutes)
-
-1. **Open the Google Cloud console** at https://console.cloud.google.com and pick the project that holds the server
-   (the one with `instance-20261026-235807`). A new project also works.
-2. **Turn on the two services.** Menu › *APIs & Services* › *Library*. Search **YouTube Data API v3**, open it, press
-   **Enable**. Then search **Google Drive API** and press **Enable**.
-3. **Set up the sign-in screen.** *APIs & Services* › *OAuth consent screen* (it may be called *Google Auth Platform* ›
-   *Branding*):
-   - User type **External**. App name, for example *Thusness publisher*. Your email as support and developer contact.
-   - Under *Audience*, add your own Google account (the one that owns the YouTube channel) as a **test user**.
-   - Then press **Publish app** (status *In production*). Without this the sign-in stops working every 7 days.
-     Google will say the app is unverified; that is fine for an app only you use.
-4. **Make the sign-in key.** *APIs & Services* › *Credentials* › **Create credentials** › **OAuth client ID**.
-   Application type **Desktop app**, any name. Press **Download JSON**. Do not send this file in a chat.
-5. **Put the key on the server.** On the server (the SSH window in the console works), run:
-
-   ```bash
-   mkdir -p ~/.config/thusness-publish && chmod 700 ~/.config/thusness-publish
-   nano ~/.config/thusness-publish/client_secret.json   # paste the downloaded file's contents, save with Ctrl+O, Ctrl+X
-   chmod 600 ~/.config/thusness-publish/client_secret.json
-   ```
-
-6. **Ask Google to allow Unlisted and Public uploads.** Until this is approved, every video the tool uploads is
-   locked to **Private** (Google's rule for new projects). Fill in the *YouTube API Services: Audit and Quota Extension
-   Form*: https://support.google.com/youtube/contact/yt_api_form. Say it is a personal tool that uploads the owner's
-   own videos to his own channel, a few a week, with title, description, tags and playlist. Approval usually takes days
-   to a few weeks. Until then use the tool with `--privacy private`, or keep uploading in YouTube Studio, and use
-   `update` to put the texts on (that works at once).
-
-   The daily limit is about 6 uploads; the same form can ask for more.
-
-### Part B: Claude Code on the server
-
-```bash
-cd ~/videos && git pull                      # this repository (clone it first if it is not there)
-python3 -m venv ~/.venvs/publish
-~/.venvs/publish/bin/pip install -r tools/publish/requirements-publish.txt
-~/.venvs/publish/bin/python tools/publish/google_login.py
-```
-
-`google_login.py` prints a link. The owner opens it on his own computer, signs in with the YouTube channel's account,
-passes the "unverified app" page (*Advanced* › *Go to … (unsafe)*), and allows. The browser then ends on a page that
-does not load (`http://localhost:1/?…`). That is expected: the owner copies that whole address back into the server
-window. The token is saved; nothing is printed.
-
-Check it works (lists the channel's playlists):
-
-```bash
-~/.venvs/publish/bin/python tools/publish/publish_youtube.py playlists
-```
-
-**Decision (owner, 2026-10-28): the Google approval form is given up** ("We have given up the Google approval form"); do not suggest it again. The approval form asks for a Terms of Service document, screenshots and a screen recording, too much for what it adds. So uploads stay in YouTube Studio (Unlisted, all files at once), and Claude Code on the server puts on the texts and the playlist with `update` (works without approval). `upload` would only give Private videos.
+**Uploads stay in YouTube Studio** (owner, 2026-10-28: Google's approval form is given up; do not suggest it again).
+Without it, `upload` gives only Private videos. The owner uploads in Studio (Unlisted); the server then runs `update`
+and adds the playlist, which work without approval. Comments: the API cannot turn them off; the owner does it in
+Studio (*Content*, tick the videos, *Edit › Comments › Off*). Never use "made for kids" for this.
 
 ## Use
 
 ```bash
 PY=~/.venvs/publish/bin/python
-# upload one video, unlisted, into a playlist
-$PY tools/publish/publish_youtube.py upload tools/series/after-anatta/aa13-the-limits-of-the-tools/aa13-the-limits-of-the-tools.mp4 \
-    --meta new-documents/after-anatta/aa13-youtube/youtube.md --privacy unlisted --playlist "The Logic After Anatta"
-
-# a YouTube file that holds several videos needs --entry N (the "## N." number)
-$PY tools/publish/publish_youtube.py upload aa01-two-logics.mp4 --meta new-documents/after-anatta/youtube-after-anatta.md --entry 2
-
-# put the texts on a video already uploaded in YouTube Studio
+# put the texts on a video already uploaded in YouTube Studio (--entry N = the "## N." heading, for a file of several)
 $PY tools/publish/publish_youtube.py update QA9yrHNx5To --meta new-documents/after-anatta/youtube-after-anatta.md --entry 2
 
-# find videos just uploaded in YouTube Studio (their titles are still the file names), with their lengths
-$PY tools/publish/publish_youtube.py uploads -n 20
+# upload one video into a playlist (Private only, see above)
+$PY tools/publish/publish_youtube.py upload tools/series/after-anatta/aa13-the-limits-of-the-tools/aa13-the-limits-of-the-tools.mp4 \
+    --meta new-documents/after-anatta/aa13-youtube/youtube.md --privacy private --playlist "The Logic After Anatta"
 
-# check a playlist's order
+# find videos just uploaded in Studio (titles are still the file names), with lengths; check ids and lengths
+$PY tools/publish/publish_youtube.py uploads -n 20
+$PY tools/publish/publish_youtube.py info <id> <id> ...
+
+# check a playlist's order; list all playlists
 $PY tools/publish/publish_youtube.py playlist "The Logic After Anatta"
+$PY tools/publish/publish_youtube.py playlists
 
 # copy files to Drive (folder id = the end of the folder's link); stays owner-only
 $PY tools/publish/publish_drive.py 1s9rc1vgGHRs635vN6mhs2KBkF_6Kmm67 file.mp4 --replace
@@ -103,29 +51,28 @@ The texts come from the usual YouTube Markdown files: headings *Title*, *Descrip
 on one line, comma-separated. The tool refuses texts over YouTube's limits (title 100, description 5,000, tags 500
 characters) and descriptions with `<` or `>`.
 
-## Second job: 14 more After Anatta videos (2026-10-28)
+## Setup (done; only if the sign-in is lost)
 
-`TASK-after-anatta-batch2-texts.md` in this folder: the videos the website still played from Drive, uploaded by the
-owner in YouTube Studio; texts in `new-documents/after-anatta/youtube-after-anatta-batch2.md`; all into the playlist
-Logic After Anatta. Comments are turned off by the owner in Studio (the API cannot).
+**The owner, in a browser** (about 15 minutes), at https://console.cloud.google.com, in the project that holds the
+server (`instance-20261026-235807`):
 
-## First job once set up
+1. *APIs & Services › Library*: enable **YouTube Data API v3** and **Google Drive API**.
+2. *OAuth consent screen* (or *Google Auth Platform › Branding*): user type **External**, any app name (e.g. *Thusness
+   publisher*), the owner's email as contacts; under *Audience* add the channel's Google account as a **test user**;
+   then **Publish app** (*In production*), or the sign-in stops working every 7 days. "Unverified" is fine.
+3. *Credentials › Create credentials › OAuth client ID*, type **Desktop app**; **Download JSON** (never in a chat).
+4. On the server: `mkdir -p ~/.config/thusness-publish && chmod 700 ~/.config/thusness-publish`, paste the file into
+   `~/.config/thusness-publish/client_secret.json` (`nano`), then `chmod 600` it.
 
-The full, step-by-step version for Claude Code on the server is `TASK-after-anatta-texts.md` in this folder.
-
-The ten After Anatta videos of 2026-10-28 were uploaded in YouTube Studio with no texts (their titles are the date).
-Put the texts on them, in the order of `new-documents/after-anatta/youtube-after-anatta.md`:
-
-```bash
-PY=~/.venvs/publish/bin/python; M=new-documents/after-anatta/youtube-after-anatta.md
-n=1; for id in wxhsA6xKIQM QA9yrHNx5To lLkWbd2MoRw LmlHbrwg1xk ERBH0_9vwVU F0P_kfwAloE BXINN2sg_Z0 HX7xwtsSYjs qn8SZaV1Akc 6BAD37Dk_lw; do
-  $PY tools/publish/publish_youtube.py update $id --meta $M --entry $n; n=$((n+1)); done
-$PY tools/publish/publish_youtube.py playlist "The Logic After Anatta"
-```
-
-Before running it, check that the ten links really are in that order (the owner sent them in a list; nobody could
-open YouTube to check). The lengths must read 7:12, 8:10, 8:42, 7:40, 8:28, 8:05, 8:04, 7:59, 7:34, 1:05:29:
+**Claude Code on the server:**
 
 ```bash
-$PY tools/publish/publish_youtube.py info wxhsA6xKIQM QA9yrHNx5To lLkWbd2MoRw LmlHbrwg1xk ERBH0_9vwVU F0P_kfwAloE BXINN2sg_Z0 HX7xwtsSYjs qn8SZaV1Akc 6BAD37Dk_lw
+cd ~/videos && git pull
+python3 -m venv ~/.venvs/publish
+~/.venvs/publish/bin/pip install -r tools/publish/requirements-publish.txt
+~/.venvs/publish/bin/python tools/publish/google_login.py
 ```
+
+`google_login.py` prints a link. The owner opens it, signs in with the channel's account, passes the "unverified app"
+page (*Advanced › Go to … (unsafe)*), and allows. The browser ends on a page that does not load
+(`http://localhost:1/?…`); the owner copies that whole address back into the server window. Check with `playlists`.

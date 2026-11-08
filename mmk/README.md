@@ -3,9 +3,8 @@
 The narrated videos for *Nāgārjuna's Middle Way* (the MMK), one per chapter, 27 in all.
 They play on the chapter pages of the Thusness website.
 
-Moved here from `thusness-website` (`scripts/mmk_video/`) on 2026-10-21, so all video-making lives in this
-repository. The chapter pages themselves stay in the website: each slide takes its verses and diagrams from the
-page (`thusness-website/mmk/mmk-<n>.html`), so the video always matches it.
+The chapter pages stay in the website: each slide takes its verses and diagrams from the page
+(`thusness-website/mmk/mmk-<n>.html`), so the video always matches it.
 
 | File | What it does |
 |---|---|
@@ -16,14 +15,8 @@ page (`thusness-website/mmk/mmk-<n>.html`), so the video always matches it.
 | `youtube_meta.py` | Writes the YouTube titles, descriptions (with timestamps) and tags |
 | `HANDOFF.md` | The 2026-10-19 note for the laptop session that made the Drive copies |
 
-When a new video is ready, its link is put on the website from the website repository
-(`scripts/mmk_set_video.py` there).
-
-On your computer, Google Drive is a drive letter (usually `G:`). Anything saved there goes to Drive by itself,
-whatever its size. So videos made on your computer can be saved straight into your Drive folder.
-(A cloud session cannot do this: it has no `G:` drive.)
-
-Everything here is free. The voice is edge-tts (Andrew); no paid AI is used.
+On your computer Google Drive is a drive letter (usually `G:`), so videos made there go straight into Drive. (A cloud
+session has no `G:` drive.) Everything here is free (edge-tts, Andrew).
 
 ## One-time setup (about 15 minutes)
 
@@ -84,7 +77,7 @@ timestamps) and tags to `youtube.json` in your Drive folder (`youtube_meta.py`, 
    `--no-verses` leaves out the verse reading; `--only-slides` just draws the slides (no voice, a quick check).
 3. In a Claude cloud session, edge-tts needs the proxy's certificate `/root/.ccr/ca-bundle.crt`; the script sets it.
 4. The owner puts the MP4s in Drive or on YouTube. The website repository then adds the links
-   (`scripts/mmk_set_video.py` there; see its `prog-spec.md`, section 8).
+   (`scripts/mmk_set_video.py` there; its `prog-spec.md`, section 8).
 
 Running `make_video.py` or `youtube_meta.py` by hand: they find the website next to this repository
 (`..\thusness-website`), or in the folder named by the `THUSNESS_WEBSITE` environment variable.

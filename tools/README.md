@@ -1,46 +1,34 @@
 # Video tools
 
-Everything needed to make a narrated video (Andrew's voice, subtitles, Remotion drawings) lives here, so a session
-only has to clone this repository. Added 2026-10-25 from the owner's Drive copy (`Substrateless-World/Videos/`),
-which is now the backup; this folder is the master copy of the tools.
+Everything needed to make a narrated video (Andrew's voice, subtitles, Remotion drawings). This folder is the master
+copy; the owner's Drive copy (`Substrateless-World/Videos/`) is the backup.
 
 | Path | What it is |
 |---|---|
 | `build.py` | The builder: script → voice (free edge-tts) → subtitles → spoken title → drawings → MP4 → check frames |
 | `pronunciation.json` | The shared pronunciation map (each series adds its own on top) |
 | `assets/` | Background image and the title and subtitle fonts |
-| `explainer/` | The drawing engine (Remotion): `package.json`, `package-lock.json`, `src/lib.tsx`, `src/Root.tsx`, `src/Chapter.tsx`, `public/fonts/`, and every video's drawings in `src/chapters/` (`ChNN` main book, `AENN` Anatta to Emptiness, `OBNN` Book 4) |
-| `series/<name>/` | One folder per series: a small `build.py` that runs the builder for that series, `series.json` (drawing prefix, folder prefix, spoken word) and the series' `pronunciation.json` |
-| `publish/` | Upload finished videos to YouTube and copy files to Drive from the owner's server, after a one-time Google sign-in (`publish/README.md`) |
+| `explainer/` | The drawing engine (Remotion): `src/lib.tsx` (shared parts), `src/Root.tsx`, `src/Chapter.tsx`, `public/fonts/`, and every video's drawings in `src/chapters/` (`ChNN` main book, `AENN` Anatta to Emptiness, `OBNN` Book 4, `AANN` After Anatta) |
+| `series/<name>/` | Per series: a small `build.py` that runs the builder, `series.json` (drawing prefix, folder prefix, spoken title word, minimum words) and its `pronunciation.json` |
+| `publish/` | YouTube and Drive tools for the owner's server (`publish/README.md`) |
 | `requirements-video.txt` | Python packages (edge-tts **7.3.1**: older versions no longer reach the voice service) |
-| `SETUP-AND-ARCHITECTURE.md` | The full guide from Drive: how the parts fit together and how to set up the owner's Windows computer |
+| `SETUP-AND-ARCHITECTURE.md` | How the parts fit together and how to set up the owner's Windows computer |
 
 The main book (`ch` folders, `Ch` drawings) runs `build.py` here directly; the other series run their own
-`series/<name>/build.py`. Bonus articles follow their series (`README.md`, *Making one video*).
+`series/<name>/build.py`. Bonus articles follow their series.
 
-## Set up (once per machine)
+## Set up and build
 
-```bash
-pip install -r tools/requirements-video.txt
-cd tools/explainer && npm ci
-```
+Once per machine: `pip install -r tools/requirements-video.txt` and `npm ci` in `tools/explainer`; you also need
+`ffmpeg` (Windows: `SETUP-AND-ARCHITECTURE.md`).
 
-You also need `ffmpeg`. On the owner's Windows computer see `SETUP-AND-ARCHITECTURE.md`. In a Claude cloud session
-`ffmpeg` and a headless Chromium are already installed, and the network must allow `speech.platform.bing.com`.
-
-**On the owner's server** (`instance-20261026-235807`, Debian 13, set up 2026-10-28; where videos are built since
-then, `README.md`): `ffmpeg` 7.1, `pandoc`, Node 20 and the Noto/DejaVu fonts from apt; Python packages in
-`~/.venvs/build` (this file's requirements plus `markdown-it-py`, `beautifulsoup4`, `lxml`, `pymupdf`, `playwright`
-for the EBooks builders); `npm ci` done in `tools/explainer` and its headless shell fetched with
-`npx remotion browser ensure`. Run builds with `~/.venvs/build/bin/python`, then upload with
-`~/.venvs/publish/bin/python tools/publish/publish_drive.py <Drive folder id> <files>`. Disk 40 GB.
-
-## Make a video
-
-1. Put the approved script in a new folder: for the Anatta series `tools/series/anatta-to-emptiness/ep94-<slug>/ep94-script.md`,
-   for Book 4 `tools/series/observer-and-presence/obNN-<slug>/`, for the main book `tools/chNN-<slug>/`.
+1. Put the approved script in a build folder: `tools/series/<name>/<prefix>NN-<slug>/` (e.g.
+   `anatta-to-emptiness/ep94-<slug>/ep94-script.md`, `after-anatta/aa13-<slug>/`, `observer-and-presence/obNN-<slug>/`);
+   main book `tools/chNN-<slug>/`.
 2. Put the drawings in `tools/explainer/src/chapters/<PREFIX>NN.tsx`.
-3. Run the series' `build.py` with `--chapter NN`. On Windows that is all. In a cloud session add:
+3. Run the series' `build.py --chapter NN`. On Windows that is all. In a **cloud session** (ffmpeg and a headless
+   Chromium are installed; the network must allow `speech.platform.bing.com`; Remotion needs the headless shell, not
+   full Chromium):
 
    ```bash
    TTS_PROXY="$HTTPS_PROXY" SSL_CERT_FILE=/root/.ccr/ca-bundle.crt \
@@ -48,23 +36,26 @@ for the EBooks builders); `npm ci` done in `tools/explainer` and its headless sh
    python tools/series/observer-and-presence/build.py --chapter 20
    ```
 
-4. Check the frames and the subtitles. Then follow the saving rule (`README.md` at the top of this repository):
-   copy the text files (script, narration, `.srt`, `*-scenes.tsx`) into the series' folder here, commit the new
-   drawings in `tools/explainer/src/chapters/`, and give the MP4s to the owner for Drive.
+   Rendering takes roughly 3–4 minutes per minute of video.
+4. Check the frames and subtitles, then copy the text files (script, narration, `.srt`, `*-scenes.tsx`) to their
+   folder here (`CLAUDE.md`) and commit the new drawings.
 
-Build output (MP4, MP3, WAV, the `_work` folders and `node_modules`) is ignored by git (`tools/.gitignore`).
+Build output (MP4, MP3, WAV, `_work` folders, `node_modules`) is ignored by git (`tools/.gitignore`).
 
-## Differences from the Drive copy
+## The owner's server
 
-The Drive `build.py` is the same builder with these small changes, which keep it working on Windows unchanged:
+`instance-20261026-235807`, Debian 13, 40 GB. Videos are not built there (`CLAUDE.md`), but it has the same tools for
+the EBooks builders and publishing: `ffmpeg` 7.1, `pandoc`, Node 20, Noto/DejaVu fonts; Python packages in
+`~/.venvs/build` (this file's requirements plus `markdown-it-py`, `beautifulsoup4`, `lxml`, `pymupdf`, `playwright`);
+`npm ci` done in `tools/explainer` with its headless shell (`npx remotion browser ensure`). Run with
+`~/.venvs/build/bin/python`; Drive uploads with `~/.venvs/publish/bin/python tools/publish/publish_drive.py`.
 
-- `REMOTION_DIR` if set; otherwise `tools/explainer` here; otherwise `C:\dev\video-tools\explainer`.
-- `npx` on Linux (`npx.cmd` on Windows); `--browser-executable` from `REMOTION_BROWSER`; the voice service's proxy
-  from `TTS_PROXY`.
+## How `build.py` finds things
+
+- Engine: `REMOTION_DIR` if set, else `tools/explainer`, else `C:\dev\video-tools\explainer`. Browser:
+  `REMOTION_BROWSER`. Voice proxy: `TTS_PROXY`. `ffmpeg` from the PATH first (else Windows `LOCALAPPDATA`); `npx`
+  (`npx.cmd` on Windows). It skips the Drive layout's "copy the engine to Drive" step when using this copy.
 - Each paragraph's speech and the spoken title are retried up to four times (the free service sometimes returns no
   audio or drops a word).
-- The "copy the engine to Drive" step is skipped when the engine is this repository's copy.
-- `ffmpeg` is looked for on the PATH first, so Linux works without Windows' `LOCALAPPDATA`.
-
-The series `build.py` files look for the builder here first and fall back to the Drive layout
-(`<root>/Substrateless-World/Videos/build.py`).
+- Series `build.py` files look for `tools/build.py` first, then the Drive layout
+  (`<root>/Substrateless-World/Videos/build.py`).

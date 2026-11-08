@@ -210,3 +210,4 @@ it in full.
 
   The dated log is in `CHANGELOG.md` in this folder (since 2026-11-08). Add new entries there, not here.
 - 2026-11-08 (owner: "Relax the check for Jenny"): `make_audiobook.py` `WPM_MIN` 140 → 120. Of the 34 files flagged on 2026-11-07, 32 now pass; `01-pathway` (87) and `29-ob-c` (111) still show as slow and are complete. No recording changed.
+- 2026-11-09: `prog-spec.md` section 2 now points to the repository rules in `CLAUDE.md` instead of repeating them, and owner quotes are shortened (the full quotes are in the entries above). No rule changed.
