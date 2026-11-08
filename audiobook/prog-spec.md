@@ -1,8 +1,7 @@
 # Audiobooks: spec for Claude sessions
 
 Read-aloud MP3s of the books and articles, one per chapter or page, in a free voice. Website, ebook and video work are
-**out of scope**. This file says how things work now; the dated history is in `CHANGELOG.md` (search it). Shortened on
-2026-11-08; the earlier spec is kept word for word at the end of `CHANGELOG.md`.
+**out of scope**. This file says how things work now; the history and the earlier spec are in `CHANGELOG.md` (search it).
 
 ## 1. What exists
 
@@ -11,7 +10,7 @@ Read-aloud MP3s of the books and articles, one per chapter or page, in a free vo
   Explorations, Zoom-ins, the Canon View, the bonus articles (the Library page). In Drive: `My-Book › Ebooks for readers
   › voices for ebooks and articles` (`1T-8zbX_6H8DxfsXcBT3GyKAnyFgP8rP_`), private to the owner and the invited readers,
   with `voice_manifest.json` and `AUDIO_CHANGELOG.md`.
-- **Not on the website** (owner, 2026-11-07: "eliminate the Redbox"): the narration card was taken off the site.
+- **Not on the website** (owner, 2026-11-07): the narration card was taken off the site.
 - **Three ways to record:**
   1. **The server pipeline** (section 5): re-records only what changed, after the site's text changes.
   2. **The owner's own computer:** `local/thusness_voice_pdf.py`, a window that reads a PDF (for example from
@@ -24,10 +23,9 @@ Read-aloud MP3s of the books and articles, one per chapter or page, in a free vo
 
 ## 2. Rules from the owner (always apply)
 
-- **Plain language** with the owner: short sentences, no jargon, one clear next step. Times in SGT.
-- **Free voices only** (edge-tts). Never a paid voice or AI service without asking first, with a cost estimate.
-- **Never print, upload or commit API keys or credentials.**
-- **Push and merge without asking** (owner, 2026-10-29); tell the owner afterwards what went in.
+The repository rules in `CLAUDE.md` apply (free voices only, ask before spending, no keys, plain language, SGT, push
+and merge without asking, then tell the owner what went in). Also:
+
 - **Ask before anything outward-facing or hard to undo:** changing Drive sharing, moving or trashing Drive files,
   putting audio on YouTube or the website. The MP3s stay private (owner and invited readers only).
 - **Do not change the text.** The MP3s read the books as published. Spoken-form tidying is allowed (section 4), no
@@ -40,8 +38,7 @@ Read-aloud MP3s of the books and articles, one per chapter or page, in a free vo
 
 - **Jenny, `en-US-JennyNeural`, at its own speed (`+0%`)** (owner, 2026-11-07), the default in `make_audiobook.py`.
   About 140–150 words a minute with the pauses.
-- The speed check passes a whole file at **120–185 words a minute** (owner, 2026-11-08: "Relax the check for Jenny";
-  it was 140, set for Andrew). Of the 142 files only Zoom-in `01-pathway` (87, mostly short lines) and Book 4 `29-ob-c`
+- The speed check passes a whole file at **120–185 words a minute** (owner, 2026-11-08). Of the 142 files only Zoom-in `01-pathway` (87, mostly short lines) and Book 4 `29-ob-c`
   (111) still fall below; they are complete, and a low rate there means more pauses, not lost words.
 - Other free voices the owner heard (14 samples, 2026-10-30) are listed in `CHANGELOG.md`.
 
@@ -70,8 +67,7 @@ file `text/<set>/<same name>.txt`, by these rules (change the script, not the te
 - **Also left out:** the Explorations "Zoom in" box and "Last updated" line, the Canon View's source lists and Part III,
   and the MMK's Sanskrit verse lines (the English translation is read).
 - **Files not recorded:** Book 1 `20-sw-references`, Book 4 `27-ob-a` (verse index) and `30-ob-d` (references), and
-  the glossaries Book 1 `19-sw-glossary` and Book 4 `28-ob-b` (owner, 2026-11-07: "Leave the glossaries out"; never pass
-  `--glossaries`).
+  the glossaries Book 1 `19-sw-glossary` and Book 4 `28-ob-b` (owner, 2026-11-07; never pass `--glossaries`).
 
 ## 5. Re-recording after the site changes (server)
 
