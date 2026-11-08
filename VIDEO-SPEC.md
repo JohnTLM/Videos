@@ -34,7 +34,8 @@ video. The text files are saved in this repository (`README.md`, *Rules*); the M
 ### 3.1 Bonus-article videos (owner's rules, 2026-10-24)
 
 - **`build.py` video first.** Only after the owner is satisfied with it does Claude write the NotebookLM files
-  (`NOTEBOOKLM-VIDEOS.md`), named `<article-slug>-notebooklm-source.md` and `<article-slug>-notebooklm-prompt.md`.
+  (`NOTEBOOKLM-VIDEOS.md`), named `<article-slug>-notebooklm-instructions.md` and `<article-slug>-notebooklm-sources.md` and saved in EBooks
+  `Bonus Articles/<slug>/drive/` (owner, 2026-11-08).
 - **Length.** 10–12 minutes, longer when the article is rich: cover the whole argument rather than cut it to fit.
   `manifest.csv` marks a long script "check"; for a bonus video that is expected.
 - The script is written for the ear (§4) and needs the owner's approval before the drawings are made.

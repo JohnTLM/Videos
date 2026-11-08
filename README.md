@@ -36,8 +36,8 @@ Other sessions check with the orchestrating cloud session first, so no video is 
 - **No Drive copy of a new video** (owner, 2026-10-30): YouTube keeps it. If the owner wants one in Drive, they share
   it into Drive `Inbox` and the server files it.
 - **Save every video here** (owner, 2026-10-21): the approved script, narration text, drawings (`*-scenes.tsx`),
-  subtitles (`.srt`), YouTube texts, series settings when they change, a short README for a new video, and the
-  NotebookLM files once written. Commit, push and merge (standing OK, 2026-10-29). Never the MP4s.
+  subtitles (`.srt`), YouTube texts, series settings when they change, and a short README for a new video. (The
+  NotebookLM files are saved in EBooks: `NOTEBOOKLM-VIDEOS.md`.) Commit, push and merge (standing OK, 2026-10-29). Never the MP4s.
 
 ## Making one video
 
