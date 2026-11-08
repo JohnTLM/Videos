@@ -57,7 +57,7 @@ replaces the same files; nothing to delete. A pack for a whole topic follows the
    worked example is the template. If the next sentence starts before its shot does, hold that shot's first frame
    (`tpad`) rather than show the removed shot. Check every join: transcribe across it and look at frames on both
    sides.
-5. **YouTube.** Write a title, a description with chapters (each checked against the cut video's audio; YouTube
+5. **YouTube.** Write a title (**never "NotebookLM" in the title**; the title says what the video is about, e.g. *Inner Winds and Subtle Body Practices*; owner, 2026-11-08: "In future, don't put notebooklm in the title. The title conveys the content." The description may say it was made with NotebookLM), a description with chapters (each checked against the cut video's audio; YouTube
    needs each chapter to be at least 10 s), tags within 500 characters, and a 1280×720 thumbnail. The thumbnail
    uses a frame from the video beside a dark panel: Cormorant Garamond title in `#ece7da`, Source Sans 3 kicker in
    `#b9b4a6`.
