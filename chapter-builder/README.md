@@ -1,6 +1,8 @@
 # chapter-builder
 
-A Claude Code mod for the *Substrateless World* video series (see `VIDEO-SPEC.md`).
+A Claude Code mod for the *Substrateless World* video series. It was written for the original spec, now kept here as
+`VIDEO-SPEC-original.md` (since 2026-11-08 the main `VIDEO-SPEC.md` is the shorter version for every series). Where
+this page says to copy `VIDEO-SPEC.md` into the `Videos` folder, copy `VIDEO-SPEC-original.md` under that name.
 
 It adds a **▶ Build Next Chapter** button above the prompt (hotkey `n` once the band has focus; also `/next-chapter`):
 
@@ -42,7 +44,7 @@ Claude Code does the work. It follows a written spec. A small plugin adds a
 **▶ Build Next Chapter** button so you can build one chapter at a time and watch its progress.
 
 - [ARCHITECTURE.md](ARCHITECTURE.md): how the parts fit together
-- [VIDEO-SPEC.md](../VIDEO-SPEC.md): the full instructions Claude follows
+- [VIDEO-SPEC-original.md](VIDEO-SPEC-original.md): the full instructions the plugin was written for
 - 
 Readers watch the finished videos, and read each chapter, on the Thusness website. This repository
 used to hold a second, small book website (`site/`); it was removed on 2026-10-21 because the

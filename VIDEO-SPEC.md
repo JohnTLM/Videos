@@ -1,95 +1,43 @@
-# Video Series Spec — *The Logical Necessity of a Substrateless World*
+# Video spec: rules for every narrated video
 
-Instructions for Claude Code. Produce one short narrated video per chapter of the book, in the style of a calm documentary.
-
-Work **one chapter at a time**. Build **Chapter 1 first as a pilot and stop for review** before batching the rest.
-
----
+The base spec for every series (the *Substrateless World* chapters, bonus articles, After Anatta). A series with its
+own spec adds to it (for *Anatta to Emptiness*, `anatta-to-emptiness/VIDEO-SPEC.md` replaces the stance list in §4).
+**`tools/build.py` does all the mechanics** (voice, subtitles, title card, drawings, assembly, check frames) with the
+settings below; a session writes the script and the drawings and checks the result. The steps for one video are in
+`README.md`, *Making one video*. Shortened on 2026-11-08; the original spec, with the manual ffmpeg steps, the Windows
+folder layout and the pilot workflow of the first series, is `chapter-builder/VIDEO-SPEC-original.md`.
 
 ## 1. Goal
 
-For each chapter, produce:
+A calm, documentary-style narrated video: a script (`.md`), its narration (`.mp3`, Andrew's voice), subtitles timed
+to the audio (`.srt`, also burned in), and the video (`.mp4`) with a spoken title and animated drawings.
 
-1. A **narration script** (`.md`): a condensed retelling of the chapter's core argument
-2. **Narration audio** (`.mp3`): a calm, human-like male voice
-3. **Subtitles** (`.srt`): timed to the audio
-4. **Video** (`.mp4`): a title card, then narration over a quiet background with burned-in subtitles
+## 2. Where files go
 
-Order per chapter: **MD → MP3 → SRT → MP4.** The SRT is generated from the audio so that the timings match what is actually spoken.
-
----
-
-## 2. Locations
-
-- **Book root:** `G:\My Drive\Avatar-brain\My-Book\New Book\Book-1-complete\Substrateless-World\`
-  - Use the latest complete manuscript in this folder.
-  - Ignore `_Archive/` and the other book folders (`Anatta-to-Emptiness/`, `Companion-Essays/`).
-  - If more than one candidate manuscript exists, list them and ask which one to use.
-- **Output root:** `...\Substrateless-World\Videos\`
-
-```
-Videos/
-  VIDEO-SPEC.md            ← this file (the working copy; see below)
-  chapters.json            ← every chapter's number and title (written at setup, §10)
-  PILOT-APPROVED           ← created by the user once the pilot is approved (§10)
-  pronunciation.json       ← word → spoken-form map (see §5)
-  assets/
-    fonts/                 ← title + subtitle fonts
-    background.png         ← generated once, reused (see §7)
-    music.mp3              ← OPTIONAL ambient bed; only used if present
-  ch01-<slug>/
-    ch01-script.md
-    ch01-narration.txt     ← plain text sent to TTS (generated from the .md)
-    ch01-narration.mp3
-    ch01.srt
-    ch01-title.png
-    ch01-<slug>.mp4
-    ch01-frame-0002.png    ← check frames (see §9)
-    ch01-frame-0030.png
-    ch01-frame-0200.png
-    ch01-frame-end.png
-  ch02-<slug>/
-  ...
-  manifest.csv             ← one row per chapter: number, title, words, duration, status
-```
-
-`<slug>` is the chapter title in lowercase kebab-case, at most about 5 words (e.g. `ch01-the-coldness-of-ice`).
-
-The copy of this file in `Videos/` is the **working copy**: read it from there, and write the user's feedback into it (§10). The copy in the git repo is the master; the user copies changes back to it.
-
-Creating folders and files is fine without asking. **Never delete or overwrite** anything outside `Videos/`.
-
----
+Each video has a folder `<prefix>NN-<slug>/` (slug: the title in lowercase kebab-case, about 5 words at most) with
+`<prefix>NN-script.md`, the narration, `.mp3`, `.srt`, the `.mp4` and four check frames; `manifest.csv` has one row per
+video. The text files are saved in this repository (`README.md`, *Rule: save every video here*); the MP4 is not.
 
 ## 3. Fixed settings
 
 | Setting | Value |
 |---|---|
-| Episode length | **3:00–4:30** of narration: aim for 3–4 min, with up to 30 s over allowed (about **450–550 words** of script) |
-| Bonus-article length | **10–12 min**, longer when the article is rich (about 1,800–2,000 words or more); see §3.1 |
-| Voice | `edge-tts`, voice `en-US-AndrewNeural`, `--rate=-8%`, `--pitch=-2Hz` |
-| Alternate voice (if asked) | `en-GB-RyanNeural` |
-| Resolution / fps | 1920×1080, 30 fps |
-| Video codec | H.264 (`libx264`), `-crf 20`, `-preset medium`, `-pix_fmt yuv420p` |
-| Audio | AAC 192 kbps, 48 kHz, loudness normalised to **-16 LUFS** |
-| Title card | 5 s, at the start, silent, fade in 1 s / fade out 1 s |
-| Subtitles | Burned in; also keep the `.srt` beside the video |
-| Tail | 2 s of background after narration ends, then a 1.5 s fade to black |
+| Chapter length | **3:00–4:30** of narration (about **450–550 words**) |
+| Bonus-article length | **10–12 min**, longer when the article is rich (about 1,800–2,000 words or more); §3.1 |
+| Voice | edge-tts `en-US-AndrewNeural`, `--rate=-8%`, `--pitch=-2Hz` (free) |
+| Picture | 1920×1080, 30 fps, H.264 `-crf 20` |
+| Audio | AAC 192 kbps, 48 kHz, -16 LUFS |
+| Opening | title card with the spoken "Chapter N. Title." (§7) |
+| Subtitles | burned in, at most 2 lines of 42 characters, 1.2–6 s per cue; the `.srt` kept beside the video |
+| End | 2 s of background after the narration, then a 1.5 s fade to black |
 
 ### 3.1 Bonus-article videos (owner's rules, 2026-10-24)
 
-- **Two versions, `build.py` first.** Every new bonus article gets a `build.py` video first (this spec: Andrew's
-  voice, subtitles, Remotion drawings). `build.py` is the main route. Only after the owner is satisfied with it does
-  Claude write the NotebookLM source and prompt (`NOTEBOOKLM-VIDEOS.md`); the owner may or may not make that version.
-- **Length.** Aim for 10–12 minutes, and run longer when the article is rich. The 450–550-word limit is for chapter
-  episodes only. Quality of content comes first: cover the whole argument rather than cut it to fit. A longer
-  script is marked "check" in `manifest.csv`; for a bonus video that is expected, not a fault.
-- The script is still written for the ear (§4) and still needs the owner's approval before the drawings are made.
-- **NotebookLM file names carry the article's name** (2026-10-25): `<article-slug>-notebooklm-source.md` and
-  `<article-slug>-notebooklm-prompt.md`, with the slug in lowercase kebab-case, e.g.
-  `the-illusion-of-the-given-notebooklm-source.md`.
-
----
+- **`build.py` video first.** Only after the owner is satisfied with it does Claude write the NotebookLM files
+  (`NOTEBOOKLM-VIDEOS.md`), named `<article-slug>-notebooklm-source.md` and `<article-slug>-notebooklm-prompt.md`.
+- **Length.** 10–12 minutes, longer when the article is rich: cover the whole argument rather than cut it to fit.
+  `manifest.csv` marks a long script "check"; for a bonus video that is expected.
+- The script is written for the ear (§4) and needs the owner's approval before the drawings are made.
 
 ## 4. Script writing (`chNN-script.md`)
 
@@ -135,197 +83,67 @@ The script condenses the chapter. It must not drift from the book's position:
 
 When a chapter is too dense to condense, keep its **single main argument** and drop secondary points. Do not add claims that are not in the chapter.
 
----
+## 5. Pronunciation
 
-## 5. Pronunciation (`pronunciation.json`)
-
-The TTS will mispronounce Sanskrit, Pali, Tibetan, and Japanese terms. Keep a shared map from each display spelling to a phonetic spoken form, for example:
-
-```json
-{
-  "śūnyatā": "shoonya-tah",
-  "Śūnyatā": "Shoonya-tah",
-  "Madhyamaka": "Mahd-yah-mah-kah",
-  "Prāsaṅgika": "Prah-sahng-gee-kah",
-  "svabhāva": "svah-bhah-vah",
-  "anattā": "ah-nah-tah",
-  "pratītyasamutpāda": "prah-teet-yah-sah-moot-pah-dah",
-  "Nāgārjuna": "Nah-gar-joo-nah",
-  "Dzogchen": "Zog-chen",
-  "Dōgen": "Doh-gen"
-}
-```
-
-The process:
-
-1. Build `chNN-narration.txt` from the script body, replacing each display term with its spoken form.
-2. After the SRT is generated, **reverse the substitution in the SRT**, so the subtitles show the correct spelling with diacritics.
-3. Whenever a new term appears in a chapter, add it to the map, and mention it in the chapter summary so the user can check how it sounds.
-
----
+The voice mispronounces Sanskrit, Pali, Tibetan and Japanese terms. `tools/pronunciation.json` (shared) and the
+series' own `pronunciation.json` map each spelling to a spoken form (`"śūnyatā": "shoonya-tah"`). `build.py` speaks
+the spoken form and puts the right spelling back in the subtitles. When a new term appears, add it to the map and tell
+the owner, who checks how it sounds.
 
 ## 6. Audio and subtitles
 
-### Install (first run only)
-
-```
-pip install edge-tts pillow
-winget install Gyan.FFmpeg      # or confirm `ffmpeg -version` already works
-```
-
-### Generate
-
-```
-edge-tts --voice en-US-AndrewNeural --rate=-8% --pitch=-2Hz ^
-  -f chNN-narration.txt ^
-  --write-media chNN-raw.mp3 ^
-  --write-subtitles chNN-raw.srt
-```
-
-- If this edge-tts version writes `.vtt` instead of `.srt`, convert it with `ffmpeg -i in.vtt out.srt`.
-- Normalise the loudness and save the result as `chNN-narration.mp3`:
-  `ffmpeg -i chNN-raw.mp3 -af loudnorm=I=-16:TP=-1.5:LRA=11 -ar 48000 chNN-narration.mp3`
-
-### Clean up the SRT → `chNN.srt`
-
-- Reverse the pronunciation substitutions (§5).
-- Make each cue at most **2 lines** and at most **42 characters per line**, breaking at natural phrase boundaries.
-- Keep each cue between **1.2 and 6 seconds** long. If a cue is too long, split it at a phrase boundary, dividing its time span in proportion to the characters on each side.
-- Do not let cues overlap. Leave a gap of at least 80 ms between cues.
-- **Shift every cue by +5.0 s** to account for the title card.
-- Write the file as UTF-8 so the diacritics survive.
-
----
+Made by `build.py` from the script (§3 settings): one paragraph at a time (it pauses at paragraph breaks), loudness
+normalised, subtitles timed from the audio. The voice is cached, so a rebuild after a drawing change is quick.
 
 ## 7. Visuals
 
-### Background (`assets/background.png`, generate once)
-
-Generate this with Pillow at 2120×1192 (oversized to allow a slow drift):
-
-- A deep, near-black indigo-to-charcoal radial gradient (centre around `#1b1d2b`, edges around `#07080c`)
-- Very faint film grain, at about 2% noise
-- A soft vignette
-- No text, symbols, or religious imagery
-
-In the video, animate it with a very slow drift or zoom using `zoompan`, from about 1.00 to 1.06 over the whole episode, so the frame is never perfectly static.
-
-### Fonts (`assets/fonts/`)
-
-- **Title:** Cormorant Garamond (SemiBold) or EB Garamond, from Google Fonts. If neither can be downloaded, fall back to Georgia (`C:\Windows\Fonts\georgia.ttf`).
-- **Subtitles:** Source Sans 3 or Inter (Regular). Fall back to Segoe UI.
-
-### Title card (`chNN-title.png`, 1920×1080)
-
-Use the same background, then add:
-
-- **"CHAPTER N"** in the title font, about 34 px, letter-spaced (tracking about 0.35 em), colour `#b9b4a6`, centred, placed a little above the middle
-- A thin horizontal rule, 120 px wide and 1 px thick, colour `#6f6a5e`, centred below it
-- **The chapter title** in the title font, about 76 px, colour `#ece7da`, centred, wrapping to a maximum of 2 lines within 1500 px
-- Use the chapter number as written in the manuscript. Convert it to a word only if the manuscript does so.
-
-### Switches in each script (front matter of `chNN-script.md`)
-
-Two settings can be changed per chapter, at the top of its script file, before rebuilding it:
+### Switches (front matter of the script)
 
 ```markdown
 ---
-chapter: 1
+chapter: 1          (or: bonus)
 title: "The Substantialist Misconception"
-source_words: 1805
-script_words: 543
-intro: yes        ← yes: start with the title card and the spoken "Chapter N. Title."
-                     no:  start straight with the narration and drawings (no number, no title)
-voice: male       ← male:   Andrew, warm and confident (en-US-AndrewNeural, the voice of the pilot)
-                     female: Ava, expressive and caring (en-US-AvaMultilingualNeural)
-                     or any exact edge-tts voice name, e.g. en-GB-RyanNeural
+intro: yes          yes = title card and spoken "Chapter N. Title."; no = straight into the narration
+voice: male         male = Andrew (en-US-AndrewNeural); female = Ava (en-US-AvaMultilingualNeural); or an exact edge-tts name
 ---
 ```
 
-(Write only the value, e.g. `intro: no`, without the arrows and notes.) Missing settings mean
-`intro: yes` and `voice: male`. Changing the voice re-records the narration and spoken title on the
-next build. Changing `intro` only re-renders the picture. The male and female voices are the most
-natural-sounding "conversation" voices in the free edge-tts service; `build.py` (`VOICES`) holds
-their speed and pitch.
+Missing settings mean `intro: yes` and `voice: male`. Changing the voice re-records the narration; changing `intro`
+only re-renders the picture.
 
-Rebuild one chapter after a change: `C:\dev\video-tools\.venv\Scripts\python build.py --chapter N`
+### Drawings (Remotion; owner's choice, October 2026)
 
-### Spoken opening (user rule)
+The video is never plain narration: animated drawings explain what is said, **as a teacher explains to a student at a
+board**. Each video has `tools/explainer/src/chapters/<PREFIX>NN.tsx` (registered in `src/Chapter.tsx`): a `PHRASES`
+list copied word for word from the script in order, and a `Body` of scenes; shared parts are in `src/lib.tsx`.
+`build.py` copies it beside the video as `<prefix>NN-scenes.tsx`.
 
-By default (`intro: yes`), every video **starts with the narrator clearly saying the chapter number and title**
-("Chapter 1. The Substantialist Misconception.") over the title card. `build.py` records this line
-separately (`chNN-intro.mp3`) and lengthens the title card if needed (at least 5 s).
-
-### Style chosen: Remotion (user choice after style samples, Oct 2026)
-
-The drawings are made with Remotion (free, local): a living colour background, floating lights,
-glow, 3D objects, words revealed letter by letter. Project: `C:\dev\video-tools\explainer`
-(`src/lib.tsx` shared parts, `src/chapters/ChNN.tsx` per chapter: a `PHRASES` list in narration
-order plus a `Body`; register it in `src/Chapter.tsx`). `build.py` uses Remotion whenever
-`ChNN.tsx` exists, and copies it beside the video as `chNN-scenes.tsx`. The Manim notes below are
-the earlier approach and still apply in spirit (teacher style, stance, layout).
-
-### Explainer drawings (added after the Chapter 1 pilot, user feedback)
-
-The video must not be plain narration. Animated drawings illustrate what is being said,
-**as if a teacher is explaining to a student at a board**:
-
-- Each chapter has `chNN-scenes.py` (Manim), built on the shared `Videos/explainer.py`.
-  `build.py` renders it transparent and lays it over the drifting background.
-- Every drawing is timed to the narration: `self.go("phrase", ...)` waits for the narrator to
-  reach that phrase. Lines draw themselves (`Create`), words appear as if written (`Write`).
-- Draw the chapter's own examples (phone, ice, room, river, traveller...) and simple diagrams
-  of the argument (things and relations, co-designation, framework). One idea on the board at a time;
-  clear the board between ideas.
-- Stance (§4) applies to pictures too: never draw relation, process or awareness as a ground or
-  base layer. Show a "ground" only to remove it.
-- Keep drawings above y = −2.1 (Manim units) so they never sit under the subtitles.
-- Palette: chalk `#ECE7DA`, dim `#8A8475`, gold `#C9B37E` (emphasis), ice `#9CC3D5`, warm `#D9876C` (crossing out).
-- Check: dry-run reports any drawing that falls behind the narration (`LATE`); look at a contact sheet of frames.
-
-### Subtitle style (ffmpeg `subtitles` filter)
-
-libass scales sizes from a 288-line canvas (×3.75 at 1080p), so the original values (22 / 70) put
-the subtitles too high and over the drawings. Use:
-
-```
-force_style='FontName=Source Sans 3,FontSize=17,PrimaryColour=&H00EDEDED,OutlineColour=&H80000000,BorderStyle=1,Outline=1.0,Shadow=0,MarginV=22,Alignment=2'
-```
-
-**Windows tip:** run ffmpeg *from inside the chapter folder* and pass the SRT as a bare relative filename (`subtitles=chNN.srt`). This avoids the drive-letter escaping problem in the filter. Pass the fonts folder with `:fontsdir=../assets/fonts`.
-
----
+- Each drawing waits for its phrase in the narration. Phrases must not contain words the pronunciation map respells
+  (Madhyamaka, svabhāva...), because cues are matched on the spoken text.
+- Draw the text's own examples (phone, ice, river, traveller...) and simple diagrams of the argument. One idea on the
+  board at a time; clear it between ideas.
+- **The stance (§4) applies to pictures too:** never draw relation, process or awareness as a ground or base layer;
+  show a "ground" only to remove it.
+- Keep drawings clear of the subtitles at the bottom.
+- Colours: chalk `#ECE7DA`, dim `#8A8475`, gold `#C9B37E` (emphasis), ice `#9CC3D5`, warm `#D9876C` (crossing out).
+  A series may set its own (Anatta to Emptiness: its spec §5).
+- `build.py` reports any drawing that falls behind the narration (`LATE`); fix those.
 
 ## 8. Assembly
 
-For each chapter:
+`build.py --chapter NN` (in the series folder `tools/series/<name>/`) writes `…partial.mp4` and renames it only when
+ffmpeg has finished, so a file with the final name is always a complete video.
 
-1. **Title segment (5 s):** build it from `chNN-title.png` with `fade=in:0:30, fade=out:st=4:d=1`, and pair it with 5 s of silence.
-2. **Body segment:** the drifting background, plus `chNN-narration.mp3`, plus 2 s of tail, with a 1.5 s fade to black at the end.
-3. **Optional music:** if `assets/music.mp3` exists, loop it under the whole video at about **-28 dB** relative to the voice, with a 3 s fade in and a 3 s fade out. If the file is absent, skip this step silently.
-4. Concatenate the title and body segments, then burn in `chNN.srt`. Its timings already include the +5 s offset.
-5. Write the result to `chNN-<slug>.partial.mp4`. Only when ffmpeg has finished without errors, rename it to `chNN-<slug>.mp4`. A file with the final name must always be a complete video.
+## 9. Quality checks (each video)
 
-A Python script `Videos/build.py` should wrap all of the above with this interface:
-`python build.py --chapter 1`, `python build.py --all`, and `--skip-existing`.
-
----
-
-## 9. Quality checks (each chapter)
-
-- [ ] The script is 450–550 words and passes the §4 stance checklist. Read it back once, specifically looking for any wording that makes relation, awareness, or process into a substrate.
-- [ ] Narration runs 3:00–4:30 (check with `ffprobe`; target 3–4 min, up to 30 s over is fine).
-- [ ] The SRT parses cleanly: no overlaps, every cue within the limits, diacritics display correctly.
-- [ ] Check frames at 0:02 (title card), 0:30 and 2:00 (subtitles readable and not clipped), and the end (clean fade). Take them from the final `chNN-<slug>.mp4` and save them in the chapter folder as `chNN-frame-0002.png`, `chNN-frame-0030.png`, `chNN-frame-0200.png` and `chNN-frame-end.png`. If the video is rebuilt, take the frames again.
-- [ ] Update `manifest.csv`.
-
----
+- [ ] The script has the right length (§3) and passes the §4 stance list. Read it back once looking for any wording
+      that makes relation, awareness or process into a substrate.
+- [ ] No `LATE` drawings; look at a contact sheet of frames (title, two middle frames, the end): subtitles readable and
+      not over the drawings, a clean fade.
+- [ ] Subtitles: correct spellings, no overlaps.
+- [ ] `manifest.csv` updated.
 
 ## 10. Workflow
 
-1. **Setup:** install the tools, generate the background and fonts, create `pronunciation.json`, and list all chapters (number + title) found in the manuscript. Write that list to `Videos/chapters.json`, in order, as UTF-8:
-   `[{"number": 1, "title": "<Exact title>"}, {"number": 2, "title": "..."}, ...]`
-2. **Pilot:** build Chapter 1 end to end, then **stop**. Report the script, the duration, any new pronunciation entries, and the check frames, then wait for the user's feedback on voice, pace, look, and condensing style.
-3. Apply the user's feedback to this spec (edit the working copy in `Videos/` so the change persists). Do not build Chapter 2 until the user has approved the pilot. The approval is the file `Videos/PILOT-APPROVED`, which the user creates (the chapter-builder button does this). Never create it yourself.
-4. **Batch:** build the remaining chapters one at a time with `--skip-existing`. After each chapter, report a one-line status. Pause if a chapter fails a check.
-5. **Finish:** produce a summary table of every chapter with its duration, plus a list of any terms the user should listen to.
+Script → the owner approves → drawings → build → check (§9) → send the MP4 to the owner → save the text files here.
+Details: `README.md`, *Making one video*.
