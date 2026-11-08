@@ -9,7 +9,7 @@ Each paragraph is recorded on its own (long ones are cut at sentence ends into p
 characters), up to 8 at a time. The parts are joined with ffmpeg into one MP3 per chapter (mono, 64 kbps),
 with 0.8 s of silence between paragraphs and 1.5 s after headings, and tagged. Every part and every file is
 checked: the service reports each word it speaks, so a part that stopped early is caught and recorded again,
-and each whole file must come out at 140 to 185 words a minute.
+and each whole file must come out at 120 to 185 words a minute (120 suits Jenny's pauses; owner, 2026-11-08).
 
 Cloud sessions: set SSL_CERT_FILE=/root/.ccr/ca-bundle.crt and pass --proxy "$HTTPS_PROXY". The server needs neither.
 Parts are kept in out/.work/ (named by voice, settings and text), so a re-run records only what changed.
@@ -24,7 +24,7 @@ VOICE, RATE, PITCH = "en-US-JennyNeural", "+0%", "+0Hz"   # owner, 2026-11-07: "
 ARTIST = "John Tan (Thusness)"
 PART_MAX = 2500
 PARA_GAP, HEAD_GAP = 0.8, 1.5
-WPM_MIN, WPM_MAX = 140, 185            # whole file, silences included
+WPM_MIN, WPM_MAX = 120, 185            # whole file, silences included (was 140, set for Andrew)
 PART_WPM_MAX = 240                      # a part faster than this lost words (checked on parts of 8+ words)
 GLOSSARIES = {"19-sw-glossary", "28-ob-b"}  # left out unless --glossaries (the owner decides)
 SR = 24000
