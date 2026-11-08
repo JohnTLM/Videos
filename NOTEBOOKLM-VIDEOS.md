@@ -18,9 +18,9 @@ in Drive. (The Carrierless Continuity files from 2026-10-23 keep their old names
 Two Markdown files in `new-documents/<slug>/`:
 
 1. **`<article-slug>-notebooklm-source.md`**: the article as a NotebookLM source, after Claude has reviewed it.
-   - **Review first.** Read the article: the site page is its source, and a Markdown copy is in Drive
-     `website/bonus-articles`. Check it against CanonView (`canon/nature-canonical-view.md` and
-     `canon/mind-phenomena-and-luminous-clarity.md`, including Part III's list of drifts) and against orthodox
+   - **Review first.** Read the article: its source is EBooks `Bonus Articles/<slug>/` (the own-voice Markdown when
+     there is one). Check it against the Canon View (EBooks `Canon/canon/nature-canonical-view.md` and
+     `Canon/canon/mind-phenomena-and-luminous-clarity.md`, including Part III's list of drifts) and against orthodox
      Prāsaṅgika MMK and non-foundational Nyingma Dzogchen. Verify every citation and quotation, and don't keep
      one that can't be confirmed. Show the owner what was found before writing the source.
    - **Then write the source.** Use numbered sections in the order the video should follow, with the whole
@@ -36,15 +36,19 @@ Two Markdown files in `new-documents/<slug>/`:
      most likely slips and the main visuals.
    - A record of the canon check: date, and what was changed to fit the canon.
 
-The owner approves both. The source also goes into the owner's Drive folder for the video as a Google Doc, created
-from the Markdown with `contentMimeType: text/markdown`. The Drive connector cannot change a Doc's contents, so for
-a revision create a new Doc and rename the old one "(superseded <date>)". Delete it only when the owner asks.
+The owner approves both. **Getting them to the owner:** send both with `SendUserFile`, and also put copies in EBooks
+`Bonus Articles/<slug>/drive/`: the server copies that folder into the article's private Drive folder within about
+5 minutes (the `notebooklm/` subfolder is not copied). A revision replaces the same files; nothing to delete.
+
+(EBooks has a second, older standard for packs that cover a whole topic or several sources, `notebooklm-instructions.md`
+and `<topic>-sources.md`: EBooks `prog-spec.md` section 6.7. For one article's video, use the two files above.)
 
 ## After the owner generates the video
 
-1. **Download.** The owner saves the MP4 to Drive and turns on "Anyone with the link" sharing. Download it with
-   `https://drive.usercontent.google.com/download?id=<id>&export=download&confirm=t`. Private files return a
-   sign-in page instead, and the Drive connector can't carry files this large.
+1. **Download.** The owner shares NotebookLM's MP4 into Drive `Inbox` from the phone (the server files it into the
+   article's folder) and, for the review only, turns on "Anyone with the link". Download it with
+   `https://drive.usercontent.google.com/download?id=<id>&export=download&confirm=t` (private files return a sign-in
+   page, and the Drive connector can't carry files this large). Remind the owner to set it back to Restricted after.
 2. **Transcribe.** Use faster-whisper `small.en` with word timestamps. Decode the audio with ffmpeg to 16 kHz PCM
    first: the installed PyAV doesn't work with faster-whisper. The model download needs `huggingface.co` and
    `*.hf.co`, which the environment's network allows. Whisper mishears names, so re-transcribe those passages
@@ -61,9 +65,8 @@ a revision create a new Doc and rename the old one "(superseded <date>)". Delete
    needs each chapter to be at least 10 s), tags within 500 characters, and a 1280×720 thumbnail. The thumbnail
    uses a frame from the video beside a dark panel: Cormorant Garamond title in `#ece7da`, Source Sans 3 kicker in
    `#b9b4a6`.
-6. **Hand over and save.** On the owner's server, upload the MP4, thumbnail and YouTube text to the video's Drive
-   folder with `tools/publish/publish_drive.py` (the owner saves NotebookLM's download into `G:\My Drive\` on the
-   HP, so it reaches Drive by itself). Commit the two
-   Markdown files, the render script, the transcript, the YouTube text and the thumbnail to `new-documents/<slug>/`
-   with a README listing the cuts, then open and merge a pull request when the owner says so. The MP4 is not
-   committed.
+6. **Hand over and save.** Send the cut MP4 and the thumbnail to the owner (`SendUserFile`). The owner uploads it to
+   YouTube as Unlisted and says "Uploaded" with the link; a task note then has the server put on the texts and
+   playlist and link it from the page (the same route as the main video, `README.md`). Commit the two Markdown files,
+   the render script, the transcript, the YouTube text and the thumbnail to `new-documents/<slug>/` with a README
+   listing the cuts, and merge (standing OK). The MP4 is not committed.
