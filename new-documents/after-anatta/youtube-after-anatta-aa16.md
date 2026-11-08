@@ -38,6 +38,8 @@ Annihilation sounds like letting go. It holds on to the same thing eternalism ho
 
 Read the page: https://atr-passerby.com/annihilation-is-an-inherent-view/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, annihilation, eternalism, nihilism, permanence, death, two extremes, MMK 15, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

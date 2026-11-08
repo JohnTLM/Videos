@@ -31,6 +31,8 @@ Narration and visuals: AI-generated with Google NotebookLM, lightly edited.
 
 #Buddhism #Philosophy #Nagarjuna
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ## Tags (paste as one comma-separated line; 413 characters, within the 500 limit)
 
 carrierless continuity, personal identity, what is a phenomenon, no self, anatta, emptiness, Madhyamaka, Middle Way, Nagarjuna, Mulamadhyamakakarika, dependent designation, dependent arising, svabhava, Abhidharma, Candrakirti, Tsongkhapa, mere I, Dogen, Genjokoan, firewood and ash, Dzogchen, rigpa, luminosity, substantialism, Buddhist philosophy, philosophy of mind, metaphysics, impermanence, anesthesia, death

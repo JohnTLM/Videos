@@ -46,6 +46,8 @@ This video examines the three subtle-body maps (the Taoist loop, the Indian vert
 
 Read the full article: https://atr-passerby.com/energy-practices/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 subtle body, inner winds, energy practices, rlung, prana, qi, tummo, gtum mo, vase breathing, bum pa can, dantian, tanden, srog 'dzin rlung, qigong piancha, Hakuin, Zen sickness, Zhuangzi, Liezi, clear light, four empties, illusory body, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

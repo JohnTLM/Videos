@@ -45,6 +45,8 @@ From After Anatta: notes by John Tan (Thusness) on the logic after the insight o
 
 #Buddhism #Madhyamaka #Dzogchen
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ## Tags (paste as one comma-separated line; 469 characters, within the 500 limit)
 
 limits of concepts, language and reality, emptiness, sunyata, Madhyamaka, Middle Way, Nagarjuna, Mulamadhyamakakarika, dependent arising, dependent designation, conditions without production, beyond cause and effect, spontaneous presence, lhun grub, Dzogchen, unfindability, not even nowhere, relational ontology, no self, anatta, after anatta, vividness, luminosity, Buddhist philosophy, philosophy of mind, non-substantialism, John Tan, Thusness, Awakening to Reality

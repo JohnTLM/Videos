@@ -48,6 +48,8 @@ Clarity is never absent from what appears, but it is not the floor: lifted out a
 
 Read the page: https://atr-passerby.com/mind-is-singled-out-too/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, mind, consciousness, singling out, designation, luminous clarity, luminosity, phenomenon, Hard Problem, radiance clarity, bare attention, desynchronisation, spontaneous perfection, spontaneous presence, ordinary mind, rigpa, Mahamudra, Dzogchen, Dogen, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

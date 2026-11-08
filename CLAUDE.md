@@ -24,6 +24,9 @@ rather than read them in full.
 - **The owner approves the script** before anything is drawn.
 - **Save the text files here, never the MP4s:** script, narration, drawings, subtitles, YouTube texts, changed series
   settings, a short README per new video. Push and merge without asking (owner, 2026-10-29).
+- **Every YouTube description ends with the owner's disclaimer** (owner, 2026-11-08): "All views and understanding
+  here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I
+  report what a tradition holds, I try to report it fairly; where I part from it, I say so."
 - **Ask before spending.** The voices (edge-tts) are free; anything paid needs the owner's yes and a cost estimate.
 - **Never print, upload or commit API keys.**
 - **Explain in plain language**, short sentences, one clear next step. Give times in Singapore time (SGT).

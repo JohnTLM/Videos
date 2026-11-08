@@ -31,6 +31,8 @@ Tibet keeps two fives side by side. The Chinese five (wood, fire, earth, metal, 
 The voices are NotebookLM's. The article is the authority: where the overview says anything differently, follow the article.
 
 John Tan (Thusness) · atr-passerby.com
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 ```
 
 ## Tags

@@ -42,6 +42,8 @@ Is this orthodox? Checked against Nāgārjuna's Middle Way (chapters 1 and 20), 
 
 Read the page: https://atr-passerby.com/causal-efficacy-without-causal-power/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, causal efficacy, causal power, cause and effect, dependent origination, conditions, MMK 1, MMK 20, Candrakirti, Tsongkhapa, mere I, karma, neither carried nor cut, Dzogchen, spontaneous presence, beyond cause and effect, Mipham, Hume, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -86,6 +88,8 @@ Is this orthodox? Checked against Nāgārjuna's Middle Way (chapters 1 and 20), 
 17:16 Try it: the tap
 
 Read the page: https://atr-passerby.com/causal-efficacy-without-causal-power/
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 

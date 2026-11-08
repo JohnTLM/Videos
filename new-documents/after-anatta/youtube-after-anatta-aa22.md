@@ -9,6 +9,8 @@ The video for *Three Descriptions, One Taste: Anatta, Dependent Arising and Spon
 Tags shared by every video (the block below adds its own at the front):
 `after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ---
 
 ## 1. Three Descriptions, One Taste (AA22, 18:08)
@@ -48,3 +50,5 @@ Read the page: https://atr-passerby.com/three-descriptions-one-taste/
 ### Tags
 
 after anatta, three descriptions one taste, spontaneous presence, lhun grub, total exertion, Dogen, first taste, refined non-dual, six clarities, desynchronisation, habitual tendency, freedom from elaborations, marketplace, ox herding, default framework, many faces, doer behind the doing, unborn by nature, Dzogchen, Tsongkhapa, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, anatta, no self, Buddhist philosophy
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.

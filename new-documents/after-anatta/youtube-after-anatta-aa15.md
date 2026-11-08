@@ -44,6 +44,8 @@ Instead of outside images, this video looks where it can be felt directly: the s
 
 Read the page: https://atr-passerby.com/#aa-continuity
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 neither carried nor cut, continuity, rebirth, no carrier, six consciousnesses, six senses, Sati, MN 38, annihilationism, eternalism, Dogen, Uji, Dzogchen, momentariness, time, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

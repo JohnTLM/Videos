@@ -50,6 +50,8 @@ John Tan (Thusness) shows what falls away in anatta: not the person, but a doer 
 
 Read the page: https://atr-passerby.com/decoding-anatta-and-mmk-chapter-3/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 after anatta, Bahiya Sutta, MMK chapter 3, seer and seen, spontaneous presence, non-implicative negation, clarity, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy

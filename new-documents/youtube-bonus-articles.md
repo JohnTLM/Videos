@@ -24,6 +24,8 @@ This short video follows Feynman's own caution about energy, then three facts fr
 
 Read the page: https://atr-passerby.com/isn-t-energy-the-substrate/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 energy, substrate, physics, Feynman, Noether, conservation of energy, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -44,6 +46,8 @@ The chariot is found neither in its parts nor apart from them: it is designated 
 
 Read the page: https://atr-passerby.com/dependent-designation-and-the-taste-of-presence/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 dependent designation, presence, chariot, Candrakirti, Longchenpa, Dzogchen, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -63,6 +67,8 @@ On dependent arising, spontaneous presence, and the recognition that frees the m
 Two ways of seeing the same appearing: tracing its conditions, and its vivid, effortless presence. They are not two realities, and neither puts a new ground in place of the self it removes. The flow is its own clarity: nothing lights it up, not another and not itself.
 
 Read the page: https://atr-passerby.com/two-modes-one-seeing/
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
@@ -86,6 +92,8 @@ Read with it: Neither Carried Nor Cut (https://atr-passerby.com/neither-carried-
 
 Read the page: https://atr-passerby.com/one-flame-lights-another/
 
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
+
 ### Tags
 
 rebirth, karma, death, bardo, continuity, annihilation, eternalism, clear light, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
@@ -105,6 +113,8 @@ Two mirror-image mistakes about appearances, and four points that loosen both: t
 One mistake makes appearances solid, things with their own nature. The other makes them nothing, mere illusion with no consequences. Four points loosen both: appearances are vivid, they work, they depend, and the relations they depend on are as empty as the things they relate. An injury still hurts; nothing in it was ever found from its own side. With Rovelli and Barad.
 
 Read the page: https://atr-passerby.com/insubstantial-appearances/
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags
 
