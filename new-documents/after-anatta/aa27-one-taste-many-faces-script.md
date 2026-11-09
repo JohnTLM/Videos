@@ -1,0 +1,137 @@
+---
+chapter: 27
+label: After Anatta · Dependent Arising
+title: "Part 5 of 6: One Taste, Many Faces"
+series: "After Anatta · Dependent Arising: If You Think You Understand, You Don't (Part 5 of 6)"
+source: EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, as of 2026-11-08), sections 12 to 16 and Try it; notebooklm-parts/part-5-one-taste-many-faces
+source_words: 6338
+script_words: 2104
+intro: yes
+voice: male
+---
+
+# One Taste, Many Faces
+
+This is Part 5 of 6: One taste, many faces.
+
+So far I have asked whether dependent arising is as plain as it sounds, set out what it says and what it is for, and followed how it is first met as a taste after anatta, and met again, free. Now the taste itself, and how it is described.
+
+I say dependent arising is spontaneous presence. They are not two things.
+
+Dependent arising is how the taste is described when we analyse. These conditions, met together, designated, working. Spontaneous presence is how it is described when the habit of fixing stops. Complete, effortless, with nothing behind it. And there is a third description: anatta.
+
+Three descriptions, one taste.
+
+Anatta says no one is behind it. No seer, no doer. Its guard: it is not a blank. Nobody disappears.
+
+Dependent arising says nothing in it stands on its own. Conditions meet, and none is found from its own side. Its guard: it is not a web, and not a ground.
+
+Spontaneous presence says nothing is missing, and nothing is making it. Its guard is double. It is not uncaused. Every appearing has its conditions. What is gone is the maker, not the order. And it is not a source. Nothing stands behind appearing, not even spontaneity.
+
+They are three angles on one face. Each is a whole description, and none of them is the taste.
+
+None is higher. Not a lower truth and a higher one. Not stages, first analysis and then recognition. Nor does one turn into another. I do not say dependent arising becomes spontaneous presence, any more than we say summer becomes winter. That way of speaking brings back a traveller, crossing from one to the other. Nothing crosses.
+
+Anatta needs one note here. As the first insight, it covers only the subject. The observer has disappeared, but the world has not. But anatta is a seal, not a stage. As the seal, all dharmas are without self. Not only no seer behind seeing, but no self-nature in the seen, in the cause, in the condition. Read as the seal, anatta describes the whole taste, from the side of "no one".
+
+Freedom from all elaborations is not a fourth description. It says nothing about the taste. It says only that nothing reified is added to it.
+
+And spontaneous presence adds nothing to the negation. It does not slip a positive reality in behind the refutation. It names only what the refutation never denied: the appearing itself, once nothing is added to it. Heard as something found, with a nature of its own, it would be taken apart too.
+
+The descriptions keep each other honest. Dependent arising keeps spontaneous presence from being heard as coming from nowhere, or from a hidden ground. Spontaneous presence keeps dependent arising from being heard as a machine of causes, working in the dark, waiting for a knower to light it up. Clarity is never absent from what appears. The only question is whether it is abstracted out and made into a thing.
+
+Keep two questions apart. How does this appearing come about? Through causes and conditions, always. What is its nature? Empty. Not produced. So "why" has nothing to point to. "Beyond cause and effect" answers the second question. It never cancels the first. It means beyond intrinsic cause and intrinsic effect, never beyond dependent arising.
+
+Now the many faces.
+
+From the taste, I recognise its many faces, in very different situations. A sound, a thought, a flash of anger, a cause and its effect, a stretch of time, a death, washing the dishes.
+
+It is much like an AI model that recognises faces. It knows a face across light, angle and age. Not because it has stored one photograph, but because it has learned the face's structure. A sameness of structure is what mathematicians call an isomorphism. Once the taste is known, it is recognised by its shape, wherever it shows up.
+
+A death, for instance. Conventionally someone has died, and that is mourned. But no one is found who goes. Nothing that was there from its own side is cut off. And the grief, vivid as it is, has nothing behind it. The shape is the same. No one behind it, nothing standing on its own, nothing missing.
+
+Four things keep this recognition honest.
+
+First, name the shape. No doer, nothing standing on its own, nothing added, complete as its conditions meet.
+
+Second, no one is doing the recognising. "I recognise" is a way of speaking. The recognising is itself an appearing, with no recogniser standing behind it. And the comparison stops at "known by its shape". Familiarity is a condition among conditions, not a store sitting behind the seeing.
+
+Third, the shape does not carry across. Nothing stable sits inside each situation, passing to the next. If the taste became an essence present in everything, it would be the ground again. Same form, not same stuff.
+
+Fourth, recognition can misfire. A model can match the wrong face, and so can we. The I AM presence, a blank quiet, a refined oneness made of one luminosity: each can look like the taste. The test is the shape. Is a witness, a source or a background still left? Is something being kept up? Here the logic keeps the recognition honest.
+
+So what does the view taste like?
+
+Held properly, it is tasted in every appearing in six ways. In Tibetan, the first has a phrase of its own: vividly appearing, yet unfindable.
+
+Vividly appearing yet unfindable. The colour is as bright as ever, the sound as clear. And when you look for what the name stands for, nothing is found. Unfindable does not dim it. Vividness never needed anything findable.
+
+Centerless. No doer stands behind seeing, and no one sits at the middle of what appears. The sound is not heard from a point. There is only the hearing, and the hearing is the sound.
+
+Mutual. Each appears only with the others. The sound with the ear and the air. The thrower with the catcher. And the relations are not found from their own side either. So this is not a web behind things.
+
+Seamless. No gap opens between one moment and the next that would need a carrier or a bridge. Seamless does not mean merged into One. Sight stays sight, and sound stays sound.
+
+Effortless. Nothing produces the appearing, and nothing has to keep it going. Conditions meet, and this appears. There is nothing to hold, so nothing to maintain. Maintenance is the split.
+
+Intimate. No distance stands between a knower and what is known. The appearing is clear as it appears. Nothing lights it, not another, and not itself.
+
+These six describe the appearing, conventionally. How it is met when the habit of fixing is not running. They do not describe emptiness as something found. Emptiness stays what it always was: the absence of own-nature, a negation and nothing more.
+
+And they are not six states to reach or to keep. They are how the appearing tastes when the view is lived, not only held. If one of them is taken up as a goal, the doer comes back to chase it.
+
+That brings the guards.
+
+Not only concepts. Designated does not mean unreal or arbitrary. Things work. Harm is harm. Actions bear fruit.
+
+Not uncaused. Every appearing has its conditions. What is gone is the producer, not the order.
+
+Not a web, not a ground. The relations are no more found than the things. Emptiness is not a new something.
+
+Not a stage to leave behind. The framework is not the prison. Reifying it is.
+
+Not a state to keep. Seeing dependence is not kept up by effort. It is seen, and in time the habit loosens.
+
+In fact, every mistake on this path has the same shape: the doer, put back somewhere else.
+
+After anatta, a vast Awareness, a pure witness, in which everything happens. The seer in a larger coat. In total exertion, a cosmic whole present in each moment, or a fluid substrate flowing under the verbs. In dependent arising, a web, a mechanism standing behind things. In spontaneous presence, a source that gives off appearances, or appearances without causes: the demand for a producer, granted one final exemption.
+
+In the marketplace, the helper who has arrived and now saves others. Or the bystander who says it is all empty, so nothing needs doing. And no licence: "no one there, so no consequences" is the annihilation view again.
+
+And in practice, a state to keep up. Maintenance would be the split again. None of this is kept. It was always so. It is recognised.
+
+Do I depart from the great masters? Their definitions differ. At the core, I do not believe mine deviates.
+
+The Buddha: when this is, that is. Who sees dependent arising sees the Dhamma. The middle way between "is" and "is not". I hold the same. Nāgārjuna: dependent arising is emptiness, a designation in dependence, the middle way. Without arising, without ceasing, stilling elaboration. The same, in all three uses. Candrakīrti: the chariot, found neither among its parts nor apart from them, and conventions left as the world uses them. The same. The chariot was my bridge.
+
+Tsongkhapa: dependence on causes, on parts, and most subtly on being designated by mind. Dependent arising is the king of reasons. The same at the core. Gorampa and Mipham: appearance and emptiness in union. Close.
+
+Dzogchen says spontaneous presence is not made by causes and conditions. Here the equation I make most often, dependent arising is spontaneous presence, is understood in the orthodox texts too. Nāgārjuna praises dependent arising as without arising. Candrakīrti quotes a sūtra: whatever is born from conditions is unborn. So "not made by causes" means unborn by nature. Appearing through conditions, yet nothing produced, no maker, no birth from its own side. I part only from a reading that makes spontaneous presence an unconditioned ground. I read Longchenpa's ground as empty, as Mipham does.
+
+Where I do part, I say so.
+
+From Tsongkhapa, on three points. What anatta means: mine is the experiential insight, no seer in seeing, which can come first while things are still reified. Read as the seal, it is his selflessness of all things. The order of the path: his is the view first. Mine was the taste first, and the view syncing with it later. A difference of route, not of content. Freedom from all elaborations still came only after the logic had done its work. And the bridge across time: I keep neither carried nor cut, with no bridge needed.
+
+From Huayan and modern interbeing. Nothing stands alone, but the relations are not found either. There is no net behind things.
+
+And on its status. I hold dependent arising as an enlightened view, not a lower truth. And not the pattern of ignorance, but the antidote by which ignorance is undone.
+
+What I add is a few words. "Taste", "encounters" and "many faces" are mine.
+
+These are my readings, not the schools'. Some lineages see it differently, and you should read them for yourself. All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher.
+
+Try it. Listen to a sound nearby. A car, a fan, a voice.
+
+Look for the hearer behind the hearing. Is anyone there, receiving it? Then look at the hearing itself. Is a process running underneath? Or just sound, with no effort at all?
+
+Find its conditions. The source, the air, the ear, attention. Is any of them standing behind the sound, pushing it out? The sound is not made by them and sent out. It is their meeting.
+
+Change one condition. Cover one ear, or turn your head. It is not the same sound, altered. It is a different appearing.
+
+Look for the "between" that joins the conditions. Did any of this need a hearer behind it, a web underneath, or a power in the cause? Then stop looking. The sound is complete, exactly as its conditions meet. Do not try to keep this. When the next sound comes, it is complete too.
+
+Later in the day, when a thought or a flash of irritation comes, look for the same shape. Anyone behind it? Anything in it standing on its own? Anything missing? Recognise the face. Do not hold on to it.
+
+If you think you understand, keep looking. The same taste has many faces.
+
+There is one more part, a draft: five elements, five lights, rainbow body. That is Part 6.
