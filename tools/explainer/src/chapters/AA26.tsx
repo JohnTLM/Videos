@@ -14,7 +14,7 @@
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
-  At, Background, Bokeh, Chip, CHALK, DIM, Flow, GOLD, Glow, GREEN, ICE, Mood, ROSE, Reveal,
+  At, Background, Bokeh, Chip, CHALK, DIM, Flow, GOLD, Glow, GREEN, Mood, ROSE, Reveal,
   Scene, Strike, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
 } from "../lib";
 
@@ -269,7 +269,6 @@ const OverviewScene: React.FC = () => {
 const AnattaScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const q = c("what are seeing and hearing");
   return (
     <AbsoluteFill>
       <Items items={[
@@ -284,7 +283,6 @@ const AnattaScene: React.FC = () => {
         ["it is still words", 960, 770, <Wd c={ROSE} s={28}>still words</Wd>, { until: "So look, in real time" }],
         ["So look, in real time", 960, 770, <Wd c={GOLD} s={32}>so look, in real time</Wd>],
       ]} />
-      <At x={960} y={540} o={0 * q}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -293,7 +291,6 @@ const TasteScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const dark = c("And the colours are not dark");
-  const first = 1 - ramp(t, c("a first taste of spontaneous presence"), 0.5);
   return (
     <AbsoluteFill>
       <Items items={[["Seeing is just colours", 960, 110, <Wd c={GOLD} s={40} serif>the first taste</Wd>]]} />
@@ -314,7 +311,6 @@ const TasteScene: React.FC = () => {
         ["a first taste of spontaneous presence", 960, 710, <K c={TEAL} s={26}>immediate · effortless · spontaneous</K>, { d: 1.4 }],
         ["Remember this taste", 960, 800, <Wd c={CHALK} s={28}>remember this taste</Wd>],
       ]} />
-      <At x={960} y={900} o={0 * first}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -463,7 +459,6 @@ const NotFreeScene: React.FC = () => {
 const LogicScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const move = c("makes the same move as anatta, again and again");
   const nf = c("Neither is found");
   return (
     <AbsoluteFill>
@@ -487,7 +482,6 @@ const LogicScene: React.FC = () => {
         ["A causal power is the doer behind the causing", 960, 600, <SK c={DIM} s={28} strikeAt={nf + 1}>a causal power: the doer behind the causing</SK>],
         ["Neither is found", 960, 730, <Wd c={GOLD} s={36} serif>neither is found</Wd>],
       ]} />
-      <At x={960} y={900} o={0 * move}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -520,7 +514,6 @@ const ChariotScene: React.FC = () => {
 const HingeScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const tools = c("The tools meet each hinge in turn");
   const hinges: [string, string, number, string][] = [
     ["First it hinges on parts", "parts", 0, "The tools meet each hinge in turn"],
     ["It hinges on the whole", "the whole", 1, "The tools meet each hinge in turn"],
@@ -543,7 +536,6 @@ const HingeScene: React.FC = () => {
         ["free from all elaborations, and in a stable way", 960, 730, <Wd c={GOLD} s={36} serif>free from all elaborations, stable</Wd>],
         ["Stable does not mean the habit can never stir", 960, 810, <Wd c={DIM} s={26}>if it stirs, the same seeing meets it</Wd>],
       ]} />
-      <At x={960} y={900} o={0 * tools}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -552,9 +544,7 @@ const RevisitScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const take = c("Take away the doer from everything");
-  const mind = c("Mind and matter lose their weight");
   const pre = 1 - ramp(t, take, 0.5);
-  const mid = (1 - ramp(t, mind, 0.5));
   return (
     <AbsoluteFill>
       <Items items={[
@@ -562,10 +552,10 @@ const RevisitScene: React.FC = () => {
         ["Then appearance is again tasted", 580, 190, <Box c={VIOLET} w={460} title="the first taste" sub="just colours, just sound" />, { d: -0.2, until: "Take away the doer from everything" }],
         ["It is the same taste", 960, 330, <Wd c={GOLD} s={30}>the same taste</Wd>, { until: "Take away the doer from everything" }],
         ["It is the same taste", 960, 410, <Wd c={CHALK} s={26}>what changed is the understanding around it</Wd>, { d: 1.2, until: "Take away the doer from everything" }],
-        ["Reach: at first the taste lived", 580, 580, <Box c={TEAL} w={520} title="reach" sub="thought, body, things, causes, time, death" />, { until: "Take away the doer from everything" }],
-        ["And stability", 1340, 580, <Box c={GOLD} w={460} title="stability" sub="no longer depends on looking" />, { until: "Take away the doer from everything" }],
+        ["Reach: at first the taste lived", 560, 580, <Box c={TEAL} w={620} title="reach" sub="thought, body, things, causes, time, death" />, { until: "Take away the doer from everything" }],
+        ["And stability", 1360, 580, <Box c={GOLD} w={460} title="stability" sub="no longer depends on looking" />, { until: "Take away the doer from everything" }],
       ]} />
-      <At x={960} y={260} o={pre}><Dash x1={-150} y1={0} x2={150} y2={0} p={ramp(t, c("It is the same taste"), 1)} /></At>
+      <div style={{ opacity: pre }}><Dash x1={815} y1={190} x2={1105} y2={190} p={ramp(t, c("It is the same taste"), 1)} /></div>
       <Items items={[
         ["Take away the doer from everything", 960, 150, <SK c={DIM} s={28} strikeAt={c("Then nothing is making the appearing")}>the doer, everywhere</SK>, { until: "Mind and matter lose their weight" }],
         ["Not even dependence kept as a new thing", 960, 240, <SK c={DIM} s={26} strikeAt={c("Then nothing is making the appearing") + 0.3}>dependence kept as a new thing</SK>, { until: "Mind and matter lose their weight" }],
@@ -580,7 +570,6 @@ const RevisitScene: React.FC = () => {
         ["neither mind nor matter from its own side", 760, 580, <SK c={DIM} s={28} strikeAt={c("neither mind nor matter from its own side") + 1.6}>mind, from its own side</SK>],
         ["neither mind nor matter from its own side", 1180, 580, <SK c={DIM} s={28} strikeAt={c("neither mind nor matter from its own side") + 1.9}>matter, from its own side</SK>, { d: 0.4 }],
       ]} />
-      <At x={960} y={900} o={0 * mid}><span /></At>
     </AbsoluteFill>
   );
 };
@@ -627,8 +616,6 @@ const MarketScene: React.FC = () => {
 const EncounterScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const stages = c("These are not stages of the taste");
-  const pre = 1 - ramp(t, stages, 0.5);
   const round = c("It goes round more than once");
   const p = ramp(t, round, 2.2);
   const R = 150;
@@ -653,7 +640,6 @@ const EncounterScene: React.FC = () => {
         </svg>
       </At>
       <At x={960} y={560} o={ramp(t, round + 0.8, 0.5)}><Wd c={CHALK} s={28} serif>round more than once</Wd></At>
-      <At x={960} y={900} o={0 * pre}><span /></At>
     </AbsoluteFill>
   );
 };
