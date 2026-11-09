@@ -6,7 +6,7 @@ title cards "After Anatta · Dependent Arising" and "Part N of 6: …". Source: 
 
 | Video | Title | Length | Status |
 |---|---|---|---|
-| AA23 | Part 1 of 6: If You Think You Understand | 14:29 | sent to the owner |
+| AA23 | Part 1 of 6: If You Think You Understand | 14:29 | on YouTube `suq_DoDSinA` (Unlisted), on the site; texts `youtube-after-anatta-aa23.md` |
 | AA24 | Part 2 of 6: What It Is | 14:13 | sent to the owner |
 | AA25 | Part 3 of 6: What It Is For | 15:01 | sent; includes the five-lights thread with its own disclaimer (owner, 2026-11-09) |
 | AA26 | Part 4 of 6: The Taste | 13:32 | sent to the owner |
