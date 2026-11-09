@@ -525,12 +525,13 @@ const ChariotScene: React.FC = () => {
   const parts: [string, string][] = [["It is not the pole", "pole"], ["not the axle", "axle"], ["not the wheels", "wheels"], ["not the frame", "frame"], ["Not their sum", "their sum"], ["and not something apart from them", "apart from them"]];
   const sev = ["the same as its parts", "other than them", "possessing them", "in them", "containing them", "their collection", "their shape"];
   const a1 = 1 - ramp(t, seven, 0.5);
-  const a2 = between2(t, seven, carry);
+  const denied = c("Yet the chariot is not denied");
+  const a2 = between2(t, seven, denied);
   const drive = Math.max(0, t - carry);
   return (
     <AbsoluteFill>
       <Items items={[["The clearest case is the oldest", 960, 100, <Wd c={GOLD} s={40} serif>the chariot</Wd>]]} />
-      <At x={960 + Math.min(drive * 60, 300)} y={320} o={ramp(t, c("where his chariot is") - 0.6, 0.6) * (1 - ramp(t, seven, 0.5)) + ramp(t, carry, 0.6)}><Chariot spin={drive * 120} /></At>
+      <At x={960 + Math.min(drive * 60, 300)} y={320} o={ramp(t, c("where his chariot is") - 0.6, 0.6) * (1 - ramp(t, seven, 0.5)) + ramp(t, denied + 0.3, 0.6)}><Chariot spin={drive * 120} /></At>
       {parts.map(([cue, n], i) => (
         <At key={cue} x={360 + i * 240} y={560} o={ramp(t, c(cue), 0.4) * a1}><SK c={DIM} s={26} strikeAt={c(cue) + 0.6}>{n}</SK></At>
       ))}
