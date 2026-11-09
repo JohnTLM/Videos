@@ -4,7 +4,7 @@
 // one face -> none higher (summer, winter, nothing crosses); anatta as a seal; freedom from elaborations not a fourth; adds
 // nothing to the negation -> the descriptions keep each other honest; two questions (how: conditions; what: empty) -> many
 // faces (the face model, isomorphism, a death) -> four things keep recognition honest -> the six tastes round one sound
-// (vividly appearing yet unfindable, centerless, mutual, seamless, effortless, intimate, open, dissolving) -> not states to keep -> guards ->
+// (vividly appearing yet unfindable, centerless, mutual, seamless, effortless, intimate) -> not states to keep -> guards ->
 // the doer back in a bigger coat -> the masters, master by master -> "not made by causes" read as "unborn by nature" ->
 // where I part -> try it (a sound, its conditions, cover one ear) -> keep looking; Part 6 next.
 // Stance: a doer, a hearer, a recogniser, a web, a ground, a source, a carrier, an essence and a keeper are drawn only to be
@@ -48,16 +48,14 @@ export const PHRASES = [
   "Familiarity is a condition among conditions", "Third, the shape does not carry across", "Same form, not same stuff",
   "Fourth, recognition can misfire", "The I AM presence", "The test is the shape", "Here the logic keeps the recognition honest",
   // six tastes
-  "So what does the view taste like", "in eight ways", "In Tibetan, the first has a phrase of its own",
+  "So what does the view taste like", "in six ways", "In Tibetan, the first has a phrase of its own",
   "Unfindable does not dim it", "Centerless. No doer stands behind seeing", "The sound is not heard from a point",
   "Mutual. Each appears only with the others", "So this is not a web behind things", "Seamless. No gap opens",
   "Sight stays sight", "Effortless. Nothing produces the appearing", "Maintenance is the split",
   "Intimate. No distance stands", "Nothing lights it",
-  "Open. Nothing closes the appearing in", "It is only that nothing is fixed",
-  "Dissolving. Each appearing spends itself", "But it does not dissolve into anything",
   // not states
-  "These eight describe the appearing, conventionally", "They do not describe emptiness as something found",
-  "a negation and nothing more", "And they are not eight states to reach or to keep", "the doer comes back to chase it",
+  "These six describe the appearing, conventionally", "They do not describe emptiness as something found",
+  "a negation and nothing more", "And they are not six states to reach or to keep", "the doer comes back to chase it",
   // guards
   "That brings the guards", "Not only concepts", "Harm is harm", "Not uncaused. Every appearing", "Not a web, not a ground",
   "Not a stage to leave behind", "Not a state to keep",
@@ -353,8 +351,6 @@ const SixScene: React.FC = () => {
     ["Seamless. No gap opens", "seamless", GREEN, "no gap, no bridge; not merged"],
     ["Effortless. Nothing produces the appearing", "effortless", VIOLET, "nothing to maintain"],
     ["Intimate. No distance stands", "intimate", ROSE, "nothing lights it"],
-    ["Open. Nothing closes the appearing in", "open", WARM, "no edge, no container"],
-    ["Dissolving. Each appearing spends itself", "dissolving", CHALK, "spent completely; not into anything"],
   ];
   const subs: Record<string, string> = {
     "vividly appearing yet unfindable": "Unfindable does not dim it",
@@ -363,21 +359,19 @@ const SixScene: React.FC = () => {
     seamless: "Sight stays sight",
     effortless: "Maintenance is the split",
     intimate: "Nothing lights it",
-    open: "It is only that nothing is fixed",
-    dissolving: "But it does not dissolve into anything",
   };
   return (
     <AbsoluteFill>
       <Items items={[
         ["So what does the view taste like", 960, 100, <Wd c={CHALK} s={40} serif>what the view tastes like</Wd>],
-        ["in eight ways", 960, 170, <Wd c={DIM} s={28}>in every appearing, eight ways</Wd>],
+        ["in six ways", 960, 170, <Wd c={DIM} s={28}>in every appearing, six ways</Wd>],
       ]} />
-      <At x={960} y={470} o={ramp(t, c("in eight ways"), 0.6)}><Waves p={1} color={TEAL} /></At>
+      <At x={960} y={470} o={ramp(t, c("in six ways"), 0.6)}><Waves p={1} color={TEAL} /></At>
       <At x={960} y={470} o={ramp(t, c("In Tibetan, the first has a phrase of its own"), 0.6) * (1 - ramp(t, c("Centerless. No doer stands behind seeing"), 0.5))}>
         <div style={{ marginTop: -10 }}><Wd c={GOLD} s={50} serif>med par gsal snang</Wd></div>
       </At>
       {six.map(([cue, name, col, sub], i) => {
-        const a = (i / 8) * Math.PI * 2 - Math.PI / 2;
+        const a = (i / 6) * Math.PI * 2 - Math.PI / 2;
         const x = 960 + 560 * Math.cos(a), y = 470 + 250 * Math.sin(a);
         const at = c(cue) - (i === 0 ? 2.5 : 0.4);
         const s = c(subs[name]);
@@ -398,11 +392,11 @@ const NotStateScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Items items={[
-        ["These eight describe the appearing, conventionally", 960, 140, <Wd c={CHALK} s={36} serif>the eight describe the appearing</Wd>],
-        ["These eight describe the appearing, conventionally", 960, 230, <Wd c={DIM} s={26}>how it is met when the habit of fixing is not running</Wd>, { d: 2 }],
+        ["These six describe the appearing, conventionally", 960, 140, <Wd c={CHALK} s={36} serif>the six describe the appearing</Wd>],
+        ["These six describe the appearing, conventionally", 960, 230, <Wd c={DIM} s={26}>how it is met when the habit of fixing is not running</Wd>, { d: 2 }],
         ["They do not describe emptiness as something found", 960, 350, <SK c={DIM} s={26} strikeAt={c("a negation and nothing more") - 1}>emptiness as something found</SK>],
         ["a negation and nothing more", 960, 440, <Wd c={TEAL} s={28}>emptiness: absence of own-nature, a negation and nothing more</Wd>],
-        ["And they are not eight states to reach or to keep", 960, 570, <SK c={ROSE} s={28} strikeAt={c("And they are not eight states to reach or to keep") + 1.8}>eight states to reach or to keep</SK>],
+        ["And they are not six states to reach or to keep", 960, 570, <SK c={ROSE} s={28} strikeAt={c("And they are not six states to reach or to keep") + 1.8}>six states to reach or to keep</SK>],
         ["the doer comes back to chase it", 960, 690, <Wd c={GOLD} s={30}>taken up as a goal, the doer comes back to chase it</Wd>],
       ]} />
     </AbsoluteFill>
@@ -576,7 +570,7 @@ export const Body: React.FC = () => {
     ["Now the many faces", "jade", <FacesScene />],
     ["Four things keep this recognition honest", "doubt", <FourScene />],
     ["So what does the view taste like", "light", <SixScene />],
-    ["These eight describe the appearing, conventionally", "deep", <NotStateScene />],
+    ["These six describe the appearing, conventionally", "deep", <NotStateScene />],
     ["That brings the guards", "search", <GuardScene />],
     ["every mistake on this path has the same shape", "doubt", <BackScene />],
     ["Do I depart from the great masters", "dusk", <MastersScene />],

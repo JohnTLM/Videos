@@ -62,7 +62,7 @@ Fourth, recognition can misfire. A model can match the wrong face, and so can we
 
 So what does the view taste like?
 
-Held properly, it is tasted in every appearing in eight ways. In Tibetan, the first has a phrase of its own: vividly appearing, yet unfindable.
+Held properly, it is tasted in every appearing in six ways. In Tibetan, the first has a phrase of its own: vividly appearing, yet unfindable.
 
 Vividly appearing yet unfindable. The colour is as bright as ever, the sound as clear. And when you look for what the name stands for, nothing is found. Unfindable does not dim it. Vividness never needed anything findable.
 
@@ -76,13 +76,9 @@ Effortless. Nothing produces the appearing, and nothing has to keep it going. Co
 
 Intimate. No distance stands between a knower and what is known. The appearing is clear as it appears. Nothing lights it, not another, and not itself.
 
-Open. Nothing closes the appearing in. No edge where it stops, no inside and outside, no container holding it. This openness is not a space that things sit in, and not emptiness found as something. It is only that nothing is fixed, so nothing obstructs.
+These six describe the appearing, conventionally. How it is met when the habit of fixing is not running. They do not describe emptiness as something found. Emptiness stays what it always was: the absence of own-nature, a negation and nothing more.
 
-Dissolving. Each appearing spends itself completely and is gone as it arises. Nothing is carried over, so nothing has to be let go. It releases itself, which Dzogchen calls self-liberation. A dream, a bubble, dew, lightning. But it does not dissolve into anything. Not back into awareness, like a drawing on water sinking into the water, and not into a blank. Nor is it the insight stage of dissolution, where endings are watched and the mind feels it is losing ground. Here nothing stood, so nothing is lost.
-
-These eight describe the appearing, conventionally. How it is met when the habit of fixing is not running. They do not describe emptiness as something found. Emptiness stays what it always was: the absence of own-nature, a negation and nothing more.
-
-And they are not eight states to reach or to keep. They are how the appearing tastes when the view is lived, not only held. If one of them is taken up as a goal, the doer comes back to chase it.
+And they are not six states to reach or to keep. They are how the appearing tastes when the view is lived, not only held. If one of them is taken up as a goal, the doer comes back to chase it.
 
 That brings the guards.
 
