@@ -62,6 +62,18 @@ So agreeing with dependent arising is not living in it. We do not live in the wi
 
 Even "I do not think inherently" is usually held the same way, as a fact about a self standing behind the thought. It is Feynman's quip again. If you think you understand, you don't.
 
+Now, here I speak only for myself. If we do live in the wisdom of dependent arising, something more can be recognised in time.
+
+Take the apple once more: hardness, coolness, red, weight and the arc of the toss, appearing together and designated as one thing. Those same qualities are the elements, read the Indian way. Earth is hardness, water is cohesion, fire is heat, wind is motion, and space is room. Already properties, not stuff.
+
+What makes them seem solid is the habit of tying those appearings into one thing out there, and into one body in here. Dzogchen describes the same moment from the other side. The display, not recognised, hardens into the elements, and from the elements come the body and the world.
+
+Untie that habit and nothing is lost. Hardness, warmth and motion remain, vivid and unowned. That vivid, unfound appearing is what Dzogchen calls the five lights: the elements recognised as display. That recognition, carried all the way through, the body included, is what the rainbow body is about.
+
+So the wisdom that undoes the habit is not a different path from the rainbow body. It is the beginning of the same path. The lights are not a luminous stuff. Nothing condenses, and nothing returns to a source. There is only appearing, first held solid, then recognised.
+
+A disclaimer for this thread in particular. I have not read these links put this way anywhere else, and I do not claim that this is how orthodox Dzogchen states them. It is where many years of contemplation have brought me. Take it as my contemplation, to be tested, not as a teaching of any tradition.
+
 So I keep two frameworks apart.
 
 The default framework is the conventional cutting itself: parts and whole, before and after, cause and effect, agent and action. It works. We need it to speak, to cook and to keep promises. Dependent arising lives here. "How does this come about?" Only this framework can ask that, and dependent arising is its answer.

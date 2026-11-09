@@ -50,6 +50,14 @@ export const PHRASES = [
   "It is just the way things look", "Do not swap it for a subtler picture", "with the name", "are no more given than the apple",
   "The naming is part of the appearing", "The name and what it names", "So agreeing with dependent arising is not living in it", "We live in the confusion of thinking",
   "habitually and without knowing it", "is usually held the same way", "It is Feynman's quip again", "If you think you understand",
+  // one thread (owner, 2026-11-09)
+  "here I speak only for myself", "something more can be recognised in time", "Take the apple once more", "designated as one thing",
+  "Those same qualities are the elements", "Earth is hardness", "water is cohesion", "fire is heat", "wind is motion", "space is room",
+  "Already properties, not stuff", "What makes them seem solid", "into one body in here", "from the other side",
+  "hardens into the elements", "Untie that habit and nothing is lost", "vivid and unowned", "what Dzogchen calls the five lights",
+  "is what the rainbow body is about", "It is the beginning of the same path", "The lights are not a luminous stuff",
+  "nothing returns to a source", "first held solid, then recognised", "A disclaimer for this thread in particular",
+  "I do not claim that this is how orthodox Dzogchen", "Take it as my contemplation",
   // two frameworks
   "So I keep two frameworks apart", "The default framework is the conventional cutting itself", "We need it to speak",
   "Dependent arising lives here", "The inherent framework is the habit", "That is the matrix", "A habit of seeing",
@@ -622,6 +630,59 @@ const ReadingsScene: React.FC = () => {
   );
 };
 
+/** One thread: apple -> five elements -> the habit -> five lights -> rainbow body, with its own disclaimer. */
+const ThreadScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const disc = c("A disclaimer for this thread in particular");
+  const out = 1 - ramp(t, disc, 0.6);
+  const untie = c("Untie that habit and nothing is lost");
+  const els: [string, string, string, number][] = [
+    ["Earth is hardness", "earth · hardness", GOLD, 330],
+    ["water is cohesion", "water · cohesion", ICE, 645],
+    ["fire is heat", "fire · heat", ROSE, 960],
+    ["wind is motion", "wind · motion", TEAL, 1275],
+    ["space is room", "space · room", VIOLET, 1590],
+  ];
+  return (
+    <AbsoluteFill>
+      <At x={960} y={110} o={out}><Wd c={GOLD} s={44} serif>one thread</Wd></At>
+      <Items items={[
+        ["here I speak only for myself", 960, 180, <K c={DIM} s={24}>my own contemplation</K>, { until: "A disclaimer for this thread in particular" }],
+        ["Take the apple once more", 960, 300, <Wd c={CHALK} s={30}>the apple: hardness, coolness, red, weight, an arc</Wd>, { until: "What makes them seem solid" }],
+        ["designated as one thing", 960, 360, <K c={DIM} s={24}>appearing together, designated as one</K>, { until: "What makes them seem solid" }],
+        ["Already properties, not stuff", 960, 560, <Wd c={TEAL} s={28}>properties, not stuff</Wd>, { until: "What makes them seem solid" }],
+        ["What makes them seem solid", 960, 300, <SK c={ROSE} s={28} strikeAt={untie}>the habit: one thing out there, one body in here</SK>, { until: "A disclaimer for this thread in particular" }],
+        ["hardens into the elements", 960, 380, <K c={DIM} s={24}>display not recognised → hardens into elements → body and world</K>, { until: "Untie that habit and nothing is lost" }],
+        ["vivid and unowned", 960, 380, <Wd c={CHALK} s={28}>nothing lost: vivid and unowned</Wd>, { until: "A disclaimer for this thread in particular" }],
+        ["is what the rainbow body is about", 960, 580, <Wd c={GOLD} s={32} serif>recognised all the way through, the body included: the rainbow body</Wd>, { until: "It is the beginning of the same path" }],
+        ["It is the beginning of the same path", 960, 580, <Wd c={TEAL} s={30}>the wisdom of dependent arising: the beginning of the same path</Wd>, { until: "A disclaimer for this thread in particular" }],
+        ["The lights are not a luminous stuff", 960, 650, <K c={DIM} s={24}>not a luminous stuff · nothing condenses · nothing returns to a source</K>, { until: "A disclaimer for this thread in particular" }],
+        ["first held solid, then recognised", 960, 720, <Wd c={CHALK} s={28}>only appearing: first held solid, then recognised</Wd>, { until: "A disclaimer for this thread in particular" }],
+      ]} />
+      {els.map(([cue, label, col, x]) => {
+        const lit = ramp(t, c("what Dzogchen calls the five lights"), 0.8);
+        return (
+          <At key={cue} x={x} y={470} o={ramp(t, c(cue), 0.4) * out}>
+            <div style={{ position: "relative" }}>
+              <div style={{ position: "absolute", left: "50%", top: "50%", width: 150, height: 150, transform: "translate(-50%,-50%)", borderRadius: "50%", background: `radial-gradient(circle, ${col}88, transparent 70%)`, opacity: lit }} />
+              <K c={col} s={26}>{label}</K>
+            </div>
+          </At>
+        );
+      })}
+      <At x={960} y={470} o={ramp(t, c("what Dzogchen calls the five lights"), 0.6) * out} s={1}>
+        <div style={{ marginTop: 90 }}><Wd c={GOLD} s={28}>the five lights: the elements recognised as display</Wd></div>
+      </At>
+      <Items items={[
+        ["A disclaimer for this thread in particular", 960, 330, <Wd c={GOLD} s={34} serif>a disclaimer for this thread</Wd>],
+        ["I do not claim that this is how orthodox Dzogchen", 960, 440, <Wd c={CHALK} s={28}>not read put this way elsewhere; not claimed as orthodox Dzogchen</Wd>],
+        ["Take it as my contemplation", 960, 530, <Wd c={TEAL} s={28}>my contemplation, to be tested, not a teaching of any tradition</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const EndScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -660,6 +721,7 @@ export const Body: React.FC = () => {
     ["dependent arising does three kinds of work", "whole", <UsesScene />],
     ["Dependent arising is an enlightened view", "deep", <ViewScene />],
     ["Have a second thought", "doubt", <SecondScene />],
+    ["here I speak only for myself", "whole", <ThreadScene />],
     ["So I keep two frameworks apart", "search", <FrameworksScene />],
     ["even spontaneous presence can be understood within it", "jade", <PresenceScene />],
     ["Ignorance is not a power either", "deep", <IgnoranceScene />],
