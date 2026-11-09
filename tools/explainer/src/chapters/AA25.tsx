@@ -45,9 +45,10 @@ export const PHRASES = [
   "We live reading the matrix as inherent", "Things seem to stand by themselves", "Causes seem to push",
   "A self seems to sit behind the seeing", "It is a deep habit of seeing",
   // second thought
-  "Have a second thought", "If you think you do not think inherently", "Toss the apple again", "Do you first meet a hardness",
-  "and only then put", "Or is the solid apple simply there", "For almost all of us", "That is the habit at work",
-  "It is just the way things look", "So agreeing with dependent arising is not living in it", "We live in the confusion of thinking",
+  "Have a second thought", "If you think you do not think inherently", "Toss the apple again",
+  "Is the solid apple simply there", "For almost all of us", "That is the habit at work",
+  "It is just the way things look", "Do not swap it for a subtler picture", "with the name", "are no more given than the apple",
+  "The naming is part of the appearing", "The name and what it names", "So agreeing with dependent arising is not living in it", "We live in the confusion of thinking",
   "habitually and without knowing it", "is usually held the same way", "It is Feynman's quip again", "If you think you understand",
   // two frameworks
   "So I keep two frameworks apart", "The default framework is the conventional cutting itself", "We need it to speak",
@@ -362,8 +363,7 @@ const SecondScene: React.FC = () => {
   const { t, fps } = useT();
   const c = useCue();
   const toss = c("Toss the apple again");
-  const hard = c("Do you first meet a hardness");
-  const simply = c("Or is the solid apple simply there");
+  const simply = Math.max(c("Is the solid apple simply there"), toss + 2.4);
   const agree = c("So agreeing with dependent arising is not living in it");
   // the apple flies in an arc for 2.4 s, then rests in the middle
   const k = Math.min(1, Math.max(0, (t - toss) / 2.4));
@@ -384,13 +384,16 @@ const SecondScene: React.FC = () => {
         <Apple size={150} solid={!flying} />
       </At>
       <Items items={[
-        ["Do you first meet a hardness", 560, 720, <K c={DIM} s={26}>a hardness</K>, { until: "Or is the solid apple simply there" }],
-        ["Do you first meet a hardness", 820, 720, <K c={WARM} s={26}>a red</K>, { d: 0.7, until: "Or is the solid apple simply there" }],
-        ["Do you first meet a hardness", 1060, 720, <K c={ICE} s={26}>an arc</K>, { d: 1.3, until: "Or is the solid apple simply there" }],
-        ["and only then put", 1360, 720, <Wd c={GOLD} s={30}>then "apple"?</Wd>, { until: "Or is the solid apple simply there" }],
-        ["Or is the solid apple simply there", 960, 620, <Wd c={CHALK} s={34} serif>simply there, out there, before any thought</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
-        ["For almost all of us", 960, 700, <Wd c={DIM} s={28}>for almost all of us</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
-        ["That is the habit at work", 960, 770, <Wd c={ROSE} s={30}>the habit at work: it does not announce itself</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
+        ["Is the solid apple simply there", 960, 620, <Wd c={CHALK} s={34} serif>simply there, out there, before any thought?</Wd>, { until: "Do not swap it for a subtler picture" }],
+        ["For almost all of us", 960, 700, <Wd c={DIM} s={28}>for almost all of us, yes</Wd>, { until: "Do not swap it for a subtler picture" }],
+        ["That is the habit at work", 960, 770, <Wd c={ROSE} s={30}>the habit at work: it does not announce itself</Wd>, { until: "Do not swap it for a subtler picture" }],
+        ["Do not swap it for a subtler picture", 560, 640, <K c={DIM} s={26}>a hardness</K>, { until: "So agreeing with dependent arising is not living in it" }],
+        ["Do not swap it for a subtler picture", 820, 640, <K c={WARM} s={26}>a red</K>, { d: 0.5, until: "So agreeing with dependent arising is not living in it" }],
+        ["Do not swap it for a subtler picture", 1060, 640, <K c={ICE} s={26}>an arc</K>, { d: 1.0, until: "So agreeing with dependent arising is not living in it" }],
+        ["with the name", 1360, 640, <SK c={GOLD} s={26} strikeAt={c("are no more given than the apple")}>"apple" stuck on later</SK>, { until: "So agreeing with dependent arising is not living in it" }],
+        ["are no more given than the apple", 960, 720, <Wd c={ROSE} s={28}>no bare given underneath, waiting for a label</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
+        ["The naming is part of the appearing", 960, 780, <Wd c={TEAL} s={30}>the naming is part of the appearing, arising in dependence too</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
+        ["The name and what it names", 960, 840, <Wd c={GOLD} s={28}>name and named, designated together</Wd>, { until: "So agreeing with dependent arising is not living in it" }],
       ]} />
       <At x={960} y={280} o={ramp(t, c("That is the habit at work"), 0.5) * appleOut}><Wd c={ROSE} s={26}>solid, from its own side?</Wd></At>
       <Items items={[

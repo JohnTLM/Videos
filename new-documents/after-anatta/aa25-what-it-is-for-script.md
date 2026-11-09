@@ -52,9 +52,11 @@ We live reading the matrix as inherent. Things seem to stand by themselves. Caus
 
 Have a second thought. If you think you do not think inherently, have a second thought.
 
-Toss the apple again. Do you first meet a hardness, a red and an arc, and only then put "apple" on them? Or is the solid apple simply there, out there, before any thought at all?
+Toss the apple again. Is the solid apple simply there, out there, before any thought at all?
 
 For almost all of us, it is simply there. That is the habit at work. It does not announce itself. It is just the way things look.
+
+Do not swap it for a subtler picture either: a hardness, a red and an arc that are given first, with the name "apple" stuck on them later. The hardness, the red and the arc are no more given than the apple. Nothing bare waits underneath for a label. The naming is part of the appearing, arising in dependence like the rest. The name and what it names are designated together.
 
 So agreeing with dependent arising is not living in it. We do not live in the wisdom of dependent arising. We live in the confusion of thinking, analysing and orienting ourselves with inherent thoughts, habitually and without knowing it.
 
