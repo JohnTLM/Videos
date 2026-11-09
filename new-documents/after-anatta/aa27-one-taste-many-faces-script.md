@@ -1,7 +1,7 @@
 ---
 chapter: 27
 label: After Anatta · Dependent Arising
-title: "One Taste, Many Faces"
+title: "Part 5 of 6: One Taste, Many Faces"
 series: "After Anatta · Dependent Arising: If You Think You Understand, You Don't (Part 5 of 6)"
 source: EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, as of 2026-11-08), sections 12 to 16 and Try it; notebooklm-parts/part-5-one-taste-many-faces
 source_words: 6338

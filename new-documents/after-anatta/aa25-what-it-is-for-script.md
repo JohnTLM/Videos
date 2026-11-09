@@ -1,7 +1,7 @@
 ---
 chapter: 25
-label: After Anatta · Explorations
-title: "Dependent Arising, Part 3 of 6: What It Is For"
+label: After Anatta · Dependent Arising
+title: "Part 3 of 6: What It Is For"
 series: "After Anatta · Explorations"
 source: EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, "Dependent Arising: If You Think You Understand, You Don't", as of 2026-11-08), sections 7 to 10; notebooklm-parts/part-3-what-it-is-for
 intro: yes
