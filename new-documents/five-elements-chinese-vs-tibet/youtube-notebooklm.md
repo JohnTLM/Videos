@@ -21,7 +21,6 @@ Chinese five?"
 
 ## Description
 
-```
 A cinematic overview of my article "5 Elements: Chinese vs Tibet", made with NotebookLM from the article and a briefing I wrote for it.
 
 Read the article: https://atr-passerby.com/five-elements/
@@ -33,7 +32,6 @@ The voices are NotebookLM's. The article is the authority: where the overview sa
 John Tan (Thusness) · atr-passerby.com
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
-```
 
 ## Tags
 
