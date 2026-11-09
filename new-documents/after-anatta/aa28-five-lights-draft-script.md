@@ -1,0 +1,77 @@
+---
+chapter: 28
+label: After Anatta · Dependent Arising
+title: "Part 6 of 6, a draft: Five Elements, Five Lights, Rainbow Body"
+series: "After Anatta · Explorations"
+part: "Part 6 of 6, a draft, of Dependent Arising: If You Think You Understand, You Don't (section 17)"
+status: "DRAFT, not for publishing. A private test video for the owner only. Never upload, publish or put it on the site without his word (owner, 2026-11-08: section 17 stays a draft)."
+source: EBooks Bonus Articles/dependent-arising-and-designation, section 17 (draft); notebooklm-parts/draft-section-17-five-lights (prompts and sources)
+source_words: 1640
+script_words: 1605
+intro: yes
+voice: male
+---
+
+# Five Elements, Five Lights, Rainbow Body
+
+This is Part 6 of 6, a draft: Five elements, five lights, rainbow body.
+
+This is After Anatta: notes by John Tan, known as Thusness.
+
+Before anything else, a note. This part is a draft, and I do not wish it to be published yet. It comes from my own contemplation, over many years. I have not read these links put this way anywhere else. And I do not claim that this is how orthodox Dzogchen states them. So please read it as my contemplation, to be tested. Not as a teaching of the tradition.
+
+It is simply where many years of refinement have brought me: to see how these things are linked. What makes the links visible, for me, is holding three things together. The history: how the Indian five elements, the Chinese five, and the five lights came to sit side by side in Tibet. The method of practice: trekchö and thögal, and the logic that unties the habit. And the view: dependent arising, with emptiness never a ground.
+
+That is why I made the videos on inner winds and the subtle body, and on the five elements, Chinese and Tibetan. And the five parts before this one. If we live in the wisdom of dependent arising, something more can be recognised in time. The elements the apple was held to are recognised as the five lights. That is what the rainbow body is about. For me, this is where the pieces fall into place.
+
+So let me go step by step, from the apple.
+
+Step one, the apple. Toss an apple and catch it. It feels like one solid thing, out there. But where exactly is it? Is it the red I see? The press on my palm? The weight, the arc through the air? Is it any one of these, all of them together, or something behind them? Look for that solid apple, and it is never found. What is there is hardness, coolness, red, weight, and the arc of the toss. They are met together, and designated as one thing.
+
+The apple still works perfectly in the hand. It follows gravity. Yet it has no apple-ness inside it, and no substrate under it. And the hardness and the motion are not a bottom layer either. They are designated too. That is dependent arising, in one ordinary moment.
+
+Step two, the five elements. Those same qualities are the elements, read the Indian way. Earth is hardness. Water is cohesion. Fire is heat. Wind is motion. And space is room. In the old Buddhist analysis, the Abhidharma, they are already properties, not stuff. So the elements are not a second topic. They are the apple's appearings, given names.
+
+Step three, the habit. What makes them seem solid is the knot. It is the habit of tying those appearings into one thing out there, and into one body in here. Dzogchen describes the same moment from the other side. The display, not recognised, is taken as other, and hardens into the elements. From the elements come the body and the world. So the ordinary body is light not recognised.
+
+Step four, the five lights. Untie the knot, and nothing is lost. Hardness, warmth and motion remain, vivid and unowned. That vivid, unfound appearing is what Dzogchen calls the five lights. The elements, recognised as display.
+
+Step five, the rainbow body. That recognition, carried all the way through, the body included, is the rainbow body in its essence. It is a realization. What happens to the corpse is only a sign.
+
+So the apple is the whole path in small. Holding the apple solid is where saṃsāra starts. Seeing through it is where the rainbow body begins.
+
+The key is the middle step. The habit that makes the apple solid is the same habit that makes the lights harden into the elements. So the wisdom of dependent arising, which undoes that habit, is not a different path from the rainbow body. It is the beginning of the same path.
+
+Put the apple beside the five lights, and they are one movement, described twice. What Dzogchen calls the display taken as other, condensing into elements and a solid body, is what I call the knot. It is the habit of the inherent framework, tying separate appearings into one thing out there. As if hardness, red and sweetness belonged to a hidden core. In the five aggregates, the knot is the formations aggregate. It is the grasping that hardens the lights.
+
+Untie the knot, and nothing is lost. Just this hardness, this red, this coolness, this sweetness. Vivid, appearing as their conditions come together. That is the apple seen as display: many unmixed streams of vivid appearing, with nothing owning them. Dzogchen would say the five lights. I say: just this, vivid and light.
+
+Now, what reasoning can show, and what it cannot. Steps one to three can be checked by reasoning. The apple is not found. The elements are qualities of appearing. And the habit is what ties them into a thing. Steps four and five are a matter of realization, not argument. Reasoning can point to them. It cannot test them. That is why I hold this section as contemplation, to be tested in practice.
+
+Why does the wisdom of dependent arising come first? Because the habit is what hardens the lights, and the habit is exactly what that wisdom undoes. So living in it is not a step beside the rainbow body. It is the way towards it. While we still think, analyse and orient ourselves inherently, the elements stay solid, however much we hear about light. When appearing is seen as dependent arising, vivid and unfindable, the solidity has nothing left to rest on. Then the recognition of the lights becomes natural.
+
+Dzogchen has two practices here. Trekchö, cutting through, frees the mind from grasping. Thögal, direct crossing, recognises the appearing side, the display, through and through. Both are the same knot coming untied. Once from the side of the mind, and once from the side of appearance.
+
+And this is why the view of Dzogchen becomes clear. Without dependent arising, its words are easily heard the wrong way. The five lights sound like a shining substance. The ground sounds like a source they condense out of. The rainbow body sounds like a body turning into light. And practice sounds like unfreezing frozen energy.
+
+With dependent arising, every one of these falls away. The essence of the ground is primordial purity, ka dag. That is, emptiness. Longchenpa calls it a groundless ground. The lights are its display, with nothing behind them. Condensing into the elements names how appearing is taken, not a stuff turning solid. And spontaneous presence is dependent arising seen without the habit of fixing. It is never uncaused. So nothing condenses, and nothing needs to be unfrozen. There was only a deep habit of seeing in an inherent way.
+
+So each word has a way it is misheard, and a way it is seen. Dependent arising is misheard as a web or a machine behind things. Seen, it is the wisdom that unties the knot. The five elements are misheard as five kinds of stuff. Seen, they are qualities of appearing. The five lights are misheard as a luminous substance underneath. Seen, they are the clarity of appearing, as empty as what appears. And the rainbow body is misheard as a goal. Seen, it is a realization.
+
+Four guards keep this from going wrong.
+
+First, the lights are not a stuff. "The aggregates are made of light" is easily heard as light lying underneath them. That is a substrate again. Clarity is the knowing clarity of appearing, never absent, and as empty as everything else. The five lights name that clarity in five qualities. The error is lifting it out of what appears, and making it a thing.
+
+Second, nothing returns to a source. Recognising the lights is not going back into a luminous ground. Nothing is produced either. When the conditions that kept the elements coarse no longer come together, the coarse body no longer appears as coarse. That is dependent arising too.
+
+Third, the colour tables are maps. Which element goes with which colour, aggregate or wisdom changes from text to text. Any single table is one lineage's pairing for practice. It is not a chart of what the world is made of.
+
+Fourth, it is not the measure of insight, and not a goal to grasp. Insight is measured by the freedom of the mind, not by what happens to the body. Many great masters left ordinary bodies. To practise for a body of light is still to practise for something. The reports of bodies shrinking cannot be checked. And a shrinking body is not by itself a rainbow body.
+
+So the thread runs one way, and it is one seeing. The wisdom of dependent arising unties the habit. The elements are no longer held as solid. They are recognised as the five lights. And that recognition, all the way through, is what the rainbow body means. In essence, a realization, not a goal.
+
+All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. And this part, once more, is a draft.
+
+Pick up an apple, or just picture one. Feel its weight. Look for the solid apple behind the red and the press on your palm. It is not found, and the apple is still right here, working.
+
+That one moment holds the whole thread. If you think you understand it, keep looking.
