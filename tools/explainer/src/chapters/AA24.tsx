@@ -1,4 +1,4 @@
-// After Anatta · Explorations: Dependent Arising, Part 2 of 6: What It Is
+// After Anatta · Dependent Arising: Part 2 of 6: What It Is
 // (EBooks Bonus Articles/dependent-arising-and-designation, "Dependent Arising: If You Think You Understand, You Don't",
 // sections 1 to 5; notebooklm-parts/part-2-what-it-is).
 // Arc: Part 1 recalled (apple, mountain) -> five mishearings -> what it says: the bell, these conditions met, no power in
