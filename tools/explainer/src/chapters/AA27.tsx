@@ -475,13 +475,13 @@ const UnbornScene: React.FC = () => {
         ["says spontaneous presence is not made by causes and conditions", 560, 250, <K c={VIOLET} s={26}>not made by causes and conditions</K>, { d: 0.6 }],
         ["praises dependent arising as without arising", 1360, 160, <Wd c={TEAL} s={32} serif>Madhyamaka</Wd>],
         ["praises dependent arising as without arising", 1360, 250, <K c={TEAL} s={26}>without arising, without ceasing</K>, { d: 0.6 }],
-        ["whatever is born from conditions is unborn", 1360, 340, <Wd c={DIM} s={24}>"whatever is born from conditions is unborn"</Wd>],
+        ["whatever is born from conditions is unborn", 1360, 320, <Wd c={DIM} s={24}>"whatever is born from conditions is unborn"</Wd>],
         ["means unborn by nature", 960, 460, <Wd c={GOLD} s={48} serif>unborn by nature</Wd>],
         ["Appearing through conditions, yet nothing produced", 960, 560, <K c={GOLD} s={26}>through conditions, always · no maker · no birth from its own side</K>],
         ["I part only from a reading", 960, 670, <SK c={DIM} s={26} strikeAt={c("I part only from a reading") + 2.5}>an unconditioned ground</SK>],
         ["ground as empty", 960, 770, <Wd c={CHALK} s={28}>the ground read as empty</Wd>],
       ]} />
-      <At x={960} y={360} o={ramp(t, c("Here the equation I make most often"), 0.5)}><Wd c={CHALK} s={28}>dependent arising = spontaneous presence</Wd></At>
+      <At x={960} y={395} o={ramp(t, c("Here the equation I make most often"), 0.5) * (1 - ramp(t, c("means unborn by nature"), 0.4))}><Wd c={CHALK} s={28}>dependent arising = spontaneous presence</Wd></At>
     </AbsoluteFill>
   );
 };
