@@ -54,10 +54,10 @@ export const PHRASES = [
   "here I speak only for myself", "something more can be recognised in time", "Take the apple once more", "designated as one thing",
   "Those same qualities are the elements", "Earth is hardness", "water is cohesion", "fire is heat", "wind is motion", "space is room",
   "Already properties, not stuff", "What makes them seem solid", "into one body in here", "from the other side",
-  "hardens into the elements", "Untie that habit and nothing is lost", "vivid and unowned", "what Dzogchen calls the five lights",
+  "hardens into the elements", "Untie that habit and nothing is lost", "vivid and unowned", "calls the five lights",
   "is what the rainbow body is about", "It is the beginning of the same path", "The lights are not a luminous stuff",
   "nothing returns to a source", "first held solid, then recognised", "A disclaimer for this thread in particular",
-  "I do not claim that this is how orthodox Dzogchen", "Take it as my contemplation",
+  "I do not claim that this is how orthodox", "Take it as my contemplation",
   // two frameworks
   "So I keep two frameworks apart", "The default framework is the conventional cutting itself", "We need it to speak",
   "Dependent arising lives here", "The inherent framework is the habit", "That is the matrix", "A habit of seeing",
@@ -661,7 +661,7 @@ const ThreadScene: React.FC = () => {
         ["first held solid, then recognised", 960, 720, <Wd c={CHALK} s={28}>only appearing: first held solid, then recognised</Wd>, { until: "A disclaimer for this thread in particular" }],
       ]} />
       {els.map(([cue, label, col, x]) => {
-        const lit = ramp(t, c("what Dzogchen calls the five lights"), 0.8);
+        const lit = ramp(t, c("calls the five lights"), 0.8);
         return (
           <At key={cue} x={x} y={470} o={ramp(t, c(cue), 0.4) * out}>
             <div style={{ position: "relative" }}>
@@ -671,12 +671,12 @@ const ThreadScene: React.FC = () => {
           </At>
         );
       })}
-      <At x={960} y={470} o={ramp(t, c("what Dzogchen calls the five lights"), 0.6) * out} s={1}>
+      <At x={960} y={470} o={ramp(t, c("calls the five lights"), 0.6) * out} s={1}>
         <div style={{ marginTop: 90 }}><Wd c={GOLD} s={28}>the five lights: the elements recognised as display</Wd></div>
       </At>
       <Items items={[
         ["A disclaimer for this thread in particular", 960, 330, <Wd c={GOLD} s={34} serif>a disclaimer for this thread</Wd>],
-        ["I do not claim that this is how orthodox Dzogchen", 960, 440, <Wd c={CHALK} s={28}>not read put this way elsewhere; not claimed as orthodox Dzogchen</Wd>],
+        ["I do not claim that this is how orthodox", 960, 440, <Wd c={CHALK} s={28}>not read put this way elsewhere; not claimed as orthodox Dzogchen</Wd>],
         ["Take it as my contemplation", 960, 530, <Wd c={TEAL} s={28}>my contemplation, to be tested, not a teaching of any tradition</Wd>],
       ]} />
     </AbsoluteFill>
