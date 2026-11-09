@@ -42,7 +42,7 @@ export const PHRASES = [
   "Step three, the habit", "What makes them seem solid is the knot", "into one thing out there, and into one body in here",
   "describes the same moment from the other side", "The display, not recognised, is taken as other",
   "From the elements come the body and the world", "So the ordinary body is light not recognised",
-  "Step four, the five lights", "Untie the knot, and nothing is lost", "Hardness, warmth and motion remain, vivid and unowned",
+  "Step four, the five lights", "five lights. Untie the knot, and nothing is lost", "Hardness, warmth and motion remain, vivid and unowned",
   "That vivid, unfound appearing is what", "The elements, recognised as display",
   "Step five, the rainbow body", "carried all the way through, the body included", "It is a realization",
   "What happens to the corpse is only a sign",
@@ -367,7 +367,7 @@ const StepsScene: React.FC = () => {
         const x = 560 + i * 200;
         const sway = Math.sin(t * 1.3 + i) * 6;
         return (
-          <At key={q} x={x} y={500} o={w4 * ramp(t, c("Untie the knot, and nothing is lost") + 0.25 * i, 0.6)}>
+          <At key={q} x={x} y={500} o={w4 * ramp(t, c("five lights. Untie the knot, and nothing is lost") + 0.25 * i, 0.6)}>
             <div style={{ width: 26, height: 200, borderRadius: 13, transform: `translateX(${sway}px)`,
               background: `linear-gradient(180deg, transparent, ${col}, transparent)`, boxShadow: `0 0 26px ${col}` }} />
             <div style={{ marginTop: 14 }}><Wd c={col} s={26}>{q}</Wd></div>
@@ -375,7 +375,7 @@ const StepsScene: React.FC = () => {
         );
       })}
       <Items items={[
-        ["Untie the knot, and nothing is lost", 960, 340, <Wd c={CHALK} s={30}>untied: nothing is lost</Wd>, { until: "Step five, the rainbow body" }],
+        ["five lights. Untie the knot, and nothing is lost", 960, 340, <Wd c={CHALK} s={30}>untied: nothing is lost</Wd>, { until: "Step five, the rainbow body" }],
         ["Hardness, warmth and motion remain, vivid and unowned", 960, 700, <Wd c={TEAL} s={30}>vivid, unowned, unfound; nothing behind</Wd>, { until: "Step five, the rainbow body" }],
         ["The elements, recognised as display", 960, 790, <Wd c={GOLD} s={34} serif>the five lights: the elements recognised as display</Wd>, { until: "Step five, the rainbow body" }],
       ]} />
