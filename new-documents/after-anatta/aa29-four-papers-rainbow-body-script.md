@@ -8,7 +8,7 @@ source_words: 13900
 script_words: 1848
 intro: yes
 voice: male
-status: draft for the owner's approval (2026-11-14)
+status: approved by the owner (2026-11-14); built 12:19
 ---
 
 # Rainbow Body: Four Papers, Read with Emptiness
