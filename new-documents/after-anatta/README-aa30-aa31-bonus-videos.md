@@ -8,7 +8,7 @@
 | Drawings | `tools/explainer/src/chapters/AA30.tsx` | `tools/explainer/src/chapters/AA31.tsx` |
 | Length | 10:46 | 12:37 |
 | YouTube texts | `youtube-bonus-aa30.md` | not yet |
-| Status | Uploaded by the owner (2026-11-20), then made public; YouTube id: *(the server records it here)* | Built; not uploaded |
+| Status | The 10:46 build is not uploaded. On YouTube instead: the owner's NotebookLM version with the same content, `Wmecpti2j4s` (8:44, unlisted, uploaded 2026-11-20), texts from `youtube-bonus-aa30-notebooklm.md` (no chapter times), in Bonus Articles (server, 2026-11-20) | Built; not uploaded |
 
 - Scripts written in the cloud session "Video for 2 articles"; the owner said "finish both and go ahead generate the
   videos" (2026-11-20). Label `Bonus article` (spoken "Bonus article. <title>.").
