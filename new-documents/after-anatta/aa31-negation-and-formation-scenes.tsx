@@ -1,5 +1,8 @@
 // Bonus article: Negation and Formation: The Two Halves (AA31).
 // (EBooks Bonus Articles/negation-and-formation, draft of 2026-11-20.)
+// Revised 2026-11-21: steps 1-5 of the turn (no "what", the "it" slips in, the "it" is formed) and the new
+// section 7 (the "it" is never needed; no leap into silence; Buddha DN 9 and SN 1.25, Tsongkhapa, Dogen's painted
+// rice cake).
 // Arc: four questions, one shape -> two halves (eraser and chalk) -> the "undeniable" is a framework -> "The wind
 // blows" loses its bearer -> the flashing is the lightning; no unnamed floor -> physics points, logic decides -> three
 // braided strands: experience (and its limit: a hidden ground, struck), tools (chariot; pure negation; subtler
@@ -13,7 +16,7 @@
 import React from "react";
 import { AbsoluteFill } from "remotion";
 import {
-  At, Background, Bokeh, Chip, CHALK, DIM, DrawPath, GOLD, Glow, GREEN, Hand, ICE, IceCube, Mood, ROSE,
+  At, Background, Flow, PictureFrame, Svg, Bokeh, Chip, CHALK, DIM, DrawPath, GOLD, Glow, GREEN, Hand, ICE, IceCube, Mood, ROSE,
   Scene, Strike, TEAL, VIOLET, WARM, pop, ramp, useCue, useT,
 } from "../lib";
 
@@ -60,8 +63,22 @@ export const PHRASES = [
   "What is left is not a special state to be guarded", "Trying to keep it would bring the fixing back",
   "mind and matter lose their felt weight", "They become light, vivid, and workable",
   // the turn
-  "And here is the turn", "Relentless negation alone is only half the story", "If I stop there, I am left wondering",
-  "then what are they", "The other half is formation",
+  "And here is the turn", "Relentless negation alone is only half the story", "But there is a trap at exactly this point",
+  "then what are they", "That question is the old view, still running",
+  // steps one to three
+  "Step one. There is no substrate", "No thing, no substance, no bearer", "Not as a ground of mind",
+  "Step two. So the question, what is it, is invalid", "Take that something away", "The question was never valid",
+  "Step three. So the eight extremes do not apply", "Does it arise, or cease", "Is it permanent, or annihilated",
+  "Does it come, or go", "Is it the same, or different", "They belong to the inherent view",
+  "And the middle way is not a middle answer between them",
+  // steps four and five
+  "Step four. Watch the it slip in", "Even the question, how does it form, can carry the old view", "It is supplied",
+  "A grammatical ghost", "It arises", "It forms", "It lasts", "It ends", "This is the same habit as the self",
+  "Only seeing the habit does", "Step five. The it is what is formed, not what forms",
+  "Formation does not happen to a thing", "The cup formed on the potter's wheel is valid",
+  // the test
+  "Try it. Hold anything", "Notice the pull to ask, what is this, really", "Drop the it, not the cup",
+  "And I still call it the cup", "That is the other half: formation",
   // three features
   "In this view, a phenomenon is a vivid appearing", "Every appearance has three features",
   "It is vivid and clear", "A sound is clear as sound", "No witness behind it is needed",
@@ -101,6 +118,33 @@ export const PHRASES = [
   "And if they merged, they would collapse into one", "In dependent arising, meeting means something else",
   "The two sides define each other in one stroke", "A hand touches ice", "with no gap crossed, and no fusion",
   "And the meeting itself is not a third thing",
+  // never needed
+  "Looking back over all these articles", "The it is never needed", "Not in experience", "Not in formation",
+  "Not in causes", "Not in functioning", "Not in continuity", "Not in the meeting",
+  "And so there is no it to undergo the eight extremes", "They are invalid questions",
+  // the gap and the leap
+  "Many teachers, rightly, say the eight extremes do not apply", "But it is often said with a large gap",
+  "It is not shown why they do not apply", "Nor is it shown how the world still works without it",
+  "Then the gap is crossed by a leap", "Silence, as the final answer", "I do not take that route",
+  "Silence keeps the it, only out of reach", "The habit only rests", "And conventions are left unexplained",
+  "the final it, behind appearances", "at its best does not stop at silence",
+  "spontaneous presence is dependent arising met without fixing", "Where I part is from a presentation of the leap",
+  // freedom in conventions
+  "Speech was never the problem", "The it heard in it was", "They are used freely, and they work",
+  "The conventional is not a lower floor to leave behind", "The ultimate is not a silence to leap into",
+  "They are one appearing",
+  // the Buddha
+  "The Buddha said it plainly", "Milk becomes curds", "While it is milk, it is not called curds",
+  "Nothing is carried, yet each name is right in its time", "These are the world's common usages",
+  "Even the first it, the I, is used this way", "One who is fully freed still says, I speak",
+  "they use these terms as mere expressions",
+  // Tsongkhapa
+  "makes the same point as method", "As long as appearance and emptiness seem separate", "No leap beyond it",
+  // the painted rice cake
+  "And the one who sees it most clearly, for me, is", "The old saying runs", "a painted rice cake does not satisfy hunger",
+  "turns it over", "There is no remedy for satisfying hunger other than painted rice cakes",
+  "Without painted hunger, you never become a true person", "There is no unpainted cake behind the painting",
+  "No it behind the convention", "It feeds",
   // end
   "So, with both halves in place, what has changed", "Nothing has been taken away from the world",
   "And no new ground has been added", "The apple is still red", "The car is still dangerous",
@@ -444,13 +488,100 @@ const LooseningScene: React.FC = () => {
   );
 };
 
+const IT: React.FC<{ s?: number; c?: string }> = ({ s = 34, c = WARM }) => <Wd c={c} s={s} serif>"it"</Wd>;
+const EXTREMES = ["arising", "ceasing", "permanence", "annihilation", "coming", "going", "same", "different"];
+
 const TurnScene: React.FC = () => (
   <AbsoluteFill>
     <Items items={[
-      ["Relentless negation alone is only half the story", 960, 300, <Wd c={WARM} s={66} serif>Negation is only half.</Wd>, { pop: true }],
-      ["then what are they", 960, 450, <Wd c={CHALK} s={40} serif>If these vivid appearances are not things, what are they?</Wd>],
-      ["The other half is formation", 960, 620, <Wd c={GREEN} s={66} serif>Formation</Wd>, { pop: true }],
-      ["The other half is formation", 960, 730, <Wd c={DIM} s={30}>how a world empty of essence appears vivid, stable and workable</Wd>, { d: 1 }],
+      ["Relentless negation alone is only half the story", 960, 220, <Wd c={WARM} s={62} serif>Negation is only half.</Wd>, { pop: true }],
+      ["But there is a trap at exactly this point", 960, 340, <K c={ROSE} s={32}>a trap, right here</K>],
+      ["then what are they", 960, 500, <SK c={CHALK} s={40} at="That question is the old view, still running">If not things, then what are they?</SK>],
+      ["That question is the old view, still running", 960, 650, <Wd c={DIM} s={32}>the old view, still running: see through it, do not answer it</Wd>, { d: 0.8 }],
+    ]} />
+  </AbsoluteFill>
+);
+
+const StepsScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const all = c("Step three. So the eight extremes do not apply") + 0.4;
+  const struck = c("They belong to the inherent view");
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["Step one. There is no substrate", 330, 130, <K c={GOLD} s={30}>1 · no substrate</K>, { pop: true }],
+        ["No thing, no substance, no bearer", 330, 230, <SK c={DIM} s={26} at="No thing, no substance, no bearer">thing · substance · bearer</SK>],
+        ["Not as a ground of mind", 330, 310, <SK c={DIM} s={26} at="Not as a ground of mind">a ground of mind, energy, awareness</SK>],
+        ["Step two. So the question, what is it, is invalid", 960, 130, <K c={GOLD} s={30}>2 · "what is it?" is invalid</K>, { pop: true }],
+        ["Take that something away", 960, 240, <SK c={CHALK} s={40} at="Take that something away">What is it?</SK>],
+        ["The question was never valid", 960, 330, <Wd c={DIM} s={26}>not hidden · not nothing · not beyond words</Wd>],
+        ["Step three. So the eight extremes do not apply", 1590, 130, <K c={GOLD} s={30}>3 · the eight extremes do not apply</K>, { pop: true }],
+      ]} />
+      {EXTREMES.map((w, i) => (
+        <At key={w} x={330 + (i % 4) * 420} y={490 + Math.floor(i / 4) * 110} o={ramp(t, all + i * 0.25, 0.4)}>
+          <div style={{ position: "relative" }}><Chip color={ICE} size={30}>{w}?</Chip><Strike at={struck} /></div>
+        </At>
+      ))}
+      <Items items={[
+        ["They belong to the inherent view", 960, 740, <Wd c={WARM} s={30}>questions of the inherent view: all invalid at once</Wd>],
+        ["And the middle way is not a middle answer between them", 960, 810, <Wd c={DIM} s={26}>the middle way is not a middle answer</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const ItScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const five = c("Step five. The it is what is formed, not what forms");
+  const verbs = ["It arises", "It forms", "It lasts", "It ends"];
+  const conds = ["clay", "wheel", "fire", "hand", "use", "name"];
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["Step four. Watch the it slip in", 960, 110, <K c={GOLD} s={30}>4 · watch the "it" slip in</K>, { pop: true, until: "Step five. The it is what is formed, not what forms" }],
+        ["Even the question, how does it form, can carry the old view", 960, 220, <Wd c={CHALK} s={40} serif>How does <span style={{ color: WARM }}>it</span> form?</Wd>, { until: "Step five. The it is what is formed, not what forms" }],
+        ["It is supplied", 560, 340, <K c={ROSE} s={28}>supplied, never seen</K>, { until: "Step five. The it is what is formed, not what forms" }],
+        ["A grammatical ghost", 1360, 340, <K c={VIOLET} s={28}>a grammatical ghost</K>, { until: "Step five. The it is what is formed, not what forms" }],
+      ]} />
+      {verbs.map((v, i) => (
+        <At key={v} x={420 + i * 360} y={470} o={ramp(t, c(v), 0.4) * (1 - ramp(t, five, 0.4))}>
+          <Wd c={CHALK} s={34}><span style={{ color: WARM }}>it</span> {v.slice(3)}</Wd>
+        </At>
+      ))}
+      <Items items={[
+        ["This is the same habit as the self", 960, 600, <Wd c={DIM} s={30}>the same habit as the self: a knower behind the knowing</Wd>, { until: "Step five. The it is what is formed, not what forms" }],
+        ["Only seeing the habit does", 960, 680, <K c={GREEN} s={28}>only seeing the habit removes it</K>, { until: "Step five. The it is what is formed, not what forms" }],
+        ["Step five. The it is what is formed, not what forms", 960, 110, <K c={GOLD} s={30}>5 · the "it" is what is formed, not what forms</K>, { pop: true }],
+      ]} />
+      {conds.map((w, i) => {
+        const a = (i / conds.length) * Math.PI * 2 - Math.PI / 2;
+        const x = 960 + Math.cos(a) * 330, y = 470 + Math.sin(a) * 220;
+        const p = ramp(t, c("Formation does not happen to a thing") + i * 0.3, 0.6);
+        return (
+          <React.Fragment key={w}>
+            <Flow x1={x} y1={y} x2={960 + (x - 960) * 0.35} y2={470 + (y - 470) * 0.35} color={GREEN} p={p} width={2} />
+            <At x={x} y={y} o={p}><Chip color={GREEN} size={26}>{w}</Chip></At>
+          </React.Fragment>
+        );
+      })}
+      <Items items={[
+        ["Formation does not happen to a thing", 960, 470, <Wd c={GOLD} s={44} serif>"the cup"</Wd>, { d: 2 }],
+        ["The cup formed on the potter's wheel is valid", 960, 790, <Wd c={DIM} s={28}>named in the forming, with its conditions; not found apart from them</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const TestScene: React.FC = () => (
+  <AbsoluteFill>
+    <Items items={[
+      ["Try it. Hold anything", 960, 150, <Wd c={CHALK} s={44} serif>Try it</Wd>],
+      ["Notice the pull to ask, what is this, really", 960, 300, <SK c={CHALK} s={36} at="Drop the it, not the cup">What is this, really?</SK>],
+      ["Drop the it, not the cup", 960, 440, <Wd c={GOLD} s={52} serif>Drop the "it", not the cup.</Wd>, { pop: true }],
+      ["And I still call it the cup", 960, 570, <Wd c={DIM} s={30}>still here, vivid and working, still called "the cup"</Wd>],
+      ["That is the other half: formation", 960, 700, <Wd c={GREEN} s={56} serif>Formation</Wd>, { pop: true }],
     ]} />
   </AbsoluteFill>
 );
@@ -638,6 +769,151 @@ const MeetingScene: React.FC = () => {
   );
 };
 
+const NeverScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const rows = ["Not in experience", "Not in formation", "Not in causes", "Not in functioning", "Not in continuity", "Not in the meeting"];
+  const labels = ["experience", "formation", "causes", "functioning", "continuity", "the meeting"];
+  const ex = c("And so there is no it to undergo the eight extremes");
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["The it is never needed", 960, 120, <Wd c={GOLD} s={56} serif>The "it" is never needed</Wd>, { pop: true }],
+      ]} />
+      {rows.map((r, i) => (
+        <At key={r} x={420 + (i % 3) * 540} y={270 + Math.floor(i / 3) * 110} o={ramp(t, c(r), 0.4)}>
+          <Chip color={GREEN} size={30}>not in {labels[i]}</Chip>
+        </At>
+      ))}
+      {EXTREMES.map((w, i) => (
+        <At key={w} x={330 + (i % 4) * 420} y={560 + Math.floor(i / 4) * 90} o={ramp(t, ex + 0.5 + i * 0.15, 0.4)}>
+          <div style={{ position: "relative" }}><Chip color={DIM} size={26}>{w}?</Chip><Strike at={c("They are invalid questions")} /></div>
+        </At>
+      ))}
+      <Items items={[
+        ["They are invalid questions", 960, 800, <Wd c={WARM} s={32}>no "it" to undergo them: not false answers, invalid questions</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const LeapScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const leap = c("Then the gap is crossed by a leap");
+  const p = ramp(t, leap, 1.5);
+  const reasons = c("I do not take that route");
+  return (
+    <AbsoluteFill>
+      <div style={{ opacity: 1 - ramp(t, reasons, 0.5) }}>
+        <Items items={[
+          ["Many teachers, rightly, say the eight extremes do not apply", 380, 220, <Box c={ICE} w={480} title="Extremes do not apply" sub="said rightly" />, { pop: true }],
+          ["But it is often said with a large gap", 960, 420, <Wd c={DIM} s={30}>· · · a large gap · · ·</Wd>],
+          ["It is not shown why they do not apply", 960, 520, <K c={ROSE} s={28}>why? the "it" was never there</K>],
+          ["Nor is it shown how the world still works without it", 960, 600, <K c={ROSE} s={28}>how does the world still work?</K>],
+          ["Silence, as the final answer", 1540, 220, <Box c={VIOLET} w={480} title="Spontaneous presence" sub="as the end of all speech" />, { pop: true }],
+        ]} />
+        <Svg><DrawPath d="M620 260 Q960 -40 1300 260" p={p} color={GOLD} width={4} len={900} /></Svg>
+      </div>
+      <Items items={[
+        ["I do not take that route", 960, 140, <Wd c={CHALK} s={44} serif>Why I do not take the leap</Wd>],
+        ["Silence keeps the it, only out of reach", 960, 280, <K c={WARM} s={30}>silence keeps the "it", only out of reach</K>],
+        ["The habit only rests", 960, 380, <K c={WARM} s={30}>the habit only rests, and slips back</K>],
+        ["And conventions are left unexplained", 960, 480, <K c={WARM} s={30}>conventions left unexplained</K>],
+        ["the final it, behind appearances", 960, 560, <SK c={DIM} s={26} at="at its best does not stop at silence">presence as a ground: the final "it"</SK>],
+        ["at its best does not stop at silence", 960, 680, <Wd c={GREEN} s={30}>Dzogchen at its best, read with Mipham: the two truths stay one</Wd>],
+        ["Where I part is from a presentation of the leap", 960, 770, <Wd c={DIM} s={26}>I part only from the leap as the end of speech</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const SpeechScene: React.FC = () => (
+  <AbsoluteFill>
+    <Items items={[
+      ["Speech was never the problem", 960, 170, <Wd c={CHALK} s={50} serif>Speech was never the problem.</Wd>, { pop: true }],
+      ["The it heard in it was", 960, 280, <Wd c={WARM} s={40} serif>The "it" heard in it was.</Wd>],
+      ["They are used freely, and they work", 960, 390, <K c={GREEN} s={30}>words and names, used freely, working</K>],
+      ["The conventional is not a lower floor to leave behind", 560, 540, <SK c={DIM} s={28} at="They are one appearing">conventional: a lower floor</SK>],
+      ["The ultimate is not a silence to leap into", 1360, 540, <SK c={DIM} s={28} at="They are one appearing">ultimate: a silence beyond</SK>],
+      ["They are one appearing", 960, 690, <Wd c={GOLD} s={48} serif>one appearing: named, and not found</Wd>, { pop: true }],
+    ]} />
+  </AbsoluteFill>
+);
+
+const MilkScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const stages = ["milk", "curds", "butter", "ghee"];
+  const m = c("Milk becomes curds");
+  return (
+    <AbsoluteFill>
+      <Items items={[["The Buddha said it plainly", 960, 110, <Wd c={CHALK} s={40} serif>The Buddha</Wd>]]} />
+      {stages.map((w, i) => (
+        <React.Fragment key={w}>
+          {i ? <Flow x1={300 + (i - 1) * 440 + 110} y1={260} x2={300 + i * 440 - 110} y2={260} color={DIM} p={ramp(t, m + i * 0.7, 0.5)} pulses={false} /> : null}
+          <At x={300 + i * 440} y={260} o={ramp(t, m + i * 0.7, 0.5)}><Chip color={i ? GOLD : ICE} size={34}>{w}</Chip></At>
+        </React.Fragment>
+      ))}
+      <Items items={[
+        ["While it is milk, it is not called curds", 960, 370, <Wd c={DIM} s={28}>while it is milk, it is not called curds</Wd>],
+        ["Nothing is carried, yet each name is right in its time", 960, 440, <K c={GREEN} s={28}>nothing carried · each name right in its time</K>],
+        ["These are the world's common usages", 960, 560, <Wd c={CHALK} s={30} serif>"the world's common usages … used without getting stuck on them"</Wd>],
+        ["These are the world's common usages", 960, 620, <Wd c={DIM} s={24}>Poṭṭhapāda Sutta, DN 9</Wd>, { d: 1 }],
+        ["One who is fully freed still says, I speak", 960, 720, <K c={GOLD} s={32}>"I speak": the first "it", used as a label</K>],
+        ["they use these terms as mere expressions", 960, 800, <Wd c={DIM} s={24}>"as mere expressions" (SN 1.25)</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const UnionScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const a = c("As long as appearance and emptiness seem separate");
+  const join = ramp(t, c("No leap beyond it") - 2, 2);
+  return (
+    <AbsoluteFill>
+      <Items items={[["makes the same point as method", 960, 130, <Wd c={CHALK} s={40} serif>Tsongkhapa</Wd>]]} />
+      <At x={960 - 170 * (1 - join)} y={430} o={ramp(t, a, 0.6)}><div style={{ width: 300, height: 300, borderRadius: "50%", border: `4px solid ${GOLD}`, background: `${GOLD}18` }} /></At>
+      <At x={960 + 170 * (1 - join)} y={430} o={ramp(t, a, 0.6)}><div style={{ width: 300, height: 300, borderRadius: "50%", border: `4px solid ${ICE}`, background: `${ICE}18` }} /></At>
+      <At x={960 - 170 * (1 - join) - 60 * (1 - join)} y={430} o={ramp(t, a, 0.6) * (1 - join)}><Wd c={GOLD} s={30}>appearance</Wd></At>
+      <At x={960 + 170 * (1 - join) + 60 * (1 - join)} y={430} o={ramp(t, a, 0.6) * (1 - join)}><Wd c={ICE} s={30}>emptiness</Wd></At>
+      <At x={960} y={430} o={join}><Wd c={CHALK} s={30}>one</Wd></At>
+      <Items items={[
+        ["As long as appearance and emptiness seem separate", 960, 680, <Wd c={DIM} s={28}>seen as separate: the meaning is not yet realized</Wd>],
+        ["No leap beyond it", 960, 770, <K c={GREEN} s={30}>merely seeing dependent arising undoes the grasping: no leap</K>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const RiceCakeScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const cake = ramp(t, c("a painted rice cake does not satisfy hunger"), 1.5);
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["And the one who sees it most clearly, for me, is", 960, 110, <Wd c={CHALK} s={44} serif>Dōgen · Gabyō</Wd>],
+        ["a painted rice cake does not satisfy hunger", 960, 210, <SK c={DIM} s={28} at="turns it over">"a painted rice cake does not satisfy hunger"</SK>],
+      ]} />
+      <PictureFrame x={960} y={460} w={420} h={300} o={ramp(t, c("The old saying runs"), 0.6)} />
+      <Svg><g opacity={cake}>
+        <ellipse cx={960} cy={480} rx={120} ry={46} fill={`${CHALK}22`} stroke={CHALK} strokeWidth={4} />
+        <ellipse cx={960} cy={455} rx={120} ry={46} fill={`${WARM}33`} stroke={WARM} strokeWidth={4} />
+      </g></Svg>
+      <Items items={[
+        ["There is no remedy for satisfying hunger other than painted rice cakes", 960, 670, <Wd c={GOLD} s={30} serif>"no remedy for hunger other than painted rice cakes"</Wd>],
+        ["Without painted hunger, you never become a true person", 960, 730, <Wd c={DIM} s={26}>"without painted hunger, you never become a true person"</Wd>],
+        ["There is no unpainted cake behind the painting", 1520, 460, <SK c={DIM} s={26} at="No it behind the convention">the "real" cake behind</SK>],
+        ["No it behind the convention", 400, 460, <K c={WARM} s={28}>no "it" behind the convention</K>],
+        ["It feeds", 960, 810, <Wd c={GREEN} s={44} serif>It feeds.</Wd>, { pop: true }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const EndScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -689,6 +965,9 @@ export const Body: React.FC = () => {
     ["The second strand", "search", <ToolsScene />],
     ["The third strand", "jade", <LooseningScene />],
     ["And here is the turn", "whole", <TurnScene />],
+    ["Step one. There is no substrate", "search", <StepsScene />],
+    ["Step four. Watch the it slip in", "doubt", <ItScene />],
+    ["Try it. Hold anything", "light", <TestScene />],
     ["In this view, a phenomenon is a vivid appearing", "light", <FeaturesScene />],
     ["This third point is the one I have had to come back to most", "doubt", <WeakScene />],
     ["Take an apple, tossed from hand to hand", "light", <AppleScene />],
@@ -697,6 +976,12 @@ export const Body: React.FC = () => {
     ["Second, continuity", "night", <ContinuityScene />],
     ["Third, the words themselves", "search", <WordsScene />],
     ["If things existed with fixed natures, nothing could ever meet", "jade", <MeetingScene />],
+    ["Looking back over all these articles", "whole", <NeverScene />],
+    ["Many teachers, rightly, say the eight extremes do not apply", "dusk", <LeapScene />],
+    ["Speech was never the problem", "light", <SpeechScene />],
+    ["The Buddha said it plainly", "jade", <MilkScene />],
+    ["makes the same point as method", "deep", <UnionScene />],
+    ["And the one who sees it most clearly, for me, is", "light", <RiceCakeScene />],
     ["So, with both halves in place, what has changed", "whole", <EndScene />],
     ["What remains is not a final picture to defend", "night", <FinalScene />],
   ];

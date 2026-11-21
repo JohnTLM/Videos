@@ -1,922 +1,1420 @@
 1
-00:00:07,269 --> 00:00:11,727
+00:00:07,293 --> 00:00:11,751
 Over the past months my articles have
 taken up one question after another.
 
 2
-00:00:11,807 --> 00:00:13,629
+00:00:11,831 --> 00:00:13,653
 Cause without causal power.
 
 3
-00:00:13,709 --> 00:00:15,884
+00:00:13,733 --> 00:00:15,908
 Continuity without a carrier.
 
 4
-00:00:15,964 --> 00:00:18,316
+00:00:15,988 --> 00:00:18,340
 How identities form in the meeting.
 
 5
-00:00:18,396 --> 00:00:20,033
+00:00:18,420 --> 00:00:20,057
 What a phenomenon is.
 
 6
-00:00:20,833 --> 00:00:25,010
+00:00:20,857 --> 00:00:25,034
 Looking back over them, I see one
 shape running through all of them.
 
 7
-00:00:25,842 --> 00:00:28,629
+00:00:25,866 --> 00:00:28,653
 I am John Tan, known as Thusness.
 
 8
-00:00:28,709 --> 00:00:32,900
+00:00:28,733 --> 00:00:32,924
 These are my own notes, from my
 own practice and contemplation.
 
 9
-00:00:33,718 --> 00:00:35,500
+00:00:33,742 --> 00:00:35,524
 There are two halves to the work.
 
 10
-00:00:35,580 --> 00:00:40,418
+00:00:35,604 --> 00:00:40,442
 One half is negation: seeing that
 nothing is found from its own side.
 
 11
-00:00:40,498 --> 00:00:46,437
+00:00:40,522 --> 00:00:46,461
 The other half is formation: understanding
 how a world without essence still appears.
 
 12
-00:00:46,517 --> 00:00:48,779
+00:00:46,541 --> 00:00:48,803
 Vivid. Stable. Working.
 
 13
-00:00:49,597 --> 00:00:52,864
+00:00:49,621 --> 00:00:52,888
 Start with negation, and
 with what it has to face.
 
 14
-00:00:53,694 --> 00:00:58,465
+00:00:53,718 --> 00:00:58,489
 One of the most important turns in
 leaving a substantialist view is this.
 
 15
-00:00:58,545 --> 00:01:02,853
+00:00:58,569 --> 00:01:02,877
 The things, the substrates,
 and everything I took as given,
 
 16
-00:01:02,933 --> 00:01:08,682
+00:01:02,957 --> 00:01:08,706
 undeniable and there from its own side,
 turn out to be frameworks. I built them.
 
 17
-00:01:08,762 --> 00:01:11,689
+00:01:08,786 --> 00:01:11,713
 And I grew so used to them
 that I never questioned them.
 
 18
-00:01:12,514 --> 00:01:17,040
+00:01:12,538 --> 00:01:17,064
 Substantialism is not mainly a
 theory anyone chooses to believe.
 
 19
-00:01:17,120 --> 00:01:20,192
+00:01:17,144 --> 00:01:20,216
 It is an innate, default
 way of perceiving.
 
 20
-00:01:20,272 --> 00:01:23,467
+00:01:20,296 --> 00:01:23,491
 It assumes that separate
 nouns exist first,
 
 21
-00:01:23,547 --> 00:01:28,104
+00:01:23,571 --> 00:01:28,128
 from their own side, and enter
 into relations only afterwards.
 
 22
-00:01:28,921 --> 00:01:34,921
+00:01:28,945 --> 00:01:34,945
 Ordinary grammar supports this every time
 I speak. The wind blows. The person walks.
 
 23
-00:01:35,048 --> 00:01:39,357
+00:01:35,072 --> 00:01:39,381
 Each sentence slips in a fixed
 bearer, standing behind the action.
 
 24
-00:01:39,437 --> 00:01:44,887
+00:01:39,461 --> 00:01:44,911
 Because the habit is so reliable, the act
 of naming disappears into what is named.
 
 25
-00:01:44,967 --> 00:01:49,334
+00:01:44,991 --> 00:01:49,358
 A convention feels like a fact
 standing outside any framework.
 
 26
-00:01:50,141 --> 00:01:52,398
+00:01:50,165 --> 00:01:52,422
 Direct experience is never like that.
 
 27
-00:01:52,478 --> 00:01:54,436
+00:01:52,502 --> 00:01:54,460
 The flashing is the lightning.
 
 28
-00:01:54,516 --> 00:01:56,161
+00:01:54,540 --> 00:01:56,185
 The blowing is the wind.
 
 29
-00:01:56,241 --> 00:01:58,571
+00:01:56,265 --> 00:01:58,595
 No seer stands behind the seeing.
 
 30
-00:01:59,385 --> 00:02:04,210
+00:01:59,409 --> 00:02:04,234
 Nor is there a raw, unnamed given
 lying underneath my concepts,
 
 31
-00:02:04,290 --> 00:02:09,250
+00:02:04,314 --> 00:02:09,274
 waiting to be labelled. Vividness and
 naming are mixed through and through.
 
 32
-00:02:09,330 --> 00:02:13,562
+00:02:09,354 --> 00:02:13,586
 There is no seam between them, and
 no unnamed floor at the bottom.
 
 33
-00:02:14,365 --> 00:02:17,423
+00:02:14,389 --> 00:02:17,447
 Modern physics points
 in a similar direction.
 
 34
-00:02:17,503 --> 00:02:22,192
+00:02:17,527 --> 00:02:22,216
 Again and again, what was supposed to be
 the bottom layer turns out to be defined
 
 35
-00:02:22,272 --> 00:02:27,210
+00:02:22,296 --> 00:02:27,234
 by interaction and relation, rather
 than by fixed properties of its own.
 
 36
-00:02:28,038 --> 00:02:32,446
+00:02:28,062 --> 00:02:32,470
 But this view does not rest on
 physics, and does not need it as proof.
 
 37
-00:02:32,563 --> 00:02:35,852
+00:02:32,587 --> 00:02:35,876
 Physical theories are
 themselves valid frameworks.
 
 38
-00:02:35,932 --> 00:02:39,661
+00:02:35,956 --> 00:02:39,685
 Reliable within their
 domains. Open to revision.
 
 39
-00:02:40,461 --> 00:02:44,049
+00:02:40,485 --> 00:02:44,073
 More basically, a fixed
 nature does not hold together.
 
 40
-00:02:44,129 --> 00:02:49,063
+00:02:44,153 --> 00:02:49,087
 Anything proposed as standing on
 its own undermines itself at once.
 
 41
-00:02:49,143 --> 00:02:53,397
+00:02:49,167 --> 00:02:53,421
 To pick it out at all needs
 contrast, context and naming:
 
 42
-00:02:53,477 --> 00:02:56,223
+00:02:53,501 --> 00:02:56,247
 the very dependencies it claims to escape.
 
 43
-00:02:56,303 --> 00:03:01,481
+00:02:56,327 --> 00:03:01,505
 And a thing with a fixed, independent
 nature could never depend on conditions.
 
 44
-00:03:01,561 --> 00:03:04,611
+00:03:01,585 --> 00:03:04,635
 It could never change.
 It could never interact.
 
 45
-00:03:05,425 --> 00:03:08,904
+00:03:05,449 --> 00:03:08,928
 Leaving this habit is not a
 one-time change of opinion.
 
 46
-00:03:08,984 --> 00:03:13,524
+00:03:09,008 --> 00:03:13,548
 The old picture comes back quietly
 the moment attention is off duty.
 
 47
-00:03:13,604 --> 00:03:17,410
+00:03:13,628 --> 00:03:17,434
 In my own experience, three
 strands have to work together,
 
 48
-00:03:17,490 --> 00:03:20,811
+00:03:17,514 --> 00:03:20,835
 again and again, each checking the others.
 
 49
-00:03:21,642 --> 00:03:25,140
+00:03:21,666 --> 00:03:25,164
 The first strand: confirm
 it in direct experience.
 
 50
-00:03:25,953 --> 00:03:29,555
+00:03:25,977 --> 00:03:29,579
 Agreeing with dependency in
 theory changes very little.
 
 51
-00:03:29,635 --> 00:03:35,334
+00:03:29,659 --> 00:03:35,358
 It has to be seen directly, many times,
 until it is no longer just an idea.
 
 52
-00:03:35,423 --> 00:03:41,423
+00:03:35,447 --> 00:03:41,447
 For me this began with anatta, no-self:
 looking for a seer behind the seeing,
 
 53
-00:03:41,523 --> 00:03:44,582
+00:03:41,547 --> 00:03:44,606
 a hearer behind the
 hearing, and finding none.
 
 54
-00:03:44,662 --> 00:03:49,736
+00:03:44,686 --> 00:03:49,760
 Then it went on with ordinary
 objects. A phone. A cup. A tree.
 
 55
-00:03:50,570 --> 00:03:52,814
+00:03:50,594 --> 00:03:52,838
 But experience alone has a limit.
 
 56
-00:03:52,894 --> 00:03:55,776
+00:03:52,918 --> 00:03:55,800
 Experience can become deeply non-dual.
 
 57
-00:03:55,856 --> 00:03:59,430
+00:03:55,880 --> 00:03:59,454
 A taste of clarity, of
 presence with no centre.
 
 58
-00:03:59,510 --> 00:04:03,072
+00:03:59,534 --> 00:04:03,096
 And yet the framework that reads
 it can stay substantialist.
 
 59
-00:04:03,152 --> 00:04:08,031
+00:04:03,176 --> 00:04:08,055
 Then the habit quietly turns a genuine
 taste back into a hidden ground.
 
 60
-00:04:08,111 --> 00:04:11,577
+00:04:08,135 --> 00:04:11,601
 Solid things are simply
 replaced by a subtler substrate.
 
 61
-00:04:11,657 --> 00:04:13,384
+00:04:11,681 --> 00:04:13,408
 A universal Awareness.
 
 62
-00:04:13,464 --> 00:04:15,359
+00:04:13,488 --> 00:04:15,383
 A Presence with a capital P.
 
 63
-00:04:16,182 --> 00:04:19,354
+00:04:16,206 --> 00:04:19,378
 The second strand: equip
 the view with tools.
 
 64
-00:04:20,157 --> 00:04:25,009
+00:04:20,181 --> 00:04:25,033
 Analytical tools bring thinking in line
 with what experience has already shown.
 
 65
-00:04:25,089 --> 00:04:30,145
+00:04:25,113 --> 00:04:30,169
 Some are simple and easy to carry,
 like the chariot of the monk Nāgasena.
 
 66
-00:04:30,225 --> 00:04:32,971
+00:04:30,249 --> 00:04:32,995
 Look for the chariot in
 the wheels, the axle,
 
 67
-00:04:33,051 --> 00:04:35,634
+00:04:33,075 --> 00:04:35,658
 the frame, and it is not found there.
 
 68
-00:04:35,714 --> 00:04:38,079
+00:04:35,738 --> 00:04:38,103
 Not in the parts, not apart from them.
 
 69
-00:04:38,159 --> 00:04:43,935
+00:04:38,183 --> 00:04:43,959
 Some tools are thorough and exacting,
 like Candrakīrti's sevenfold analysis,
 
 70
-00:04:44,015 --> 00:04:46,779
+00:04:44,039 --> 00:04:46,803
 and Nāgārjuna's Middle Way verses.
 
 71
-00:04:47,593 --> 00:04:50,597
+00:04:47,617 --> 00:04:50,621
 The analysis has to
 work as a pure negation.
 
 72
-00:04:50,677 --> 00:04:55,108
+00:04:50,701 --> 00:04:55,132
 It removes a nature of its own,
 and puts nothing in its place.
 
 73
-00:04:55,188 --> 00:04:59,741
+00:04:55,212 --> 00:04:59,765
 Otherwise the habit simply moves
 to a subtler level. A void.
 
 74
-00:04:59,821 --> 00:05:02,988
+00:04:59,845 --> 00:05:03,012
 A dynamic process. A web of relations.
 
 75
-00:05:03,068 --> 00:05:07,150
+00:05:03,092 --> 00:05:07,174
 Or a store of possibilities,
 quietly standing underneath.
 
 76
-00:05:07,962 --> 00:05:11,297
+00:05:07,986 --> 00:05:11,321
 The third strand: taste
 the gradual loosening.
 
 77
-00:05:12,105 --> 00:05:16,427
+00:05:12,129 --> 00:05:16,451
 Whatever is taken to exist from its own
 side is gripped with the tightness that
 
 78
-00:05:16,507 --> 00:05:18,166
+00:05:16,531 --> 00:05:18,190
 solidity invites.
 
 79
-00:05:18,246 --> 00:05:21,604
+00:05:18,270 --> 00:05:21,628
 As view and experience
 keep confirming each other,
 
 80
-00:05:21,684 --> 00:05:24,267
+00:05:21,708 --> 00:05:24,291
 that grip loosens. Gradually.
 
 81
-00:05:24,347 --> 00:05:28,143
+00:05:24,371 --> 00:05:28,167
 The emotional grasping, and the
 subtler grasping of the mind.
 
 82
-00:05:28,957 --> 00:05:31,784
+00:05:28,981 --> 00:05:31,808
 What is left is not a
 special state to be guarded.
 
 83
-00:05:31,864 --> 00:05:34,298
+00:05:31,888 --> 00:05:34,322
 Trying to keep it would
 bring the fixing back.
 
 84
-00:05:34,378 --> 00:05:37,735
+00:05:34,402 --> 00:05:37,759
 Instead, mind and matter
 lose their felt weight.
 
 85
-00:05:37,815 --> 00:05:40,878
+00:05:37,839 --> 00:05:40,902
 They become light, vivid, and workable.
 
 86
-00:05:41,681 --> 00:05:46,768
+00:05:41,705 --> 00:05:46,792
 And here is the turn. Relentless
 negation alone is only half the story.
 
 87
-00:05:47,589 --> 00:05:51,870
-Negation targets a fixed nature,
-inside the old framework.
+00:05:47,626 --> 00:05:50,060
+But there is a trap at exactly this point.
 
 88
-00:05:51,950 --> 00:05:54,384
-If I stop there, I am left wondering.
+00:05:50,140 --> 00:05:54,245
+It decides whether the leap into
+a substrateless view is made,
 
 89
-00:05:54,464 --> 00:05:58,043
-If these vivid appearances are
-not things, then what are they?
+00:05:54,325 --> 00:05:55,689
+or only circled.
 
 90
-00:05:58,849 --> 00:06:00,807
-The other half is formation.
+00:05:56,510 --> 00:06:01,770
+Having negated, the mind asks: if
+these vivid appearances are not things,
 
 91
-00:06:00,887 --> 00:06:04,217
+00:06:01,850 --> 00:06:03,050
+then what are they?
+
+92
+00:06:03,762 --> 00:06:06,631
+That question is the
+old view, still running.
+
+93
+00:06:06,711 --> 00:06:09,448
+It has to be seen through, not answered.
+
+94
+00:06:10,257 --> 00:06:12,717
+Step one. There is no substrate.
+
+95
+00:06:12,797 --> 00:06:18,166
+No thing, no substance, no bearer
+is found behind or beneath any
+
+96
+00:06:18,246 --> 00:06:21,372
+appearance. Not out there. Not in here.
+
+97
+00:06:21,452 --> 00:06:25,399
+Not as a ground of mind,
+or energy, or awareness.
+
+98
+00:06:26,197 --> 00:06:30,234
+Step two. So the question,
+what is it, is invalid.
+
+99
+00:06:30,314 --> 00:06:33,576
+It assumes something is there
+with a nature of its own,
+
+100
+00:06:33,656 --> 00:06:35,899
+waiting to be identified correctly.
+
+101
+00:06:35,979 --> 00:06:39,853
+Take that something away, and the
+question has nothing to land on.
+
+102
+00:06:39,933 --> 00:06:42,611
+The answer is not hidden.
+It is not nothing.
+
+103
+00:06:42,691 --> 00:06:44,432
+It is not beyond words.
+
+104
+00:06:44,512 --> 00:06:46,339
+The question was never valid.
+
+105
+00:06:47,153 --> 00:06:50,469
+Step three. So the eight
+extremes do not apply.
+
+106
+00:06:50,549 --> 00:06:52,426
+All of them, all at once.
+
+107
+00:06:52,506 --> 00:06:54,586
+Does it arise, or cease?
+
+108
+00:06:54,666 --> 00:06:58,296
+Is it permanent, or annihilated?
+Does it come, or go?
+
+109
+00:06:58,376 --> 00:07:00,388
+Is it the same, or different?
+
+110
+00:07:00,468 --> 00:07:04,070
+Each asks what becomes of a
+thing with a nature of its own.
+
+111
+00:07:04,150 --> 00:07:08,581
+They belong to the inherent view,
+and make sense only inside it.
+
+112
+00:07:08,661 --> 00:07:11,081
+They need not be refuted one by one.
+
+113
+00:07:11,161 --> 00:07:13,979
+And the middle way is not a
+middle answer between them.
+
+114
+00:07:14,781 --> 00:07:17,174
+Step four. Watch the it slip in.
+
+115
+00:07:17,254 --> 00:07:21,236
+Even the question, how does it
+form, can carry the old view.
+
+116
+00:07:21,316 --> 00:07:24,347
+The it is assumed before
+any question is asked.
+
+117
+00:07:24,427 --> 00:07:27,758
+It is never seen in the
+appearing. It is supplied.
+
+118
+00:07:27,838 --> 00:07:31,222
+A grammatical ghost,
+that habit puts first:
+
+119
+00:07:31,302 --> 00:07:37,174
+a subject waiting for its verbs.
+It arises. It forms. It lasts.
+
+120
+00:07:37,254 --> 00:07:38,454
+It ends.
+
+121
+00:07:38,990 --> 00:07:41,288
+This is the same habit as the self.
+
+122
+00:07:41,368 --> 00:07:45,541
+A knower, put behind the knowing,
+now running through everything.
+
+123
+00:07:45,621 --> 00:07:48,109
+Changing the question does not remove it.
+
+124
+00:07:48,189 --> 00:07:50,110
+Only seeing the habit does.
+
+125
+00:07:50,933 --> 00:07:55,028
+Step five. The it is what
+is formed, not what forms.
+
+126
+00:07:55,145 --> 00:07:57,497
+Formation does not happen to a thing.
+
+127
+00:07:57,577 --> 00:08:01,274
+The it is named in the forming,
+together with its conditions,
+
+128
+00:08:01,354 --> 00:08:03,407
+and is not found apart from them.
+
+129
+00:08:03,487 --> 00:08:07,252
+The cup formed on the potter's
+wheel is valid, and it works.
+
+130
+00:08:07,332 --> 00:08:11,152
+Heard as a bearer that was there first
+and then went through the forming,
+
+131
+00:08:11,232 --> 00:08:13,819
+it is as invalid as, what is it.
+
+132
+00:08:14,625 --> 00:08:19,232
+Try it. Hold anything. A
+cup. A sound. A thought.
+
+133
+00:08:19,312 --> 00:08:22,425
+Notice the pull to ask,
+what is this, really.
+
+134
+00:08:22,505 --> 00:08:25,523
+See that the pull already
+assumes a thing in there.
+
+135
+00:08:25,603 --> 00:08:27,452
+Drop the it, not the cup.
+
+136
+00:08:27,532 --> 00:08:32,362
+The cup is still fully here, vivid and
+working. And I still call it the cup.
+
+137
+00:08:33,194 --> 00:08:35,587
+That is the other half: formation.
+
+138
+00:08:35,667 --> 00:08:38,997
 How a world empty of
 essence still appears vivid,
 
-92
-00:06:04,297 --> 00:06:06,178
+139
+00:08:39,077 --> 00:08:40,958
 stable and workable.
 
-93
-00:06:06,989 --> 00:06:11,718
+140
+00:08:41,777 --> 00:08:46,506
 In this view, a phenomenon is a vivid
 appearing that is not found when looked
 
-94
-00:06:11,798 --> 00:06:14,816
+141
+00:08:46,586 --> 00:08:49,604
 for, even while it appears so vividly.
 
-95
-00:06:14,896 --> 00:06:18,394
+142
+00:08:49,684 --> 00:08:53,182
 Every appearance has three
 features, at the same time.
 
-96
-00:06:19,209 --> 00:06:23,164
+143
+00:08:53,997 --> 00:08:57,952
 It is vivid and clear. Nothing
 is dimmed or taken away.
 
-97
-00:06:23,244 --> 00:06:26,384
+144
+00:08:58,032 --> 00:09:01,172
 Its clarity belongs to
 the appearing itself.
 
-98
-00:06:26,464 --> 00:06:28,232
+145
+00:09:01,252 --> 00:09:03,020
 A sound is clear as sound.
 
-99
-00:06:28,312 --> 00:06:30,270
+146
+00:09:03,100 --> 00:09:05,058
 A colour is vivid as colour.
 
-100
-00:06:30,350 --> 00:06:33,440
+147
+00:09:05,138 --> 00:09:08,228
 No witness behind it is
 needed to light it up.
 
-101
-00:06:34,261 --> 00:06:40,261
+148
+00:09:09,049 --> 00:09:15,049
 It is not found. Searched for, it
 has no core, no edge, no location.
 
-102
-00:06:40,388 --> 00:06:44,221
+149
+00:09:15,176 --> 00:09:19,009
 Not out there in the world.
 Not in here, in a private mind.
 
-103
-00:06:44,301 --> 00:06:48,207
+150
+00:09:19,089 --> 00:09:22,995
 And not even nowhere, since
 nowhere is just one more place.
 
-104
-00:06:49,025 --> 00:06:52,586
+151
+00:09:23,813 --> 00:09:27,374
 And it is dependently arisen,
 and validly functioning.
 
-105
-00:06:52,666 --> 00:06:56,721
+152
+00:09:27,454 --> 00:09:31,509
 It shows up only when its conditions
 meet. And it works completely.
 
-106
-00:06:57,538 --> 00:07:00,991
+153
+00:09:32,326 --> 00:09:35,779
 This third point is the one I
 have had to come back to most.
 
-107
-00:07:01,071 --> 00:07:03,043
+154
+00:09:35,859 --> 00:09:37,831
 At first it sounds so strange.
 
-108
-00:07:03,123 --> 00:07:06,004
+155
+00:09:37,911 --> 00:09:40,792
 Habit equates being there
 with being independent.
 
-109
-00:07:06,084 --> 00:07:09,822
+156
+00:09:40,872 --> 00:09:44,610
 It hears naming as a thin
 sticker on a thing already there.
 
-110
-00:07:09,902 --> 00:07:13,532
+157
+00:09:44,690 --> 00:09:48,320
 It pictures causes as one
 substance pushing another.
 
-111
-00:07:13,612 --> 00:07:16,294
+158
+00:09:48,400 --> 00:09:51,082
 So empty sounds flimsy. Ghostly.
 
-112
-00:07:17,126 --> 00:07:19,030
+159
+00:09:51,914 --> 00:09:53,818
 But empty does not mean weak.
 
-113
-00:07:19,110 --> 00:07:23,174
+160
+00:09:53,898 --> 00:09:57,962
 A car with no essence can still
 injure you. Medicine still heals.
 
-114
-00:07:23,254 --> 00:07:25,094
+161
+00:09:58,042 --> 00:09:59,882
 A cup still holds hot tea.
 
-115
-00:07:25,901 --> 00:07:28,565
+162
+00:10:00,689 --> 00:10:03,353
 Take an apple, tossed from hand to hand.
 
-116
-00:07:28,645 --> 00:07:32,478
+163
+00:10:03,433 --> 00:10:07,266
 At once, habit supplies
 the impression of a hard,
 
-117
-00:07:32,558 --> 00:07:34,820
+164
+00:10:07,346 --> 00:10:09,608
 heavy thing standing on its own.
 
-118
-00:07:35,625 --> 00:07:39,770
+165
+00:10:10,413 --> 00:10:14,558
 Yet when I look closely, the apple is
 not found apart from the streams of
 
-119
-00:07:39,850 --> 00:07:43,008
+166
+00:10:14,638 --> 00:10:17,796
 consciousness. And it is
 not made by them either.
 
-120
-00:07:43,826 --> 00:07:49,154
+167
+00:10:18,614 --> 00:10:23,942
 Hardness, coolness and weight arise
 only as touch meets skin and fruit.
 
-121
-00:07:49,234 --> 00:07:53,379
+168
+00:10:24,022 --> 00:10:28,167
 The red shifts to orange under
 candlelight, and to grey at dusk.
 
-122
-00:07:53,459 --> 00:07:56,509
+169
+00:10:28,247 --> 00:10:31,297
 It arises with light, eye and attention.
 
-123
-00:07:57,329 --> 00:08:01,067
+170
+00:10:32,117 --> 00:10:35,855
 When the habitual knot is
 untied, nothing is missing.
 
-124
-00:08:01,147 --> 00:08:05,591
+171
+00:10:35,935 --> 00:10:40,379
 The apple can still be tossed.
 Still eaten. It still nourishes me.
 
-125
-00:08:05,671 --> 00:08:10,645
+172
+00:10:40,459 --> 00:10:45,433
 Its solidity and its effects arise
 because this vivid pattern meets hands,
 
-126
-00:08:10,725 --> 00:08:13,408
+173
+00:10:45,513 --> 00:10:48,196
 gravity and bodies, reliably.
 
-127
-00:08:14,229 --> 00:08:16,228
+174
+00:10:49,017 --> 00:10:51,015
 One guardrail stays in place.
 
-128
-00:08:16,308 --> 00:08:20,344
+175
+00:10:51,095 --> 00:10:55,132
 Consciousness is not a new floor
 in here, producing the apple.
 
-129
-00:08:20,424 --> 00:08:24,081
+176
+00:10:55,212 --> 00:10:58,869
 Mind and matter are two cuts
 in the same vivid appearing.
 
-130
-00:08:24,161 --> 00:08:28,474
+177
+00:10:58,949 --> 00:11:03,262
 Neither is the substrate underneath
 the other. Both are named together.
 
-131
-00:08:29,294 --> 00:08:33,702
+178
+00:11:04,082 --> 00:11:08,490
 The same two halves run through the
 rest of my recent work. Briefly, then.
 
-132
-00:08:34,571 --> 00:08:39,437
+179
+00:11:09,359 --> 00:11:14,225
 First, cause. Strike a match, and
 slow the film down as far as you like.
 
-133
-00:08:39,517 --> 00:08:42,018
+180
+00:11:14,305 --> 00:11:16,806
 At every frame, something is happening.
 
-134
-00:08:42,098 --> 00:08:46,203
+181
+00:11:16,886 --> 00:11:20,991
 At no frame does a finished
 flame cross over from nowhere.
 
-135
-00:08:46,283 --> 00:08:50,175
+182
+00:11:21,071 --> 00:11:24,963
 And still, she lit the fire
 at eight is perfectly valid.
 
-136
-00:08:50,985 --> 00:08:53,921
+183
+00:11:25,773 --> 00:11:28,709
 Causes work. Rice grows from rice seed.
 
-137
-00:08:54,001 --> 00:08:56,204
+184
+00:11:28,789 --> 00:11:30,992
 Bread without yeast stays flat.
 
-138
-00:08:56,284 --> 00:09:01,244
+185
+00:11:31,072 --> 00:11:36,032
 What is never found is a causal power: a
 force sitting inside the cause from its
 
-139
-00:09:01,324 --> 00:09:04,985
+186
+00:11:36,112 --> 00:11:39,773
 own side, handed across
 a gap to the effect.
 
-140
-00:09:05,810 --> 00:09:08,393
+187
+00:11:40,598 --> 00:11:43,181
 So I keep three senses of cause apart.
 
-141
-00:09:08,473 --> 00:09:11,464
+188
+00:11:43,261 --> 00:11:46,252
 A producer with its own power: refused.
 
-142
-00:09:11,544 --> 00:09:13,964
+189
+00:11:46,332 --> 00:11:48,752
 Conditions coming together: kept.
 
-143
-00:09:14,044 --> 00:09:18,013
+190
+00:11:48,832 --> 00:11:52,801
 A link that attention singles
 out and names: kept too.
 
-144
-00:09:18,093 --> 00:09:20,948
+191
+00:11:52,881 --> 00:11:55,736
 Conditions are not a
 basement under the appearing.
 
-145
-00:09:21,028 --> 00:09:24,901
+192
+00:11:55,816 --> 00:11:59,689
 Conditions are the appearing,
 cut into parts for explaining,
 
-146
-00:09:24,981 --> 00:09:26,591
+193
+00:11:59,769 --> 00:12:01,379
 and for getting things done.
 
-147
-00:09:27,401 --> 00:09:32,946
+194
+00:12:02,189 --> 00:12:07,734
 When no gap and no producer are found, the
 question of why anything appears at all is
 
-148
-00:09:33,026 --> 00:09:38,258
+195
+00:12:07,814 --> 00:12:13,046
 retired. What remains is called
 spontaneous presence. Not uncaused.
 
-149
-00:09:38,338 --> 00:09:39,712
+196
+00:12:13,126 --> 00:12:14,500
 Not a hidden source.
 
-150
-00:09:39,792 --> 00:09:44,336
+197
+00:12:14,580 --> 00:12:19,124
 Just dependent arising itself,
 met without the habit of fixing.
 
-151
-00:09:45,154 --> 00:09:46,936
+198
+00:12:19,942 --> 00:12:21,724
 Second, continuity.
 
-152
-00:09:47,016 --> 00:09:51,610
+199
+00:12:21,804 --> 00:12:26,398
 If nothing persists from its own side,
 what carries me from this moment to the
 
-153
-00:09:51,690 --> 00:09:52,890
+200
+00:12:26,478 --> 00:12:27,678
 next?
 
-154
-00:09:53,486 --> 00:09:56,898
+201
+00:12:28,274 --> 00:12:31,686
 The question rests on a gap
 that thought drew first.
 
-155
-00:09:56,978 --> 00:09:59,412
+202
+00:12:31,766 --> 00:12:34,200
 In the living moment it never comes up.
 
-156
-00:09:59,492 --> 00:10:01,205
+203
+00:12:34,280 --> 00:12:35,993
 Each moment is complete.
 
-157
-00:10:01,285 --> 00:10:03,556
+204
+00:12:36,073 --> 00:12:38,344
 And a carrier would never solve it anyway.
 
-158
-00:10:03,636 --> 00:10:06,232
+205
+00:12:38,424 --> 00:12:41,020
 Whatever links one moment to the carrier,
 
-159
-00:10:06,312 --> 00:10:10,979
+206
+00:12:41,100 --> 00:12:45,767
 and the carrier to the next, needs
 bridges of its own. Without end.
 
-160
-00:10:11,789 --> 00:10:16,885
+207
+00:12:46,577 --> 00:12:51,673
 As Nāgārjuna says, whatever arises in
 dependence on something is neither that
 
-161
-00:10:16,965 --> 00:10:19,766
+208
+00:12:51,753 --> 00:12:54,554
 very thing, nor wholly other than it.
 
-162
-00:10:19,846 --> 00:10:24,779
+209
+00:12:54,634 --> 00:12:59,567
 Like a lamp burning through the night,
 continuity is named across moments that
 
-163
-00:10:24,859 --> 00:10:27,293
+210
+00:12:59,647 --> 00:13:02,081
 condition one another reliably.
 
-164
-00:10:27,373 --> 00:10:29,770
+211
+00:13:02,161 --> 00:13:04,558
 Nothing travels from one to the next.
 
-165
-00:10:30,585 --> 00:10:35,912
+212
+00:13:05,373 --> 00:13:10,700
 Nothing is lost. Memory, learning,
 responsibility and karma hold.
 
-166
-00:10:35,992 --> 00:10:40,428
+213
+00:13:10,780 --> 00:13:15,216
 And nothing is fixed. Habits can
 loosen. Character can change.
 
-167
-00:10:41,299 --> 00:10:43,488
+214
+00:13:16,087 --> 00:13:18,276
 Third, the words themselves.
 
-168
-00:10:43,568 --> 00:10:47,510
+215
+00:13:18,356 --> 00:13:22,298
 Both views use the same words,
 so the words have to be sorted.
 
-169
-00:10:47,590 --> 00:10:53,257
+216
+00:13:22,378 --> 00:13:28,045
 Heard by the logic of substance, dependent
 arising means things that already exist,
 
-170
-00:10:53,337 --> 00:10:55,227
+217
+00:13:28,125 --> 00:13:30,015
 linked in a vast web.
 
-171
-00:10:55,307 --> 00:11:00,866
+218
+00:13:30,095 --> 00:13:35,654
 Meant by the logic of dependency, it means
 things identified only in dependence.
 
-172
-00:11:00,946 --> 00:11:05,517
+219
+00:13:35,734 --> 00:13:40,305
 Relation and what is related are
 named together. Neither comes first.
 
-173
-00:11:06,329 --> 00:11:10,243
+220
+00:13:41,117 --> 00:13:45,031
 Emptiness, heard the first
 way, is a blank void,
 
-174
-00:11:10,323 --> 00:11:12,933
+221
+00:13:45,111 --> 00:13:47,721
 or a hidden reservoir behind things.
 
-175
-00:11:13,013 --> 00:11:18,504
+222
+00:13:47,801 --> 00:13:53,292
 Meant the second way, it is simply
 this: no nature of its own is found,
 
-176
-00:11:18,584 --> 00:11:21,222
+223
+00:13:53,372 --> 00:13:56,010
 in appearances that are vivid and working.
 
-177
-00:11:21,302 --> 00:11:23,423
+224
+00:13:56,090 --> 00:13:58,211
 And the word real is retired.
 
-178
-00:11:23,503 --> 00:11:25,189
+225
+00:13:58,291 --> 00:13:59,977
 Working, conventionally.
 
-179
-00:11:25,269 --> 00:11:28,019
+226
+00:14:00,057 --> 00:14:02,807
 Not found from its own side, ultimately.
 
-180
-00:11:28,821 --> 00:11:33,089
+227
+00:14:03,609 --> 00:14:07,877
 If things existed with fixed
 natures, nothing could ever meet.
 
-181
-00:11:33,169 --> 00:11:35,874
+228
+00:14:07,957 --> 00:14:10,662
 Two things with sealed
 edges could never touch.
 
-182
-00:11:35,954 --> 00:11:39,017
+229
+00:14:10,742 --> 00:14:13,805
 And if they merged, they
 would collapse into one.
 
-183
-00:11:39,817 --> 00:11:42,984
+230
+00:14:14,605 --> 00:14:17,772
 In dependent arising,
 meeting means something else.
 
-184
-00:11:43,064 --> 00:11:47,658
+231
+00:14:17,852 --> 00:14:22,446
 The two sides define each other
 in one stroke. A hand touches ice.
 
-185
-00:11:47,738 --> 00:11:51,326
+232
+00:14:22,526 --> 00:14:26,114
 They meet, with no gap
 crossed, and no fusion.
 
-186
-00:11:51,406 --> 00:11:53,940
+233
+00:14:26,194 --> 00:14:28,728
 And the meeting itself
 is not a third thing.
 
-187
-00:11:54,749 --> 00:11:57,988
+234
+00:14:29,537 --> 00:14:34,864
+Looking back over all these articles,
+they say one thing, again and again.
+
+235
+00:14:34,944 --> 00:14:36,309
+The it is never needed.
+
+236
+00:14:37,125 --> 00:14:40,604
+Not in experience. The
+flashing is the lightning.
+
+237
+00:14:40,684 --> 00:14:42,688
+No lightning stands behind it.
+
+238
+00:14:43,489 --> 00:14:48,359
+Not in formation. The it is formed,
+named together with its conditions.
+
+239
+00:14:49,181 --> 00:14:50,351
+Not in causes.
+
+240
+00:14:50,431 --> 00:14:55,396
+Conditions work without causal power,
+and no it carries the power across.
+
+241
+00:14:56,193 --> 00:15:00,338
+Not in functioning. The cup holds
+tea, and the car can injure.
+
+242
+00:15:00,418 --> 00:15:02,163
+Neither needs a core to do it.
+
+243
+00:15:02,965 --> 00:15:08,161
+Not in continuity. Rice seed yields
+rice, and nothing is carried across.
+
+244
+00:15:08,969 --> 00:15:12,942
+Not in the meeting. No glue holds
+self-standing things together.
+
+245
+00:15:13,749 --> 00:15:17,025
+And so there is no it to
+undergo the eight extremes.
+
+246
+00:15:17,105 --> 00:15:19,674
+With none there, they
+are not false answers.
+
+247
+00:15:19,754 --> 00:15:21,567
+They are invalid questions.
+
+248
+00:15:22,369 --> 00:15:26,609
+Many teachers, rightly, say the
+eight extremes do not apply.
+
+249
+00:15:26,689 --> 00:15:31,487
+It is Nāgārjuna's own opening verse,
+and the traditions that say it point at
+
+250
+00:15:31,567 --> 00:15:35,196
+something real. But it is
+often said with a large gap.
+
+251
+00:15:35,276 --> 00:15:39,598
+It is not shown why they do not apply:
+that the it they need was never there.
+
+252
+00:15:39,678 --> 00:15:42,646
+Nor is it shown how the
+world still works without it.
+
+253
+00:15:43,482 --> 00:15:45,658
+Then the gap is crossed by a leap.
+
+254
+00:15:45,738 --> 00:15:50,114
+After freedom from all elaborations
+comes spontaneous presence,
+
+255
+00:15:50,194 --> 00:15:53,307
+presented as the end of all speech.
+
+256
+00:15:53,387 --> 00:15:55,608
+Silence, as the final answer.
+
+257
+00:15:56,422 --> 00:16:00,663
+I do not take that route. Silence
+keeps the it, only out of reach.
+
+258
+00:16:00,743 --> 00:16:04,929
+The habit only rests, and slips
+back into the next sentence.
+
+259
+00:16:05,009 --> 00:16:11,009
+And conventions are left unexplained,
+so presence is easily heard as a ground:
+
+260
+00:16:11,096 --> 00:16:13,847
+the final it, behind appearances.
+
+261
+00:16:14,653 --> 00:16:17,834
+Dzogchen at its best
+does not stop at silence.
+
+262
+00:16:17,914 --> 00:16:23,914
+Read with Mipham, spontaneous presence
+is dependent arising met without fixing,
+
+263
+00:16:24,109 --> 00:16:26,135
+and the two truths stay one.
+
+264
+00:16:26,215 --> 00:16:30,297
+Where I part is from a presentation
+of the leap as the end of speech.
+
+265
+00:16:31,110 --> 00:16:34,264
+Speech was never the problem.
+The it heard in it was.
+
+266
+00:16:34,344 --> 00:16:38,544
+Once the it is seen through, words
+and names do not have to stop.
+
+267
+00:16:38,624 --> 00:16:41,098
+They are used freely, and they work.
+
+268
+00:16:41,178 --> 00:16:44,549
+The conventional is not a
+lower floor to leave behind.
+
+269
+00:16:44,629 --> 00:16:48,897
+The ultimate is not a silence to
+leap into. They are one appearing.
+
+270
+00:16:48,977 --> 00:16:50,912
+Named, and not found.
+
+271
+00:16:51,730 --> 00:16:53,226
+The Buddha said it plainly.
+
+272
+00:16:53,306 --> 00:16:57,887
+Milk becomes curds, curds become
+butter, butter becomes ghee.
+
+273
+00:16:57,967 --> 00:17:00,713
+While it is milk, it is not called curds.
+
+274
+00:17:00,793 --> 00:17:04,585
+Nothing is carried, yet each
+name is right in its time.
+
+275
+00:17:04,665 --> 00:17:07,832
+These are the world's
+common usages, he says,
+
+276
+00:17:07,912 --> 00:17:10,794
+which the Realized One
+uses to communicate,
+
+277
+00:17:10,874 --> 00:17:12,674
+without getting stuck on them.
+
+278
+00:17:13,489 --> 00:17:16,765
+Even the first it, the
+I, is used this way.
+
+279
+00:17:16,845 --> 00:17:19,985
+One who is fully freed
+still says, I speak.
+
+280
+00:17:20,065 --> 00:17:22,797
+Skillful, understanding
+the world's labels,
+
+281
+00:17:22,877 --> 00:17:25,859
+they use these terms as mere expressions.
+
+282
+00:17:26,682 --> 00:17:29,673
+Tsongkhapa makes the same point as method.
+
+283
+00:17:29,753 --> 00:17:33,138
+As long as appearance and
+emptiness seem separate,
+
+284
+00:17:33,218 --> 00:17:36,276
+the Buddha's meaning is not yet realized.
+
+285
+00:17:36,356 --> 00:17:41,792
+The view is complete when merely seeing
+dependent arising undoes the grasping.
+
+286
+00:17:41,872 --> 00:17:43,319
+No leap beyond it.
+
+287
+00:17:44,121 --> 00:17:48,402
+And the one who sees it most
+clearly, for me, is Dōgen.
+
+288
+00:17:48,482 --> 00:17:53,348
+The old saying runs: a painted
+rice cake does not satisfy hunger.
+
+289
+00:17:53,428 --> 00:17:55,060
+Dōgen turns it over.
+
+290
+00:17:55,140 --> 00:17:59,489
+There is no remedy for satisfying
+hunger other than painted rice cakes.
+
+291
+00:17:59,569 --> 00:18:03,298
+Without painted hunger, you
+never become a true person.
+
+292
+00:18:04,130 --> 00:18:06,958
+There is no unpainted
+cake behind the painting.
+
+293
+00:18:07,038 --> 00:18:08,697
+No it behind the convention.
+
+294
+00:18:08,777 --> 00:18:13,348
+The painting is not a poor copy,
+waiting to be dropped. It feeds.
+
+295
+00:18:14,153 --> 00:18:17,392
 So, with both halves in
 place, what has changed?
 
-188
-00:11:58,822 --> 00:12:01,106
+296
+00:18:18,226 --> 00:18:20,510
 Nothing has been taken
 away from the world.
 
-189
-00:12:01,186 --> 00:12:03,230
+297
+00:18:20,590 --> 00:18:22,634
 And no new ground has been added.
 
-190
-00:12:04,045 --> 00:12:07,443
+298
+00:18:23,449 --> 00:18:26,847
 The apple is still red.
 The car is still dangerous.
 
-191
-00:12:07,523 --> 00:12:09,332
+299
+00:18:26,927 --> 00:18:28,736
 The cup still holds hot tea.
 
-192
-00:12:09,412 --> 00:12:11,442
+300
+00:18:28,816 --> 00:18:30,846
 A friend's voice is still warm.
 
-193
-00:12:12,257 --> 00:12:15,021
+301
+00:18:31,661 --> 00:18:34,425
 What has gone is only the
 floor that was never there.
 
-194
-00:12:15,837 --> 00:12:18,705
+302
+00:18:35,241 --> 00:18:38,109
 What remains is not a
 final picture to defend,
 
-195
-00:12:18,785 --> 00:12:21,042
+303
+00:18:38,189 --> 00:18:40,446
 but the freedom of not needing one.
 
-196
-00:12:21,122 --> 00:12:25,648
+304
+00:18:40,526 --> 00:18:45,052
 Each appearance is met as it
 is. Vivid. Exact. Workable.
 
-197
-00:12:25,728 --> 00:12:28,220
+305
+00:18:45,132 --> 00:18:47,624
 Releasing itself as it arises.
 
-198
-00:12:29,041 --> 00:12:33,408
+306
+00:18:48,445 --> 00:18:52,812
 Light and complete, with nothing
 to hold, and no one holding.
 
