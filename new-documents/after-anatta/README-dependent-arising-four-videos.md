@@ -19,3 +19,20 @@ AA28 (five lights) stays a private draft. The seven-part redo drafted earlier th
 Built on the owner's desktop (owner, 2026-11-21: "run on desktop server", "720p small files"): voices recorded in
 parallel, renders one at a time with `VIDEO_HEIGHT=720 REMOTION_CONCURRENCY=12` and x64 Node (`C:\dev\node-x64`, which
 matches the installed renderer). Each MP4 sent to the owner as a two-pass copy under 28 MB (the send limit is 30 MB).
+
+## The older videos (owner's decision, 2026-11-21)
+
+A theme-by-theme comparison found that the four videos carry the experiential line, but leave out the scriptural
+framing (dependent arising as the antidote to ignorance, the twelve links, saṃvṛti as a veil, the "king of reasons",
+MMK 24.18), the stance against Chandrakīrti, Tsongkhapa and the rival readings, and "many faces" (recognising the
+taste across a sound, anger, time, death). Those live mainly in AA21, AA25 and AA27.
+
+Owner chose option 1: **keep AA21, AA25 and AA27** as further viewing; AA22, AA23, AA24 and AA26 are replaced.
+Only two of the seven were ever uploaded (server, 2026-11-21):
+
+| Video | YouTube | Decision |
+|---|---|---|
+| AA21 *Dependent Arising and Designation* | `kgIBWqKT72M` | keep Unlisted (taken out of the playlist on 2026-11-21) |
+| AA23 *Part 1 of 6: If You Think You Understand* | `suq_DoDSinA` | replaced: the owner sets it Private |
+| AA25 *What It Is For*, AA27 *One Taste, Many Faces* | never uploaded | kept; upload only if the owner wants them online |
+| AA22, AA24, AA26 | never uploaded | replaced; nothing to do |
