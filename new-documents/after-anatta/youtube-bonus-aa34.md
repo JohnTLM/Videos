@@ -2,7 +2,7 @@
 
 The video of John Tan's teaching on the dependent arising page (script drawn from the older AA25–AA27 videos), Part 4
 of the four-video Dependent Arising set that replaces the older AA21–AA27 videos (owner, 2026-11-21). Built on
-2026-11-21 at 720p; not yet uploaded (YouTube id to be added). It will go on the site page
+2026-11-21 at 720p; uploaded by the owner on 21 Nov 2026 8:58 pm SGT as Unlisted: `7Z0G_C3eCoI` (8:56), texts put on by the server. It is on the site page
 https://atr-passerby.com/#aa-dependent-arising.
 
 Tags shared by every video (the block below adds its own at the front):
