@@ -1,0 +1,134 @@
+---
+chapter: 32
+label: Bonus article
+title: "The Fist, the Wind and the Chariot"
+series: "Bonus articles"
+source: EBooks Bonus Articles/the-fist-the-wind-and-the-chariot/the-fist-the-wind-and-the-chariot.md (draft of 2026-11-21)
+source_words: 2900
+script_words: 1849
+intro: yes
+voice: male
+status: draft; owner: "Make a video of it using Andrew's voice" (2026-11-21); not published until the owner says ok
+---
+
+# The Fist, the Wind and the Chariot
+
+Make a fist. Feel it, tight and hard. Now open your hand. Where did the fist go?
+
+No one has ever asked that question seriously. And yet, a fist can hit.
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+For years I have said it in many ways. The chariot has no essence, yet it still carries. There is no wind, yet the blowing is felt. The breeze is still cold on the skin.
+
+I have come to see that these sentences disturb more than they open. The mind cannot wrap around them. It hears a paradox. Either it files the paradox away as something deep and unclear, or it rejects it as nonsense. Either way, the insight does not land.
+
+There is a gap here. Something has to be seen before such sentences can make sense. And I have often stated the conclusion without showing how it works. Even someone with a clear insight into no-self can be left with this gap.
+
+Look closely at the sentence. The chariot has no essence, yet it still carries.
+
+It does two things at once. It keeps the chariot as the subject of the sentence. And it empties that subject: no essence. What is left is a chariot minus its core, which still somehow does the carrying. A hollow thing, pushing a load. A ghost that acts.
+
+So the mind asks, quite reasonably: then what does the carrying?
+
+And whatever I answer, conditions, the parts, the process, is heard as a new thing put in the empty place. The gap is not closed. It is only filled with something new.
+
+The word that does the damage is despite. Or yet. Or still. It sets the working against the emptiness, as if things worked in spite of lacking something. As long as the sentence has that shape, more explanation only makes it worse.
+
+The problem is not the insight. It is the grammar I have been saying it in.
+
+Why does even the insight of no-self leave this gap?
+
+No-self, as I have known it, usually sees through one side. In seeing, no seer is found behind the seeing. In hearing, no hearer behind the hearing. There is just the seen and the heard, vivid and complete. It is a real and freeing insight.
+
+But the other side can stay untouched. The tree that is seen still seems to stand there from its own side. The chariot still seems to push the load. A cause still seems to hold a power it hands to its effect.
+
+So a person can have a clear taste of no-self, and still picture the world in the old way. The seer has gone. The seen has not been looked into. The same insight has to be extended to everything. The emptiness of self, and the emptiness of phenomena.
+
+Four insights, in my experience, are what it takes.
+
+The first insight. The name is drawn from the working. It is not added to it.
+
+Habit puts things in this order. First there is a chariot, and then it carries. First there is a wind, and then it blows.
+
+In experience, the order is the other way round. There is the carrying: wheels turning, the load moving along the road. Chariot is the name drawn from that carrying. There is the blowing: coolness moving across the skin, leaves stirring, a door creaking. Wind is the name drawn from that blowing.
+
+So it is not, no wind, yet blowing. The blowing is the wind, completely. The cold on my skin is not a sign of the wind, pointing to a wind somewhere behind it. It is all the wind there ever was. Nothing is missing. So nothing needs to be explained.
+
+This is the same insight as, the flashing is the lightning, now turned to the object side. When it rains, there is no it that rains. There is the raining. River names the flowing.
+
+The name does real work. It picks out a pattern that comes back and matters to us, so we can speak of it and use it. But it picks out the working. It does not point past the working, to a core that does it.
+
+The second insight. You already live this logic.
+
+None of this is strange in easy cases. A fist can hit, hard. When the hand opens, no one asks where the fist went. Fist names the hand, clenched.
+
+Your cat sits on your lap. Stand up, and the lap is gone. It did not go anywhere. Lap names sitting.
+
+A wave can knock you over. Look for the wave apart from the water moving, and there is nothing. Yet no one feels the wave is any weaker for that.
+
+A traffic jam makes you late for work. It has no core, no edge and no owner. It is cars, roads, the hour and the drivers, meeting. It still makes you late.
+
+A melody moves you. A rainbow is photographed. A team wins the cup.
+
+In every one of these, you already accept that something works fully with no essence of its own. And you are not disturbed at all.
+
+The chariot, the apple, the body and the self have the same structure. The only difference is that they are more stable, and come back more often. A fist lasts seconds. A chariot lasts years. A body, a lifetime. Because they are stable and repeated, the habit has hardened around them, and the name has come to feel like a thing.
+
+So nothing new is being asked of you. Only that you notice where you stopped using a logic you already use. And why you stopped there.
+
+The third insight. An essence would stop the carrying.
+
+Turn the argument round. Suppose the chariot did have an essence, a nature of its own, complete and independent. What could it do?
+
+It could not be built, because something complete in itself needs no parts and no builder. It could not move, because moving is changing, and a fixed nature does not change. It could not carry, because carrying is meeting the load, the road and the horse. And something sealed in its own nature could meet nothing.
+
+This is Nāgārjuna's own turn. If you see things as existing by their own nature, you see them as needing no causes or conditions. And if all this were not empty, there would be no arising, and no passing away. Every link that was feared to break under emptiness is broken instead by own-nature.
+
+So the carrying does not happen despite the lack of an essence. It is something an essence would make impossible.
+
+I am careful with the wording. I do not say, because the chariot is empty, it carries. Emptiness is not a power behind the carrying. Emptiness does nothing. I say: the chariot carries, and what carries is found empty. An essence would have stopped it.
+
+The fourth insight. Then what carries, is the it question again.
+
+Even after all this, a question tends to come back. Fine. But then what is it that carries?
+
+Look at how this question is built. It asks for a carrier behind the carrying. It has already put an it there, before any answer is given. Whatever I answer, it will be heard as the carrier.
+
+So I do not answer it. I show what it is. The carrying is wheels, axle, road, load, the horse's pull and the driver's purpose, meeting. Nothing extra stands behind them doing the work. Conditions work, and no power is found sitting in any of them. Nor do they add up to a new hidden carrier. They are the carrying, described in parts.
+
+Seen as the habit, the same habit that puts a self behind the seeing, the question simply stops coming up. It is not answered. It loses its object. Like asking where the fist went, when the hand opened.
+
+Arguments can only point. This has to be met directly.
+
+Next time there is a breeze, feel it. The coolness on your face. The moving. The slight pressure. Then ask: is anything missing? What would a wind add to this, if there were one behind it?
+
+Look honestly. Nothing would be added. The coolness and the moving are complete. Wind is the name for them.
+
+Do the same with a cup of tea in your hand. The warmth. The weight. The tilt to your lips. The taste. What would a cup essence add?
+
+If you have tasted no-self, this will feel familiar. It is the same seeing, now turned to the seen. Nothing is missing, on either side.
+
+I want to say plainly how serious I have found this to be. As a practitioner, during my own journey and in my own journals, I have come to see this way of speaking as a major disservice.
+
+Many teachers and writers on emptiness fall into it without knowing it. And I am one of them. My own books and articles said, not found, yet it carries you. A car with no essence still injures. How a world without essence still appears. Again and again.
+
+Each time, the sentence kept the it, while trying to remove it. And it left the reader with a ghost that acts. It makes the view sound like a paradox to be accepted, or a mystery to be revered. It is neither.
+
+Someone who is serious about a non-substantialist view deserves sentences that do not quietly rebuild the substance they are meant to dissolve. So this must be corrected. I have begun with my own writing.
+
+This has changed how I write. Instead of, the chariot has no essence, yet it still carries, I now say:
+
+The chariot carries. Chariot is the name for this carrying: wheels, axle, road and load, meeting. Look for a chariot behind the carrying, and none is found. None is needed. One would only get in the way.
+
+And instead of, there is no wind, yet the blowing is felt:
+
+The breeze is cold on my skin. That coldness, that moving, is what wind names. There is no wind behind it that the blowing needs.
+
+Others have seen the grammar sharply. Nietzsche wrote that the popular mind separates the lightning from its flash, as if a doer stood behind the deed, when the deed is everything. I share his reading of the grammar. Where I part from him: the doing that remains is not a new ground either. It too is named, and not found.
+
+And the oldest image is still the clearest. Asked where his chariot is, the monk Nāgasena shows King Milinda that it is not the pole, not the axle, not the wheels, not the frame, not their sum, and not something apart from them. Chariot is a name, used in dependence on these.
+
+And it was in that chariot that the king had come.
+
+Open your hand. Nothing is lost. No fist was ever hiding in the hand. And the hand is free to make a fist again.
