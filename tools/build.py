@@ -277,16 +277,24 @@ def synthesize(paras_spoken, work, voice=(VOICE, RATE, PITCH)):
     timed, parts, t0 = [], [], 0.0
     for n, para in enumerate(paras_spoken):
         mp3 = work / f"p{n:02d}.mp3"
-        for attempt in range(8):   # the free service now and then returns no audio or drops a word; try again, waiting longer
-            try:
-                words = asyncio.run(tts_paragraph(para, mp3, voice))
-                align(para.split(), words)
-                break
-            except Exception as e:
-                if attempt == 7:
-                    raise
-                print(f"  paragraph {n}: {type(e).__name__}, retrying")
-                import time; time.sleep(5 * (attempt + 1))
+        # each finished paragraph is kept, so a failed run resumes where it stopped
+        pcache = work / f"p{n:02d}.json"
+        key = {"text": para, "voice": list(voice)}
+        saved = json.loads(pcache.read_text(encoding="utf-8")) if pcache.exists() else {}
+        if saved.get("key") == key and mp3.exists():
+            words = [tuple(w) for w in saved["words"]]
+        else:
+            for attempt in range(12):   # the free service now and then returns no audio or drops a word; try again, waiting longer
+                try:
+                    words = asyncio.run(tts_paragraph(para, mp3, voice))
+                    align(para.split(), words)
+                    break
+                except Exception as e:
+                    if attempt == 11:
+                        raise
+                    print(f"  paragraph {n}: {type(e).__name__}, retrying")
+                    import time; time.sleep(min(60, 5 * (attempt + 1)))
+            pcache.write_text(json.dumps({"key": key, "words": words}, ensure_ascii=False), encoding="utf-8")
         d = duration(mp3)
         for tok, s, e in align(para.split(), words):
             timed.append((tok, s + t0, e + t0, n))
@@ -510,8 +518,13 @@ def render_remotion(chdir, nn, slug, label, title, title_sec, intro, narr, total
                      f'import * as Ch from "../chapters/{scenes_tsx.stem}";\n\nregisterRoot(makeRoot(Ch));\n', encoding="utf-8")
     tmp = REMOTION / "out" / f"{name}.mp4"
     browser = [f"--browser-executable={os.environ['REMOTION_BROWSER']}"] if os.environ.get("REMOTION_BROWSER") else []
+    # VIDEO_HEIGHT=720: a smaller, faster render (1280x720, a little more compression); the default stays 1080p.
+    small = os.environ.get("VIDEO_HEIGHT") == "720"
+    size = ["--scale", str(720 / H), "--crf", "23"] if small else ["--crf", "20"]
+    # REMOTION_CONCURRENCY: frames drawn at once (Remotion's default is half the cores)
+    conc = ["--concurrency", os.environ["REMOTION_CONCURRENCY"]] if os.environ.get("REMOTION_CONCURRENCY") else []
     run(["npx.cmd" if os.name == "nt" else "npx", "remotion", "render", f"src/entries/{name}.ts", "Chapter", str(tmp), f"--props={pfile}", "--codec", "h264",
-         "--crf", "20", "--audio-bitrate", "192k", "--log", "error"] + browser, cwd=REMOTION)
+         "--audio-bitrate", "192k" if not small else "128k", "--log", "error"] + size + conc + browser, cwd=REMOTION)
     mp4 = chdir / f"{FP}{nn}-{slug}.mp4"
     shutil.copy(tmp, mp4)
     shutil.copy(scenes_tsx, chdir / f"{FP}{nn}-scenes.tsx")   # keep a copy of the drawings with the book
@@ -601,6 +614,9 @@ def build(chdir, skip_existing=False):
              "-b:a", "192k", str(narr)])
         cache.write_text(json.dumps({"text": spoken, "voice": list(voice), "timed": timed}, ensure_ascii=False), encoding="utf-8")
     narr_dur = duration(narr)
+    if os.environ.get("VOICE_ONLY"):   # record (and cache) the narration now; a later run draws and renders
+        print(f"{FP}{nn}: voice only, narration {narr_dur:.1f}s")
+        return
 
     scenes_tsx = REMOTION / "src" / "chapters" / f"{PREFIX}{nn}.tsx"
     if scenes_tsx.exists():
