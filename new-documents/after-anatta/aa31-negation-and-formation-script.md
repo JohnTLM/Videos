@@ -3,12 +3,12 @@ chapter: 31
 label: Bonus article
 title: "Negation and Formation: The Two Halves"
 series: "Bonus articles"
-source: EBooks Bonus Articles/negation-and-formation/negation-and-formation.md (draft of 2026-11-20) and its NotebookLM pack
-source_words: 2410
-script_words: 1798
+source: EBooks Bonus Articles/negation-and-formation/negation-and-formation.md (draft of 2026-11-21) and its NotebookLM pack
+source_words: 4128
+script_words: 2762
 intro: yes
 voice: male
-status: draft; the owner said "finish both and go ahead generate the videos" (2026-11-20)
+status: draft, revised 2026-11-21 (the "it" steps and section 7); owner: "do not publish yet until I say ok"
 ---
 
 # Negation and Formation: The Two Halves
@@ -61,9 +61,27 @@ What is left is not a special state to be guarded. Trying to keep it would bring
 
 And here is the turn. Relentless negation alone is only half the story.
 
-Negation targets a fixed nature, inside the old framework. If I stop there, I am left wondering. If these vivid appearances are not things, then what are they?
+But there is a trap at exactly this point. It decides whether the leap into a substrateless view is made, or only circled.
 
-The other half is formation. How a world empty of essence still appears vivid, stable and workable.
+Having negated, the mind asks: if these vivid appearances are not things, then what are they?
+
+That question is the old view, still running. It has to be seen through, not answered.
+
+Step one. There is no substrate. No thing, no substance, no bearer is found behind or beneath any appearance. Not out there. Not in here. Not as a ground of mind, or energy, or awareness.
+
+Step two. So the question, what is it, is invalid. It assumes something is there with a nature of its own, waiting to be identified correctly. Take that something away, and the question has nothing to land on. The answer is not hidden. It is not nothing. It is not beyond words. The question was never valid.
+
+Step three. So the eight extremes do not apply. All of them, all at once. Does it arise, or cease? Is it permanent, or annihilated? Does it come, or go? Is it the same, or different? Each asks what becomes of a thing with a nature of its own. They belong to the inherent view, and make sense only inside it. They need not be refuted one by one. And the middle way is not a middle answer between them.
+
+Step four. Watch the it slip in. Even the question, how does it form, can carry the old view. The it is assumed before any question is asked. It is never seen in the appearing. It is supplied. A grammatical ghost, that habit puts first: a subject waiting for its verbs. It arises. It forms. It lasts. It ends.
+
+This is the same habit as the self. A knower, put behind the knowing, now running through everything. Changing the question does not remove it. Only seeing the habit does.
+
+Step five. The it is what is formed, not what forms. Formation does not happen to a thing. The it is named in the forming, together with its conditions, and is not found apart from them. The cup formed on the potter's wheel is valid, and it works. Heard as a bearer that was there first and then went through the forming, it is as invalid as, what is it.
+
+Try it. Hold anything. A cup. A sound. A thought. Notice the pull to ask, what is this, really. See that the pull already assumes a thing in there. Drop the it, not the cup. The cup is still fully here, vivid and working. And I still call it the cup.
+
+That is the other half: formation. How a world empty of essence still appears vivid, stable and workable.
 
 In this view, a phenomenon is a vivid appearing that is not found when looked for, even while it appears so vividly. Every appearance has three features, at the same time.
 
@@ -112,6 +130,42 @@ Emptiness, heard the first way, is a blank void, or a hidden reservoir behind th
 If things existed with fixed natures, nothing could ever meet. Two things with sealed edges could never touch. And if they merged, they would collapse into one.
 
 In dependent arising, meeting means something else. The two sides define each other in one stroke. A hand touches ice. They meet, with no gap crossed, and no fusion. And the meeting itself is not a third thing.
+
+Looking back over all these articles, they say one thing, again and again. The it is never needed.
+
+Not in experience. The flashing is the lightning. No lightning stands behind it.
+
+Not in formation. The it is formed, named together with its conditions.
+
+Not in causes. Conditions work without causal power, and no it carries the power across.
+
+Not in functioning. The cup holds tea, and the car can injure. Neither needs a core to do it.
+
+Not in continuity. Rice seed yields rice, and nothing is carried across.
+
+Not in the meeting. No glue holds self-standing things together.
+
+And so there is no it to undergo the eight extremes. With none there, they are not false answers. They are invalid questions.
+
+Many teachers, rightly, say the eight extremes do not apply. It is Nāgārjuna's own opening verse, and the traditions that say it point at something real. But it is often said with a large gap. It is not shown why they do not apply: that the it they need was never there. Nor is it shown how the world still works without it.
+
+Then the gap is crossed by a leap. After freedom from all elaborations comes spontaneous presence, presented as the end of all speech. Silence, as the final answer.
+
+I do not take that route. Silence keeps the it, only out of reach. The habit only rests, and slips back into the next sentence. And conventions are left unexplained, so presence is easily heard as a ground: the final it, behind appearances.
+
+Dzogchen at its best does not stop at silence. Read with Mipham, spontaneous presence is dependent arising met without fixing, and the two truths stay one. Where I part is from a presentation of the leap as the end of speech.
+
+Speech was never the problem. The it heard in it was. Once the it is seen through, words and names do not have to stop. They are used freely, and they work. The conventional is not a lower floor to leave behind. The ultimate is not a silence to leap into. They are one appearing. Named, and not found.
+
+The Buddha said it plainly. Milk becomes curds, curds become butter, butter becomes ghee. While it is milk, it is not called curds. Nothing is carried, yet each name is right in its time. These are the world's common usages, he says, which the Realized One uses to communicate, without getting stuck on them.
+
+Even the first it, the I, is used this way. One who is fully freed still says, I speak. Skillful, understanding the world's labels, they use these terms as mere expressions.
+
+Tsongkhapa makes the same point as method. As long as appearance and emptiness seem separate, the Buddha's meaning is not yet realized. The view is complete when merely seeing dependent arising undoes the grasping. No leap beyond it.
+
+And the one who sees it most clearly, for me, is Dōgen. The old saying runs: a painted rice cake does not satisfy hunger. Dōgen turns it over. There is no remedy for satisfying hunger other than painted rice cakes. Without painted hunger, you never become a true person.
+
+There is no unpainted cake behind the painting. No it behind the convention. The painting is not a poor copy, waiting to be dropped. It feeds.
 
 So, with both halves in place, what has changed?
 
