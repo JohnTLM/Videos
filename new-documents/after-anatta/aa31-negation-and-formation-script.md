@@ -8,10 +8,12 @@ source_words: 4128
 script_words: 2762
 intro: yes
 voice: male
-status: draft, revised 2026-11-21 (the "it" steps and section 7); owner: "do not publish yet until I say ok"
+status: revised 2026-11-21 for the four-video set (option A): opening link, step four shortened (AA32 explains it), "Next" line; for the owner's approval
 ---
 
 # Negation and Formation: The Two Halves
+
+In the last video, the habit's hiding places were found empty: under the parts, inside the mind, and in the world when no one looks. Now the wider map.
 
 Over the past months my articles have taken up one question after another. Cause without causal power. Continuity without a carrier. How identities form in the meeting. What a phenomenon is.
 
@@ -73,9 +75,7 @@ Step two. So the question, what is it, is invalid. It assumes something is there
 
 Step three. So the eight extremes do not apply. All of them, all at once. Does it arise, or cease? Is it permanent, or annihilated? Does it come, or go? Is it the same, or different? Each asks what becomes of a thing with a nature of its own. They belong to the inherent view, and make sense only inside it. They need not be refuted one by one. And the middle way is not a middle answer between them.
 
-Step four. Watch the it slip in. Even the question, how does it form, can carry the old view. The it is assumed before any question is asked. It is never seen in the appearing. It is supplied. A grammatical ghost, that habit puts first: a subject waiting for its verbs. It arises. It forms. It lasts. It ends.
-
-This is the same habit as the self. A knower, put behind the knowing, now running through everything. Changing the question does not remove it. Only seeing the habit does.
+Step four. Watch the it slip in, as it did in, then what carries. Even the question, how does it form, can carry the old view. The it is supplied before any question is asked. A grammatical ghost: a subject waiting for its verbs. It arises. It forms. It lasts. It ends.
 
 Step five. The it is what is formed, not what forms. Formation does not happen to a thing. The it is named in the forming, together with its conditions, and is not found apart from them. The cup formed on the potter's wheel is valid, and it works. Heard as a bearer that was there first and then went through the forming, it is as invalid as, what is it.
 
@@ -178,3 +178,5 @@ What has gone is only the floor that was never there.
 What remains is not a final picture to defend, but the freedom of not needing one. Each appearance is met as it is. Vivid. Exact. Workable. Releasing itself as it arises.
 
 Light and complete, with nothing to hold, and no one holding.
+
+Next: The Taste and the Marketplace.
