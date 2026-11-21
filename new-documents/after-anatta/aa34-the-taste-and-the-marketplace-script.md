@@ -6,7 +6,7 @@ series: "Dependent Arising, four videos (owner chose option A, 2026-11-21): AA32
 source: AA25 (two ways of knowing; the framework held three ways; two frameworks; have a second thought); AA26 (the taste met three times; no "made of"; total exertion; the desynchronisation; the hinges; the marketplace; who decides, why help); AA27 (three descriptions, one taste)
 intro: yes
 voice: male
-status: script for the owner's approval
+status: script approved by the owner 2026-11-21 ("yes approved A")
 ---
 
 # The Taste and the Marketplace

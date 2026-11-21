@@ -8,7 +8,7 @@ source_words: 4128
 script_words: 2762
 intro: yes
 voice: male
-status: revised 2026-11-21 for the four-video set (option A): opening link, step four shortened (AA32 explains it), "Next" line; for the owner's approval
+status: revised 2026-11-21 for the four-video set (option A): opening link, step four shortened (AA32 explains it), "Next" line; approved by the owner 2026-11-21 ("yes approved A")
 ---
 
 # Negation and Formation: The Two Halves

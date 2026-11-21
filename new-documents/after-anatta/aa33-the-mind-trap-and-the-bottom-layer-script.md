@@ -6,7 +6,7 @@ series: "Dependent Arising, four videos (owner chose option A, 2026-11-21): AA32
 source: AA24 (the ting and consciousness; matter traded for mind; the basis designated too; the Abhidharma dharmas; MMK 5 and 15; the apple's hardness; not only in the mind); AA23 (the mountain, the bat, the ant; measuring; when no one looks)
 intro: yes
 voice: male
-status: script for the owner's approval
+status: script approved by the owner 2026-11-21 ("yes approved A")
 ---
 
 # The Mind Trap and the Bottom Layer
