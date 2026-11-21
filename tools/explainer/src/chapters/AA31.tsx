@@ -1,9 +1,12 @@
 // Bonus article: Negation and Formation: The Two Halves (AA31).
 // (EBooks Bonus Articles/negation-and-formation, draft of 2026-11-20.)
-// Revised 2026-11-21: steps 1-5 of the turn (no "what", the "it" slips in, the "it" is formed) and the new
+// Revised 2026-11-21 (four-video set, option A): opening link to the last video (three hiding places, found empty),
+// step four shortened (the "same habit as the self" paragraph removed; AA32 explains it), and a "Next" line held in
+// the final scene.
+// Earlier 2026-11-21: steps 1-5 of the turn (no "what", the "it" slips in, the "it" is formed) and the new
 // section 7 (the "it" is never needed; no leap into silence; Buddha DN 9 and SN 1.25, Tsongkhapa, Dogen's painted
 // rice cake).
-// Arc: four questions, one shape -> two halves (eraser and chalk) -> the "undeniable" is a framework -> "The wind
+// Arc: three hiding places, found empty -> four questions, one shape -> two halves (eraser and chalk) -> the "undeniable" is a framework -> "The wind
 // blows" loses its bearer -> the flashing is the lightning; no unnamed floor -> physics points, logic decides -> three
 // braided strands: experience (and its limit: a hidden ground, struck), tools (chariot; pure negation; subtler
 // substrates struck), loosening -> negation is only half -> three features of every appearance -> empty is not weak
@@ -22,6 +25,9 @@ import {
 
 // Copied verbatim from the script, in narration order. No respelled or hyphenated words inside.
 export const PHRASES = [
+  // link to the last video
+  "In the last video, the habit's hiding places were found empty", "under the parts", "inside the mind",
+  "in the world when no one looks", "Now the wider map",
   // opening
   "Over the past months my articles have taken up", "Cause without causal power", "Continuity without a carrier",
   "How identities form in the meeting", "What a phenomenon is", "I see one shape running through all of them",
@@ -72,9 +78,9 @@ export const PHRASES = [
   "Does it come, or go", "Is it the same, or different", "They belong to the inherent view",
   "And the middle way is not a middle answer between them",
   // steps four and five
-  "Step four. Watch the it slip in", "Even the question, how does it form, can carry the old view", "It is supplied",
-  "A grammatical ghost", "It arises", "It forms", "It lasts", "It ends", "This is the same habit as the self",
-  "Only seeing the habit does", "Step five. The it is what is formed, not what forms",
+  "Step four. Watch the it slip in", "as it did in, then what carries",
+  "Even the question, how does it form, can carry the old view", "The it is supplied before any question is asked",
+  "A grammatical ghost", "It arises", "It forms", "It lasts", "It ends", "Step five. The it is what is formed, not what forms",
   "Formation does not happen to a thing", "The cup formed on the potter's wheel is valid",
   // the test
   "Try it. Hold anything", "Notice the pull to ask, what is this, really", "Drop the it, not the cup",
@@ -151,6 +157,7 @@ export const PHRASES = [
   "The cup still holds hot tea", "A friend's voice is still warm", "What has gone is only the floor that was never there",
   "What remains is not a final picture to defend", "Each appearance is met as it is", "Releasing itself as it arises",
   "Light and complete, with nothing to hold, and no one holding",
+  "Next: The Taste and the Marketplace",
 ];
 
 const M = {
@@ -284,6 +291,39 @@ const Room: React.FC<{ p: number; floor: number }> = ({ p, floor }) => (
 );
 
 // ---------------------------------------------------------------- scenes
+/** Link to the last video: three hiding places, each looked into and found empty (nothing drawn inside). */
+const HidingScene: React.FC = () => {
+  const { t, fps } = useT();
+  const c = useCue();
+  const places: [string, string][] = [["under the parts", "under the parts"], ["inside the mind", "inside the mind"],
+    ["in the world when no one looks", "in the world, unwatched"]];
+  const map = c("Now the wider map");
+  return (
+    <AbsoluteFill>
+      <Items items={[
+        ["In the last video, the habit's hiding places were found empty", 960, 170, <Wd c={DIM} s={36} serif>Where the "it" could hide</Wd>],
+      ]} />
+      {places.map(([cue, label], i) => {
+        const a = c(cue);
+        return (
+          <At key={cue} x={480 + i * 480} y={440} o={ramp(t, a, 0.5) * (1 - ramp(t, map, 0.6) * 0.6)} s={pop(t, fps, a)}>
+            <div style={{ position: "relative", width: 360, height: 220, borderRadius: 18, border: `3px dashed ${DIM}`,
+              background: "rgba(10,12,30,0.5)", display: "flex", alignItems: "flex-end", justifyContent: "center", paddingBottom: 18 }}>
+              <div style={{ position: "absolute", top: 70, left: 0, right: 0, textAlign: "center", opacity: ramp(t, a + 0.8, 0.5) }}>
+                <Wd c={DIM} s={26}>found empty</Wd>
+              </div>
+              <Wd c={CHALK} s={28}>{label}</Wd>
+            </div>
+          </At>
+        );
+      })}
+      <Items items={[
+        ["Now the wider map", 960, 720, <Wd c={GOLD} s={52} serif>Now the wider map</Wd>, { pop: true }],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const OpenScene: React.FC = () => (
   <AbsoluteFill>
     <Items items={[
@@ -542,7 +582,8 @@ const ItScene: React.FC = () => {
       <Items items={[
         ["Step four. Watch the it slip in", 960, 110, <K c={GOLD} s={30}>4 · watch the "it" slip in</K>, { pop: true, until: "Step five. The it is what is formed, not what forms" }],
         ["Even the question, how does it form, can carry the old view", 960, 220, <Wd c={CHALK} s={40} serif>How does <span style={{ color: WARM }}>it</span> form?</Wd>, { until: "Step five. The it is what is formed, not what forms" }],
-        ["It is supplied", 560, 340, <K c={ROSE} s={28}>supplied, never seen</K>, { until: "Step five. The it is what is formed, not what forms" }],
+        ["as it did in, then what carries", 960, 290, <Wd c={DIM} s={26}>as in "then what carries?"</Wd>, { until: "The it is supplied before any question is asked" }],
+        ["The it is supplied before any question is asked", 560, 340, <K c={ROSE} s={28}>supplied before any question</K>, { until: "Step five. The it is what is formed, not what forms" }],
         ["A grammatical ghost", 1360, 340, <K c={VIOLET} s={28}>a grammatical ghost</K>, { until: "Step five. The it is what is formed, not what forms" }],
       ]} />
       {verbs.map((v, i) => (
@@ -551,8 +592,6 @@ const ItScene: React.FC = () => {
         </At>
       ))}
       <Items items={[
-        ["This is the same habit as the self", 960, 600, <Wd c={DIM} s={30}>the same habit as the self: a knower behind the knowing</Wd>, { until: "Step five. The it is what is formed, not what forms" }],
-        ["Only seeing the habit does", 960, 680, <K c={GREEN} s={28}>only seeing the habit removes it</K>, { until: "Step five. The it is what is formed, not what forms" }],
         ["Step five. The it is what is formed, not what forms", 960, 110, <K c={GOLD} s={30}>5 · the "it" is what is formed, not what forms</K>, { pop: true }],
       ]} />
       {conds.map((w, i) => {
@@ -936,15 +975,16 @@ const EndScene: React.FC = () => {
 const FinalScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const last = c("Light and complete, with nothing to hold, and no one holding");
+  const nx = c("Next: The Taste and the Marketplace");
   return (
-    <AbsoluteFill style={{ opacity: 1 - ramp(t, last + 6, 1.5) }}>
+    <AbsoluteFill style={{ opacity: 1 - ramp(t, nx + 5, 1.5) }}>
       <Items items={[
         ["What remains is not a final picture to defend", 960, 240, <Wd c={DIM} s={34}>not a final picture to defend</Wd>],
         ["Each appearance is met as it is", 960, 360, <Wd c={CHALK} s={40} serif>each appearance, met as it is</Wd>],
         ["Releasing itself as it arises", 960, 460, <Wd c={DIM} s={32}>vivid · exact · workable · releasing itself</Wd>],
         ["Light and complete, with nothing to hold, and no one holding", 960, 620, <Wd c={GOLD} s={56} serif>Light and complete,</Wd>],
         ["Light and complete, with nothing to hold, and no one holding", 960, 720, <Wd c={GOLD} s={44} serif>with nothing to hold, and no one holding.</Wd>, { d: 1.6 }],
+        ["Next: The Taste and the Marketplace", 960, 820, <Wd c={DIM} s={30}>Next: The Taste and the Marketplace</Wd>],
       ]} />
     </AbsoluteFill>
   );
@@ -954,6 +994,7 @@ const FinalScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const order: [string, keyof typeof M, React.ReactNode][] = [
+    ["In the last video, the habit's hiding places were found empty", "search", <HidingScene />],
     ["Over the past months my articles have taken up", "dusk", <OpenScene />],
     ["There are two halves to the work", "whole", <HalvesScene />],
     ["Start with negation, and with what it has to face", "search", <UndeniableScene />],

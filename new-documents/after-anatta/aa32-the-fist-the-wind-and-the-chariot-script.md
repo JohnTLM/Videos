@@ -5,7 +5,7 @@ title: "The Fist, the Wind and the Chariot"
 series: "Bonus articles"
 source: EBooks Bonus Articles/the-fist-the-wind-and-the-chariot/the-fist-the-wind-and-the-chariot.md (draft of 2026-11-21)
 source_words: 2900
-script_words: 1849
+script_words: 1857
 intro: yes
 voice: male
 status: draft; owner: "Make a video of it using Andrew's voice" (2026-11-21); not published until the owner says ok

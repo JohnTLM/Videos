@@ -55,7 +55,11 @@ the EBooks builders and publishing: `ffmpeg` 7.1, `pandoc`, Node 20, Noto/DejaVu
 - Engine: `REMOTION_DIR` if set, else `tools/explainer`, else `C:\dev\video-tools\explainer`. Browser:
   `REMOTION_BROWSER`. Voice proxy: `TTS_PROXY`. `ffmpeg` from the PATH first (else Windows `LOCALAPPDATA`); `npx`
   (`npx.cmd` on Windows). It skips the Drive layout's "copy the engine to Drive" step when using this copy.
-- Each paragraph's speech and the spoken title are retried up to four times (the free service sometimes returns no
+- `VIDEO_HEIGHT=720` renders a smaller, faster 1280×720 file (default 1080p); `REMOTION_CONCURRENCY` sets how many
+  frames are drawn at once; `VOICE_ONLY=1` records and caches the narration without drawing. Each finished paragraph
+  of narration is kept in `_work/`, so a failed voice run resumes where it stopped.
+- On the owner's ARM desktop, put `C:\dev\node-x64` first on the PATH: the installed renderer packages are x64.
+- Each paragraph's speech is retried up to twelve times and the spoken title up to four (the free service sometimes returns no
   audio or drops a word).
 - Series `build.py` files look for `tools/build.py` first, then the Drive layout
   (`<root>/Substrateless-World/Videos/build.py`).

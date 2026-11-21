@@ -5,7 +5,7 @@ title: "Negation and Formation: The Two Halves"
 series: "Bonus articles"
 source: EBooks Bonus Articles/negation-and-formation/negation-and-formation.md (draft of 2026-11-21) and its NotebookLM pack
 source_words: 4128
-script_words: 2762
+script_words: 2760
 intro: yes
 voice: male
 status: revised 2026-11-21 for the four-video set (option A): opening link, step four shortened (AA32 explains it), "Next" line; approved by the owner 2026-11-21 ("yes approved A")
