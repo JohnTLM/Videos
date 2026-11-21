@@ -132,3 +132,5 @@ And the oldest image is still the clearest. Asked where his chariot is, the monk
 And it was in that chariot that the king had come.
 
 Open your hand. Nothing is lost. No fist was ever hiding in the hand. And the hand is free to make a fist again.
+
+Next: The Mind Trap and the Bottom Layer.
