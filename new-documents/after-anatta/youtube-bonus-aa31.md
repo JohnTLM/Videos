@@ -3,8 +3,8 @@
 The video of John Tan's bonus article *Negation and Formation* (EBooks
 `Bonus Articles/negation-and-formation/`, a draft). Part 3 of the four-video Dependent Arising set that replaces the
 older AA21–AA27 videos (owner, 2026-11-21): AA32 Part 1, AA33 Part 2, AA31 Part 3, AA34 Part 4. Rebuilt on 2026-11-21
-at 720p with a new opening, a shorter step four and a "Next" line. Not yet uploaded (YouTube id to be added). It will
-go on the site page https://atr-passerby.com/#aa-dependent-arising.
+at 720p with a new opening, a shorter step four and a "Next" line. Uploaded by the owner on 21 Nov 2026 8:58 pm SGT as Unlisted: `38eXXi5vgpU` (18:58), texts put on by the server. It is
+on the site page https://atr-passerby.com/#aa-dependent-arising.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`

@@ -2,8 +2,7 @@
 
 The video of John Tan's bonus article *The Fist, the Wind and the Chariot* (EBooks
 `Bonus Articles/the-fist-the-wind-and-the-chariot/`, a draft). It is Part 1 of the four-video Dependent Arising set
-that replaces the older AA21–AA27 videos (owner, 2026-11-21). Built on 2026-11-21 at 720p; not yet uploaded (YouTube
-id to be added). It will go on the site page https://atr-passerby.com/#aa-dependent-arising.
+that replaces the older AA21–AA27 videos (owner, 2026-11-21). Built on 2026-11-21 at 720p; uploaded by the owner on 21 Nov 2026 8:58 pm SGT as Unlisted: `StkkmkB0ql8` (11:47), texts put on by the server. It is on the site page https://atr-passerby.com/#aa-dependent-arising.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
