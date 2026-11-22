@@ -30,3 +30,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - Files in `new-documents/after-anatta/` (`aa36-…`, `README-aa36-…`, `youtube-bonus-aa36.md`); drawings `AA36.tsx`.
   `tools/pronunciation.json` gained Vasubandhu and Uexküll (PR #123).
 - AA35 handed over to this series session. Its YouTube title now uses the series form "Dependent Arising Part 1: …".
+
+## 2026-11-22: AA37 *Dependent Arising Part 3: Measured, or Formed?*, draft
+
+- Owner approved the script ("Ok go ahead"), then its closing paragraph changed to point to Part 4, *Empty, Not
+  Ghostly*, instead of many worlds ("Yes"). Built in a cloud session: 10:53 at 720p, Andrew, 180 cues, no LATE
+  drawings; a 25 MB copy sent to the owner. Not uploaded (the article is a draft).
+- Files in `new-documents/after-anatta/` (`aa37-…`, `README-aa37-…`, `youtube-bonus-aa37.md`); drawings `AA37.tsx`.
+  `AA38.tsx` (Part 4's drawings, script approved) rides along; AA38 is being built.

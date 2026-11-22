@@ -1,0 +1,825 @@
+1
+00:00:08,253 --> 00:00:10,387
+A detector clicks. Up.
+
+2
+00:00:10,467 --> 00:00:12,552
+Was the electron up all along?
+
+3
+00:00:13,382 --> 00:00:16,169
+I am John Tan, known as Thusness.
+
+4
+00:00:16,249 --> 00:00:20,440
+These are my own notes, from my
+own practice and contemplation.
+
+5
+00:00:21,245 --> 00:00:24,928
+In Part 2, one bowl of
+liquid was seen as water,
+
+6
+00:00:25,008 --> 00:00:27,347
+pus, a home and nectar.
+
+7
+00:00:27,427 --> 00:00:31,369
+And no neutral liquid was found
+underneath. Beings still agree.
+
+8
+00:00:31,449 --> 00:00:34,167
+Not because a hidden
+floor holds them together,
+
+9
+00:00:34,247 --> 00:00:36,871
+but because they meet
+along shared channels,
+
+10
+00:00:36,951 --> 00:00:38,560
+and correct one another.
+
+11
+00:00:39,369 --> 00:00:44,986
+A careful listener may say: that is fine
+for ghosts and fish. Physics is different.
+
+12
+00:00:45,116 --> 00:00:49,031
+Physics measures the world
+as it is, from no one's side.
+
+13
+00:00:49,111 --> 00:00:52,323
+Surely there, at least,
+the given is solid.
+
+14
+00:00:53,138 --> 00:00:55,699
+So in this part, I turn to physics.
+
+15
+00:00:56,513 --> 00:01:00,767
+I am not a physicist. I report
+two views as fairly as I can.
+
+16
+00:01:00,847 --> 00:01:03,906
+Carlo Rovelli's relational
+quantum mechanics.
+
+17
+00:01:03,986 --> 00:01:06,695
+And Karen Barad's agential realism.
+
+18
+00:01:07,509 --> 00:01:10,037
+I use them as echoes, not proofs.
+
+19
+00:01:10,117 --> 00:01:12,592
+Emptiness does not depend on physics.
+
+20
+00:01:12,672 --> 00:01:14,960
+And physics does not need my approval.
+
+21
+00:01:15,782 --> 00:01:16,993
+But it is striking.
+
+22
+00:01:17,073 --> 00:01:21,925
+Two careful thinkers, starting from
+the laboratory and not from meditation,
+
+23
+00:01:22,005 --> 00:01:24,864
+arrive close to what Nāgārjuna saw.
+
+24
+00:01:25,698 --> 00:01:27,955
+The pattern is the same as before.
+
+25
+00:01:28,035 --> 00:01:31,882
+Two ways of seeing, side
+by side, three times.
+
+26
+00:01:31,962 --> 00:01:33,639
+Then: which holds?
+
+27
+00:01:34,517 --> 00:01:36,370
+First, a measured value.
+
+28
+00:01:37,202 --> 00:01:39,908
+Take one small particle, an electron.
+
+29
+00:01:39,988 --> 00:01:44,269
+Measure one of its properties,
+say its spin along one direction.
+
+30
+00:01:44,349 --> 00:01:46,502
+The detector clicks. Up.
+
+31
+00:01:47,321 --> 00:01:50,108
+Surely the electron was up all along.
+
+32
+00:01:50,188 --> 00:01:52,200
+The measurement only revealed it.
+
+33
+00:01:52,280 --> 00:01:56,453
+The value sat there, finished,
+from the electron's own side.
+
+34
+00:01:56,533 --> 00:02:00,628
+And the detector read it off, the
+way I read the time from a clock.
+
+35
+00:02:01,437 --> 00:02:05,736
+Or, and it is a big or, look
+at how the value is formed.
+
+36
+00:02:06,553 --> 00:02:09,679
+Quantum mechanics has long
+resisted that picture.
+
+37
+00:02:09,759 --> 00:02:14,136
+Before the measurement, the theory does
+not give the electron a definite value at
+
+38
+00:02:14,216 --> 00:02:16,205
+all. Only chances.
+
+39
+00:02:17,021 --> 00:02:19,332
+Rovelli draws a plain conclusion.
+
+40
+00:02:19,412 --> 00:02:23,490
+A physical value is not a property
+a thing carries on its own.
+
+41
+00:02:23,570 --> 00:02:28,399
+It is a fact that holds relative to
+another system, in an interaction.
+
+42
+00:02:29,217 --> 00:02:32,484
+Up is a fact for the detector
+that met the electron.
+
+43
+00:02:32,586 --> 00:02:35,686
+For a system that has not
+interacted with either of them,
+
+44
+00:02:35,766 --> 00:02:37,728
+it is not yet a fact at all.
+
+45
+00:02:38,546 --> 00:02:42,148
+So the value is not stored
+in the electron, waiting.
+
+46
+00:02:42,228 --> 00:02:45,355
+It forms in the meeting.
+Rovelli says it plainly.
+
+47
+00:02:45,435 --> 00:02:48,847
+The world is not made of things
+with their own properties.
+
+48
+00:02:48,927 --> 00:02:51,175
+It is made of events of interaction.
+
+49
+00:02:51,977 --> 00:02:54,736
+That is the same move
+as the apple in Part 1.
+
+50
+00:02:54,816 --> 00:02:57,005
+The red was not stored in the fruit.
+
+51
+00:02:57,085 --> 00:03:00,008
+It arose with light, eye and attention.
+
+52
+00:03:00,088 --> 00:03:03,704
+Here, even the most exact
+measurement is a meeting.
+
+53
+00:03:03,784 --> 00:03:06,697
+And what is measured is
+what forms in that meeting.
+
+54
+00:03:07,509 --> 00:03:11,654
+And even seen this way, nothing
+is missing. The click is real.
+
+55
+00:03:11,734 --> 00:03:15,839
+The record stays. And the
+experiment can be repeated tomorrow,
+
+56
+00:03:15,919 --> 00:03:17,311
+with the same result.
+
+57
+00:03:18,134 --> 00:03:21,021
+Second, two observers compare notes.
+
+58
+00:03:21,821 --> 00:03:24,146
+I measure the electron, and get up.
+
+59
+00:03:24,226 --> 00:03:26,483
+Later you check, and you get up too.
+
+60
+00:03:26,563 --> 00:03:28,783
+We compare notes, and they match.
+
+61
+00:03:29,601 --> 00:03:34,412
+Surely that settles it. If the value
+were only relative, why would we agree?
+
+62
+00:03:34,492 --> 00:03:37,347
+We agree because the
+electron really was up,
+
+63
+00:03:37,427 --> 00:03:40,499
+from its own side, before
+either of us looked.
+
+64
+00:03:40,579 --> 00:03:42,487
+Agreement proves the given.
+
+65
+00:03:43,285 --> 00:03:48,046
+Or, and again it is a big or, look
+at how the agreement is formed.
+
+66
+00:03:48,857 --> 00:03:51,671
+Critics put exactly this
+question to Rovelli.
+
+67
+00:03:51,751 --> 00:03:55,502
+His answer, worked out with
+the philosopher Emily Adlam,
+
+68
+00:03:55,582 --> 00:03:58,482
+is a rule they call
+cross-perspective links.
+
+69
+00:03:59,301 --> 00:04:04,452
+If I have measured the electron, and you
+then interact both with the electron and
+
+70
+00:04:04,532 --> 00:04:08,433
+with me, with my record,
+my notes, my words,
+
+71
+00:04:08,513 --> 00:04:10,652
+then your result will match my record.
+
+72
+00:04:11,449 --> 00:04:14,072
+Agreement is real, and reliable.
+
+73
+00:04:14,152 --> 00:04:16,821
+But it is formed through
+the meeting between you,
+
+74
+00:04:16,924 --> 00:04:18,624
+me and the electron.
+
+75
+00:04:18,704 --> 00:04:22,827
+It does not need a hidden value
+that existed before anyone met it.
+
+76
+00:04:23,658 --> 00:04:26,771
+This is Candrakīrti's answer from Part 2,
+
+77
+00:04:26,851 --> 00:04:28,904
+met again in a laboratory.
+
+78
+00:04:28,984 --> 00:04:32,478
+There, healthy human eyes
+agreed that the conch is white,
+
+79
+00:04:32,558 --> 00:04:37,754
+and corrected the jaundiced eye, with
+no judge standing outside every view.
+
+80
+00:04:38,593 --> 00:04:41,530
+Here, observers agree by interacting.
+
+81
+00:04:41,610 --> 00:04:43,962
+And errors are caught by checking again.
+
+82
+00:04:44,042 --> 00:04:48,187
+Shared reality is built by
+coordination and cross-checking.
+
+83
+00:04:48,267 --> 00:04:50,040
+Not by standing on a floor.
+
+84
+00:04:50,845 --> 00:04:55,357
+And even seen this way, nothing is
+missing. Scientists still agree.
+
+85
+00:04:55,437 --> 00:04:59,438
+Papers are still checked. Bridges
+are still built from the numbers.
+
+86
+00:05:00,311 --> 00:05:02,572
+Third, a stick in a dark room.
+
+87
+00:05:03,394 --> 00:05:07,608
+Barad starts from Niels Bohr, one of
+the founders of quantum mechanics,
+
+88
+00:05:07,688 --> 00:05:09,324
+and an image Bohr liked.
+
+89
+00:05:10,142 --> 00:05:12,997
+Picture walking through
+a dark room with a stick.
+
+90
+00:05:13,077 --> 00:05:17,888
+If I grip it firmly, the stick becomes
+part of me. I do not feel the stick.
+
+91
+00:05:17,968 --> 00:05:19,768
+I feel the wall at its tip.
+
+92
+00:05:20,573 --> 00:05:25,071
+If I hold it loosely, the stick
+becomes something I feel. Its weight.
+
+93
+00:05:25,151 --> 00:05:26,883
+Its roughness in my hand.
+
+94
+00:05:27,705 --> 00:05:31,837
+Surely there is a fixed line
+between me, the one who observes,
+
+95
+00:05:31,917 --> 00:05:36,755
+and the stick and the wall, the things
+observed. The line is simply there.
+
+96
+00:05:36,835 --> 00:05:38,091
+I only find it.
+
+97
+00:05:38,893 --> 00:05:43,206
+Or, and it is the biggest or,
+look at how the line is formed.
+
+98
+00:05:44,022 --> 00:05:48,752
+With the same stick and the same hand,
+the line falls in a different place,
+
+99
+00:05:48,832 --> 00:05:50,564
+depending on how I hold it.
+
+100
+00:05:51,394 --> 00:05:53,774
+Barad calls this the agential cut.
+
+101
+00:05:53,854 --> 00:05:59,045
+A measuring setup, she says, does not
+slice up a world already divided into
+
+102
+00:05:59,125 --> 00:06:02,351
+observer and observed. It enacts the cut.
+
+103
+00:06:03,169 --> 00:06:07,110
+It settles, for this meeting,
+what counts as the instrument,
+
+104
+00:06:07,190 --> 00:06:09,176
+and what counts as the object.
+
+105
+00:06:09,256 --> 00:06:11,961
+And what a word like
+position can even mean here.
+
+106
+00:06:12,041 --> 00:06:14,588
+Change the setup, and the cut moves.
+
+107
+00:06:15,426 --> 00:06:19,776
+Bohr showed that an experiment set up to
+find which path a particle takes cannot
+
+108
+00:06:19,856 --> 00:06:23,390
+also show the interference
+that needs both paths.
+
+109
+00:06:23,470 --> 00:06:26,841
+These are not two windows
+onto one finished particle.
+
+110
+00:06:26,921 --> 00:06:30,527
+They are two different
+phenomena, each with its own cut.
+
+111
+00:06:31,329 --> 00:06:35,800
+So Barad says that things do not
+exist first, and then interact.
+
+112
+00:06:35,880 --> 00:06:38,654
+They emerge through what
+she calls intra-action.
+
+113
+00:06:38,734 --> 00:06:43,060
+Action within one phenomenon,
+not between things already there.
+
+114
+00:06:43,861 --> 00:06:47,802
+That is close to the bat, the
+bee and the ant in Part 1.
+
+115
+00:06:47,882 --> 00:06:50,493
+A different body singles
+out a different world.
+
+116
+00:06:50,573 --> 00:06:54,949
+The mountain, the one who meets it, and
+the channel of meeting are designated
+
+117
+00:06:55,029 --> 00:06:59,967
+together. Barad's cut is that
+togetherness, seen in the laboratory.
+
+118
+00:07:00,785 --> 00:07:03,639
+And even seen this way,
+nothing is missing.
+
+119
+00:07:03,719 --> 00:07:06,072
+I still find my way across the dark room.
+
+120
+00:07:06,152 --> 00:07:08,277
+And I still do not walk into the wall.
+
+121
+00:07:09,093 --> 00:07:10,960
+Now, where I part from them.
+
+122
+00:07:11,788 --> 00:07:16,644
+Here I must be careful. Because this is
+where the echo can turn into a new floor.
+
+123
+00:07:17,453 --> 00:07:20,271
+It is easy to read both views this way.
+
+124
+00:07:20,374 --> 00:07:22,998
+Things are not real, but relations are.
+
+125
+00:07:23,078 --> 00:07:26,127
+Interactions are the
+true stuff of the world.
+
+126
+00:07:26,230 --> 00:07:28,980
+Phenomena are the real building blocks.
+
+127
+00:07:29,793 --> 00:07:34,699
+Whatever the authors themselves intend,
+that reading only moves the floor.
+
+128
+00:07:34,779 --> 00:07:37,484
+Before, solid things sat underneath.
+
+129
+00:07:37,564 --> 00:07:39,717
+Now, solid relations do.
+
+130
+00:07:40,525 --> 00:07:42,727
+Nāgārjuna does not allow that.
+
+131
+00:07:42,807 --> 00:07:45,010
+A relation needs what it relates.
+
+132
+00:07:45,090 --> 00:07:46,912
+Between needs two sides.
+
+133
+00:07:46,992 --> 00:07:52,333
+Take away the electron and the detector,
+and no interaction is left standing on its
+
+134
+00:07:52,413 --> 00:07:53,613
+own.
+
+135
+00:07:53,969 --> 00:07:58,934
+Relations and the things related
+arise together. Neither comes first.
+
+136
+00:07:59,733 --> 00:08:03,620
+So the interaction is as
+unfindable as the electron.
+
+137
+00:08:03,700 --> 00:08:07,755
+And the cut is as unfindable
+as the two sides it divides.
+
+138
+00:08:08,569 --> 00:08:12,606
+What I meet is not a web of real
+relations under the appearances.
+
+139
+00:08:12,686 --> 00:08:14,779
+It is the appearances themselves.
+
+140
+00:08:14,859 --> 00:08:18,326
+Vivid, working, and empty
+all the way through.
+
+141
+00:08:18,406 --> 00:08:20,028
+The relations included.
+
+142
+00:08:20,837 --> 00:08:24,371
+Rovelli himself has written
+about reading Nāgārjuna,
+
+143
+00:08:24,451 --> 00:08:28,936
+and finding in him a way to think
+about a world with no ultimate things.
+
+144
+00:08:29,016 --> 00:08:30,557
+I am glad of the meeting.
+
+145
+00:08:31,390 --> 00:08:35,291
+But I do not need physics to be
+right for dependent arising to hold.
+
+146
+00:08:35,371 --> 00:08:39,734
+And I do not need dependent arising
+to settle what physics will say next.
+
+147
+00:08:39,814 --> 00:08:42,587
+Scientific models are designations too.
+
+148
+00:08:42,667 --> 00:08:47,021
+Among the most reliable ones I
+have, inside their own fields.
+
+149
+00:08:47,834 --> 00:08:52,156
+Two ways of seeing, three times
+over, now in the laboratory.
+
+150
+00:08:52,236 --> 00:08:54,267
+Which carries more valid truth?
+
+151
+00:08:55,073 --> 00:09:00,622
+I test them as before. By experience.
+By logic. And by how things work.
+
+152
+00:09:01,450 --> 00:09:05,976
+By experience. What does any
+physicist actually meet? A click.
+
+153
+00:09:06,056 --> 00:09:10,451
+A trace on a screen. A number on
+a display. A colleague's report.
+
+154
+00:09:11,257 --> 00:09:15,185
+Never a value standing on
+its own, before any meeting.
+
+155
+00:09:15,265 --> 00:09:18,378
+That value is never met. It is supplied.
+
+156
+00:09:18,458 --> 00:09:22,961
+By the same habit that supplies the
+apple standing on its own in the bowl.
+
+157
+00:09:23,778 --> 00:09:27,978
+By logic. If the electron's value
+were fixed from its own side,
+
+158
+00:09:28,058 --> 00:09:31,918
+it would be the same for
+every system, met or not.
+
+159
+00:09:31,998 --> 00:09:35,496
+And the cut would not move
+with the setup. Both fail.
+
+160
+00:09:36,297 --> 00:09:39,940
+And a relation put forward
+as the new floor fails too.
+
+161
+00:09:40,020 --> 00:09:43,513
+Picking it out needs the things
+it relates. And they need it.
+
+162
+00:09:43,593 --> 00:09:45,664
+Nothing in the chain stands alone.
+
+163
+00:09:46,490 --> 00:09:47,429
+By working.
+
+164
+00:09:47,509 --> 00:09:52,008
+The given view says physics works
+because a finished world sits underneath,
+
+165
+00:09:52,088 --> 00:09:53,575
+and measurement reads it.
+
+166
+00:09:54,390 --> 00:09:58,509
+The formed view explains the
+working fully. Measurements repeat.
+
+167
+00:09:58,589 --> 00:10:01,212
+Observers agree. Predictions hold.
+
+168
+00:10:01,292 --> 00:10:04,079
+Because these are patterns
+meeting other patterns,
+
+169
+00:10:04,159 --> 00:10:06,597
+reliably, along their channels.
+
+170
+00:10:07,413 --> 00:10:10,295
+Working never needed a
+floor. Not in the bowl.
+
+171
+00:10:10,375 --> 00:10:11,997
+And not in the laboratory.
+
+172
+00:10:12,817 --> 00:10:16,500
+So the given is not the
+truer view, even in physics.
+
+173
+00:10:16,580 --> 00:10:21,070
+It is the default view, carried
+by habit, and by the way we talk.
+
+174
+00:10:21,906 --> 00:10:25,400
+What fails is only the
+extra claim: a value,
+
+175
+00:10:25,480 --> 00:10:29,684
+a thing, or a relation, standing
+there from its own side.
+
+176
+00:10:30,489 --> 00:10:32,207
+Nothing that works is lost.
+
+177
+00:10:33,074 --> 00:10:36,599
+This is Part 3 of the
+Dependent Arising series.
+
+178
+00:10:37,409 --> 00:10:40,114
+In Part 4, I draw some conclusions.
+
+179
+00:10:40,194 --> 00:10:43,973
+Without essence, does everything
+turn ghostly and void?
+
+180
+00:10:44,053 --> 00:10:48,474
+The car still knocks you down. It
+still rains. And you still get sick.
+
