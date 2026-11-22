@@ -157,7 +157,7 @@ const Car: React.FC<{ w?: number; dashed?: boolean; col?: string }> = ({ w = 300
 
 /** A figure, standing (`fall` 0) or lying on the ground (`fall` 1). */
 const Figure: React.FC<{ fall: number; col?: string }> = ({ fall, col = CHALK }) => (
-  <div style={{ transform: `rotate(${fall * 80}deg)`, transformOrigin: "50% 100%" }}>
+  <div style={{ transform: `rotate(${-fall * 80}deg)`, transformOrigin: "50% 100%" }}>
     <svg width={70} height={120} viewBox="0 0 60 100" style={{ overflow: "visible" }}>
       <circle cx={30} cy={16} r={12} fill="none" stroke={col} strokeWidth={4} />
       <path d="M30 28 L30 64 M30 40 L12 56 M30 40 L48 56 M30 64 L16 96 M30 64 L44 96" fill="none" stroke={col} strokeWidth={4} strokeLinecap="round" />
@@ -296,8 +296,8 @@ const CarScene: React.FC = () => {
       {t >= look && t < conds && (
         <>
           <At x={960} y={560}><svg width={1600} height={20}><path d="M0 10 L1600 10" stroke={DIM} strokeWidth={4} /></svg></At>
-          <At x={760} y={490} o={1}><Figure fall={fall} /></At>
-          <At x={Math.max(carX, 980)} y={500}><Car w={300} /></At>
+          <At x={800} y={490} o={1}><Figure fall={fall} /></At>
+          <At x={Math.max(carX, 1000)} y={500}><Car w={300} /></At>
           <Items items={[["and the car knocks me down", 960, 220, <Wd c={WARM} s={40} serif>and the car knocks me down</Wd>, { d: 0.4 }]]} />
         </>
       )}
