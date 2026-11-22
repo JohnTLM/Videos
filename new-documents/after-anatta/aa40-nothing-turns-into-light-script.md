@@ -5,7 +5,7 @@ title: "Nothing Turns Into Light: Luminous Clarity and the Rainbow Body"
 series: "After Anatta · Questions"
 source: EBooks docs/notes/2026-11-22-luminous-clarity-and-rainbow-body.md (public parts only), Rainbow Body and Emptiness (own voice, 22 Nov), The Lamp That Does Not Light Itself, Book 5 Luminosity, Canon View points 4, 14, 15
 source_words: 3300
-script_words: 1940
+script_words: 1976
 intro: yes
 voice: male
 status: draft for the owner's approval (2026-11-22); in the owner's own voice (owner: "Write in my own voice"). Leaves out everything from the private section 18 of Dependent Arising and Designation.
@@ -41,9 +41,9 @@ There is a name for this clearness that many practitioners know. I AM. For me, I
 
 That is how it went for me. Presence was vivid from early on. But it belonged to someone. It was my awareness. Then I made it a Witness. Then a Source. Then a Mirror. Then a seamless field of luminous presence, non-dual, but still something real on its own side. For many years I believed this was the destination. The question that turned it was simple. Does Presence itself exist from its own side?
 
-Around nineteen ninety-seven, anatta came. No seer behind seeing. Just the seen. The hearer was never more than the hearing. The vividness was almost impossible to describe. But the view had not caught up. The self had dissolved, but the world had not. My experience was free while my view was not. It took me years more to close that gap.
+Around nineteen ninety-seven, anatta came. No seer behind seeing. Just the seen. The hearer was never more than the hearing. It was a genuine realization, and it did not go away. But it reached the self, not yet the world. The self had dissolved, but the universe had not. Space still sat like a container. Time still ran like a conveyor belt. And awareness could still quietly become a subtle ground. That habit had to be seen through in each place it worked, in space, time, cause, death and the world itself. That took me years more.
 
-What closed it was emptiness. Not only the emptiness of the self, but of everything that appears, and of the clarity itself. Even the luminosity, even the awareness, is seen as dependently designated. That is twofold emptiness.
+What saw it through was emptiness. Not only the emptiness of the self, but of everything that appears, and of the clarity itself. Even the luminosity, even the awareness, is seen as dependently designated. That is twofold emptiness.
 
 And here the two halves meet. The vividness of the apple and its unfindability are not two facts. They are one fact, seen twice. The red is vivid exactly because it depends on light, eye and skin. It is never found apart from them. The clarity is not found from its own side, and the emptiness is never a blank. Each is the other's way of being said.
 
