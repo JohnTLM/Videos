@@ -8,7 +8,7 @@ source_words: 1728
 script_words: 1402
 intro: yes
 voice: male
-status: draft script, waiting for the owner's approval
+status: approved by the owner 2026-11-22 ("Approved, go ahead"); built 2026-11-22
 ---
 
 # Dependent Arising Part 4: Empty, Not Ghostly
