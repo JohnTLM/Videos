@@ -8,7 +8,7 @@ source_words: 3300
 script_words: 2035
 intro: yes
 voice: male
-status: draft for the owner's approval (2026-11-22); in the owner's own voice (owner: "Write in my own voice"). Leaves out everything from the private section 18 of Dependent Arising and Designation.
+status: approved by the owner (2026-11-22, "Approved"); in the owner's own voice (owner: "Write in my own voice"). Leaves out everything from the private section 18 of Dependent Arising and Designation.
 ---
 
 # Nothing Turns Into Light: Luminous Clarity and the Rainbow Body
