@@ -5,7 +5,7 @@ The video on four outside papers on the rainbow body, read with John Tan's *Rain
 No site page yet. Upload as **Unlisted**, like the other After Anatta videos.
 
 Tags shared by every video (the block below adds its own at the front):
-`after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
+`after anatta, John Tan, Thusness, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
 
 ---
 
@@ -52,4 +52,4 @@ All views and understanding here are my own, from my practice and contemplation.
 
 ### Tags
 
-rainbow body, ja lus, Dzogchen, Bon, Kalacakra, empty form, thogal, four visions, five lights, tukdam, Orofino, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+rainbow body, ja lus, Dzogchen, Bon, Kalacakra, empty form, thogal, four visions, five lights, tukdam, Orofino, after anatta, John Tan, Thusness, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
