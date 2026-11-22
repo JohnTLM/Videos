@@ -117,9 +117,9 @@ export const PHRASES = [
   "What fails is only the extra claim", "a value, a thing, or a relation, standing there from its own side",
   "Nothing that works is lost",
   // next
-  "This is Part 3 of the Dependent Arising series", "In Part 4, I take up what is left once the given is gone",
-  "Many worlds, with no master world among them", "Where are the other worlds", "How do they touch",
-  "And does any one of them have the final say",
+  "This is Part 3 of the Dependent Arising series", "In Part 4, I draw some conclusions",
+  "Without essence, does everything turn ghostly and void", "The car still knocks you down", "It still rains",
+  "And you still get sick",
 ];
 
 const M = {
@@ -826,16 +826,16 @@ const VerdictScene: React.FC = () => {
 const NextScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const end = c("And does any one of them have the final say");
+  const end = c("And you still get sick");
   return (
     <AbsoluteFill style={{ opacity: 1 - ramp(t, end + 5, 1.5) }}>
       <Items items={[
         ["This is Part 3 of the Dependent Arising series", 960, 130, <Wd c={GOLD} s={44} serif>Dependent Arising · Part 3 · Measured, or Formed?</Wd>],
-        ["In Part 4, I take up what is left once the given is gone", 960, 290, <Box c={VIOLET} w={800} title="Part 4 · Many worlds" sub="what is left once the given is gone" />, { pop: true }],
-        ["Many worlds, with no master world among them", 960, 420, <Wd c={CHALK} s={30}>many worlds, no master world among them</Wd>],
-        ["Where are the other worlds", 520, 560, <K c={ICE} s={26}>where are they?</K>, { pop: true }],
-        ["How do they touch", 960, 560, <K c={TEAL} s={26}>how do they touch?</K>, { pop: true }],
-        ["And does any one of them have the final say", 1400, 560, <K c={GOLD} s={26}>the final say?</K>, { pop: true }],
+        ["In Part 4, I draw some conclusions", 960, 290, <Box c={VIOLET} w={800} title="Part 4 · Empty, Not Ghostly" sub="some conclusions" />, { pop: true }],
+        ["Without essence, does everything turn ghostly and void", 960, 420, <SK c={DIM} s={28} at="And you still get sick" d={1}>without essence: ghostly, void?</SK>],
+        ["The car still knocks you down", 520, 560, <K c={GREEN} s={26}>the car still knocks you down</K>, { pop: true }],
+        ["It still rains", 960, 560, <K c={ICE} s={26}>it still rains</K>, { pop: true }],
+        ["And you still get sick", 1400, 560, <K c={WARM} s={26}>you still get sick</K>, { pop: true }],
       ]} />
     </AbsoluteFill>
   );

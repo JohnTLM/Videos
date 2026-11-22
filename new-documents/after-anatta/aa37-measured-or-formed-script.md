@@ -2,13 +2,13 @@
 chapter: 37
 label: Bonus article
 title: "Dependent Arising Part 3: Measured, or Formed?"
-series: "Dependent Arising, a series: Part 3 (Part 2: The Illusion of the Given; Part 4: many worlds)"
+series: "Dependent Arising, a series: Part 3 (Part 2: The Illusion of the Given; Part 4: Empty, Not Ghostly)"
 source: EBooks Bonus Articles/measured-or-formed/measured-or-formed.md (draft of 2026-11-22)
 source_words: 1898
-script_words: 1594
+script_words: 1582
 intro: yes
 voice: male
-status: approved by the owner 2026-11-22 ("Ok go ahead"). The closing "Part 4" line follows AA35 and AA36 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule
+status: approved by the owner 2026-11-22 ("Ok go ahead"); closing paragraph changed to point to Part 4, Empty, Not Ghostly (owner: "Yes"). The closing "Part 4" line follows AA35 and AA36 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule
 ---
 
 # Dependent Arising Part 3: Measured, or Formed?
@@ -143,4 +143,4 @@ Nothing that works is lost.
 
 This is Part 3 of the Dependent Arising series.
 
-In Part 4, I take up what is left once the given is gone. Many worlds, with no master world among them. Where are the other worlds? How do they touch? And does any one of them have the final say?
+In Part 4, I draw some conclusions. Without essence, does everything turn ghostly and void? The car still knocks you down. It still rains. And you still get sick.
