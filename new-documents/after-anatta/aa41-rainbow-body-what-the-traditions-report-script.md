@@ -8,7 +8,7 @@ source_words: 3800
 script_words: 1731
 intro: yes
 voice: male
-status: revised for the owner's approval (2026-11-22, his comments on the AA41 video): trekchö and thögal named; the apple removed; pointers to the 5 Elements and Inner Winds videos. Strictly reporting; his view only in the closing line.
+status: approved by the owner (2026-11-22, "Approved", after his comments on the AA41 video): trekchö and thögal named; the apple removed; pointers to the 5 Elements and Inner Winds videos. Strictly reporting; his view only in the closing line.
 ---
 
 # Rainbow Body: What the Traditions Report

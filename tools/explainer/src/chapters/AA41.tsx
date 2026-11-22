@@ -1,6 +1,6 @@
 // After Anatta · Questions: Rainbow Body: What the Traditions Report (AA41).
 // AA14 and AA29 merged and stripped of the owner's view (owner, 2026-11-22): strictly reporting. His view only in the
-// short apple passage and the closing line ("not difficult to understand… I shall not comment here").
+// closing line; no apple (owner's comments, 2026-11-22) ("not difficult to understand… I shall not comment here").
 // Arc: the story -> reporting only -> Dzogchen: basis, five lights, two practices, four visions, lamps, three results,
 // the teachers' warning -> Gelug: wind and mind, dissolution, illusory body, union, tukdam and the 2021 study ->
 // Kālacakra: ten signs, empty form, the divining mirror -> Bön; the tables differ -> the reports and their lists ->
@@ -27,8 +27,10 @@ export const PHRASES = [
   "And its display never stops", "and the light as five lights", "Then the texts tell how", "it is taken as something other",
   "and they harden into the five elements", "From the elements come the body and the world",
   "the ordinary body is light not recognised", "The rainbow body is said to be the same process run the other way",
+  "One caution before going further", "should not be read through our own culture", "or through modern knowledge of light",
+  "the five lights only make sense against it", "I set out that background in a short video",
   // the practices
-  "There are two practices", "The first is cutting through", "The second is direct crossing", "Small drops of light",
+  "There are two practices", "the knowing that is empty and clear at once", "With particular postures and gazes", "Small drops of light",
   "Fine threads", "They grow into patterns", "These are the four visions", "The fourth is called the exhaustion of phenomena",
   "The texts also speak of lamps", "One lamp is the eyes", "Another is the open expanse", "Another is the circles of light themselves",
   "And the last is the wisdom",
@@ -45,6 +47,7 @@ export const PHRASES = [
   "earth into water", "Then come three appearances, white, red and black", "Then the clear light of death",
   "The yogi rehearses this while alive", "The clear light dawns", "This is the illusory body", "and the two are joined",
   "Why does it work", "Because the body's material is wind", "The clear light must realise emptiness",
+  "are set out in another of my videos",
   // tukdam
   "is known for is", "the body stays fresh", "It does not shrink", "measured thirteen such cases",
   "they tested the brain, not the claim about the body", "himself is said to have become a buddha",
@@ -73,10 +76,8 @@ export const PHRASES = [
   // butter bag
   "There is a Tibetan image worth keeping", "Raw leather is stiff", "it grows soft", "slowly hardens like wood",
   "Knowledge never worked into practice",
-  // the apple, the end
-  "One ordinary moment helps me see", "Hold an apple", "The hardness", "The coolness", "The red", "The sweetness",
-  "Then a habit ties them into one solid thing", "Untie that knot, and nothing is lost",
-  "Just this hardness, this red, this sweetness, vivid", "the rainbow body is not difficult to understand",
+  // the end
+  "the rainbow body is not difficult to understand",
   "But as this is my personal view", "I shall not comment here",
 ];
 
@@ -278,8 +279,8 @@ const PracticeScene: React.FC = () => {
   return (
     <AbsoluteFill>
       <Title text="the practices, as taught" until={lamps} />
-      <At x={500} y={250} o={v("The first is cutting through") * first}><Box c={TEAL} w={560} title="cutting through" sub="recognise rigpa, empty and clear," sub2="and rest in it" ts={38} /></At>
-      <At x={1420} y={250} o={v("The second is direct crossing") * first}><Box c={GOLD} w={560} title="direct crossing" sub="lights appear in open space" ts={38} /></At>
+      <At x={500} y={250} o={v("the knowing that is empty and clear at once") * first}><Box c={TEAL} w={560} title="trekchö · cutting through" sub="recognise rigpa, empty and clear," sub2="and rest in it" ts={36} /></At>
+      <At x={1420} y={250} o={v("With particular postures and gazes") * first}><Box c={GOLD} w={560} title="thögal · direct crossing" sub="lights appear in open space" ts={36} /></At>
       <At x={1420} y={560} o={v("Small drops of light") * first}>
         <svg width={620} height={300} viewBox="0 0 620 300" style={{ overflow: "visible" }}>
           {LIGHTS.map((col, i) => <circle key={i} cx={80 + i * 115} cy={150} r={10 + 6 * drops} fill="none" stroke={col} strokeWidth={4} opacity={drops}
@@ -310,7 +311,7 @@ const PracticeScene: React.FC = () => {
 const ResultsScene: React.FC = () => (
   <Board title="three results, as Dzogchen names them" tc={GOLD} until="add a warning" items={[
     ["the body dissolving into tiny particles", 330, 330, <Box c={DIM} w={480} title="tiny particles" sub="cutting through alone," sub2="some teachers say" ts={34} />, { until: "add a warning" }],
-    ["The rainbow body comes when direct crossing is completed at death", 960, 330, <Box c={GOLD} w={520} title="rainbow body" sub="direct crossing completed at death" sub2="over a week, the body shrinks" ts={36} />, { until: "add a warning" }],
+    ["The rainbow body comes when direct crossing is completed at death", 960, 330, <Box c={GOLD} w={520} title="rainbow body" sub="thögal completed at death" sub2="over a week, the body shrinks" ts={36} />, { until: "add a warning" }],
     ["And the rarest is the great transference", 1590, 330, <Box c={VIOLET} w={480} title="great transference" sub="no death: a body of light" ts={34} />, { until: "add a warning" }],
     ["Sweet scents are reported", 960, 560, <Wd c={CHALK} s={28}>reported: sweet scents · rainbows · beams of light · hair and nails left</Wd>, { until: "add a warning" }],
     ["The tradition names Garab Dorje", 1590, 560, <Wd c={DIM} s={24}>Garab Dorje · Padmasambhava · Vimalamitra</Wd>, { until: "add a warning" }],
@@ -340,7 +341,8 @@ const GelugScene: React.FC = () => {
         ["and the two are joined", 1360, 790, <K c={GOLD} s={26}>union: the body of a buddha</K>, { until: why }],
         [why, 960, 100, <Wd c={CHALK} s={44} serif>in Gelug's account</Wd>],
         ["Because the body's material is wind", 960, 250, <K c={ICE} s={30}>the body's material is wind · wind is one with mind</K>],
-        ["The clear light must realise emptiness", 960, 370, <K c={GOLD} s={30}>the clear light must realise emptiness</K>],
+        ["The clear light must realise emptiness", 960, 370, <K c={GOLD} s={30}>the clear light must realise emptiness</K>, { until: "is known for is" }],
+        ["are set out in another of my videos", 960, 450, <K c={TEAL} s={28}>▶ video: Inner Winds and Subtle Body Practices</K>, { d: 0.6, until: "is known for is" }],
         ["is known for is", 960, 500, <Wd c={TEAL} s={36} serif>tukdam: the body stays fresh, it does not shrink</Wd>],
         ["measured thirteen such cases", 960, 610, <K c={CHALK} s={26}>2021 · 13 cases · no detectable brain activity</K>],
         ["they tested the brain, not the claim about the body", 960, 690, <Wd c={DIM} s={26}>the brain was tested, not the claim about the body</Wd>],
@@ -430,30 +432,26 @@ const ButterScene: React.FC = () => (
   ]} />
 );
 
-const AppleEndScene: React.FC = () => {
-  const { t } = useT();
+const EndScene: React.FC = () => {
   const c = useCue();
-  const untie = ramp(t, c("Untie that knot, and nothing is lost"), 2);
   const end = c("the rainbow body is not difficult to understand");
-  const pre = 1 - ramp(t, end, 0.6);
   return (
     <AbsoluteFill>
-      <Title text="one ordinary moment" c={ROSE} until="the rainbow body is not difficult to understand" />
-      <At x={960} y={330} o={ramp(t, c("Hold an apple"), 0.6) * pre}><Apple size={200} /></At>
-      <Items items={[
-        ["The hardness", 520, 240, <K c={CHALK} s={28}>hardness</K>, { until: "the rainbow body is not difficult to understand" }],
-        ["The coolness", 520, 420, <K c={ICE} s={28}>coolness</K>, { until: "the rainbow body is not difficult to understand" }],
-        ["The red", 1400, 240, <K c={ROSE} s={28}>red</K>, { until: "the rainbow body is not difficult to understand" }],
-        ["The sweetness", 1400, 420, <K c={GOLD} s={28}>sweetness</K>, { until: "the rainbow body is not difficult to understand" }],
-        ["Then a habit ties them into one solid thing", 960, 570, <Knot untie={untie} />, { until: "the rainbow body is not difficult to understand" }],
-        ["Just this hardness, this red, this sweetness, vivid", 960, 760, <Wd c={GOLD} s={34} serif>just this, vivid</Wd>, { until: "the rainbow body is not difficult to understand" }],
-      ]} />
-      <At x={960} y={400}><Reveal text="From a non-substantialist view," at={end - 1.4} size={46} color={CHALK} speed={0.035} /></At>
-      <At x={960} y={490}><Reveal text="it is not difficult to understand." at={end} size={46} color={CHALK} speed={0.035} /></At>
-      <At x={960} y={620}><Reveal text="As this is my personal view, I shall not comment here." at={c("But as this is my personal view")} size={40} color={GOLD} speed={0.03} /></At>
+      <At x={960} y={380}><Reveal text="From a non-substantialist view," at={end - 1.4} size={46} color={CHALK} speed={0.035} /></At>
+      <At x={960} y={470}><Reveal text="it is not difficult to understand." at={end} size={46} color={CHALK} speed={0.035} /></At>
+      <At x={960} y={600}><Reveal text="As this is my personal view, I shall not comment here." at={c("But as this is my personal view")} size={40} color={GOLD} speed={0.03} /></At>
     </AbsoluteFill>
   );
 };
+
+const CautionScene: React.FC = () => (
+  <Board title="one caution" tc={WARM} items={[
+    ["should not be read through our own culture", 960, 260, <K c={CHALK} s={30}>not through our own culture</K>],
+    ["or through modern knowledge of light", 960, 370, <K c={CHALK} s={30}>not through modern knowledge of light</K>],
+    ["the five lights only make sense against it", 960, 500, <Wd c={GOLD} s={34} serif>the five elements in Indian and Tibetan thought</Wd>],
+    ["I set out that background in a short video", 960, 640, <K c={TEAL} s={30}>▶ video: 5 Elements: Chinese vs Tibet</K>],
+  ]} />
+);
 
 /** A mirror on a stand, with five small lights in it. */
 const Mirror: React.FC<{ p: number; img: number }> = ({ p, img }) => (
@@ -473,6 +471,7 @@ export const Body: React.FC = () => {
   const order: [string, keyof typeof M, React.ReactNode][] = [
     ["In eastern Tibet, the story goes", "night", <StoryScene />],
     ["the Great Perfection", "light", <BasisScene />],
+    ["One caution before going further", "doubt", <CautionScene />],
     ["There are two practices", "whole", <PracticeScene />],
     ["names three results", "dusk", <ResultsScene />],
     ["does not teach direct crossing", "deep", <GelugScene />],
@@ -481,7 +480,7 @@ export const Body: React.FC = () => {
     ["Now the reports", "doubt", <ReportsScene />],
     ["Buddhism is not alone in telling of such a body", "dusk", <YangScene />],
     ["There is a Tibetan image worth keeping", "light", <ButterScene />],
-    ["One ordinary moment helps me see", "night", <AppleEndScene />],
+    ["the rainbow body is not difficult to understand", "night", <EndScene />],
   ];
   const moods: Mood[] = [];
   order.forEach(([cue, k], i) => {
