@@ -1,4 +1,4 @@
-// After Anatta · Questions: Nothing Turns Into Light: Luminous Clarity and the Rainbow Body (AA40).
+// After Anatta · Questions: Nothing Turns Into Light: Luminous Appearances and the Rainbow Body (AA40).
 // (EBooks docs/notes/2026-11-22-luminous-clarity-and-rainbow-body.md, public parts only; owner's own voice.)
 // Arc: a passing sound, clear as it comes -> the old story of the shrinking body (a report) -> clarity: the knowing
 // clarity of appearing, not bright, never missing, six lamps -> the error: sameness lifted out, the lamp's disguises,
@@ -25,7 +25,7 @@ export const PHRASES = [
   // the link
   "What could the clearness of a passing sound", "In this video I want to show you that link", "This is After Anatta",
   "And the rainbow body", "What I see is simple to say and hard to see",
-  "The rainbow body is luminous clarity, recognised all the way through form", "And nothing turns into light",
+  "The rainbow body is luminous appearances, recognised all the way through form", "And nothing turns into light",
   // clarity
   "Let me start with clarity", "When I say luminosity, I mean one thing", "It is the knowing clarity of appearing itself",
   "It is not a light shining on things from behind", "It is not a knower standing apart to see them",
@@ -35,7 +35,7 @@ export const PHRASES = [
   // never missing, six lamps
   "And clarity is never missing", "The only question is whether the clarity is lifted out", "has a verse about a lamp",
   "no darkness to remove", "No appearing ever waited in the dark", "There is not even one clarity", "There are six",
-  "Six lamps, not one", "And no lamp that lights itself",
+  "Six lamps, not one", "And no lamp that lights itself", "That is why I say luminous appearances",
   // what goes wrong
   "So what goes wrong", "It notices the sameness", "Then it lifts that sameness out and calls it awareness",
   "A background", "A witness", "A mirror", "A ground", "The clearness was real", "Making it a thing is the error",
@@ -90,7 +90,7 @@ export const PHRASES = [
   "The method is shared widely", "The view is not", "For me, what frees is seeing through the inherent framework",
   "Not where the winds go", "Seeing that what seems so solid", "It is just as hard to break through",
   "The body is not left out", "opened by themselves, without effort", "I was not forcing the breath",
-  "Energy practices can help loosen what the body holds", "But luminous clarity was never a product of the winds",
+  "Energy practices can help loosen what the body holds", "But luminous appearances were never a product of the winds",
   // the corpse, the goal
   "And the shrinking corpse", "It does not show what others will see at a funeral", "is reported, not proved",
   "Many great masters left ordinary bodies", "Insight is measured by the freedom of the mind",
@@ -99,7 +99,7 @@ export const PHRASES = [
   // the end
   "So I come back to the sound", "No lamp behind it", "No one holding it", "Found nowhere, and never missing",
   "If nothing is found, what turns into light", "Nothing found turns into light",
-  "The body appeared solid because it was held", "Luminous clarity, recognised all the way through",
+  "The body appeared solid because it was held", "Luminous appearances, recognised all the way through",
   "That is the rainbow body",
 ];
 
@@ -269,8 +269,8 @@ const StoryScene: React.FC = () => {
         ["What could the clearness of a passing sound", 1360, 330, <Arcs p={1} w={420} />, { d: 1 }],
         ["In this video I want to show you that link", 960, 330, <Wd c={GOLD} s={60}>⟷</Wd>],
         ["This is After Anatta", 960, 110, <Wd c={DIM} s={30}>After Anatta</Wd>],
-        ["What could the clearness of a passing sound", 960, 560, <Wd c={CHALK} s={40} serif>non-dual luminous clarity · the rainbow body</Wd>, { d: 2 }],
-        ["The rainbow body is luminous clarity, recognised all the way through form", 960, 670, <K c={GOLD} s={30}>luminous clarity, recognised all the way through form</K>],
+        ["What could the clearness of a passing sound", 960, 560, <Wd c={CHALK} s={40} serif>luminous appearances · the rainbow body</Wd>, { d: 2 }],
+        ["The rainbow body is luminous appearances, recognised all the way through form", 960, 670, <K c={GOLD} s={30}>luminous appearances, recognised all the way through form</K>],
         ["And nothing turns into light", 960, 780, <Wd c={TEAL} s={42} serif>nothing turns into light</Wd>],
       ]} />
     </AbsoluteFill>
@@ -327,6 +327,7 @@ const LampsScene: React.FC = () => {
       <Items items={[
         ["Six lamps, not one", 960, 650, <Wd c={GOLD} s={40} serif>six lamps, not one</Wd>],
         ["And no lamp that lights itself", 960, 760, <SK c={DIM} s={28} strikeAt={c("And no lamp that lights itself", -1)}>a lamp that lights itself</SK>],
+        ["That is why I say luminous appearances", 960, 240, <K c={GOLD} s={32}>luminous appearances, not one luminous clarity</K>],
       ]} />
     </AbsoluteFill>
   );
@@ -564,7 +565,7 @@ const PartScene: React.FC = () => {
         ["opened by themselves, without effort", 960, 280, <K c={TEAL} s={30}>mind and body's energy opened by themselves</K>],
         ["I was not forcing the breath", 960, 400, <SK c={DIM} s={28} strikeAt={c("I was not forcing the breath", 0.2)}>forcing the breath</SK>],
         ["Energy practices can help loosen what the body holds", 960, 530, <K c={CHALK} s={28}>energy practices: they help loosen, they are not the cause</K>],
-        ["But luminous clarity was never a product of the winds", 960, 680, <Wd c={GOLD} s={36} serif>clarity was never a product of the winds</Wd>],
+        ["But luminous appearances were never a product of the winds", 960, 680, <Wd c={GOLD} s={36} serif>luminous appearances: never a product of the winds</Wd>],
       ]} />
     </AbsoluteFill>
   );
@@ -609,8 +610,8 @@ const EndScene: React.FC = () => {
         ["Nothing found turns into light", 960, 290, <Wd c={GOLD} s={42} serif>nothing found turns into light</Wd>],
         ["The body appeared solid because it was held", 960, 410, <K c={CHALK} s={28}>solid, because it was held · the holding ends</K>],
       ]} />
-      <At x={960} y={560}><Reveal text="Luminous clarity, recognised all the way through," at={c("Luminous clarity, recognised all the way through")} size={46} color={CHALK} speed={0.035} /></At>
-      <At x={960} y={660}><Reveal text="the body included." at={c("Luminous clarity, recognised all the way through", -2.2)} size={46} color={CHALK} speed={0.035} /></At>
+      <At x={960} y={560}><Reveal text="Luminous appearances, recognised all the way through," at={c("Luminous appearances, recognised all the way through")} size={46} color={CHALK} speed={0.035} /></At>
+      <At x={960} y={660}><Reveal text="the body included." at={c("Luminous appearances, recognised all the way through", -2.2)} size={46} color={CHALK} speed={0.035} /></At>
       <At x={960} y={780}><Reveal text="That is the rainbow body." at={c("That is the rainbow body")} size={54} color={GOLD} speed={0.04} /></At>
     </AbsoluteFill>
   );
