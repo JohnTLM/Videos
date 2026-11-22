@@ -5,10 +5,10 @@ title: "Dependent Arising Part 2: The Illusion of the Given"
 series: "Dependent Arising, a series: Part 2 (Part 1: Undeniably There, or Formed?; Part 3: Measured, or Formed?)"
 source: EBooks Bonus Articles/the-illusion-of-the-given-part-2/the-illusion-of-the-given-part-2.md (draft of 2026-11-22)
 source_words: 2210
-script_words: 1825
+script_words: 1927
 intro: yes
 voice: male
-status: approved by the owner 2026-11-22 ("Approved"); built 2026-11-22. The closing "Part 3" line follows AA35 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule. New pronunciations: Vasubandhu, Uexküll
+status: approved by the owner 2026-11-22 ("Approved"); built 2026-11-22; the "designated" paragraphs added on the owner's ask ("Do all three, parts 1 to 3 and AA36"), rebuilt 2026-11-22. The closing "Part 3" line follows AA35 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule. New pronunciations: Vasubandhu, Uexküll
 ---
 
 # Dependent Arising Part 2: The Illusion of the Given
@@ -42,6 +42,16 @@ Or, and it is a big or, look at how each of these is formed.
 The water forms with a human body, a human thirst, a human tongue. The pus forms with a ghost's craving. The home forms with gills and fins.
 
 The thing seen, the one who sees, and the channel of meeting are designated together. None of them is a finished layer underneath the others.
+
+When I say designated, I do not mean a label pasted onto something already there.
+
+That is how the substantialist hears it. The real liquid sits underneath, and the names are a thin conceptual layer on top.
+
+It is not like that. There is no unnamed liquid waiting under the names. The designating, the meeting and the appearing are one event, through and through.
+
+Nor does designation make the water out of words. It does not even need words. A fish singles out its home without a single concept.
+
+Designated means: singled out in this meeting, and found nowhere apart from it.
 
 Then what is in the bowl before anyone meets it? Ask what it is like.
 

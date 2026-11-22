@@ -53,3 +53,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - Owner: "the title of YouTube for these series of multiparts Dependent Arising should be: Dependent Arising Section 1
   Part 1: Title". AA35–AA38 YouTube titles are now "Dependent Arising Section 1 Part N: <title> | Thusness", and the
   descriptions say "Section 1, Part N". Title cards inside the MP4s and the article titles are unchanged.
+
+## 2026-11-22: AA36 gains what "designated" means
+
+- Owner: "Do all three, parts 1 to 3 and AA36". Five short paragraphs added to the AA36 script after the first
+  "designated together" (designation is not a conceptual layer over a given still there; designating, meeting and
+  appearing are one event, through and through; it makes nothing and needs no words), with a new drawing phase in
+  `AA36.tsx`. Rebuilt (only the new paragraphs re-recorded): 12:53 at 720p, 210 cues, no LATE drawings; a 27 MB copy
+  sent to the owner. YouTube chapter times shifted (new 2:16 chapter); README updated.
