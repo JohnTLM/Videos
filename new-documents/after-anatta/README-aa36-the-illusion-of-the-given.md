@@ -1,4 +1,4 @@
-# AA36: Dependent Arising Part 2: The Illusion of the Given
+# AA36: Dependent Arising Section 1 Part 2: The Illusion of the Given
 
 | | |
 |---|---|

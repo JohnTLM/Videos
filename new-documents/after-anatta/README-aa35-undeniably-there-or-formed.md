@@ -1,4 +1,4 @@
-# AA35: Undeniably There, or Formed? (Dependent arising, Part 1)
+# AA35: Undeniably There, or Formed? (Dependent Arising Section 1 Part 1)
 
 | | |
 |---|---|

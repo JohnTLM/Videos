@@ -1,6 +1,6 @@
-# YouTube upload: Dependent Arising Part 3: Measured, or Formed? (AA37, 2026-11-22)
+# YouTube upload: Dependent Arising Section 1 Part 3: Measured, or Formed? (AA37, 2026-11-22)
 
-Dependent Arising, Part 3 of the series. Built on 2026-11-22 at 720p. **Draft: not uploaded.** When the owner
+Dependent Arising, Section 1 Part 3. Built on 2026-11-22 at 720p. **Draft: not uploaded.** When the owner
 uploads it (Unlisted), record the id here and in a server task note; the server puts these texts on.
 
 Tags shared by every video (the block below adds its own at the front):
@@ -8,7 +8,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ---
 
-## Dependent Arising Part 3: Measured, or Formed? (AA37, 10:53)
+## Dependent Arising Section 1 Part 3: Measured, or Formed? (AA37, 10:53)
 
 ### Title
 

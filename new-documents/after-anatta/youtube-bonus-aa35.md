@@ -1,6 +1,6 @@
 # YouTube upload: Undeniably There, or Formed? (AA35, 2026-11-22)
 
-Dependent arising, Part 1 of a new series. Built on 2026-11-22 at 720p. **Draft: not uploaded.** When the owner
+Dependent Arising, Section 1 Part 1. Built on 2026-11-22 at 720p. **Draft: not uploaded.** When the owner
 uploads it (Unlisted), record the id here and in a server task note; the server puts these texts on.
 
 Tags shared by every video (the block below adds its own at the front):
