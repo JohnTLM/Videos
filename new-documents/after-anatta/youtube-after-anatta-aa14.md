@@ -4,7 +4,7 @@ The video for the question page *Rainbow Body* (thusness-website `aa-rainbow`, m
 it to YouTube on 2026-10-30. Upload as **Unlisted**, like the other After Anatta videos.
 
 Tags shared by every video (the block below adds its own at the front):
-`after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
+`after anatta, John Tan, Thusness, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
 
 ---
 
@@ -56,7 +56,7 @@ All views and understanding here are my own, from my practice and contemplation.
 
 ### Tags
 
-rainbow body, ja lus, Dzogchen, Gelug, Tsongkhapa, thogal, illusory body, tukdam, five lights, five aggregates, yang spirit, Taoism, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+rainbow body, ja lus, Dzogchen, Gelug, Tsongkhapa, thogal, illusory body, tukdam, five lights, five aggregates, yang spirit, Taoism, after anatta, John Tan, Thusness, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
 
 ---
 
@@ -106,4 +106,4 @@ All views and understanding here are my own, from my practice and contemplation.
 
 ### Tags
 
-rainbow body, ja lus, Dzogchen, Gelug, Tsongkhapa, thogal, illusory body, tukdam, five lights, five aggregates, yang spirit, Taoism, after anatta, John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
+rainbow body, ja lus, Dzogchen, Gelug, Tsongkhapa, thogal, illusory body, tukdam, five lights, five aggregates, yang spirit, Taoism, after anatta, John Tan, Thusness, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy
