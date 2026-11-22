@@ -8,7 +8,7 @@ source_words: 3300
 script_words: 2055
 intro: yes
 voice: male
-status: revised for the owner's approval (2026-11-22): "luminous appearances" in place of "luminous clarity" (owner: "I prefer luminous clarity as luminous appearances because there are 6 streams or 6 lamps, not one lamp"). First version approved and built the same day.
+status: approved by the owner (2026-11-22, "Approved"): "luminous appearances" in place of "luminous clarity" (owner: "I prefer luminous clarity as luminous appearances because there are 6 streams or 6 lamps, not one lamp"). First version approved and built the same day.
 ---
 
 # Nothing Turns Into Light: Luminous Appearances and the Rainbow Body

@@ -8,7 +8,7 @@ source_words: 3800
 script_words: 1704
 intro: yes
 voice: male
-status: draft for the owner's approval (2026-11-22). Strictly reporting; the owner's own view only in the short apple passage and the closing line. Replaces AA14 and AA29 on the site once approved and uploaded.
+status: approved by the owner (2026-11-22, "Approved"). Strictly reporting; the owner's own view only in the short apple passage and the closing line. Replaces AA14 and AA29 on the site once approved and uploaded.
 ---
 
 # Rainbow Body: What the Traditions Report
