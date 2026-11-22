@@ -8,7 +8,7 @@ source_words: 3785
 script_words: 2728
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-23 ("Approved")
 ---
 
 # Dependent Arising Section 2 Part 2: Looking for the Floor
