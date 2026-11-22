@@ -20,3 +20,13 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - Files in `new-documents/after-anatta/` (`aa35-…`, `README-aa35-…`, `youtube-bonus-aa35.md`); drawings `AA35.tsx`.
 - The series continues in its own session; all dependent-arising video texts are also copied to
   [DependentArising](https://github.com/JohnTLM/DependentArising) (owner: "Keep both").
+
+## 2026-11-22: AA36 *Dependent Arising Part 2: The Illusion of the Given*, draft
+
+- Owner approved the script ("Approved"). Built in a cloud session: 12:12 at 720p, Andrew, 199 cues, no LATE
+  drawings; a 26 MB copy sent to the owner. Not uploaded (the article is a draft). The title card carries the series
+  title (owner: "keep the series title on AA36's card"); AA35's card stays as it is (owner: "leave the AA35 title card
+  as is").
+- Files in `new-documents/after-anatta/` (`aa36-…`, `README-aa36-…`, `youtube-bonus-aa36.md`); drawings `AA36.tsx`.
+  `tools/pronunciation.json` gained Vasubandhu and Uexküll (PR #123).
+- AA35 handed over to this series session. Its YouTube title now uses the series form "Dependent Arising Part 1: …".
