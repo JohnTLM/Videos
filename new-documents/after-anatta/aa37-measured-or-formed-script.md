@@ -8,7 +8,7 @@ source_words: 1898
 script_words: 1594
 intro: yes
 voice: male
-status: draft script, waiting for the owner's approval. The closing "Part 4" line follows AA35 and AA36 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule
+status: approved by the owner 2026-11-22 ("Ok go ahead"). The closing "Part 4" line follows AA35 and AA36 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule
 ---
 
 # Dependent Arising Part 3: Measured, or Formed?
