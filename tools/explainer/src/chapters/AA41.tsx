@@ -365,10 +365,10 @@ const KalacakraScene: React.FC = () => {
         <At key={cue} x={330 + (i % 5) * 315} y={330 + Math.floor(i / 5) * 110} o={ramp(t, c(cue), 0.4) * pre}><K c={LIGHTS[i % 5]} s={26}>{label}</K></At>
       ))}
       <Items items={[
-        ["made of no atoms at all", 960, 260, <K c={VIOLET} s={30}>no atoms at all · beyond being and not being</K>],
-        ["a young girl sees in a divining mirror", 960, 430, <Mirror p={1} img={1} />, { d: 0.3 }],
-        ["goal is not called a rainbow body", 960, 680, <K c={CHALK} s={26}>its goal: a union of empty form and unchanging bliss</K>],
-        ["already set these ten signs beside the four visions", 960, 780, <Wd c={DIM} s={26}>Longchenpa set the ten signs beside the four visions (Orofino 2022)</Wd>],
+        ["made of no atoms at all", 960, 200, <K c={VIOLET} s={30}>no atoms at all · beyond being and not being</K>],
+        ["a young girl sees in a divining mirror", 960, 470, <Mirror p={1} img={1} />, { d: 0.3 }],
+        ["goal is not called a rainbow body", 960, 715, <K c={CHALK} s={26}>its goal: a union of empty form and unchanging bliss</K>],
+        ["already set these ten signs beside the four visions", 960, 800, <Wd c={DIM} s={26}>Longchenpa set the ten signs beside the four visions (Orofino 2022)</Wd>],
       ]} />
     </AbsoluteFill>
   );
