@@ -8,7 +8,7 @@ source_words: 1796
 script_words: 1484
 intro: yes
 voice: male
-status: draft script, waiting for the owner's approval. The closing "Part 2" line is the owner's own ask (2026-11-22), in place of VIDEO-SPEC's no-teaser rule
+status: script approved by the owner 2026-11-22 ("Approved"). The closing "Part 2" line is the owner's own ask (2026-11-22), in place of VIDEO-SPEC's no-teaser rule
 ---
 
 # Undeniably There, or Formed?
