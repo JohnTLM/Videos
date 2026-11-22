@@ -40,6 +40,11 @@ export const PHRASES = [
   "The water forms with a human body", "The pus forms with a ghost's craving", "The home forms with gills and fins",
   "The thing seen, the one who sees, and the channel of meeting are designated together",
   "None of them is a finished layer underneath the others",
+  "When I say designated, I do not mean a label pasted onto something already there",
+  "That is how the substantialist hears it", "the names are a thin conceptual layer on top", "It is not like that",
+  "There is no unnamed liquid waiting under the names", "are one event, through and through",
+  "Nor does designation make the water out of words", "It does not even need words",
+  "A fish singles out its home without a single concept", "Designated means: singled out in this meeting",
   "Then what is in the bowl before anyone meets it", "If it has features of its own",
   "Its features should show through", "If it has no features at all",
   "Nothing with no qualities can set off the taste of water",
@@ -421,15 +426,32 @@ const PAIRS: [string, string, string, string, number][] = [
 const BowlFormedScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
+  const des = c("When I say designated, I do not mean a label pasted onto something already there");
   const ask = c("Then what is in the bowl before anyone meets it");
   const wet = c("A careful mind falls back one step");
   const miss = c("And even seen this way, nothing is missing. I still drink the water");
-  const phase = t < ask ? 0 : t < wet ? 1 : t < miss ? 2 : 3;
+  const phase = t < des ? 0 : t < ask ? 4 : t < wet ? 1 : t < miss ? 2 : 3;
   return (
     <AbsoluteFill>
       <Items items={[
-        ["Or, and it is a big or, look at how each of these is formed", 960, 100, <Wd c={GOLD} s={46} serif>Or: how each of these is formed</Wd>, { until: "Then what is in the bowl before anyone meets it" }],
+        ["Or, and it is a big or, look at how each of these is formed", 960, 100, <Wd c={GOLD} s={46} serif>Or: how each of these is formed</Wd>, { until: "When I say designated, I do not mean a label pasted onto something already there" }],
       ]} />
+      {phase === 4 && (
+        <>
+          <Items items={[
+            ["When I say designated, I do not mean a label pasted onto something already there", 960, 110, <Wd c={GOLD} s={42} serif>What "designated" means</Wd>],
+            ["That is how the substantialist hears it", 960, 230, <Wd c={DIM} s={26}>how the substantialist hears it:</Wd>],
+            ["the names are a thin conceptual layer on top", 960, 380, <Struck at="It is not like that" d={0.6}><div style={{ textAlign: "center" }}><div style={{ width: 560, height: 56, borderRadius: 10, border: `3px dashed ${ROSE}`, display: "flex", alignItems: "center", justifyContent: "center" }}><Wd c={ROSE} s={24}>names: a thin layer on top</Wd></div><div style={{ height: 12 }} /><div style={{ width: 560, height: 70, borderRadius: 10, border: `3px dashed ${DIM}`, display: "flex", alignItems: "center", justifyContent: "center" }}><Wd c={DIM} s={24}>the real liquid, still underneath</Wd></div></div></Struck>],
+            ["There is no unnamed liquid waiting under the names", 960, 540, <Wd c={CHALK} s={28}>no unnamed liquid waiting under the names</Wd>],
+            ["are one event, through and through", 560, 640, <K c={GOLD} s={26}>designating</K>, { pop: true }],
+            ["are one event, through and through", 960, 640, <K c={GOLD} s={26}>meeting</K>, { pop: true, d: 0.3 }],
+            ["are one event, through and through", 1360, 640, <K c={GOLD} s={26}>appearing</K>, { pop: true, d: 0.6 }],
+            ["are one event, through and through", 960, 720, <Wd c={GOLD} s={32} serif>one event, through and through</Wd>, { d: 1 }],
+            ["Nor does designation make the water out of words", 560, 800, <SK c={DIM} s={22} at="It does not even need words" d={0.4}>words making the water</SK>],
+            ["A fish singles out its home without a single concept", 1360, 800, <K c={TEAL} s={22}>a fish singles out its home, no concept</K>, { pop: true }],
+          ]} />
+        </>
+      )}
       {phase === 0 && (
         <>
           {PAIRS.map(([cue, a, b, col, y]) => (
