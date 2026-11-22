@@ -1,0 +1,66 @@
+---
+chapter: 41
+label: After Anatta · Questions
+title: "Rainbow Body: What the Traditions Report"
+series: "After Anatta · Questions"
+source: AA14 (Rainbow Body) and AA29 (Four Papers) merged and stripped of the owner's view (owner, 2026-11-22: "The first two video must be stripped of my view and used as strictly reporting… integrate the 2 videos and slim my view on it about apple… say from non-substantialist view, it is not difficult to understand but as this is my personal view I shall not comment here"); EBooks Rainbow Body and Emptiness, The Yang Spirit and the Rainbow Body, the four papers (canon-edited), Orofino 2022
+source_words: 3800
+script_words: 1704
+intro: yes
+voice: male
+status: draft for the owner's approval (2026-11-22). Strictly reporting; the owner's own view only in the short apple passage and the closing line. Replaces AA14 and AA29 on the site once approved and uploaded.
+---
+
+# Rainbow Body: What the Traditions Report
+
+In eastern Tibet, the story goes, a master dies. The body is wrapped and left in a small room. Over a week it grows smaller. Rainbows are seen over the house. When the room is opened, only the hair and the nails are left.
+
+This is After Anatta. In this video I only report. What the traditions say the rainbow body is, how they say it is reached, what the reports of it are, and where other traditions tell something like it. I keep my own view out of it.
+
+Start with Dzogchen, the Great Perfection, taught in the Nyingma school and in Bön.
+
+Dzogchen speaks of the basis in three aspects. Its essence is empty, pure from the beginning. Its nature is clear, spontaneously present. And its display never stops. The display first shows as sound, light and rays, and the light as five lights.
+
+Then the texts tell how saṃsāra begins. When the display is not recognised as the basis's own radiance, it is taken as something other, standing over there. The five lights are grasped, and they harden into the five elements, earth, water, fire, air and space. From the elements come the body and the world. So, in Dzogchen's terms, the ordinary body is light not recognised. The rainbow body is said to be the same process run the other way.
+
+There are two practices. The first is cutting through. The practitioner recognises rigpa, the knowing that is empty and clear at once, and rests in it. This is said to free the mind from grasping. The second is direct crossing. With particular postures and gazes, lights appear in open space. Small drops of light. Fine threads. They grow into patterns, and then into whole mandalas. These are the four visions. The fourth is called the exhaustion of phenomena. At the fourth, the texts say, nothing is grasped as solid any more, the body included.
+
+The texts also speak of lamps. One lamp is the eyes. Another is the open expanse the lights appear in. Another is the circles of light themselves. And the last is the wisdom that knows them as its own display.
+
+Dzogchen names three results. Some teachers say that cutting through alone leads at death to the body dissolving into tiny particles. The rainbow body comes when direct crossing is completed at death. Over about a week the body shrinks. Sweet scents are reported, and rainbows, and beams of light. In the end only hair and nails are left. And the rarest is the great transference. There is no death at all. The body becomes a body of light that can still act in the world. The tradition names Garab Dorje, Padmasambhava and Vimalamitra.
+
+Teachers within Dzogchen add a warning. The shrinking body is what people see, but it is not the rainbow body itself. The rainbow body is first a realization. When the fourth vision is complete, everything, the body included, is seen as the display of the five lights. The corpse is a sign of it, and not always a sign at all. Malcolm Smith, a Dzogchen teacher, calls a body that shrinks and disappears a partial rainbow body, a sign the fourth vision was not fully finished. And control over the elements, the teachers say, is a worldly power that yogis of other traditions can gain too.
+
+Now the Gelug school of Tsongkhapa. Gelug does not teach direct crossing, and it does not aim at a rainbow body. Its view is that nothing exists from its own side, and everything works as a dependent designation. The view alone, it says, ripens slowly. The fast path is tantra, because tantra works with the subtle body.
+
+Gelug tantra rests on one point. Mind and wind are one thing seen from two sides. At the subtlest level they are the very subtle wind and the very subtle mind of clear light. Everyone meets this at death. The elements dissolve one into the next, earth into water, water into fire, fire into wind, wind into consciousness. Then come three appearances, white, red and black. Then the clear light of death. Most beings do not recognise it, and habit carries them on to a new birth.
+
+The yogi rehearses this while alive. The winds are drawn into the central channel and dissolve at the heart. The clear light dawns. From the subtle wind that carried it, a body of pure wind arises in the form of the deity. This is the illusory body, separate from the coarse body, like a dream body but stable. When the clear light realises emptiness directly, and the two are joined, Gelug calls that union the body of a buddha.
+
+Why does it work, in Gelug's account? Because the body's material is wind, and wind is one with mind. When the subtlest mind realises emptiness, the wind it rides on arises as a pure body. And Gelug insists on one thing. The clear light must realise emptiness. Clarity alone, however deep, is said to free nothing.
+
+The sign Gelug is known for is tukdam. After death a master is said to rest in the clear light, sometimes for days, and the body stays fresh. It does not shrink. In 2021, a team at the University of Wisconsin measured thirteen such cases and found no detectable brain activity. They could only begin about a day after death, and they tested the brain, not the claim about the body. Tsongkhapa himself is said to have become a buddha in the in-between state, through the illusory body. No rainbow body is claimed for him.
+
+A third system is the Kālacakra. In its night yoga, in a sealed dark room, and its day yoga, gazing at the open sky, ten signs appear in order. Smoke. A mirage. A firefly. A lamp. A flame. The moon. The sun. Darkness. A flash of lightning. And a great sphere of light. Its texts call what appears empty form. They say these images are made of no atoms at all, and go beyond being and not being. They compare them to the image a young girl sees in a divining mirror. Kālacakra's goal is not called a rainbow body. It speaks of a union of empty form and unchanging bliss. The scholar Giacomella Orofino shows that Longchenpa, the great Dzogchen writer, already set these ten signs beside the four visions of direct crossing.
+
+Bön has its own Dzogchen, its own lamps and visions, and its own rainbow body. One of its masters, Shardza Tashi Gyaltsen, is said to have attained it in nineteen thirty-four. Bön also has practices that Buddhism does not frame the same way, such as offerings to the four guests.
+
+Even the tables of colours differ. Which element goes with which buddha, which wisdom, which affliction: these change from text to text, and from school to school.
+
+Now the reports. The modern cases often told are Sonam Namgyal in nineteen fifty-two, and Khenpo A Chö in nineteen ninety-eight. For Khenpo A Chö, a local press report said the body shrank to the size of a bean. A priest and scholar, Francis Tiso, went to look into it. What he could gather was what people had seen and told.
+
+Some popular papers call such cases proof, verified by hundreds of witnesses. They are eyewitness reports. None has been checked by anyone independent. And the lists vary. A master whose body was ordinary at death, and whose relics were kept, appears on one list. Another master's death is dated to one year in one source and seventeen years later in another. The sixteenth Karmapa is listed too, though what was reported after his death was tukdam, not a rainbow body.
+
+Buddhism is not alone in telling of such a body. In Taoist inner alchemy, the practitioner refines essence into energy, energy into spirit, and spirit back into emptiness. The aim is the yang spirit, a body outside the body that others can see and that can act in the world. A spirit body made by cultivating the mind alone is called the yin spirit, seen only by oneself. Mind alone, they say, is not enough. Two endings are told. In one, the body vanishes from the coffin, leaving only clothes or a staff. In the other, the master rises in broad daylight, without dying.
+
+The Chan tradition tells a story about this. The Taoist immortal Lü Dongbin visits the Chan master Huanglong and speaks of his medicine of long life. Huanglong calls him a corpse-guarding ghost. Even if you last eighty thousand aeons, he says, in the end you fall into empty ruin. In the Chan telling, Lü then wakes up.
+
+Others tell of it too. In India, the Tamil saint Ramalinga Swamigal went into his room in eighteen seventy-four and asked that no one open it. When it was opened, he was not found. Eastern Orthodox monks speak of the uncreated light of Mount Tabor. Sufis speak of a man of light. Each tradition reads the result in its own way: a soul that survives, a source to return to, a self made perfect, or a light one comes to share.
+
+And the early Buddhist discourses have their own way of placing such powers. Five of the six higher knowledges, the bodily wonders among them, are shared with those outside the teaching. Only the sixth, the ending of the taints, is said to free.
+
+There is a Tibetan image worth keeping. Raw leather is stiff. Rub butter into it under the sun, and it grows soft. But a leather bag used only to store butter, year after year, slowly hardens like wood. Then no butter will soften it again. Knowledge never worked into practice, the saying goes, does the same.
+
+One ordinary moment helps me see why the traditions speak this way. Hold an apple. The hardness. The coolness. The red. The sweetness. Each appears as its conditions meet. Then a habit ties them into one solid thing, out there. Untie that knot, and nothing is lost. Just this hardness, this red, this sweetness, vivid.
+
+From a non-substantialist view, the rainbow body is not difficult to understand. But as this is my personal view, I shall not comment here.
