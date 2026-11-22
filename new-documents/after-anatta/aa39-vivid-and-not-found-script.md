@@ -8,7 +8,7 @@ source_words: 2746
 script_words: 2110
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-22 ("Approved, go ahead")
 ---
 
 # Dependent Arising Section 2 Part 1: Vivid, and Not Found
