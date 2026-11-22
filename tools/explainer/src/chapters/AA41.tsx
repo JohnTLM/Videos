@@ -1,4 +1,4 @@
-// Bonus video: Dependent Arising Section 2 Part 2: Looking for the Floor (AA41).
+// Bonus video: Dependent Arising Section 2 Part 2: Looking for the Floor (AA41), recut 2026-11-23: the moment and the atom (space moved to AA42).
 // (Script: new-documents/after-anatta/aa41-looking-for-the-floor-script.md, from EBooks
 // Bonus Articles/looking-for-the-floor, draft of 2026-11-22; approved by the owner 2026-11-23.)
 // Arc: where does the habit go next? -> the retreat: instant, smallest pieces, space; the Abhidharma floor ->
@@ -28,7 +28,7 @@ export const PHRASES = [
   "Surely space itself is real", "This is not a theory anyone reasons into", "The tradition calls it innate grasping",
   "because it gives ground without giving up", "The retreat has a long history", "Partless moments", "Partless atoms",
   "among the unconditioned elements, space", "These were the floor",
-  "So here I follow the habit down. Three times", "The point is not to disprove time, matter or space",
+  "So here I follow the habit down. In this part, twice", "The point is not to disprove time, matter or space",
   "A piece of reality, however small or however vast, that is real in itself",
   // moment
   "First, a moment", "Strike the bell again", "Surely, then, the instant is real",
@@ -56,65 +56,16 @@ export const PHRASES = [
   "So either way, no partless piece of matter is found", "He stopped there",
   "kept the mind as what is really there", "the mind is looked for the same way, and it is not found either",
   "Mind and matter fail together", "Bricks still make walls",
-  // space
-  "Third, space", "Surely, it says, space at least is real", "One still, empty room",
-  "Or, and it is the biggest or, look for that room", "Here is the rule",
-  "must be either really one, or really many", "Really one means a single whole, with no parts",
-  "Really many means a collection of such single wholes", "There is no third choice",
-  "Many only means several ones, counted together", "Can a real one be found",
-  "Is space one? There is space here, around the bell", "And space over there, around the gate",
-  "The bell would be at the gate", "So the space here and the space there must be different",
-  "Something with parts is not one", "Is space many, then", "Take one piece",
-  "It too has a side towards the bronze, and a side towards the air", "Divide it, and each half has two sides again",
-  "With no real one, there is nothing for many to be made of",
-  "So space is neither really one nor really many", "reaches for a reflection",
-  "A face in a mirror appears clearly, as one face", "I fix my hair by it",
-  "there is no face there that is truly one, or truly many", "Clearly there, as room",
-  "What the test does not take away matters just as much", "One courtyard, because a wall marks it off",
-  "Three rooms, because doors divide them", "What fails is only a oneness or a manyness held inside the thing itself",
-  "comes at the same point from another side", "Every element has a mark",
-  "Earth is known by hardness. Water by wetness", "The mark of space is the absence of obstruction",
-  "Could space be there first, and then have its mark", "space does not exist in the slightest before its mark",
-  "Picture it in the courtyard", "The gap between the bell and the wall", "The open gate I can walk through",
-  "The air the bell can swing in", "Take away the bell, the wall, the gate, and the one who walks",
-  "There would be nothing to block, and nothing to be blocked",
-  "The open room is singled out together with what bounds it", "It is not a stage that was waiting first",
-  "Space and its mark are designated together, like the bell and its ringing",
-  "Then is space nothing", "Space is neither existent nor non existent",
-  "So two masters arrive at one place by two roads", "One divides space, and finds it neither one nor many",
-  "The other asks what space is apart from its mark", "Neither leaves a container behind",
-  "And neither leaves a void",
-  // cautions
-  "Two cautions belong here", "First, empty space is not emptiness", "Space is one thing that appears",
-  "Emptiness is not one more thing that appears", "It is how every appearance is",
-  "So space is empty too, just as the bell is", "The traditions often use the sky as an image",
-  "But an image is not a ground", "and the floor is back. Only bigger",
-  "Second, why I borrow only", "what appears is mind, with no outer object behind it",
-  "But where I part from him is that everyday picture", "Mind and its objects rise and fall together",
-  "So I use his test of space, which cuts cleanly", "And I still walk through the gate",
-  // pieces or nothing
-  "Now, when the floor is not found, the mind reaches quickly for one of two pictures",
-  "The first: so everything is made of infinitely many tinier moments",
-  "But that keeps the habit, and only shrinks it", "The search was never a microscope finding smaller things",
-  "The second: so there is nothing at all", "But that is Part 1's last mistake again",
-  "because the floor was never there to be taken away", "Three searches, one result",
-  "Time breaks into before and after", "Matter breaks into this side and that side",
-  "Space breaks into here and there", "the floor the habit wanted is not found",
-  "What the search leaves is exactly what was there before it", "None of it standing on its own",
-  // which holds
-  "So, which holds", "By experience. Listen to the bell's tone as it fades", "Never a floor underneath",
-  "By logic. Every candidate for the floor undoes itself the moment it is picked out",
-  "The very dependence it was meant to escape", "By working. The floor view says the world is orderly",
-  "But a partless, unchanging piece could not arise, combine, or act",
-  "The view without a floor explains all of it", "Order never needed a floor",
-  "So the floor view is not the truer one", "It is the default one, carried by habit and by language",
-  "None of this makes my everyday words false", "What fails is only the extra claim",
+  // two searches, which holds
+  "Two searches, one result so far", "Time breaks into before and after", "Matter breaks into this side and that side",
+  "Neither is the floor the habit wanted", "So, which holds", "By experience. Listen to the bell's tone as it fades",
+  "Never a floor underneath", "By logic. A partless moment either lasts, and splits",
+  "Every candidate undoes itself the moment it is picked out", "By working. The tone fades because the bronze stops trembling",
+  "Order never needed a floor", "So the floor view is not the truer one",
+  "What fails is only a piece of reality, at the bottom, that is real in itself",
   // close
-  "And something loosens when this is seen", "When no floor is found anywhere, there is nothing to reach for",
-  "And nothing is lost by not reaching", "Needing nothing under them",
-  "This is Section 2, Part 2 of the Dependent Arising series", "In Part 3, I turn to how differently things appear",
-  "A car that knocks you down", "A dream that makes you weep", "A wave function that is never seen at all",
-  "And whether the web of conditions might quietly become the new floor instead",
+  "This is Section 2, Part 2 of the Dependent Arising series", "In Part 3, the habit makes its last stand",
+  "Surely space itself is real", "The one still room that everything sits in", "I look for that room",
 ];
 
 const M = {
@@ -131,8 +82,7 @@ const M = {
 
 // ---------------------------------------------------------------- helpers
 type Opt = { d?: number; until?: string; ud?: number; pop?: boolean; o?: number };
-type It = [string, number, number, React.ReactNode, Opt?];
-const Items: React.FC<{ items: It[] }> = ({ items }) => {
+type It = [string, number, number, React.ReactNode, Opt?const Items: React.FC<{ items: It[] }> = ({ items }) => {
   const { t, fps } = useT();
   const c = useCue();
   return (
@@ -289,7 +239,7 @@ const RetreatScene: React.FC = () => {
         ["Partless moments", 520, 320, <K c={ICE} s={28}>partless moments</K>, { pop: true }],
         ["Partless atoms", 960, 320, <K c={ROSE} s={28}>partless atoms</K>, { pop: true }],
         ["among the unconditioned elements, space", 1400, 320, <K c={VIOLET} s={28}>space</K>, { pop: true }],
-        ["So here I follow the habit down. Three times", 960, 560, <Wd c={GOLD} s={34} serif>follow it down: time · matter · space</Wd>],
+        ["So here I follow the habit down. In this part, twice", 960, 560, <Wd c={GOLD} s={34} serif>follow it down: time · matter (space: Part 3)</Wd>],
         ["The point is not to disprove time, matter or space", 960, 640, <Wd c={DIM} s={24}>not disproving time, matter or space</Wd>],
         ["A piece of reality, however small or however vast, that is real in itself", 960, 720, <Wd c={CHALK} s={28} serif>looking only for: a piece of reality, real in itself</Wd>],
       ]} />
@@ -410,124 +360,13 @@ const AtomScene: React.FC = () => {
   );
 };
 
-const SpaceScene: React.FC = () => {
-  const { t } = useT();
-  const c = useCue();
-  const link = ramp(t, c("And space over there, around the gate"), 0.8) * (1 - ramp(t, c("Is space many, then"), 0.5));
-  const piece = ramp(t, c("Take one piece"), 0.5);
-  const glow = ramp(t, c("Picture it in the courtyard"), 0.8);
-  return (
-    <AbsoluteFill>
-      <Items items={[["Third, space", 960, 90, <Wd c={TEAL} s={48} serif>3 · Space</Wd>]]} />
-      <Phase to="Here is the rule">
-        <Items items={[
-          ["Surely, it says, space at least is real", 960, 260, <Wd c={DIM} s={30}>surely space at least is real…</Wd>],
-          ["One still, empty room", 960, 330, <Wd c={DIM} s={26}>one still, empty room, there first, there after</Wd>],
-          ["Or, and it is the biggest or, look for that room", 960, 480, <Wd c={GOLD} s={36} serif>Or look for that room.</Wd>],
-        ]} />
-      </Phase>
-      <Phase from="Here is the rule" to="Is space one? There is space here, around the bell">
-        <Items items={[
-          ["Here is the rule", 960, 170, <Wd c={CHALK} s={38} serif>The rule</Wd>],
-          ["must be either really one, or really many", 960, 250, <Wd c={DIM} s={26}>really there ⇒ really one, or really many</Wd>],
-          ["Really one means a single whole, with no parts", 600, 380, <Box c={GOLD} w={460} title="really one" sub="a single whole, no parts" />, { pop: true }],
-          ["Really many means a collection of such single wholes", 1320, 380, <Box c={ICE} w={460} title="really many" sub="a collection of such ones" />, { pop: true }],
-          ["There is no third choice", 960, 520, <K c={WARM} s={24}>no third choice</K>, { pop: true }],
-          ["Many only means several ones, counted together", 960, 600, <Wd c={DIM} s={24}>many = ones counted together</Wd>],
-          ["Can a real one be found", 960, 700, <Wd c={GOLD} s={36} serif>Can a real one be found?</Wd>],
-        ]} />
-      </Phase>
-      <Phase from="Is space one? There is space here, around the bell" to="What the test does not take away matters just as much">
-        <At x={960} y={450} o={1 - ramp(t, c("So space is neither really one nor really many"), 0.5)}><Courtyard link={link} piece={piece} /></At>
-        <Items items={[
-          ["Is space one? There is space here, around the bell", 960, 170, <Wd c={CHALK} s={32} serif>Is space one?</Wd>, { until: "Is space many, then" }],
-          ["The bell would be at the gate", 960, 700, <Wd c={WARM} s={26}>the same space? then the bell would be at the gate</Wd>, { until: "So the space here and the space there must be different" }],
-          ["Something with parts is not one", 960, 720, <K c={WARM} s={24}>different? then it has parts: not one</K>, { pop: true, until: "Is space many, then" }],
-          ["Is space many, then", 960, 170, <Wd c={CHALK} s={32} serif>Is space many?</Wd>, { until: "So space is neither really one nor really many" }],
-          ["It too has a side towards the bronze, and a side towards the air", 960, 700, <Wd c={DIM} s={24}>one piece: a side to the bronze, a side to the air</Wd>, { until: "So space is neither really one nor really many" }],
-          ["With no real one, there is nothing for many to be made of", 960, 760, <K c={WARM} s={24}>no real one: nothing for many to be made of</K>, { pop: true, until: "So space is neither really one nor really many" }],
-          ["So space is neither really one nor really many", 960, 200, <Wd c={GOLD} s={34} serif>neither really one nor really many</Wd>],
-          ["A face in a mirror appears clearly, as one face", 700, 470, <Mirror />],
-          ["I fix my hair by it", 1160, 400, <K c={GREEN} s={24}>it works</K>, { pop: true }],
-          ["there is no face there that is truly one, or truly many", 1160, 470, <Wd c={DIM} s={24}>no face in the glass, one or many</Wd>],
-          ["Clearly there, as room", 1160, 560, <Wd c={TEAL} s={28} serif>space: clearly there as room, not found as a thing</Wd>],
-        ]} />
-      </Phase>
-      <Phase from="What the test does not take away matters just as much" to="comes at the same point from another side">
-        <Items items={[
-          ["What the test does not take away matters just as much", 960, 200, <Wd c={CHALK} s={34} serif>What the test does not take away</Wd>],
-          ["One courtyard, because a wall marks it off", 640, 380, <Box c={GREEN} w={480} title="one courtyard" sub="a wall marks it off" />, { pop: true }],
-          ["Three rooms, because doors divide them", 1280, 380, <Box c={GREEN} w={480} title="three rooms" sub="doors divide them" />, { pop: true }],
-          ["What fails is only a oneness or a manyness held inside the thing itself", 960, 560, <SK at="comes at the same point from another side" d={-1} s={26}>one or many held inside the thing itself</SK>],
-        ]} />
-      </Phase>
-      <Phase from="comes at the same point from another side" to="Two cautions belong here">
-        <At x={960} y={500} o={ramp(t, c("Picture it in the courtyard"), 0.6) * (1 - ramp(t, c("So two masters arrive at one place by two roads"), 0.5))}><Courtyard glow={glow} /></At>
-        <Items items={[
-          ["comes at the same point from another side", 960, 150, <Wd c={CHALK} s={34} serif>Space and its mark</Wd>],
-          ["Earth is known by hardness. Water by wetness", 960, 220, <Wd c={DIM} s={24}>earth: hardness · water: wetness</Wd>, { until: "Picture it in the courtyard" }],
-          ["The mark of space is the absence of obstruction", 960, 290, <K c={TEAL} s={28}>space: nothing blocks</K>, { pop: true, until: "Picture it in the courtyard" }],
-          ["Could space be there first, and then have its mark", 960, 400, <Wd c={CHALK} s={28} serif>space first, mark later?</Wd>, { until: "Picture it in the courtyard" }],
-          ["space does not exist in the slightest before its mark", 960, 470, <Wd c={GOLD} s={28} serif>"not in the slightest before its mark" (MMK 5.1)</Wd>, { until: "Picture it in the courtyard" }],
-          ["The gap between the bell and the wall", 380, 240, <K c={TEAL} s={22}>the gap by the wall</K>, { pop: true, until: "Take away the bell, the wall, the gate, and the one who walks" }],
-          ["The open gate I can walk through", 1500, 240, <K c={TEAL} s={22}>the open gate</K>, { pop: true, until: "Take away the bell, the wall, the gate, and the one who walks" }],
-          ["The air the bell can swing in", 960, 240, <K c={TEAL} s={22}>the air the bell swings in</K>, { pop: true, until: "Take away the bell, the wall, the gate, and the one who walks" }],
-          ["There would be nothing to block, and nothing to be blocked", 960, 240, <Wd c={WARM} s={26}>take them away: nothing to block, nothing blocked</Wd>, { until: "So two masters arrive at one place by two roads" }],
-          ["It is not a stage that was waiting first", 960, 770, <Wd c={DIM} s={24}>singled out with what bounds it · not a stage waiting first</Wd>, { until: "So two masters arrive at one place by two roads" }],
-          ["Space and its mark are designated together, like the bell and its ringing", 960, 820, <K c={GOLD} s={24}>space and its mark: designated together</K>, { pop: true, until: "So two masters arrive at one place by two roads" }],
-          ["Space is neither existent nor non existent", 960, 300, <Wd c={CHALK} s={26}>not a thing, so not a no-thing either</Wd>, { until: "So two masters arrive at one place by two roads" }],
-          ["One divides space, and finds it neither one nor many", 600, 380, <Box c={GOLD} w={520} title="divide it" sub="neither one nor many" />, { pop: true }],
-          ["The other asks what space is apart from its mark", 1320, 380, <Box c={TEAL} w={520} title="apart from its mark" sub="nothing there" />, { pop: true }],
-          ["Neither leaves a container behind", 960, 580, <SK at="And neither leaves a void" s={26}>a container</SK>],
-          ["And neither leaves a void", 960, 650, <SK at="Two cautions belong here" d={-0.6} s={26}>a void</SK>],
-        ]} />
-      </Phase>
-    </AbsoluteFill>
-  );
-};
-
-const CautionScene: React.FC = () => {
-  const { t } = useT();
-  const c = useCue();
-  const sky = ramp(t, c("The traditions often use the sky as an image"), 0.8) * (1 - ramp(t, c("Second, why I borrow only"), 0.5));
-  return (
-    <AbsoluteFill>
-      <Items items={[
-        ["Two cautions belong here", 960, 100, <Wd c={CHALK} s={42} serif>Two cautions</Wd>],
-        ["First, empty space is not emptiness", 960, 180, <Wd c={GOLD} s={34} serif>1 · empty space ≠ emptiness</Wd>, { until: "Second, why I borrow only" }],
-        ["Space is one thing that appears", 600, 320, <Box c={TEAL} w={460} title="space" sub="one thing that appears: nothing blocks" />, { pop: true, until: "Second, why I borrow only" }],
-        ["It is how every appearance is", 1320, 320, <Box c={VIOLET} w={460} title="emptiness" sub="how every appearance is" />, { pop: true, until: "Second, why I borrow only" }],
-        ["So space is empty too, just as the bell is", 960, 460, <K c={GOLD} s={26}>space is empty too, like the bell</K>, { pop: true, until: "Second, why I borrow only" }],
-        ["But an image is not a ground", 960, 720, <Wd c={CHALK} s={28} serif>the sky: an image, not a ground</Wd>, { until: "Second, why I borrow only" }],
-        ["and the floor is back. Only bigger", 960, 790, <K c={WARM} s={24}>sky as the place everything sits = the floor, bigger</K>, { pop: true, until: "Second, why I borrow only" }],
-        ["Second, why I borrow only", 960, 180, <Wd c={GOLD} s={34} serif>2 · why I borrow only the test</Wd>],
-        ["what appears is mind, with no outer object behind it", 960, 330, <SK at="But where I part from him is that everyday picture" s={26}>everyday picture: what appears is mind</SK>],
-        ["Mind and its objects rise and fall together", 960, 440, <Wd c={CHALK} s={28}>bells and courtyards, seeing and hearing: rising together</Wd>],
-        ["So I use his test of space, which cuts cleanly", 960, 540, <K c={GOLD} s={26}>his test of space, which cuts cleanly</K>, { pop: true }],
-        ["And I still walk through the gate", 960, 680, <K c={GREEN} s={24}>nothing missing: I still walk through the gate</K>, { pop: true }],
-      ]} />
-      <At x={960} y={600} o={sky * 0.8}>
-        <svg width={700} height={120} viewBox="0 0 700 120"><path d="M20 100 Q350 -40 680 100" fill="rgba(169,221,242,0.12)" stroke={ICE} strokeWidth={3} /></svg>
-      </At>
-    </AbsoluteFill>
-  );
-};
-
-const PiecesScene: React.FC = () => (
+const TwoScene: React.FC = () => (
   <AbsoluteFill>
     <Items items={[
-      ["Now, when the floor is not found, the mind reaches quickly for one of two pictures", 960, 100, <Wd c={CHALK} s={36} serif>Two quick pictures</Wd>],
-      ["The first: so everything is made of infinitely many tinier moments", 560, 250, <SK at="The search was never a microscope finding smaller things" s={26}>tinier pieces, all the way down</SK>],
-      ["But that keeps the habit, and only shrinks it", 560, 320, <Wd c={DIM} s={22}>the habit, only shrunk</Wd>],
-      ["The second: so there is nothing at all", 1360, 250, <SK at="because the floor was never there to be taken away" s={26}>nothing at all, a blank</SK>],
-      ["But that is Part 1's last mistake again", 1360, 320, <Wd c={DIM} s={22}>Part 1's last mistake again</Wd>],
-      ["Three searches, one result", 960, 430, <Wd c={GOLD} s={36} serif>Three searches, one result</Wd>],
-      ["Time breaks into before and after", 480, 530, <Box c={ICE} w={420} title="time" sub="before · after" />, { pop: true }],
-      ["Matter breaks into this side and that side", 960, 530, <Box c={ROSE} w={420} title="matter" sub="this side · that side" />, { pop: true }],
-      ["Space breaks into here and there", 1440, 530, <Box c={TEAL} w={420} title="space" sub="here · there" />, { pop: true }],
-      ["the floor the habit wanted is not found", 960, 660, <Wd c={CHALK} s={28} serif>the floor the habit wanted: not found</Wd>],
-      ["What the search leaves is exactly what was there before it", 960, 730, <Wd c={DIM} s={24}>left: the tone fading · the petal soft · room to walk through</Wd>],
-      ["None of it standing on its own", 960, 790, <K c={GOLD} s={24}>all vivid · all working · none of it standing on its own</K>, { pop: true }],
+      ["Two searches, one result so far", 960, 200, <Wd c={GOLD} s={40} serif>Two searches, one result so far</Wd>],
+      ["Time breaks into before and after", 640, 400, <Box c={ICE} w={480} title="time" sub="before · after" />, { pop: true }],
+      ["Matter breaks into this side and that side", 1280, 400, <Box c={ROSE} w={480} title="matter" sub="this side · that side" />, { pop: true }],
+      ["Neither is the floor the habit wanted", 960, 600, <Wd c={CHALK} s={30} serif>neither is the floor the habit wanted</Wd>],
     ]} />
   </AbsoluteFill>
 );
@@ -536,16 +375,14 @@ const WhichScene: React.FC = () => (
   <AbsoluteFill>
     <Items items={[
       ["So, which holds", 960, 100, <Wd c={GOLD} s={48} serif>Which holds?</Wd>],
-      ["By experience. Listen to the bell's tone as it fades", 400, 260, <Box c={ICE} w={500} title="Experience" sub="a still moment? a speck? an empty room?" />, { pop: true }],
+      ["By experience. Listen to the bell's tone as it fades", 400, 260, <Box c={ICE} w={500} title="Experience" sub="a still moment? a partless speck?" />, { pop: true }],
       ["Never a floor underneath", 400, 400, <Wd c={CHALK} s={24}>never a floor underneath</Wd>],
-      ["By logic. Every candidate for the floor undoes itself the moment it is picked out", 960, 260, <Box c={VIOLET} w={500} title="Logic" sub="picked out, each undoes itself" />, { pop: true }],
-      ["The very dependence it was meant to escape", 960, 400, <Wd c={CHALK} s={24}>before/after · this side/that · here/there</Wd>],
-      ["By working. The floor view says the world is orderly", 1520, 260, <Box c={TEAL} w={500} title="Working" sub="a partless piece could not act" />, { pop: true }],
-      ["The view without a floor explains all of it", 1520, 400, <Wd c={CHALK} s={24}>the tone, the wall, the room</Wd>],
-      ["Order never needed a floor", 960, 520, <Wd c={GOLD} s={38} serif>Order never needed a floor.</Wd>],
-      ["So the floor view is not the truer one", 960, 620, <Wd c={CHALK} s={28} serif>not the truer view…</Wd>],
-      ["It is the default one, carried by habit and by language", 960, 680, <Wd c={GOLD} s={28} serif>the default, carried by habit and language</Wd>],
-      ["None of this makes my everyday words false", 960, 760, <Wd c={DIM} s={24}>there are moments, matter, room · only "real in itself" fails</Wd>],
+      ["By logic. A partless moment either lasts, and splits", 960, 260, <Box c={VIOLET} w={500} title="Logic" sub="it splits, or adds to nothing; one spot, or parts" />, { pop: true }],
+      ["Every candidate undoes itself the moment it is picked out", 960, 400, <Wd c={CHALK} s={24}>picked out, each undoes itself</Wd>],
+      ["By working. The tone fades because the bronze stops trembling", 1520, 260, <Box c={TEAL} w={500} title="Working" sub="the tone fades · the wall stands" />, { pop: true }],
+      ["Order never needed a floor", 960, 540, <Wd c={GOLD} s={38} serif>Order never needed a floor.</Wd>],
+      ["So the floor view is not the truer one", 960, 640, <Wd c={CHALK} s={28} serif>not the truer view: the default one</Wd>],
+      ["What fails is only a piece of reality, at the bottom, that is real in itself", 960, 720, <Wd c={DIM} s={24}>only "real in itself, at the bottom" fails</Wd>],
     ]} />
   </AbsoluteFill>
 );
@@ -553,21 +390,17 @@ const WhichScene: React.FC = () => (
 const CloseScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
-  const end = c("And whether the web of conditions might quietly become the new floor instead");
+  const end = c("I look for that room");
   return (
-    <AbsoluteFill style={{ opacity: 1 - ramp(t, end + 7, 1.5) }}>
+    <AbsoluteFill style={{ opacity: 1 - ramp(t, end + 6, 1.5) }}>
       <Items items={[
-        ["And something loosens when this is seen", 960, 200, <Wd c={CHALK} s={36} serif>Something loosens</Wd>, { until: "This is Section 2, Part 2 of the Dependent Arising series" }],
-        ["When no floor is found anywhere, there is nothing to reach for", 960, 300, <Wd c={CHALK} s={28}>no floor anywhere: nothing to reach for</Wd>, { until: "This is Section 2, Part 2 of the Dependent Arising series" }],
-        ["And nothing is lost by not reaching", 960, 370, <K c={GOLD} s={26}>nothing lost by not reaching</K>, { pop: true, until: "This is Section 2, Part 2 of the Dependent Arising series" }],
-        ["Needing nothing under them", 960, 520, <Wd c={GOLD} s={40} serif>vivid, needing nothing under them</Wd>, { until: "This is Section 2, Part 2 of the Dependent Arising series" }],
-        ["This is Section 2, Part 2 of the Dependent Arising series", 960, 150, <Wd c={GOLD} s={40} serif>Dependent Arising · Section 2 · Part 2</Wd>],
-        ["In Part 3, I turn to how differently things appear", 960, 230, <Wd c={DIM} s={26}>next, Part 3: Solid, Dreamlike, Described</Wd>],
-        ["A car that knocks you down", 480, 400, <Box c={WARM} w={420} title="solid" sub="a car that knocks you down" />, { pop: true }],
-        ["A dream that makes you weep", 960, 400, <Box c={VIOLET} w={420} title="dreamlike" sub="a dream that makes you weep" />, { pop: true }],
-        ["A wave function that is never seen at all", 1440, 400, <Box c={ICE} w={420} title="described" sub="a wave function, never seen" />, { pop: true }],
-        ["And whether the web of conditions might quietly become the new floor instead", 960, 600, <Wd c={CHALK} s={28} serif>is any of them the floor? or the web of conditions?</Wd>],
+        ["This is Section 2, Part 2 of the Dependent Arising series", 960, 160, <Wd c={GOLD} s={40} serif>Dependent Arising · Section 2 · Part 2</Wd>],
+        ["In Part 3, the habit makes its last stand", 960, 260, <Wd c={DIM} s={26}>next, Part 3: Space</Wd>],
+        ["Surely space itself is real", 960, 380, <Wd c={TEAL} s={34} serif>surely space itself is real…</Wd>],
+        ["The one still room that everything sits in", 960, 450, <Wd c={DIM} s={26}>the one still room that everything sits in</Wd>],
+        ["I look for that room", 960, 560, <K c={GOLD} s={26}>looking for that room</K>, { pop: true }],
       ]} />
+      <At x={960} y={720} o={ramp(t, c("The one still room that everything sits in"), 0.8) * 0.8}><Courtyard /></At>
     </AbsoluteFill>
   );
 };
@@ -580,11 +413,9 @@ export const Body: React.FC = () => {
     ["In Part 1, a bell, a red flower and a passing thought were each looked for, and not found", "search", <RetreatScene />],
     ["First, a moment", "temple", <MomentScene />],
     ["Second, an atom", "rose", <AtomScene />],
-    ["Third, space", "court", <SpaceScene />],
-    ["Two cautions belong here", "sky", <CautionScene />],
-    ["Now, when the floor is not found, the mind reaches quickly for one of two pictures", "ghost", <PiecesScene />],
+    ["Two searches, one result so far", "ghost", <TwoScene />],
     ["So, which holds", "whole", <WhichScene />],
-    ["And something loosens when this is seen", "night", <CloseScene />],
+    ["This is Section 2, Part 2 of the Dependent Arising series", "night", <CloseScene />],
   ];
   const moods: Mood[] = [];
   order.forEach(([cue, k], i) => {
