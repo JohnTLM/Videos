@@ -8,7 +8,7 @@ source_words: 3785
 script_words: 1667
 intro: yes
 voice: male
-status: recut 2026-11-23 from the approved AA41 script (its space, cautions and which holds), owner: "Yes, go with the 8 parts and recut AA41"
+status: recut 2026-11-23 from the approved AA41 script (its space, cautions and which holds), owner: "Yes, go with the 8 parts and recut AA41"; built 2026-11-23
 ---
 
 # Dependent Arising Section 2 Part 3: Space
