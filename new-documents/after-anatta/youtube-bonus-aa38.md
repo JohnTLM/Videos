@@ -1,6 +1,6 @@
-# YouTube upload: Dependent Arising Part 4: Empty, Not Ghostly (AA38, 2026-11-22)
+# YouTube upload: Dependent Arising Section 1 Part 4: Empty, Not Ghostly (AA38, 2026-11-22)
 
-Dependent Arising, Part 4 of the series, the close of its first section. Built on 2026-11-22 at 720p. **Draft: not
+Dependent Arising, Section 1 Part 4, the close of its first section. Built on 2026-11-22 at 720p. **Draft: not
 uploaded.** When the owner uploads it (Unlisted), record the id here and in a server task note; the server puts these
 texts on.
 
@@ -9,7 +9,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ---
 
-## Dependent Arising Part 4: Empty, Not Ghostly (AA38, 9:30)
+## Dependent Arising Section 1 Part 4: Empty, Not Ghostly (AA38, 9:30)
 
 ### Title
 

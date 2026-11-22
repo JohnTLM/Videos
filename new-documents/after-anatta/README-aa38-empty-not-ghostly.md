@@ -1,4 +1,4 @@
-# AA38: Dependent Arising Part 4: Empty, Not Ghostly
+# AA38: Dependent Arising Section 1 Part 4: Empty, Not Ghostly
 
 | | |
 |---|---|
