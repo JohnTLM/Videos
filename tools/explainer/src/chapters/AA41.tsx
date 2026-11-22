@@ -82,7 +82,8 @@ const M = {
 
 // ---------------------------------------------------------------- helpers
 type Opt = { d?: number; until?: string; ud?: number; pop?: boolean; o?: number };
-type It = [string, number, number, React.ReactNode, Opt?const Items: React.FC<{ items: It[] }> = ({ items }) => {
+type It = [string, number, number, React.ReactNode, Opt?];
+const Items: React.FC<{ items: It[] }> = ({ items }) => {
   const { t, fps } = useT();
   const c = useCue();
   return (
