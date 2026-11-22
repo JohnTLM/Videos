@@ -443,7 +443,7 @@ const RealizationScene: React.FC = () => {
       ["A body that shrinks is a partial rainbow body", 960, 580, <K c={DIM}>shrinking: partial</K>],
       ["And control of the elements is a worldly power", 1360, 580, <K c={DIM}>control of elements: worldly</K>],
       ["the rainbow body does not mean that your body disappears", 960, 740, <Wd c={GOLD} s={34} serif>"rainbow body does not mean that your body disappears"</Wd>],
-      ["the rainbow body does not mean that your body disappears", 960, 800, <Wd c={DIM} s={24}>Awakening to Reality, 2013</Wd>, { d: 0.8 }],
+      ["the rainbow body does not mean that your body disappears", 960, 800, <Wd c={DIM} s={24}>my words, 2013</Wd>, { d: 0.8 }],
     ]} />
   </AbsoluteFill>
   );
