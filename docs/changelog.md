@@ -38,3 +38,12 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   drawings; a 25 MB copy sent to the owner. Not uploaded (the article is a draft).
 - Files in `new-documents/after-anatta/` (`aa37-…`, `README-aa37-…`, `youtube-bonus-aa37.md`); drawings `AA37.tsx`.
   `AA38.tsx` (Part 4's drawings, script approved) rides along; AA38 is being built.
+
+## 2026-11-22: AA38 *Dependent Arising Part 4: Empty, Not Ghostly*, draft; AA35 rebuilt
+
+- Owner approved the AA38 script ("Approved, go ahead"). Built in a cloud session: 9:30 at 720p, Andrew, 156 cues,
+  no LATE drawings; the knocked-down figure fixed to fall away from the car, then re-rendered; a 23 MB copy sent to
+  the owner. Not uploaded (the article is a draft). Files in `new-documents/after-anatta/` (`aa38-…`, `README-aa38-…`,
+  `youtube-bonus-aa38.md`); drawings `AA38.tsx`.
+- AA35 rebuilt in this session on the owner's ask ("rebuild AA35 here"), from the saved script and drawings, title
+  card unchanged: 9:56, 161 cues; a copy sent to the owner. No text changed.
