@@ -1,23 +1,23 @@
 ---
-chapter: 42
+chapter: 44
 label: Bonus article
-title: "Dependent Arising Section 2 Part 3: Solid, Dreamlike, Described"
-series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 3 (Part 2: Looking for the Floor; Part 4: Where the Big Ideas Come From)"
+title: "Dependent Arising Section 2 Part 4: Solid, Dreamlike, Described"
+series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 4 (Part 3: Space; Part 5: Clarity Without a Knower)"
 source: EBooks Bonus Articles/solid-dreamlike-described/solid-dreamlike-described.md (draft of 2026-11-23)
 source_words: 2719
-script_words: 2088
+script_words: 2074
 intro: yes
 voice: male
 status: draft for the owner's approval
 ---
 
-# Dependent Arising Section 2 Part 3: Solid, Dreamlike, Described
+# Dependent Arising Section 2 Part 4: Solid, Dreamlike, Described
 
 A car. A dream. A wave function. Which of them is the real one?
 
 I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
 
-In Part 1, a bell, a red flower and a passing thought were looked for, and not found. In Part 2, the habit retreated to the smallest moment, the smallest piece, and space itself. And found no floor in any of them.
+In Part 1, a bell, a red flower and a passing thought were looked for, and not found. In Parts 2 and 3, the habit retreated to the smallest moment, the smallest piece, and space itself. And found no floor in any of them.
 
 So the habit tries something else. It stops digging down, and starts ranking across. What appears, it notices, appears in very different ways.
 
@@ -139,8 +139,8 @@ None of this makes my everyday words false. The car is solid. The dream was a dr
 
 And something eases when this is seen. I no longer need to decide which world is the real one before I can live in it. The car, the dream and the equation can each be met as they appear. Fully. Without one swallowing the others.
 
-This is Section 2, Part 3 of the Dependent Arising series.
+This is Section 2, Part 4 of the Dependent Arising series.
 
-In Part 4, I close Section 2. Privacy. Objectivity. Causal power. Inside and outside. I look at each as a genuine feature of appearing, misread as a thing.
+In Part 5, I turn to the clarity that runs through all appearing. And ask whether it needs a knower behind it.
 
-And I look at the clarity that runs through all appearing. And ask whether it needs a knower behind it.
+And what experience is like, when no layer is left.
