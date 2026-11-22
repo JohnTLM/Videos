@@ -8,7 +8,7 @@ source_words: 2210
 script_words: 1825
 intro: yes
 voice: male
-status: draft script, waiting for the owner's approval. The closing "Part 3" line follows AA35 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule. New pronunciations: Vasubandhu, Uexküll
+status: approved by the owner 2026-11-22 ("Approved"); built 2026-11-22. The closing "Part 3" line follows AA35 (the owner's ask of 2026-11-22), in place of VIDEO-SPEC's no-teaser rule. New pronunciations: Vasubandhu, Uexküll
 ---
 
 # Dependent Arising Part 2: The Illusion of the Given
