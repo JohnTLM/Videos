@@ -158,7 +158,7 @@ const mix = (a: number[], b: number[], k: number) => a.map((v, i) => Math.round(
 const Apple: React.FC<{ size?: number; col?: string; dashed?: boolean }> = ({ size = 160, col = ROSE, dashed }) => (
   <svg width={size} height={size} viewBox="0 0 100 100" style={{ overflow: "visible", filter: dashed ? undefined : `drop-shadow(0 0 12px ${col})` }}>
     <path d="M50 30 C35 18 12 25 14 52 C16 78 34 92 50 84 C66 92 84 78 86 52 C88 25 65 18 50 30 Z"
-      fill={dashed ? "none" : `${col}55`} stroke={dashed ? DIM : col} strokeWidth={4} strokeDasharray={dashed ? "6 6" : undefined} />
+      fill={dashed ? "none" : col} fillOpacity={dashed ? 0 : 0.3} stroke={dashed ? DIM : col} strokeWidth={4} strokeDasharray={dashed ? "6 6" : undefined} />
     <path d="M50 30 L53 12" stroke={dashed ? DIM : GOLD} strokeWidth={4} strokeLinecap="round" strokeDasharray={dashed ? "4 4" : undefined} />
     {!dashed && <path d="M54 18 Q66 8 74 16 Q64 24 54 18 Z" fill="rgba(143,212,154,0.4)" stroke={GREEN} strokeWidth={2.5} />}
   </svg>
@@ -540,24 +540,24 @@ const FourWorldsScene: React.FC = () => {
   );
 };
 
-/** A balance beam; `tilt` -1..1 (positive: right side down). */
+/** A balance beam; `tilt` -1..1 (positive: right side down). No rotation, so nothing is clipped. */
 const Scale: React.FC<{ tilt: number; left: string; right: string; lc: string; rc: string }> = ({ tilt, left, right, lc, rc }) => {
-  const a = tilt * 12;
+  const o = tilt * 50;
+  const yl = 120 - o, yr = 120 + o;
   return (
-    <div style={{ position: "relative", width: 1000, height: 360 }}>
-      <svg width={1000} height={360} viewBox="0 0 1000 360" style={{ position: "absolute", overflow: "visible" }}>
-        <path d="M500 330 L460 360 L540 360 Z" fill={DIM} />
-        <line x1={500} y1={330} x2={500} y2={120} stroke={DIM} strokeWidth={6} />
-        <g transform={`rotate(${a} 500 120)`}>
-          <line x1={140} y1={120} x2={860} y2={120} stroke={CHALK} strokeWidth={6} />
-          <line x1={140} y1={120} x2={140} y2={200} stroke={DIM} strokeWidth={3} />
-          <line x1={860} y1={120} x2={860} y2={200} stroke={DIM} strokeWidth={3} />
-          <path d="M60 200 Q140 250 220 200 Z" fill="none" stroke={lc} strokeWidth={4} />
-          <path d="M780 200 Q860 250 940 200 Z" fill="none" stroke={rc} strokeWidth={4} />
-        </g>
+    <div style={{ position: "relative", width: 1000, height: 380 }}>
+      <svg width={1000} height={380} viewBox="0 0 1000 380" style={{ position: "absolute", left: 0, top: 0, overflow: "visible" }}>
+        <path d="M500 340 L450 375 L550 375 Z" fill={DIM} />
+        <line x1={500} y1={340} x2={500} y2={120} stroke={DIM} strokeWidth={6} />
+        <circle cx={500} cy={120} r={10} fill={CHALK} />
+        <line x1={140} y1={yl} x2={860} y2={yr} stroke={CHALK} strokeWidth={6} />
+        <line x1={140} y1={yl} x2={140} y2={yl + 80} stroke={DIM} strokeWidth={3} />
+        <line x1={860} y1={yr} x2={860} y2={yr + 80} stroke={DIM} strokeWidth={3} />
+        <path d={`M50 ${yl + 80} Q140 ${yl + 140} 230 ${yl + 80} Z`} fill="none" stroke={lc} strokeWidth={4} />
+        <path d={`M770 ${yr + 80} Q860 ${yr + 140} 950 ${yr + 80} Z`} fill="none" stroke={rc} strokeWidth={4} />
       </svg>
-      <div style={{ position: "absolute", left: 40, top: 270 - a * 6, width: 200, textAlign: "center" }}><Wd c={lc} s={26}>{left}</Wd></div>
-      <div style={{ position: "absolute", left: 760, top: 270 + a * 6, width: 200, textAlign: "center" }}><Wd c={rc} s={26}>{right}</Wd></div>
+      <div style={{ position: "absolute", left: 20, top: yl + 150, width: 240, textAlign: "center" }}><Wd c={lc} s={28}>{left}</Wd></div>
+      <div style={{ position: "absolute", left: 740, top: yr + 150, width: 240, textAlign: "center" }}><Wd c={rc} s={28}>{right}</Wd></div>
     </div>
   );
 };
