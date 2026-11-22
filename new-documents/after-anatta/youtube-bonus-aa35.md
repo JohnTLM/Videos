@@ -12,7 +12,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ### Title
 
-Dependent Arising Part 1: Undeniably There, or Formed? | Thusness
+Dependent Arising Section 1 Part 1: Undeniably There, or Formed? | Thusness
 
 ### Description
 
@@ -22,7 +22,7 @@ So I set two ways of seeing side by side, three times. An apple: tossed, held, b
 
 Then the test: which carries more valid truth, by experience, by logic, and by how things work? The first view is the default, carried by habit, not by evidence. Everyday claims stay true; only "from its own side" fails. Nothing that works is lost. Only a floor that was never there is gone.
 
-Part 1 of the Dependent Arising series. Next, Part 2: The Illusion of the Given.
+Section 1, Part 1 of the Dependent Arising series. Next, Part 2: The Illusion of the Given.
 
 0:00 If you think you understand
 0:53 An apple, as it feels

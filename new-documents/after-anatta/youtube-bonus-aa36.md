@@ -12,7 +12,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ### Title
 
-Dependent Arising Part 2: The Illusion of the Given | Thusness
+Dependent Arising Section 1 Part 2: The Illusion of the Given | Thusness
 
 ### Description
 
@@ -22,7 +22,7 @@ So again I set two ways of seeing side by side, three times. A bowl: neutral stu
 
 "But we agree." Agreement is not proof of a hidden floor; it is what conventional truth is. Healthy senses correct each other within a kind, a circle with no judge outside it. The bowl does not prove the world is inside the mind; neither the world nor the mind is the floor. Then the test, by experience, logic and working. And if the ghost's pus is truly pus for the ghost, no being's lived world can be brushed aside.
 
-Part 2 of the Dependent Arising series. Previous: Part 1, Undeniably There, or Formed? Next, Part 3: Measured, or Formed?, with Carlo Rovelli and Karen Barad.
+Section 1, Part 2 of the Dependent Arising series. Previous: Part 1, Undeniably There, or Formed? Next, Part 3: Measured, or Formed?, with Carlo Rovelli and Karen Barad.
 
 0:00 One bowl, four beings
 0:28 The given

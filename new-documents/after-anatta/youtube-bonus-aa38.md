@@ -13,7 +13,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ### Title
 
-Dependent Arising Part 4: Empty, Not Ghostly | Thusness
+Dependent Arising Section 1 Part 4: Empty, Not Ghostly | Thusness
 
 ### Description
 
@@ -23,7 +23,7 @@ The ghostly void is a misunderstanding, born of a habitual way of understanding 
 
 Then what the first three parts have shown, the test one last time, and why I keep using the apple, the car and the rain: to correct a misconception with impact, gradually, from rejection to acceptance, from counter-intuitive to highly logical and tenable.
 
-Part 4 of the Dependent Arising series, and the close of its first section. Previous: Part 3, Measured, or Formed? Next: other major sides of dependent arising: what is a phenomenon, mind and matter, and the logic of dependency.
+Section 1, Part 4 of the Dependent Arising series, and the close of Section 1. Previous: Part 3, Measured, or Formed? Next: other major sides of dependent arising: what is a phenomenon, mind and matter, and the logic of dependency.
 
 0:00 Is anything really there?
 0:20 Three parts, one pattern
