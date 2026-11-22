@@ -12,3 +12,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   The playlist is sorted by date added, so the API cannot set positions; the four were re-added Part 4 first and
   stand Part 1 to 4 at the top. To place them elsewhere, switch the playlist to manual order in YouTube Studio.
 - Ids recorded in `README-dependent-arising-four-videos.md` and in the four texts files' headers.
+
+## 2026-11-22: AA35 *Undeniably There, or Formed?* (Dependent arising, Part 1), draft
+
+- Owner: "make the NotebookLM pack and video for Part 1"; script approved ("Approved"). Built in a cloud session:
+  9:56 at 720p, Andrew, 161 cues; a 26 MB copy sent to the owner. Not uploaded (the article is a draft).
+- Files in `new-documents/after-anatta/` (`aa35-…`, `README-aa35-…`, `youtube-bonus-aa35.md`); drawings `AA35.tsx`.
+- The series continues in its own session; all dependent-arising video texts are also copied to
+  [DependentArising](https://github.com/JohnTLM/DependentArising) (owner: "Keep both").

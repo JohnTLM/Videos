@@ -36,3 +36,9 @@ Only two of the seven were ever uploaded (server, 2026-11-21):
 | AA23 *Part 1 of 6: If You Think You Understand* | `suq_DoDSinA` | replaced: the owner sets it Private |
 | AA25 *What It Is For*, AA27 *One Taste, Many Faces* | never uploaded | kept; upload only if the owner wants them online |
 | AA22, AA24, AA26 | never uploaded | replaced; nothing to do |
+
+## A gathered copy (2026-11-22)
+
+All dependent-arising video texts (AA21–AA28, AA31–AA35: scripts, narration, subtitles, scenes, YouTube texts,
+drawings) are also copied, with the source articles, to [DependentArising](https://github.com/JohnTLM/DependentArising)
+(owner: "Keep both"). The working copies stay here; the builder needs the drawings in `tools/explainer/src/chapters/`.
