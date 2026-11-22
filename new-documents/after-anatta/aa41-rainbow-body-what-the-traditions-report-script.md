@@ -5,10 +5,10 @@ title: "Rainbow Body: What the Traditions Report"
 series: "After Anatta · Questions"
 source: AA14 (Rainbow Body) and AA29 (Four Papers) merged and stripped of the owner's view (owner, 2026-11-22: "The first two video must be stripped of my view and used as strictly reporting… integrate the 2 videos and slim my view on it about apple… say from non-substantialist view, it is not difficult to understand but as this is my personal view I shall not comment here"); EBooks Rainbow Body and Emptiness, The Yang Spirit and the Rainbow Body, the four papers (canon-edited), Orofino 2022
 source_words: 3800
-script_words: 1704
+script_words: 1731
 intro: yes
 voice: male
-status: approved by the owner (2026-11-22, "Approved"). Strictly reporting; the owner's own view only in the short apple passage and the closing line. Replaces AA14 and AA29 on the site once approved and uploaded.
+status: approved by the owner (2026-11-22, "Approved", after his comments on the AA41 video): trekchö and thögal named; the apple removed; pointers to the 5 Elements and Inner Winds videos. Strictly reporting; his view only in the closing line.
 ---
 
 # Rainbow Body: What the Traditions Report
@@ -23,7 +23,9 @@ Dzogchen speaks of the basis in three aspects. Its essence is empty, pure from t
 
 Then the texts tell how saṃsāra begins. When the display is not recognised as the basis's own radiance, it is taken as something other, standing over there. The five lights are grasped, and they harden into the five elements, earth, water, fire, air and space. From the elements come the body and the world. So, in Dzogchen's terms, the ordinary body is light not recognised. The rainbow body is said to be the same process run the other way.
 
-There are two practices. The first is cutting through. The practitioner recognises rigpa, the knowing that is empty and clear at once, and rests in it. This is said to free the mind from grasping. The second is direct crossing. With particular postures and gazes, lights appear in open space. Small drops of light. Fine threads. They grow into patterns, and then into whole mandalas. These are the four visions. The fourth is called the exhaustion of phenomena. At the fourth, the texts say, nothing is grasped as solid any more, the body included.
+One caution before going further. The five lights should not be read through our own culture, or through modern knowledge of light. The five elements have their own background in Indian and Tibetan thought, and the five lights only make sense against it. I set out that background in a short video, Five Elements: Chinese versus Tibet.
+
+There are two practices. The first is trekchö, cutting through. The practitioner recognises rigpa, the knowing that is empty and clear at once, and rests in it. This is said to free the mind from grasping. The second is thögal, direct crossing. With particular postures and gazes, lights appear in open space. Small drops of light. Fine threads. They grow into patterns, and then into whole mandalas. These are the four visions. The fourth is called the exhaustion of phenomena. At the fourth, the texts say, nothing is grasped as solid any more, the body included.
 
 The texts also speak of lamps. One lamp is the eyes. Another is the open expanse the lights appear in. Another is the circles of light themselves. And the last is the wisdom that knows them as its own display.
 
@@ -37,7 +39,7 @@ Gelug tantra rests on one point. Mind and wind are one thing seen from two sides
 
 The yogi rehearses this while alive. The winds are drawn into the central channel and dissolve at the heart. The clear light dawns. From the subtle wind that carried it, a body of pure wind arises in the form of the deity. This is the illusory body, separate from the coarse body, like a dream body but stable. When the clear light realises emptiness directly, and the two are joined, Gelug calls that union the body of a buddha.
 
-Why does it work, in Gelug's account? Because the body's material is wind, and wind is one with mind. When the subtlest mind realises emptiness, the wind it rides on arises as a pure body. And Gelug insists on one thing. The clear light must realise emptiness. Clarity alone, however deep, is said to free nothing.
+Why does it work, in Gelug's account? Because the body's material is wind, and wind is one with mind. When the subtlest mind realises emptiness, the wind it rides on arises as a pure body. And Gelug insists on one thing. The clear light must realise emptiness. Clarity alone, however deep, is said to free nothing. The winds, channels and drops these practices work with are set out in another of my videos, Inner Winds and Subtle Body Practices.
 
 The sign Gelug is known for is tukdam. After death a master is said to rest in the clear light, sometimes for days, and the body stays fresh. It does not shrink. In 2021, a team at the University of Wisconsin measured thirteen such cases and found no detectable brain activity. They could only begin about a day after death, and they tested the brain, not the claim about the body. Tsongkhapa himself is said to have become a buddha in the in-between state, through the illusory body. No rainbow body is claimed for him.
 
@@ -60,7 +62,5 @@ Others tell of it too. In India, the Tamil saint Ramalinga Swamigal went into hi
 And the early Buddhist discourses have their own way of placing such powers. Five of the six higher knowledges, the bodily wonders among them, are shared with those outside the teaching. Only the sixth, the ending of the taints, is said to free.
 
 There is a Tibetan image worth keeping. Raw leather is stiff. Rub butter into it under the sun, and it grows soft. But a leather bag used only to store butter, year after year, slowly hardens like wood. Then no butter will soften it again. Knowledge never worked into practice, the saying goes, does the same.
-
-One ordinary moment helps me see why the traditions speak this way. Hold an apple. The hardness. The coolness. The red. The sweetness. Each appears as its conditions meet. Then a habit ties them into one solid thing, out there. Untie that knot, and nothing is lost. Just this hardness, this red, this sweetness, vivid.
 
 From a non-substantialist view, the rainbow body is not difficult to understand. But as this is my personal view, I shall not comment here.
