@@ -47,3 +47,9 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   `youtube-bonus-aa38.md`); drawings `AA38.tsx`.
 - AA35 rebuilt in this session on the owner's ask ("rebuild AA35 here"), from the saved script and drawings, title
   card unchanged: 9:56, 161 cues; a copy sent to the owner. No text changed.
+
+## 2026-11-22: YouTube titles for the Dependent Arising series carry the section
+
+- Owner: "the title of YouTube for these series of multiparts Dependent Arising should be: Dependent Arising Section 1
+  Part 1: Title". AA35–AA38 YouTube titles are now "Dependent Arising Section 1 Part N: <title> | Thusness", and the
+  descriptions say "Section 1, Part N". Title cards inside the MP4s and the article titles are unchanged.

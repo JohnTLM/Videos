@@ -12,7 +12,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ### Title
 
-Dependent Arising Part 3: Measured, or Formed? | Thusness
+Dependent Arising Section 1 Part 3: Measured, or Formed? | Thusness
 
 ### Description
 
@@ -22,7 +22,7 @@ A measured value: read off like the time from a clock, or a fact that holds rela
 
 Then where I part from them. Read as "things are not real, but relations are", the echo only moves the floor. A relation needs what it relates; relations and the things related arise together, and neither comes first. Vivid, working, and empty all the way through, the relations included. Then the test, by experience, logic and working: the given is not the truer view, even in physics.
 
-Part 3 of the Dependent Arising series. Previous: Part 2, The Illusion of the Given. Next, Part 4: Empty, Not Ghostly.
+Section 1, Part 3 of the Dependent Arising series. Previous: Part 2, The Illusion of the Given. Next, Part 4: Empty, Not Ghostly.
 
 0:00 A detector clicks
 0:21 "Physics is different"
