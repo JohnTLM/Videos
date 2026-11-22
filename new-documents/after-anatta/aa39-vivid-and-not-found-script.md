@@ -5,10 +5,10 @@ title: "Dependent Arising Section 2 Part 1: Vivid, and Not Found"
 series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 1 (Section 1 closed with Part 4: Empty, Not Ghostly)"
 source: EBooks Bonus Articles/vivid-and-not-found/vivid-and-not-found.md (draft of 2026-11-22)
 source_words: 2746
-script_words: 2110
+script_words: 2099
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-22 ("Approved, go ahead"); built 2026-11-22
 ---
 
 # Dependent Arising Section 2 Part 1: Vivid, and Not Found
