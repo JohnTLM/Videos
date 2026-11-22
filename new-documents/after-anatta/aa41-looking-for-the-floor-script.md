@@ -5,10 +5,10 @@ title: "Dependent Arising Section 2 Part 2: Looking for the Floor"
 series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 2 (Part 1: Vivid, and Not Found; Part 3: Solid, Dreamlike, Described)"
 source: EBooks Bonus Articles/looking-for-the-floor/looking-for-the-floor.md (draft of 2026-11-22)
 source_words: 3785
-script_words: 2728
+script_words: 2717
 intro: yes
 voice: male
-status: approved by the owner 2026-11-23 ("Approved")
+status: approved by the owner 2026-11-23 ("Approved"); built 2026-11-23
 ---
 
 # Dependent Arising Section 2 Part 2: Looking for the Floor
