@@ -61,3 +61,10 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   appearing are one event, through and through; it makes nothing and needs no words), with a new drawing phase in
   `AA36.tsx`. Rebuilt (only the new paragraphs re-recorded): 12:53 at 720p, 210 cues, no LATE drawings; a 27 MB copy
   sent to the owner. YouTube chapter times shifted (new 2:16 chapter); README updated.
+
+## 2026-11-23: AA41 uploaded and published (server)
+
+- AA41 *Rainbow Body: What the Traditions Report* is `a8Yf6nQx-lU` (Unlisted, 11:45 on YouTube, 100,605,437 bytes as
+  sent). Its texts were applied from `youtube-after-anatta-aa41.md` entry 1; it was already first in *Post Anatta
+  Insights*, so not added again. AA29 (`cGQlVI4--qw`) and AA14 (`qMqGI1BQv0Q`, entry 2) re-applied without the
+  "Awakening to Reality" tag. README status row records the id.
