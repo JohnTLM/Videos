@@ -77,3 +77,12 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - AA41's first upload `a8Yf6nQx-lU` is now deleted on YouTube. The owner re-uploaded the same file (100,605,437 bytes)
   as `u8NgZeTY6bw` (12:15 UTC); its texts were applied from `youtube-after-anatta-aa41.md` entry 1 (already in the
   playlist). AA41 README status row updated.
+
+## 2026-11-23 (server): Dependent Arising Section 2 Parts 1–6 on YouTube
+
+- The owner uploaded the six parts from the phone (20:26–20:29 UTC, titled "24 November 2026"). Matched by exact file
+  size; lengths agree within 1 s. Texts applied from `youtube-bonus-aaNN.md` entry 1, titles read back:
+  Part 1 AA39 `y6JaoQsUw80` (13:34), Part 2 AA42 `X7qCSipu1Pg` (9:03), Part 3 AA43 `HLNHJpvKV6M` (10:39),
+  Part 4 AA44 `FFBt-wsJoCc` (13:42), Part 5 AA46 `Uswx5GFoocM` (8:29), Part 6 AA45 `N1yAVSDLWWQ` (10:17).
+- The phone had already added them to *Bonus Articles* (`PLCph_F1_eo6o`) in reverse order; moved them (by position, no
+  re-adding) to Part 1 → 6 after the Rainbow Body videos. Ids recorded in the six YouTube texts files and README rows.

@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/solid-dreamlike-described/solid-dreamlike-described.md` (draft) |
 | Files | `aa44-solid-dreamlike-described-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa44.md` |
 | Checks | All 105 cue phrases found in the narration; a contact sheet of 16 frames: one overlap in the web scene fixed and re-rendered |
-| Status | **Draft.** Not on YouTube, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `FFBt-wsJoCc`, not on the website |
 | Series | Dependent Arising, Section 2, Part 4. Previous: Part 3, *Space* (AA43). Next: Part 5, *Clarity Without a Knower* (no video yet) |
 
 ## Scenes

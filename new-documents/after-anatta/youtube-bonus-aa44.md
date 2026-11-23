@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 2 Part 4: Solid, Dreamlike, Described (AA44, 2026-11-23)
 
-Dependent Arising, Section 2 Part 4. Built on 2026-11-23 at 720p. **Draft: not uploaded.** When the owner uploads it (Unlisted), record the id here and in a server task note; the server puts these texts on.
+Dependent Arising, Section 2 Part 4. Built on 2026-11-23 at 720p. Uploaded by the owner on 23 Nov 2026 (Unlisted): `https://youtu.be/FFBt-wsJoCc`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`

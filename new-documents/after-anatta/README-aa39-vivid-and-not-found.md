@@ -7,5 +7,5 @@
 | Files | `aa39-vivid-and-not-found-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; drawings `tools/explainer/src/chapters/AA39.tsx`; YouTube texts `youtube-bonus-aa39.md` (sutta numbers and links in the description) |
 | Checks | All 189 cue phrases found in the timed narration; contact sheets of 32 frames and a fist close-up: subtitles clear of the drawings, a clean fade |
 | Sent | a two-pass 720p copy sent to the owner in the session |
-| Status | **Draft.** The article is a draft. Not on YouTube, not on the website, no Drive copy, until the owner says so |
+| Status | **Draft.** The article is a draft. On YouTube (Unlisted): `y6JaoQsUw80`, not on the website, no Drive copy, until the owner says so |
 | Series | Dependent Arising, Section 2 (*What is a phenomenon?*, drawn mainly from *Vivid and Nowhere*), Part 1. Next: Part 2, looking for the floor in time, matter and space. Gathered copy in [DependentArising](https://github.com/JohnTLM/DependentArising) |
