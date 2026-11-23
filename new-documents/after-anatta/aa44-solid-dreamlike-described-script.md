@@ -8,7 +8,7 @@ source_words: 2719
 script_words: 2074
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-23 ("Approve Aa44"); built 2026-11-23
 ---
 
 # Dependent Arising Section 2 Part 4: Solid, Dreamlike, Described
