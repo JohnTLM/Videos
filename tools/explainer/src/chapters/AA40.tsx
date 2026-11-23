@@ -38,13 +38,13 @@ export const PHRASES = [
   "Six lamps, not one", "And no lamp that lights itself", "That is why I say luminous appearances",
   // what goes wrong
   "So what goes wrong", "It notices the sameness", "Then it lifts that sameness out and calls it awareness",
-  "A background", "A witness", "A mirror", "A ground", "The clearness was real", "Making it a thing is the error",
+  "A background", "A witness", "A mirror", "A ground", "The clearness was authentic", "Making it a thing is the error",
   "That error has many disguises", "A lamp that is always on", "A lamp left burning through deep sleep",
   "A lamp behind glass, watching", "Or a lamp put out", "Each one keeps a light somewhere",
   "And there is a deeper version still", "like a lamp under a basket", "Subtle means fewer conditions",
   "What they add is the knot of grasping, not a cover",
   // I AM
-  "There is a name for this clearness", "I AM names luminous clarity itself", "It is real",
+  "There is a name for this clearness", "I AM names luminous clarity itself", "It is authentic",
   "is the sense of I added to it", "The clarity is not the error", "The I is",
   // the path
   "That is how it went for me", "It was my awareness", "Then I made it a Witness", "Then a Source", "Then a Mirror",
@@ -68,6 +68,8 @@ export const PHRASES = [
   "And its display never stops", "The basis is empty of being a ground", "The display first shows as sound, light and rays",
   "it is taken as something other", "the five lights harden into the five elements",
   "So the ordinary body is light not recognised", "The rainbow body is said to be the same process run the other way",
+  "One caution before going further", "should not be read through our own culture", "or through modern knowledge of light",
+  "the five lights only make sense against it", "I set out that background in a short video",
   "But listen to that carefully", "a shining stuff underneath", "it is a substrate again", "I read it another way",
   "The five lights are not a stuff", "They name the clarity of appearing",
   "Condensing into the elements names how appearing is taken", "The trouble was never the clarity", "It was the grasping",
@@ -75,6 +77,7 @@ export const PHRASES = [
   "Hold an apple", "The hardness", "The coolness", "The red", "The sweetness", "Each arises only as its conditions meet",
   "Then a habit ties them together", "That habit is the knot", "One movement, described twice",
   "Untie the knot, and nothing is lost", "I say, just this, vivid and light",
+  "what we call things are only the six lamps", "It holds true for anything, the body included",
   "And the body is held the way the apple is held", "that knot untied all the way through, the body included",
   // realization
   "So, in essence, it is a realization", "In two thousand thirteen", "does not mean that your body disappears",
@@ -87,7 +90,7 @@ export const PHRASES = [
   // where I part
   "Then how does one get there", "Here I part from the traditions", "gives the appearing side a practice of its own",
   "school works through the winds and the subtle body", "Taoist inner alchemy refines energy into a body of spirit",
-  "The method is shared widely", "The view is not", "For me, what frees is seeing through the inherent framework",
+  "The method is shared widely", "The view is not", "are set out in another of my videos", "For me, what frees is seeing through the inherent framework",
   "Not where the winds go", "Seeing that what seems so solid", "It is just as hard to break through",
   "The body is not left out", "opened by themselves, without effort", "I was not forcing the breath",
   "Energy practices can help loosen what the body holds", "But luminous appearances were never a product of the winds",
@@ -348,11 +351,11 @@ const ErrorScene: React.FC = () => {
       <At x={960} y={560 - 260 * lift} o={lift * pre}><K c={GOLD} s={34}>“awareness”</K></At>
       <Items items={[
         ["It notices the sameness", 960, 690, <Wd c={DIM} s={28}>every appearing is clear · the sameness noticed</Wd>, { until: dis }],
-        ["A background", 420, 190, <SK strikeAt={c("The clearness was real")}>a background</SK>, { until: dis }],
-        ["A witness", 760, 190, <SK strikeAt={c("The clearness was real", 0.1)}>a witness</SK>, { until: dis }],
-        ["A mirror", 1160, 190, <SK strikeAt={c("The clearness was real", -0.1)}>a mirror</SK>, { until: dis }],
-        ["A ground", 1500, 190, <SK strikeAt={c("The clearness was real", -0.2)}>a ground</SK>, { until: dis }],
-        ["Making it a thing is the error", 960, 790, <Wd c={WARM} s={36} serif>the clearness was real · making it a thing is the error</Wd>, { until: dis }],
+        ["A background", 420, 190, <SK strikeAt={c("The clearness was authentic")}>a background</SK>, { until: dis }],
+        ["A witness", 760, 190, <SK strikeAt={c("The clearness was authentic", 0.1)}>a witness</SK>, { until: dis }],
+        ["A mirror", 1160, 190, <SK strikeAt={c("The clearness was authentic", -0.1)}>a mirror</SK>, { until: dis }],
+        ["A ground", 1500, 190, <SK strikeAt={c("The clearness was authentic", -0.2)}>a ground</SK>, { until: dis }],
+        ["Making it a thing is the error", 960, 790, <Wd c={WARM} s={36} serif>the clearness was authentic · making it a thing is the error</Wd>, { until: dis }],
         [dis, 960, 100, <Wd c={WARM} s={44} serif>the lamp, in disguise</Wd>],
         ["A lamp that is always on", 480, 300, <K c={CHALK} s={28}>always on, behind everything</K>, { until: "And there is a deeper version still" }],
         ["A lamp left burning through deep sleep", 1440, 300, <K c={CHALK} s={28}>left burning through deep sleep</K>, { until: "And there is a deeper version still" }],
@@ -374,7 +377,7 @@ const IAmScene: React.FC = () => {
     <AbsoluteFill>
       <Title text="I AM" c={GOLD} />
       <Items items={[
-        ["I AM names luminous clarity itself", 960, 280, <Box c={GOLD} w={760} title="luminous clarity itself" sub="realised directly · real" ts={42} />],
+        ["I AM names luminous clarity itself", 960, 280, <Box c={GOLD} w={760} title="luminous clarity itself" sub="realised directly · authentic" ts={42} />],
         ["is the sense of I added to it", 960, 500, <K c={WARM} s={34}>+ “I”  →  a witness, an observer, a background</K>],
         ["The clarity is not the error", 620, 680, <K c={TEAL} s={32}>the clarity: not the error</K>],
         ["The I is", 1300, 680, <SK c={WARM} s={32} strikeAt={c("The I is", -0.6)}>the added “I”</SK>],
@@ -495,6 +498,18 @@ const BasisScene: React.FC = () => {
   );
 };
 
+const CautionScene: React.FC = () => (
+  <AbsoluteFill>
+    <Title text="one caution" c={WARM} />
+    <Items items={[
+      ["should not be read through our own culture", 960, 260, <K c={CHALK} s={30}>not through our own culture</K>],
+      ["or through modern knowledge of light", 960, 370, <K c={CHALK} s={30}>not through modern knowledge of light</K>],
+      ["the five lights only make sense against it", 960, 500, <Wd c={GOLD} s={34} serif>the five elements in Indian and Tibetan thought</Wd>],
+      ["I set out that background in a short video", 960, 640, <K c={TEAL} s={30}>▶ video: 5 Elements: Chinese vs Tibet</K>],
+    ]} />
+  </AbsoluteFill>
+);
+
 const AppleScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
@@ -512,6 +527,7 @@ const AppleScene: React.FC = () => {
         ["Then a habit ties them together", 960, 560, <Knot untie={untie} />],
         ["That habit is the knot", 960, 700, <Wd c={WARM} s={34} serif>the knot · one movement, described twice</Wd>, { until: "Untie the knot, and nothing is lost" }],
         ["I say, just this, vivid and light", 960, 720, <Wd c={GOLD} s={38} serif>just this, vivid and light</Wd>, { until: "And the body is held the way the apple is held" }],
+        ["what we call things are only the six lamps", 960, 800, <K c={GOLD} s={28}>what we call things: the six lamps, unrecognised · the body included</K>, { until: "And the body is held the way the apple is held" }],
         ["And the body is held the way the apple is held", 960, 720, <K c={CHALK} s={28}>the body, held the same way: hardness, warmth, weight, “mine”</K>],
         ["that knot untied all the way through, the body included", 960, 800, <Wd c={TEAL} s={32} serif>the rainbow body: that knot untied, the body included</Wd>],
       ]} />
@@ -558,6 +574,7 @@ const PartScene: React.FC = () => {
         ["school works through the winds and the subtle body", 960, 250, <Box c={ICE} w={460} title="the winds" sub="the subtle body" ts={32} />, { until: body }],
         ["Taoist inner alchemy refines energy into a body of spirit", 1520, 250, <Box c={VIOLET} w={460} title="inner alchemy" sub="a body of spirit" ts={32} />, { until: body }],
         ["The method is shared widely", 960, 430, <Wd c={CHALK} s={34} serif>the method is shared · the view is not</Wd>, { until: body }],
+        ["are set out in another of my videos", 960, 495, <K c={TEAL} s={26}>▶ video: Inner Winds and Subtle Body Practices</K>, { until: "For me, what frees is seeing through the inherent framework" }],
         ["For me, what frees is seeing through the inherent framework", 960, 560, <K c={TEAL} s={32}>seeing through the inherent framework</K>, { until: body }],
         ["Not where the winds go", 960, 660, <SK c={DIM} s={28} strikeAt={c("Not where the winds go", 0.4)}>where the winds go</SK>, { until: body }],
         ["Seeing that what seems so solid", 960, 770, <Wd c={CHALK} s={28}>so solid, so undeniable · vivid, found nowhere · just as hard</Wd>, { until: body }],
@@ -631,6 +648,8 @@ export const Body: React.FC = () => {
     ["What sees it through is emptiness", "jade", <TwofoldScene />],
     ["And here the two halves meet", "whole", <OneFactScene />],
     ["Now the body", "dusk", <BasisScene />],
+    ["One caution before going further", "doubt", <CautionScene />],
+    ["But listen to that carefully", "dusk", <BasisScene />],
     ["Hold an apple", "search", <AppleScene />],
     ["So, in essence, it is a realization", "light", <RealizationScene />],
     ["Then how does one get there", "doubt", <PartScene />],
