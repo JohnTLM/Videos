@@ -1,0 +1,114 @@
+---
+chapter: 45
+label: Bonus article
+title: "Dependent Arising Section 2 Part 6: Complete, and Dependent"
+series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 6 (Part 5: Clarity Without a Knower; Part 7: Dōgen: The Shore and the Boat)"
+source: EBooks Bonus Articles/complete-and-dependent/complete-and-dependent.md (draft of 2026-11-23)
+source_words: 2064
+script_words: 1576
+intro: yes
+voice: male
+status: draft for the owner's approval
+---
+
+# Dependent Arising Section 2 Part 6: Complete, and Dependent
+
+Ash is just ash. Completely. And ash is the wood, the fire, the air and the time, appearing as ash. How can both be true?
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+In Part 5, I asked what experience is like when no layer is left. It is direct, without anything in between. The clarity is exactly the appearances. In the seen, just the seen. The seen is complete. Nothing stands behind it. Nothing needs to be added to it.
+
+But everything in this series has also said the opposite, just as firmly. Whatever appears depends. The ringing needs the bell, the striking, the air, the ear and the attention. Take one away, and there is no tone.
+
+So how can both hold? If the seen is just the seen, complete, how can it depend on anything? And if it depends, how can it be complete?
+
+Each half, held alone, is easily misheard.
+
+Hold only the completeness, and each moment becomes an island. Sealed off. Owing nothing to anything.
+
+Hold only the dependence, and each moment becomes a small link in a long chain. Or a knot in a vast web. Never whole in itself. Always waiting for the rest of the world to finish it.
+
+Neither picture is what is actually met. What is met is both at once. The Zen master Dōgen had a name for this. Total exertion.
+
+The words come from his great work, the Shōbōgenzō. Exhausting completely. And total dynamic working.
+
+I want to be clear where the idea belongs. It is not a Dzogchen idea. I do not find it there. Its classical home is the Chinese Buddhism of the Huayan school, and Dōgen gave it its sharpest form. For me, it is one of the most important tastes of all. And Dōgen is one of its most important voices. So the next three parts go to him, one image at a time.
+
+Put as simply as I can. Each event spends itself completely. Nothing is held back behind it. Nothing outside is needed to complete it. Nothing is carried over from it into the next. And no cosmos is packed inside it.
+
+And here is the point that joins the two halves. The completeness is not something apart from the dependence. The event is complete as its conditions, wholly at work.
+
+The ash lacks nothing. Not because it stands free of wood and fire. But because the wood and fire are fully there, as the ash, with nothing held back. In the seen, just the seen. And the seen is its conditions, appearing.
+
+Total exertion is also the hardest taste to put into words. It is not first understood as an idea. It shows itself as a change in the texture of ordinary experience, after anatta. And you find yourself living it, before you can explain it. So I use images. They point at a taste. They are not claims about what the universe is made of.
+
+But before the images, two things must be made clear. Without them, everything that follows is easily heard the wrong way.
+
+The first. Seamless in working, not one Whole.
+
+Turn a key in a lock, and the door opens. In that opening, the key, the lock, the hand, the turning and the door work as one opening. With no seam between them. Nothing is missing for it. And nothing works apart.
+
+But they are not one substance. Not parts of one great Whole. Not waves on a single substrate. The key is still metal. The hand is still flesh. The lock is still a lock. They do not have to be the same stuff to work seamlessly.
+
+They work seamlessly, conventionally, because none of them has a nature of its own that would block the meeting.
+
+Things with natures of their own could never meet like this. They would stay outside each other, touching only at their surfaces. Or they would have to melt into one.
+
+Nāgārjuna puts it exactly. Whatever arises in dependence on something is neither that thing, nor different from it. And so it is neither cut off, nor permanent.
+
+All the necessary factors must line up. Take one away, and there is no opening. And in that opening, all of them are wholly at work. That is total exertion. The opening, complete, with nothing held back behind it.
+
+Nothing missing means nothing missing for this opening. It does not mean the whole cosmos has been gathered into the lock.
+
+And it runs both ways. A key is a key only with a lock. A door is a door only in its opening and closing.
+
+Holism puts a Whole behind the parts. The door opens, it says, because a deeper Whole expresses itself through them. The opposite habit makes the parts the real stuff, and the opening a mere name. Neither is found. There is just the opening, complete. And the factors, designated together with it.
+
+So seamless working does not mean wholeness, in the sense of holism. It is seamless because what appears is empty of a nature of its own, and arises dependently with its conditions. That is all. And it is enough.
+
+The second. Designated together, without a given.
+
+I will say designated together many times in these parts. And the phrase needs a guard.
+
+When I say the rower and the boat are designated together, I do not mean two things already there, with names stuck on afterwards. Nor do I mean one seamless stuff, which names then cut into pieces. That would be the given again. Either as many things, or as one.
+
+I mean that rower and boat stand out as rower and boat only in the one rowing. The singling out is part of the appearing.
+
+It needs no words. The bee singles out the flower, and a baby its mother's face, long before any name. And it makes nothing. It is not a mind creating the world. And it is not words creating things.
+
+Nor does anyone stand outside, doing the designating. The one who singles out is singled out in the same event. As the seer is in the seen. And the seen in the seer.
+
+And the basis is not found either. Candrakīrti's chariot is designated in dependence on its parts. But the parts are not a given base. They are designated too. And no floor is ever reached.
+
+Nāgārjuna joins all of this in one verse. Dependent arising is emptiness. That is designation in dependence. And that is the Middle Way.
+
+This is why Section 1 came first. While a given is still assumed underneath, designation can only be heard as labels on raw stuff. Only once no finished world, no raw data and no seamless substance is left underneath, can designation be heard without one.
+
+Three ways of seeing.
+
+Each of Dōgen's images can be seen three ways. And I find it helps to see all three at once.
+
+The substantialist way. There are things, standing on their own. And the event happens between them, or to them.
+
+The way of anatta. The one standing outside the event, the watcher, the doer, the seeker, is not found. There is just the seeing. The rowing. The swimming.
+
+The way of dependent arising. What is left is not a bare event, cut off from everything. It is complete as its conditions, designated together with them. Here the taste of total exertion is direct, and obvious.
+
+These are not three stages that I have to climb, one after the other, by sudden insights. With a keen eye, all three show in the same image, at the same time. And Dōgen's images are good precisely because each one shows all three.
+
+So, which holds?
+
+By experience. When the door opens, do I meet a key that opens it alone? Or a great Whole, opening it through the key? What is met is the opening, complete. With the key, the hand and the lock all at work in it. And at no point do I meet labels, stuck on things already there.
+
+By logic. If the key had a nature of its own, it would either stay outside the lock, or merge with it. It could not simply work with it. If the opening were the same as the key, the key alone would open the door. If it were wholly other than the key, the door would open without one. Neither the same, nor different. And a Whole behind it all would need its own parts to be a whole. It is no better off than the key.
+
+By working. Nothing works the less for this. The key opens the door, every time. With no essence, and no Whole behind it.
+
+So the view of separate things linked by conditions, or of one great Whole showing itself in parts, is not the truer one. Both are the default, carried by habit, and by nouns.
+
+None of this makes my everyday words false. I turn the key. The door opens. What fails is only a key, a door, or a cosmos, standing on its own.
+
+This is Section 2, Part 6 of the Dependent Arising series.
+
+In Part 7, I take Dōgen's first two images. The shore that seems to move, where no seat is left outside. And the boat that carries its rower, where no doer stands behind the act.
