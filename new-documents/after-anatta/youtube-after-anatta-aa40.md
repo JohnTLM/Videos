@@ -6,7 +6,7 @@ Upload as **Unlisted**, like the other After Anatta videos. No Awakening to Real
 
 ### Title
 
-Nothing Turns Into Light: Luminous Appearances and the Rainbow Body | After Anatta
+Rainbow Body — My Personal View: Nothing Turns Into Light, Luminous Appearances | After Anatta
 
 ### Description
 

@@ -7,7 +7,7 @@ Reality tag.
 
 ### Title
 
-Rainbow Body: What the Traditions Report | After Anatta
+Rainbow Body — According to Reports: What the Traditions Report | After Anatta
 
 ### Description
 
