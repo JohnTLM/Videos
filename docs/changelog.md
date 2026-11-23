@@ -68,3 +68,12 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   sent). Its texts were applied from `youtube-after-anatta-aa41.md` entry 1; it was already first in *Post Anatta
   Insights*, so not added again. AA29 (`cGQlVI4--qw`) and AA14 (`qMqGI1BQv0Q`, entry 2) re-applied without the
   "Awakening to Reality" tag. README status row records the id.
+
+## 2026-11-23: AA40 uploaded and published; AA41 re-upload (server)
+
+- AA40 *Nothing Turns Into Light* is `WdmdXHiVzHc` (Unlisted, 14:36 on YouTube, 133,655,383 bytes as sent). Texts
+  applied from `youtube-after-anatta-aa40.md` entry 1; the owner had already put it first in *Post Anatta Insights*,
+  so not added again. README status row records the id.
+- AA41's first upload `a8Yf6nQx-lU` is now deleted on YouTube. The owner re-uploaded the same file (100,605,437 bytes)
+  as `u8NgZeTY6bw` (12:15 UTC); its texts were applied from `youtube-after-anatta-aa41.md` entry 1 (already in the
+  playlist). AA41 README status row updated.
