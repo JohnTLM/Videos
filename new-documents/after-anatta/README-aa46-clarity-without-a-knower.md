@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/clarity-without-a-knower/clarity-without-a-knower.md` (draft) |
 | Files | `aa46-clarity-without-a-knower-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa46.md` |
 | Checks | All 81 cue phrases found in the narration; a contact sheet of 16 frames and the middleman frame: clean |
-| Status | **Draft.** Not on YouTube, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `Uswx5GFoocM`, not on the website |
 | Series | Dependent Arising, Section 2, Part 5. Previous: Part 4, *Solid, Dreamlike, Described* (AA44). Next: Part 6, *Complete, and Dependent* (AA45) |
 
 ## Scenes
