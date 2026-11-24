@@ -29,3 +29,12 @@ Revised the same day (owner, 2026-11-24: "There should be 2 pdfs. One is about t
 to improve the aa40 on my personal view towards rainbow body"): the v2 draft now follows the new EBooks article
 `Bonus Articles/nothing-turns-into-light/` (his personal view, in prose). Change 2 is cut to two paragraphs (the knot
 held in the body; two guards; pointer to *The Body's Own Knowing*); changes 1 and 3 stay. About 280 words added to v1.
+
+## v2 built (2026-11-24)
+
+Owner approved v2 (2026-11-24: "Approved, build the AA40 video"); the script file now holds v2 (the draft file is
+removed). Built 2026-11-24 05:53 UTC in a cloud session: Andrew, 2,438 words, narration 913 s, video 15:26 (925.8 s),
+281 subtitle cues (one 1.17 s cue, "A held breath."), no LATE drawings. New scenes in `AA40.tsx`: `StrandsScene` (four
+strands), `BodyScene` (the knot in the body, two guards, the old "body is not left out" items), and the balanced
+reading in `CorpseScene`. Frames checked. YouTube text updated with v2 chapters (`youtube-after-anatta-aa40.md`). The
+MP4 went to the owner to upload as a replacement for `WdmdXHiVzHc`.

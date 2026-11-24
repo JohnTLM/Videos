@@ -98,3 +98,12 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - The v2 script draft now follows EBooks *Nothing Turns Into Light: My View of the Rainbow Body* (owner, 2026-11-24:
   two PDFs, one somatic, one his personal view). The somatic part is cut to two paragraphs with a pointer to *The
   Body's Own Knowing*. Still a draft for approval; nothing built.
+
+## 2026-11-24: AA40 v2 built; EP98 script drafted
+
+- AA40 v2 approved (owner: "Approved, build the AA40 video") and built in the cloud: 15:26, 2,438 words, 281 cues, no
+  LATE drawings; new scenes for the four strands, the body's part and the balanced reading. Narration, subtitles,
+  scenes and YouTube text (v2 chapters) saved in `new-documents/after-anatta/`. MP4 sent to the owner to replace
+  `WdmdXHiVzHc` on YouTube.
+- EP98 *The Body's Own Knowing* (owner: "keep separate and draft the script"): `new-documents/the-bodys-own-knowing/`,
+  draft for approval, the four strands elaborated (owner: "further elaborate").
