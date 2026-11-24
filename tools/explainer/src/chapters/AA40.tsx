@@ -7,7 +7,8 @@
 // apple and the knot -> an actualized realization, three states, exhaustion -> where I part: not the winds -> the
 // corpse a report, the butter bag -> back to the sound.
 // Stance: light, awareness, a witness, a ground are never drawn as a layer underneath; they appear only to be struck.
-// The shrinking body is drawn only as a report. Cue phrases avoid the respelled names (Dzogchen, Gelug, Longchenpa,
+// The shrinking body is drawn only as a report. v2 (2026-11-24): four strands, the body's part with its two guards,
+// and the balanced reading (shown / reported). Cue phrases avoid the respelled names (Dzogchen, Gelug, Longchenpa,
 // Nāgārjuna, anatta) and hyphenated words.
 import React from "react";
 import { AbsoluteFill } from "remotion";
@@ -26,6 +27,11 @@ export const PHRASES = [
   "What could the clearness of a passing sound", "In this video I want to show you that link", "This is After Anatta",
   "And the rainbow body", "What I see is simple to say and hard to see",
   "The rainbow body is luminous appearances, recognised all the way through form", "And nothing turns into light",
+  // why: four strands, a balanced reading (v2)
+  "The rainbow body has interested me for many years", "I wanted to read it in a balanced way", "Not dismissing it",
+  "Not inflating it", "So I looked into four things", "The energy practices of different traditions",
+  "The five elements, as Tibet and China each count them", "The reports of the rainbow body itself",
+  "And what modern research finds about how the body knows", "This video brings them together",
   // clarity
   "Let me start with clarity", "When I say luminosity, I mean one thing", "It is the knowing clarity of appearing itself",
   "It is not a light shining on things from behind", "It is not a knower standing apart to see them",
@@ -92,10 +98,18 @@ export const PHRASES = [
   "school works through the winds and the subtle body", "Taoist inner alchemy refines energy into a body of spirit",
   "The method is shared widely", "The view is not", "are set out in another of my videos", "For me, what frees is seeing through the inherent framework",
   "Not where the winds go", "Seeing that what seems so solid", "It is just as hard to break through",
-  "The body is not left out", "opened by themselves, without effort", "I was not forcing the breath",
+  "The body is not left out", "The knot is not only an idea", "It is held in the chest, the breath and the belly",
+  "A held breath", "A lean toward the next moment", "Modern research agrees that much of our knowing happens in the body",
+  "fear and clinging are felt and released there first", "The mind rides the wind, like a rider on a horse",
+  "Two guards", "This felt knowing is more immediate", "It is not more fundamental",
+  "It is not a deeper floor beneath experience", "And direct does not mean right",
+  "the body reports a danger that is not there", "I set this out in an article", "In my own experience",
+  "opened by themselves, without effort", "I was not forcing the breath",
   "Energy practices can help loosen what the body holds", "But luminous appearances were never a product of the winds",
   // the corpse, the goal
   "And the shrinking corpse", "It does not show what others will see at a funeral", "is reported, not proved",
+  "So here is my balanced reading", "What is genuinely shown is that the body takes part in knowing and in release",
+  "What is not shown is that a corpse turns into light", "I hold the first with confidence", "The second, I hold as a report",
   "Many great masters left ordinary bodies", "Insight is measured by the freedom of the mind",
   "And it is not a goal", "Tibetans speak of a leather butter bag", "it stays soft", "it goes hard",
   "Knowledge of the lights that is never tested hardens the same way",
@@ -498,6 +512,60 @@ const BasisScene: React.FC = () => {
   );
 };
 
+const StrandsScene: React.FC = () => {
+  const c = useCue();
+  return (
+    <AbsoluteFill>
+      <Title text="a balanced reading" c={GOLD} />
+      <Items items={[
+        ["Not dismissing it", 700, 220, <SK c={DIM} s={28} strikeAt={c("Not dismissing it", 0.5)}>dismissing it</SK>],
+        ["Not inflating it", 1220, 220, <SK c={DIM} s={28} strikeAt={c("Not inflating it", 0.5)}>inflating it</SK>],
+        ["The energy practices of different traditions", 540, 400, <Box c={ICE} w={420} title="energy practices" sub="of different traditions" ts={32} />, { pop: true }],
+        ["The five elements, as Tibet and China each count them", 1380, 400, <Box c={VIOLET} w={420} title="the five elements" sub="Tibet and China" ts={32} />, { pop: true }],
+        ["The reports of the rainbow body itself", 540, 620, <Box c={WARM} w={420} title="the reports" sub="of the rainbow body" ts={32} />, { pop: true }],
+        ["And what modern research finds about how the body knows", 1380, 620, <Box c={TEAL} w={420} title="how the body knows" sub="modern research" ts={32} />, { pop: true }],
+        ["This video brings them together", 960, 510, <Wd c={GOLD} s={44}>✦</Wd>, { pop: true }],
+        ["This video brings them together", 960, 790, <Wd c={CHALK} s={34} serif>four strands, one view</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
+const BodyScene: React.FC = () => {
+  const { t } = useT();
+  const c = useCue();
+  const g = "Two guards";
+  const mine = "In my own experience";
+  const a = 1 - ramp(t, c(g), 0.4);
+  return (
+    <AbsoluteFill>
+      <Title text="the body is not left out" c={TEAL} />
+      <At x={470} y={480} o={ramp(t, c("It is held in the chest, the breath and the belly"), 0.6) * a}><Figure p={ramp(t, c("It is held in the chest, the breath and the belly"), 1.4)} color={CHALK} /></At>
+      <At x={470} y={470} o={a} s={0.42}><Knot untie={0} /></At>
+      <Items items={[
+        ["The knot is not only an idea", 1260, 230, <Wd c={WARM} s={34} serif>the knot: not only an idea</Wd>, { until: g }],
+        ["It is held in the chest, the breath and the belly", 1260, 330, <K c={CHALK} s={28}>held in the chest · the breath · the belly</K>, { until: g }],
+        ["A held breath", 1260, 420, <K c={DIM} s={26}>a slight bracing · a held breath</K>, { until: g }],
+        ["A lean toward the next moment", 1260, 500, <K c={DIM} s={26}>a lean toward the next moment</K>, { until: g }],
+        ["Modern research agrees that much of our knowing happens in the body", 1260, 600, <Wd c={ICE} s={30}>the body knows before thought</Wd>, { until: g }],
+        ["fear and clinging are felt and released there first", 1260, 680, <K c={TEAL} s={26}>fear and clinging: felt and released there first</K>, { until: g }],
+        ["The mind rides the wind, like a rider on a horse", 960, 790, <Wd c={GOLD} s={36} serif>the mind rides the wind, like a rider on a horse</Wd>, { until: g }],
+        [g, 960, 200, <Wd c={CHALK} s={38} serif>two guards</Wd>, { until: mine }],
+        ["This felt knowing is more immediate", 640, 320, <K c={TEAL} s={30}>more immediate</K>, { until: mine }],
+        ["It is not more fundamental", 1280, 320, <SK c={DIM} s={30} strikeAt={c("It is not more fundamental", 0.4)}>more fundamental</SK>, { until: mine }],
+        ["It is not a deeper floor beneath experience", 960, 430, <SK c={DIM} s={28} strikeAt={c("It is not a deeper floor beneath experience", 0.8)}>a deeper floor beneath experience</SK>, { until: mine }],
+        ["And direct does not mean right", 960, 550, <Wd c={CHALK} s={34} serif>direct does not mean right</Wd>, { until: mine }],
+        ["the body reports a danger that is not there", 960, 640, <K c={WARM} s={28}>in anxiety: a danger that is not there</K>, { until: mine }],
+        ["I set this out in an article", 960, 760, <K c={TEAL} s={28}>▶ article: The Body's Own Knowing</K>, { until: mine }],
+        ["opened by themselves, without effort", 960, 280, <K c={TEAL} s={30}>mind and body's energy opened by themselves</K>],
+        ["I was not forcing the breath", 960, 400, <SK c={DIM} s={28} strikeAt={c("I was not forcing the breath", 0.2)}>forcing the breath</SK>],
+        ["Energy practices can help loosen what the body holds", 960, 530, <K c={CHALK} s={28}>energy practices: they help loosen, they are not the cause</K>],
+        ["But luminous appearances were never a product of the winds", 960, 680, <Wd c={GOLD} s={36} serif>luminous appearances: never a product of the winds</Wd>],
+      ]} />
+    </AbsoluteFill>
+  );
+};
+
 const CautionScene: React.FC = () => (
   <AbsoluteFill>
     <Title text="one caution" c={WARM} />
@@ -578,11 +646,6 @@ const PartScene: React.FC = () => {
         ["For me, what frees is seeing through the inherent framework", 960, 560, <K c={TEAL} s={32}>seeing through the inherent framework</K>, { until: body }],
         ["Not where the winds go", 960, 660, <SK c={DIM} s={28} strikeAt={c("Not where the winds go", 0.4)}>where the winds go</SK>, { until: body }],
         ["Seeing that what seems so solid", 960, 770, <Wd c={CHALK} s={28}>so solid, so undeniable · vivid, found nowhere · just as hard</Wd>, { until: body }],
-        [body, 960, 100, <Wd c={TEAL} s={44} serif>the body is not left out</Wd>],
-        ["opened by themselves, without effort", 960, 280, <K c={TEAL} s={30}>mind and body's energy opened by themselves</K>],
-        ["I was not forcing the breath", 960, 400, <SK c={DIM} s={28} strikeAt={c("I was not forcing the breath", 0.2)}>forcing the breath</SK>],
-        ["Energy practices can help loosen what the body holds", 960, 530, <K c={CHALK} s={28}>energy practices: they help loosen, they are not the cause</K>],
-        ["But luminous appearances were never a product of the winds", 960, 680, <Wd c={GOLD} s={36} serif>luminous appearances: never a product of the winds</Wd>],
       ]} />
     </AbsoluteFill>
   );
@@ -591,14 +654,21 @@ const PartScene: React.FC = () => {
 const CorpseScene: React.FC = () => {
   const c = useCue();
   const goal = "And it is not a goal";
+  const bal = "So here is my balanced reading";
+  const masters = "Many great masters left ordinary bodies";
   return (
     <AbsoluteFill>
       <Title text="and the shrinking corpse?" until={goal} />
       <Items items={[
-        ["It does not show what others will see at a funeral", 960, 260, <Wd c={CHALK} s={30}>the logic shows how the body is known and lived · not a funeral</Wd>, { until: goal }],
-        ["is reported, not proved", 960, 380, <K c={WARM} s={32}>a vanishing body: reported, not proved</K>, { until: goal }],
-        ["Many great masters left ordinary bodies", 960, 500, <K c={CHALK} s={28}>many great masters left ordinary bodies</K>, { until: goal }],
-        ["Insight is measured by the freedom of the mind", 960, 640, <Wd c={TEAL} s={36} serif>insight: the freedom of the mind</Wd>, { until: goal }],
+        ["It does not show what others will see at a funeral", 960, 260, <Wd c={CHALK} s={30}>the logic shows how the body is known and lived · not a funeral</Wd>, { until: bal }],
+        ["is reported, not proved", 960, 380, <K c={WARM} s={32}>a vanishing body: reported, not proved</K>, { until: bal }],
+        [bal, 960, 220, <Wd c={GOLD} s={36} serif>my balanced reading</Wd>, { until: masters }],
+        ["What is genuinely shown is that the body takes part in knowing and in release", 960, 340, <K c={TEAL} s={30}>shown: the body takes part in knowing and in release</K>, { until: masters }],
+        ["What is not shown is that a corpse turns into light", 960, 460, <K c={WARM} s={30}>not shown: a corpse turning into light</K>, { until: masters }],
+        ["I hold the first with confidence", 620, 590, <Wd c={TEAL} s={32} serif>the first: with confidence</Wd>, { until: masters }],
+        ["The second, I hold as a report", 1300, 590, <Wd c={WARM} s={32} serif>the second: as a report</Wd>, { until: masters }],
+        [masters, 960, 330, <K c={CHALK} s={28}>many great masters left ordinary bodies</K>, { until: goal }],
+        ["Insight is measured by the freedom of the mind", 960, 480, <Wd c={TEAL} s={36} serif>insight: the freedom of the mind</Wd>, { until: goal }],
         [goal, 960, 100, <Wd c={CHALK} s={44} serif>not a goal</Wd>],
         ["Tibetans speak of a leather butter bag", 960, 240, <Wd c={GOLD} s={34} serif>the leather butter bag</Wd>],
         ["it stays soft", 600, 380, <K c={TEAL} s={28}>worked with butter · soft</K>],
@@ -640,6 +710,7 @@ export const Body: React.FC = () => {
   const order: [string, keyof typeof M, React.ReactNode][] = [
     ["Listen for a moment", "night", <SoundScene />],
     ["Now the old stories", "dusk", <StoryScene />],
+    ["The rainbow body has interested me for many years", "jade", <StrandsScene />],
     ["Let me start with clarity", "light", <ClarityScene />],
     ["And clarity is never missing", "whole", <LampsScene />],
     ["So what goes wrong", "doubt", <ErrorScene />],
@@ -653,6 +724,7 @@ export const Body: React.FC = () => {
     ["Hold an apple", "search", <AppleScene />],
     ["So, in essence, it is a realization", "light", <RealizationScene />],
     ["Then how does one get there", "doubt", <PartScene />],
+    ["The body is not left out", "jade", <BodyScene />],
     ["And the shrinking corpse", "deep", <CorpseScene />],
     ["So I come back to the sound", "night", <EndScene />],
   ];
