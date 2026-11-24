@@ -24,3 +24,8 @@ else word for word:
 
 About 460 words added (about 3½ minutes). No new terms for the pronunciation map. Not built: the drawings
 (`AA40.tsx`), voice and subtitles follow only after approval; the uploaded video `WdmdXHiVzHc` is unchanged.
+
+Revised the same day (owner, 2026-11-24: "There should be 2 pdfs. One is about the new somatic practices. The other is
+to improve the aa40 on my personal view towards rainbow body"): the v2 draft now follows the new EBooks article
+`Bonus Articles/nothing-turns-into-light/` (his personal view, in prose). Change 2 is cut to two paragraphs (the knot
+held in the body; two guards; pointer to *The Body's Own Knowing*); changes 1 and 3 stay. About 280 words added to v1.

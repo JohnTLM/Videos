@@ -92,3 +92,9 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - `new-documents/after-anatta/aa40-nothing-turns-into-light-script-v2-draft.md`: the approved AA40 script with the
   somatic research from EBooks *The Body's Own Knowing* worked in (three insertions, about 460 words). Waiting for the
   owner's approval; nothing built. Details in `README-aa40-nothing-turns-into-light.md`.
+
+## 2026-11-24: AA40 v2 draft follows the new article
+
+- The v2 script draft now follows EBooks *Nothing Turns Into Light: My View of the Rainbow Body* (owner, 2026-11-24:
+  two PDFs, one somatic, one his personal view). The somatic part is cut to two paragraphs with a pointer to *The
+  Body's Own Knowing*. Still a draft for approval; nothing built.

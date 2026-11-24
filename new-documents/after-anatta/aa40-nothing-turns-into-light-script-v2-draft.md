@@ -3,12 +3,12 @@ chapter: 40
 label: After Anatta · Questions
 title: "Nothing Turns Into Light: Luminous Appearances and the Rainbow Body"
 series: "After Anatta · Questions"
-source: EBooks docs/notes/2026-11-22-luminous-clarity-and-rainbow-body.md (public parts only), The Body's Own Knowing (own voice, 24 Nov), Rainbow Body and Emptiness (own voice, 22 Nov), The Lamp That Does Not Light Itself, Book 5 Luminosity, Canon View points 4, 14, 15
+source: EBooks Bonus Articles/nothing-turns-into-light (own voice, 24 Nov; the article this script follows), EBooks docs/notes/2026-11-22-luminous-clarity-and-rainbow-body.md (public parts only), The Body's Own Knowing (own voice, 24 Nov), Rainbow Body and Emptiness (own voice, 22 Nov), The Lamp That Does Not Light Itself, Book 5 Luminosity, Canon View points 4, 14, 15
 source_words: 3300
-script_words: 2619
+script_words: 2438
 intro: yes
 voice: male
-status: DRAFT v2 for the owner's approval (2026-11-24): the somatic research from The Body's Own Knowing worked in (balanced view, felt-sense knowing, what is and is not shown). v1 approved 2026-11-22, revised 2026-11-23, uploaded as WdmdXHiVzHc.
+status: DRAFT v2 for the owner's approval (2026-11-24): follows the new article Nothing Turns Into Light (his personal, non-substantialist view); the somatic research kept short, with a pointer to The Body's Own Knowing. v1 approved 2026-11-22, revised 2026-11-23, uploaded as WdmdXHiVzHc.
 ---
 
 # Nothing Turns Into Light: Luminous Appearances and the Rainbow Body
@@ -89,17 +89,9 @@ Then how does one get there? Here I part from the traditions. Dzogchen gives the
 
 For me, what frees is seeing through the inherent framework. Not where the winds go. No practice of winds, channels or drops makes the lights. Nothing such a practice does turns a body into light. The way is a de-reification. Seeing that what seems so solid, so direct, so undeniable, is vivid appearing, found nowhere. That is not easier than any energy practice. It is just as hard to break through.
 
-The body is not left out. And here the research surprised me with how much it supports.
+The body is not left out. The knot is not only an idea. It is held in the chest, the breath and the belly. A slight bracing. A held breath. A lean toward the next moment, as if the world had to be held together. Modern research agrees that much of our knowing happens in the body, before thought, and that fear and clinging are felt and released there first. The old traditions said it their way. The mind rides the wind, like a rider on a horse.
 
-Knowing is not only analysis. It is not only taking concepts apart. The body knows before thought does. A sudden movement at the edge of sight, and the heart has jumped before you have named anything. Studies show that the body can learn a fear that the mind does not remember. And that a person can know they are safe, while the body stays braced.
-
-There is a quieter knowing too. Some call it the felt sense. A vague, whole-body sense of a situation, before it has words. When it is attended to, something often shifts. Brain imaging shows that thinking about one's story, and simply feeling what is present, use different networks. With practice, they come apart. Sensation is known directly, without the story attached. In the felt, only the felt.
-
-Fear and clinging live here too. They are not only beliefs. They are a tightening in the chest, a held breath, a lean toward what we want. So they are often understood more directly in the body. And when they release, the release is felt there first. Openness and spaciousness are known the same way.
-
-The old traditions saw this. Tibetan medicine says the mind rides the wind, like a rider on a horse. When the horse bolts, no argument calms it. Taoist alchemy says mind and body must be cultivated together.
-
-But two guards. This felt knowing is more immediate. It is not more fundamental. It is not a deeper floor beneath experience, and it is as empty as what it knows. And direct does not mean right. In anxiety, the body reports a danger that is not there. Its knowing needs refining too. The view tells the body what it need no longer brace against. The body tells the view whether it has truly landed. I set this out in an article, The Body's Own Knowing.
+Two guards. This felt knowing is more immediate. It is not more fundamental. It is not a deeper floor beneath experience, and it is as empty as what it knows. And direct does not mean right. In anxiety, the body reports a danger that is not there. I set this out in an article, The Body's Own Knowing.
 
 In my own experience, when the view let go, the mind and the body's energy opened by themselves, without effort. I was not forcing the breath to break the knots. The knot in the body uncoiled when the knot in the view did. Energy practices can help loosen what the body holds. But luminous appearances were never a product of the winds.
 
