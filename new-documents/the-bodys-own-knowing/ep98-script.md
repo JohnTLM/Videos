@@ -3,7 +3,7 @@ chapter: bonus
 title: "The Body's Own Knowing: Felt Sense, Inner Winds and the Rainbow Body"
 source: EBooks Bonus Articles/the-bodys-own-knowing/the-bodys-own-knowing-own-voice.md (own voice, 24 Nov 2026)
 source_words: 3600
-script_words: 1816
+script_words: 2237
 intro: yes
 voice: male
 status: DRAFT for the owner's approval (2026-11-24; owner: "Yes, keep separate and draft the script"). Companion to AA40 (personal view) and the Rainbow Body reports video; third video on the Rainbow Body page.
@@ -15,7 +15,17 @@ A dog barks suddenly behind you. Before you know what it is, your shoulders have
 
 Something in you knew, before you did.
 
-For many years the rainbow body has interested me. I wanted to read it in a balanced way. Not dismissing it, and not inflating it. So I looked into four things. The energy practices of different traditions. The five elements, as Tibet and China each count them. The reports of the rainbow body itself. And what modern research finds about how the body knows. This video is about the fourth.
+For many years the rainbow body has interested me. I wanted to read it in a balanced way. Not dismissing it, and not inflating it. And I found that this is not possible until four things are sorted out. Each one has its own video. Leave any one of them out, and the picture tips to one side.
+
+The first is the energy practices of the different traditions. Taoist inner alchemy, Indian yoga and the Tibetan yogas all work with breath, posture, an inner channel, heat and light. Their method is shared. Their view is not. Without sorting this out, the rainbow body looks like an energy achievement, as if steering the winds could turn a body into light. And wind, or energy, quietly becomes a hidden stuff underneath everything. But the winds are not a substrate. Working with them can loosen what the body holds. What frees is seeing through the habit of reification, not where the winds go.
+
+The second is the five elements. Tibet keeps two different fives side by side. One came from China: wood, fire, earth, metal and water, used for the calendar and divination. The other came from India: earth, water, fire, wind and space, read as qualities. Hardness. Cohesion. Warmth. Motion. Room. The rainbow body belongs to the Indian five. Without sorting this out, the five lights get mixed with Chinese phases, or with modern physics of light. Or the elements are heard as energy frozen into matter, waiting to melt back. Nothing freezes. The elements name how appearing is felt and taken, not a stuff underneath.
+
+The third is the reports themselves. What do the traditions actually claim, and how strong is the evidence? Dzogchen, Gelug, Kālacakra, Bön and the Taoist accounts each tell it differently, and with different views. The modern cases rest on the word of those who were there. None has been checked by anyone independent. Without sorting this out, the stories are either swallowed whole as proof, or thrown out as myth. Both miss what the traditions themselves say: the rainbow body is not the measure of insight.
+
+The fourth is how the body knows. This is the one I have not yet set out, and it is what this video is about. Without it, the rainbow body is read in one of two wrong ways. Either everything is in the head, and the body plays no part in realization at all. Or the body, its energy or its light, becomes the ground of everything. The research, and my own practice, point between the two. The body takes part in knowing and in release. But it is not a deeper floor.
+
+Put the four together, and a balanced reading becomes possible. Not dismissing. Not inflating. The method shared, the view not. The elements as qualities, not a frozen stuff. The reports as reports. And the body as a place where the knot is held, and where it comes undone.
 
 Its point is simple. Knowing is not only analysis. It is not only the taking apart of concepts. There is a more immediate knowing, the felt sense of presence in the body. Through it, fear, clinging, openness and spaciousness are often understood more directly than through thought alone. And the old traditions of inner winds were long recognitions of this side of knowing.
 
