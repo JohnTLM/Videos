@@ -86,3 +86,9 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   Part 4 AA44 `FFBt-wsJoCc` (13:42), Part 5 AA46 `Uswx5GFoocM` (8:29), Part 6 AA45 `N1yAVSDLWWQ` (10:17).
 - The phone had already added them to *Bonus Articles* (`PLCph_F1_eo6o`) in reverse order; moved them (by position, no
   re-adding) to Part 1 → 6 after the Rainbow Body videos. Ids recorded in the six YouTube texts files and README rows.
+
+## 2026-11-24: AA40 v2 script draft (somatic research)
+
+- `new-documents/after-anatta/aa40-nothing-turns-into-light-script-v2-draft.md`: the approved AA40 script with the
+  somatic research from EBooks *The Body's Own Knowing* worked in (three insertions, about 460 words). Waiting for the
+  owner's approval; nothing built. Details in `README-aa40-nothing-turns-into-light.md`.
