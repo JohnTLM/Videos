@@ -38,3 +38,12 @@ removed). Built 2026-11-24 05:53 UTC in a cloud session: Andrew, 2,438 words, na
 strands), `BodyScene` (the knot in the body, two guards, the old "body is not left out" items), and the balanced
 reading in `CorpseScene`. Frames checked. YouTube text updated with v2 chapters (`youtube-after-anatta-aa40.md`). The
 MP4 went to the owner to upload as a replacement for `WdmdXHiVzHc`.
+
+## v3 draft (2026-11-24): two doors of de-reification
+
+`aa40-nothing-turns-into-light-script-v3-draft.md`, for approval. Owner: AA40 "should not over skewed towards mental
+analysis for de-reification"; the felt sense has its own de-reification, hand in hand with deconstruction (dark room
+yoga, open spacious mountains). Changes to v2: "Here I meet the traditions, and part from them"; the "what frees"
+paragraph becomes four (de-reification is not only mental analysis; dark room yoga and mountains; two doors onto the
+same thing); "Energy practices, and practices of the felt sense, loosen what the body holds, from their own side".
+2,595 words (+157, about one minute). Follows the EBooks article *Nothing Turns Into Light*, section 8.

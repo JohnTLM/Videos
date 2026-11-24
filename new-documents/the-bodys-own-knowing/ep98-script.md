@@ -6,7 +6,7 @@ source_words: 3600
 script_words: 2237
 intro: yes
 voice: male
-status: DRAFT for the owner's approval (2026-11-24; owner: "Yes, keep separate and draft the script"). Companion to AA40 (personal view) and the Rainbow Body reports video; third video on the Rainbow Body page.
+status: approved by the owner (2026-11-24: "Approved ep98 script").
 ---
 
 # The Body's Own Knowing: Felt Sense, Inner Winds and the Rainbow Body

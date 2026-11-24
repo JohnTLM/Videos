@@ -107,3 +107,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   `WdmdXHiVzHc` on YouTube.
 - EP98 *The Body's Own Knowing* (owner: "keep separate and draft the script"): `new-documents/the-bodys-own-knowing/`,
   draft for approval, the four strands elaborated (owner: "further elaborate").
+
+## 2026-11-24: EP98 built; AA40 v3 drafted
+
+- EP98 *The Body's Own Knowing* approved (owner: "Approved ep98 script") and built: 14:15, 2,237 words, 245 cues, no
+  LATE drawings; 22 scenes in `AE98.tsx`. Text files and `youtube-ep98.md` (chapters, disclaimer) saved in
+  `new-documents/the-bodys-own-knowing/`. Chapter pronunciation map adds Gelug, Kālacakra, Bön, anatta. MP4 sent to the
+  owner.
+- AA40 v3 script drafted (two doors of de-reification); waiting for approval. The v2 MP4 sent earlier is superseded.
