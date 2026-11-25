@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/dogen-fish-and-bird/dogen-fish-and-bird.md` (draft) |
 | Files | `aa49-dogen-fish-and-bird-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa49.md` |
 | Checks | All 102 cue phrases found in the narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** Not on YouTube, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `z1Fqb7gKXuU`, not on the website |
 | Series | Dependent Arising, Section 2, Part 9. Previous: Part 8, *Dōgen: Firewood and Ash* (AA48). Next: Part 10, *Total Exertion: Huayan* |
 
 ## Scenes
