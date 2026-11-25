@@ -115,3 +115,9 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   `new-documents/the-bodys-own-knowing/`. Chapter pronunciation map adds Gelug, Kālacakra, Bön, anatta. MP4 sent to the
   owner.
 - AA40 v3 script drafted (two doors of de-reification); waiting for approval. The v2 MP4 sent earlier is superseded.
+
+## 2026-11-25: AA52 live (server)
+
+- AA52 *Four Videos on the Rainbow Body: Why All Four* is `GR0buEUyUWc` (Unlisted, 6:15, matched by size 55,668,727
+  bytes). Texts from `youtube-after-anatta-aa52.md`; already in *Post Anatta Insights* (added by the owner's phone).
+  On https://atr-passerby.com/rainbow-body/ (thusness-website #1141). Status row in the README updated.
