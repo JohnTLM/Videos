@@ -1,5 +1,5 @@
 ---
-chapter: 42
+chapter: 52
 label: After Anatta · Questions
 title: "Four Videos on the Rainbow Body: Why All Four"
 series: "After Anatta · Questions"
@@ -8,7 +8,7 @@ source_words: 0
 script_words: 962
 intro: yes
 voice: male
-status: revised draft for the owner's approval (2026-11-25): the fourth video is The Body's Own Knowing, not his view; his own view of the rainbow body excluded (owner: "Point 4 is the video on the body knows, not my view on rainbow body. My view on rainbow body should be excluded.").
+status: approved by the owner (2026-11-25, "Approved"): the fourth video is The Body's Own Knowing, not his view; his own view of the rainbow body excluded (owner: "Point 4 is the video on the body knows, not my view on rainbow body. My view on rainbow body should be excluded.").
 ---
 
 # Four Videos on the Rainbow Body: Why All Four
