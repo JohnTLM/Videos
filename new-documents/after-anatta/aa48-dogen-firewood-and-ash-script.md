@@ -8,7 +8,7 @@ source_words: 1983
 script_words: 1584
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-25 ("Approved"); built 2026-11-25
 ---
 
 # Dependent Arising Section 2 Part 8: Dōgen: Firewood and Ash
