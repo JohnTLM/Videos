@@ -8,7 +8,7 @@ source_words: 2300
 script_words: 1715
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-25 ("Approved"); built 2026-11-25
 ---
 
 # Dependent Arising Section 2 Part 10: Total Exertion: Huayan
