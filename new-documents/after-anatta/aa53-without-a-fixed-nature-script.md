@@ -4,8 +4,8 @@ label: Bonus article
 title: "Dependent Arising Section 3 Part 1: Without a Fixed Nature"
 series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 1 (previous: Section 2 Part 11: Where the Big Ideas Come From)"
 source: EBooks Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md (draft of 2026-11-25, approved by the owner 2026-11-25)
-source_words: 3222
-script_words: 2354
+source_words: 3766
+script_words: 2641
 intro: yes
 voice: male
 status: draft for the owner's approval
@@ -62,6 +62,20 @@ Yet nothing was ever missing. Fist names the hand closed. It is not a second thi
 Mind and matter are the same shape. Define matter as complete, and by its nature without experience. Define experience as a thing in its own right. Then ask how the one produces the other. We made it unsolvable, when no such issue was there to begin with.
 
 One caution. I am not saying mind is a shape the brain takes, the way a fist is a shape the hand takes. That would make matter the floor again. The hand is singled out just as the fist is. The example shows only the shape of the mistake. Fix two natures. Then look for the bridge.
+
+If the two steps are so easy to see through, why does almost everyone take them?
+
+Because the view is there before any question is asked. We start, without noticing, from a worldview. There must be things. And things must have fixed characteristics, and a nature of their own.
+
+And we are given a language that presents the world exactly that way. A subject stands first, and a predicate is said of it. The rose is red. A thing, with a colour attached. Nietzsche noticed that we say the lightning flashes. As if the lightning were one thing, and its flashing a second thing it does. But there is no lightning apart from the flash.
+
+Grammar, meaning, structure and syntax all present the world as things with natures. Growing up inside it, we are moulded to think that way, to analyse that way, and to orient ourselves that way. Matter produces mind. A subject, a verb and an object. The hard problem is that sentence, turned into a question.
+
+So this cannot be understood as logic alone. If the substrateless worldview is not clear, every step will be heard in the old grammar. Emptiness will sound like a new kind of stuff.
+
+When the worldview is clear, everything downstream changes. The question changes. Not what produces mind, but dependent on what does this arise. The logic changes, from things that are what they are, to what arises with what. The analysis changes, from breaking things down, to tracing conditions. And the orientation changes. Not looking behind what appears, but looking at the appearing itself.
+
+None of this means giving language up. I still say the rose is red. The words are used. They are no longer believed.
 
 Emptiness is exactly this. Without essence. Without a fixed nature. The old word for a fixed nature is svabhāva: what a thing would be from its own side, apart from its conditions.
 
