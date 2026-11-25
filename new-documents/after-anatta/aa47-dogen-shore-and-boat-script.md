@@ -1,0 +1,100 @@
+---
+chapter: 47
+label: Bonus article
+title: "Dependent Arising Section 2 Part 7: Dōgen: The Shore and the Boat"
+series: "Dependent Arising, a series: Section 2 (What is a phenomenon?), Part 7 (Part 6: Complete, and Dependent; Part 8: Dōgen: Firewood and Ash)"
+source: EBooks Bonus Articles/dogen-shore-and-boat/dogen-shore-and-boat.md (draft of 2026-11-23)
+source_words: 1856
+script_words: 1499
+intro: yes
+voice: male
+status: draft for the owner's approval
+---
+
+# Dependent Arising Section 2 Part 7: Dōgen: The Shore and the Boat
+
+You sit in a boat, and the shore slides past. Is the shore moving? Or the boat? Or is that the wrong question?
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+Eihei Dōgen lived from 1200 to 1253. As a young monk he went from Japan to Song China, practised there under the Chan master Rujing, and came home to found what became the Sōtō school of Japanese Zen. His great work, the Shōbōgenzō, the Treasury of the True Dharma Eye, is a collection of talks and essays written over some twenty years.
+
+In Part 6, I asked how the seen can be just the seen, complete, and yet wholly dependent. Dōgen's answer is total exertion. And he gives it in images, more than in arguments.
+
+I take four of his images, and each has its own taste. Here, the first two. The shore that seems to move, and the boat that carries its rower. Both are boats. And both are about who, if anyone, stands outside the event. The shore takes away a seer outside. The boat takes away a doer behind.
+
+First, the shore.
+
+In the Genjōkōan, the opening essay of the Shōbōgenzō, Dōgen describes someone riding in a boat. Looking at the shore, they think the shore is moving. Looking closely at the boat, they see that it is the boat that moves.
+
+In the same way, he says, when we take up the myriad things with a confused body and mind, we suppose our own mind and nature are permanent. Practise closely, and return to where you are, and it is clear that nothing has a fixed self.
+
+How is this usually read? The boat is the self. Because we take ourselves as the still centre, the world seems to change around us. Modern Sōtō teachers, such as Shohaku Okumura, read it this way. We see everything from our own self centred point of view. And practice returns us to where we actually are.
+
+Here is how I see it.
+
+When I sit in a boat and the shore seems to slide past, nothing mysterious has happened. And nothing mysterious is needed to set it right. Motion is always motion relative to something.
+
+The habit gives motion an owner. First the shore moves. Then, corrected, the boat moves. But that second step is still the same habit. The motion has only changed owners. And now the shore has become the fixed ground, instead of me.
+
+Anatta takes away the still watcher. There is just the seeing, with no one behind it.
+
+But that is only half. The seer is not lost in the seen, as if a scene were left with no one in it. The seer is in the seen. And the seen is in the seer. Neither is found outside the other. Nāgārjuna found the same with seeing. No seer is found without the seeing. And no seeing without a seer.
+
+And dependent arising shows what the moving is. It is singled out between boat and shore, water and eyes, all at once. No one owns it. Not the shore. Not the boat. Not the seer. There is no mover apart from the moving. And no moving apart from a mover.
+
+That is the taste of this image. No seat outside. One moving, with nothing outside it, and nowhere left over to watch from.
+
+I do not have to wait for some later insight to taste total exertion here. The substantialist view, anatta, and dependent arising are all in this one image, at once.
+
+And where I part. The usual reading stops at the self that sets itself up as the still centre. I go one step further. It is really the boat, is still the habit, if the motion is simply handed to a new owner.
+
+Second, rowing the boat.
+
+The second boat is in another essay, Zenki. Total Dynamic Working.
+
+Life, Dōgen says, is like riding in a boat. You raise the sail, and steer with the pole. In Kazuaki Tanahashi's translation: Although you row, the boat gives you a ride, and without the boat no one could ride. But you ride in the boat, and your riding makes the boat what it is.
+
+At such a moment, he goes on, there is only the world of the boat. Sky, water and shore all belong to the boat's moment. And that moment is not the same as a moment that is not the boat. So life is the total working of life. And death is the total working of death.
+
+How is this usually read? Self and world are not two. I make the boat, and the boat makes me. Some modern teachers widen this into one universal life. Kōshō Uchiyama, for example, speaks of a self that includes everything it meets. So that my life is the whole universe, living. Other readers stay closer to the single act. This rowing, fully carried out.
+
+Here is how I see it.
+
+The habit sees a rower who drives a boat. A doer, and a thing being done to. Anatta takes the rower out from behind the rowing. There is just rowing.
+
+But Dōgen says more than that. The rowing needs the boat as much as the boat needs the rowing. The rower is a rower only in the rowing. And the boat is a boat only in being ridden.
+
+Arm, oar, water, wind and wood do not come together after they already exist. They are designated together, in the one act. Agent and action, as Nāgārjuna says, are established only in dependence on each other.
+
+The sky, the water and the shore belong to this moment as its conditions. Fully, with nothing held back. They are not a bigger world, in which the rowing is a small event. And Dōgen guards this himself. The boat's moment is not the same as a moment that is not the boat. It stays this rowing.
+
+That is the taste of this image. No doer. Rowing and being carried, at once. There is effort, and no one stands behind it. Nothing outside is needed to finish the act.
+
+And where I part. I do not follow the reading of one universal life, or a universal self, living through me. That puts a Whole behind the rowing. And the rowing is complete without one.
+
+Put the two boats side by side.
+
+The shore takes away the watcher outside the event. The rowing takes away the doer behind it. What is left is not an empty event, with no one in it. It is the event, wholly itself, with all its conditions taking part.
+
+This changes what intimacy means. Ordinarily, intimacy means two things that have come close. A hearer close to a sound. A rower close to the work. Here, there were never two to bring together.
+
+Hearing is not intimate with sound. Hearing is the sounding, with the ear, the air and the bell all taking part. Breathing is not merely connected to the air. Lungs, air, body, warmth and movement are one breathing. Nothing has to bridge them, because there was never a gap. I call this intimacy beyond relationship.
+
+And it is not fusion. The shore stays the shore, and the boat the boat. The oar is not the water. The arm is not the wind. Each is distinct, and more vivid for it. What has gone is only the seat outside, and the doer behind.
+
+So, which holds?
+
+By experience. When I sit in a moving boat, is motion met as something the shore has? Or the boat has? Or as the relation itself? When I row, do I meet a rower standing behind the rowing, giving it orders? What is met is the moving and the rowing, complete, with nothing outside them.
+
+By logic. If motion belonged to the shore by its own nature, it could never be seen as the boat's. If the rower existed first, apart from the rowing, it would not need the boat to be a rower. If the boat existed first, apart from being ridden, it would not need the rower to be a boat. Each is what it is only with the other.
+
+By working. Nothing works the less for this. The boat crosses the river. The rower still pulls, and arrives. The shore is still where the boat lands.
+
+So the view of a still watcher, and a rower who drives a boat, is not the truer one. It is the default, carried by habit, and by the word I.
+
+None of this makes my everyday words false. I row the boat. I see the shore go by. What fails is only a seer, a rower, or a boat, standing on its own.
+
+This is Section 2, Part 7 of the Dependent Arising series.
+
+In Part 8, I take Dōgen's image of time. Firewood and ash, each in its own position, with nothing carried over.
