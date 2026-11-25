@@ -129,3 +129,9 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - Texts from `youtube-bonus-aa47.md` … `aa51.md` put on with `publish_youtube.py update --entry 1`; titles checked.
 - *Bonus Articles* (`PLCph_F1_eo6o`): the phone had added them out of order; moved so Parts 7 → 11 follow Part 6.
 - Ids recorded in the five texts files and the README Status rows. Not on the website yet (Section 2 still drafts).
+
+## 2026-11-25: EP98 The Body's Own Knowing on YouTube and the site (server)
+
+- The owner's upload `xKsJHbH3b7I` (14:15, Unlisted), matched by length. Texts from `youtube-ep98.md` entry 1 put on
+  with `publish_youtube.py update`; title and closing disclaimer checked. Already in *Bonus Articles* (no duplicate).
+- On https://atr-passerby.com/the-body-s-own-knowing/ (thusness-website #1148). Id recorded in the README Status row.
