@@ -304,7 +304,7 @@ const WhichScene: React.FC = () => (
   <AbsoluteFill>
     <Items items={[
       ["So, which holds", 960, 100, <Wd c={GOLD} s={48} serif>Which holds?</Wd>],
-      ["By experience. I meet the ache, the sunrise, the opening door, the near and the far", 400, 270, <Box c={ICE} w={500} title="Experience" sub="no room, no given world, no stored power, no boxes met" />, { pop: true }],
+      ["By experience. I meet the ache, the sunrise, the opening door, the near and the far", 400, 270, <Box c={ICE} w={500} title="Experience" sub="none of the added things is met" />, { pop: true }],
       ["By logic. A private room would have to be somewhere", 960, 270, <Box c={VIOLET} w={500} title="Logic" sub="each added thing fails the search" />, { pop: true }],
       ["By working. The big ideas explain nothing that dependent arising does not explain better", 1520, 270, <Box c={TEAL} w={500} title="Working" sub="dependent arising explains it better" />, { pop: true }],
       ["Privacy is the asymmetry of conditions", 960, 420, <Wd c={CHALK} s={22}>privacy: asymmetry · objectivity: coherence · causal power: meeting</Wd>],
@@ -342,7 +342,7 @@ const RecognitionScene: React.FC = () => {
         ["Recognition, not search", 960, 90, <Wd c={TEAL} s={44} serif>Recognition, not search</Wd>],
         ["They catch the habit in the act", 960, 190, <Wd c={DIM} s={24}>the searches catch the habit in the act</Wd>, { until: "What I have come to value more is recognition" }],
         ["It was never findable", 960, 260, <Wd c={CHALK} s={24}>never findable · the search only shows it</Wd>, { until: "What I have come to value more is recognition" }],
-        ["The place from which it searches", 960, 330, <SK at="What I have come to value more is recognition" s={22}>one last place: from which it searches</SK>],
+        ["The place from which it searches", 960, 330, <SK at="What I have come to value more is recognition" s={22}>one last place: from which it searches</SK>, { until: "Like a drawing on water", ud: -0.5 }],
         ["What I have come to value more is recognition", 960, 220, <Wd c={GOLD} s={32} serif>recognition: nothing needs to be looked for</Wd>, { d: 0.6 }],
         ["Recognition is not an achievement", 600, 520, <K c={VIOLET} s={22}>not an achievement</K>, { pop: true, until: "And then the ordinary world is simply the ordinary world" }],
         ["Nor is it passive", 1320, 520, <K c={VIOLET} s={22}>not passive: clear knowing</K>, { pop: true, until: "And then the ordinary world is simply the ordinary world" }],
