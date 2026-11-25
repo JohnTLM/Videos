@@ -1,9 +1,9 @@
 # YouTube upload: Four Videos on the Rainbow Body, NotebookLM overview (AA52 NotebookLM, 2026-11-25)
 
 The NotebookLM version of AA52, made by the owner from the pack `four-videos-on-the-rainbow-body-notebooklm-*.md`
-(EBooks), with "not a teacher" silenced at 0:38 (cloud session, 2026-11-25). 6:07. Upload as **Unlisted**.
+(EBooks), with "not a teacher" silenced at 0:38 and a repeated passage (4:39–5:08) cut (cloud session, 2026-11-25). 5:38. Upload as **Unlisted**.
 
-## Rainbow Body in Four Lenses: Why All Four Videos (6:07)
+## Rainbow Body in Four Lenses: Why All Four Videos (5:38)
 
 ### Title
 
@@ -23,9 +23,9 @@ Then the order I would watch them in, and the mistake each one guards against. T
 1:51 2. The practices of the body
 2:59 3. The traditions in their own words
 3:37 4. The body's own knowing
-5:08 The order I would watch them in
-5:23 What each one guards against
-5:52 A balanced reading
+4:39 The order I would watch them in
+4:53 What each one guards against
+5:22 A balanced reading
 
 The four explorations, in order: https://atr-passerby.com/rainbow-body/
 5 Elements: Chinese vs Tibet: https://atr-passerby.com/five-elements/
