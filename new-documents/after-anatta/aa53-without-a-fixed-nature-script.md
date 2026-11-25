@@ -4,8 +4,8 @@ label: Bonus article
 title: "Dependent Arising Section 3 Part 1: Without a Fixed Nature"
 series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 1 (previous: Section 2 Part 11: Where the Big Ideas Come From)"
 source: EBooks Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md (draft of 2026-11-25, approved by the owner 2026-11-25)
-source_words: 2700
-script_words: 2024
+source_words: 3222
+script_words: 2354
 intro: yes
 voice: male
 status: draft for the owner's approval
@@ -44,6 +44,24 @@ Grant both, and the question is forced. How does something whose very nature is 
 And it can never be answered. Nāgārjuna gave the reason long ago. If something existed by its own nature, it could not become otherwise. A nature that turns into its opposite was never a nature.
 
 So the gap is real. But only after two fixed natures have been put in place. The gap was made by the starting point.
+
+Let me show the same move with something so ordinary that no one has ever found it a problem.
+
+Close your hand. There is a fist. Open it. The fist is gone. Nobody is puzzled. Nobody asks where the fist went.
+
+Now let me make it puzzling. I only need the same two steps.
+
+First, give the hand a fixed nature. Bones, tendons and skin, complete in itself, and by its nature without any fist in it. List every bone and every angle. Nowhere in the list is there a fist.
+
+Second, give the fist a fixed nature too. A thing in its own right. Hard, compact, able to hit.
+
+Now ask. How does a hand, whose nature is to have no fist in it, give rise to a fist? Where was the fist before the hand closed? Where does it go when the hand opens? Describe every bone of the closed hand, and the fist still seems left over. There is my explanatory gap. Call it the hard problem of the fist. No amount of anatomy will ever bridge it.
+
+Yet nothing was ever missing. Fist names the hand closed. It is not a second thing hiding in the hand. And the hand is not a thing whose nature is to lack it. The problem was made in the two steps. Just close the hand.
+
+Mind and matter are the same shape. Define matter as complete, and by its nature without experience. Define experience as a thing in its own right. Then ask how the one produces the other. We made it unsolvable, when no such issue was there to begin with.
+
+One caution. I am not saying mind is a shape the brain takes, the way a fist is a shape the hand takes. That would make matter the floor again. The hand is singled out just as the fist is. The example shows only the shape of the mistake. Fix two natures. Then look for the bridge.
 
 Emptiness is exactly this. Without essence. Without a fixed nature. The old word for a fixed nature is svabhāva: what a thing would be from its own side, apart from its conditions.
 
