@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/where-the-big-ideas-come-from/where-the-big-ideas-come-from.md` (draft; two stale part numbers fixed 2026-11-25, EBooks PR #729) |
 | Files | `aa51-where-the-big-ideas-come-from-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa51.md` |
 | Checks | All 94 cue phrases found in the narration; a contact sheet of 16 frames: two layout issues fixed (a struck label left on screen; text past a box edge) and re-rendered |
-| Status | **Draft.** Not on YouTube, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `9YV8NxLVj-8`, not on the website |
 | Series | Dependent Arising, Section 2, Part 11 (the close). Previous: Part 10, *Total Exertion: Huayan* (AA50). Next: Section 3, *Mind and Matter* |
 
 ## Scenes

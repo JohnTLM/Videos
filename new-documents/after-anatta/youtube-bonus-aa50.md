@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 2 Part 10: Total Exertion: Huayan (AA50, 2026-11-25)
 
-Dependent Arising, Section 2 Part 10. Built on 2026-11-25 at 720p. **Draft: not uploaded.** When the owner uploads it (Unlisted), record the id here and in a server task note; the server puts these texts on.
+Dependent Arising, Section 2 Part 10. Built on 2026-11-25 at 720p. Uploaded by the owner on 25 Nov 2026 (Unlisted): `https://youtu.be/IuILqXVSy48`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`

@@ -121,3 +121,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - AA52 *Four Videos on the Rainbow Body: Why All Four* is `GR0buEUyUWc` (Unlisted, 6:15, matched by size 55,668,727
   bytes). Texts from `youtube-after-anatta-aa52.md`; already in *Post Anatta Insights* (added by the owner's phone).
   On https://atr-passerby.com/rainbow-body/ (thusness-website #1141). Status row in the README updated.
+
+## 2026-11-25: Dependent Arising Section 2 Parts 7–11 on YouTube (server)
+
+- The owner's five uploads matched by file size: Part 7 `nqMFnhf4uLM` (9:18), Part 8 `UKZji5nvQsw` (10:05), Part 9
+  `z1Fqb7gKXuU` (11:17), Part 10 `IuILqXVSy48` (10:44), Part 11 `9YV8NxLVj-8` (12:00). All Unlisted.
+- Texts from `youtube-bonus-aa47.md` … `aa51.md` put on with `publish_youtube.py update --entry 1`; titles checked.
+- *Bonus Articles* (`PLCph_F1_eo6o`): the phone had added them out of order; moved so Parts 7 → 11 follow Part 6.
+- Ids recorded in the five texts files and the README Status rows. Not on the website yet (Section 2 still drafts).
