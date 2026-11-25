@@ -5,7 +5,7 @@ title: "Four Videos on the Rainbow Body: Why All Four"
 series: "After Anatta · Questions"
 source: owner, 2026-11-25 ("Come out a script y understand the 4 videos are important to have a balance view and background to understand rainbow body"; earlier: "I think somatic practices are important"); EBooks Energy Practices (own voice) sections 6 and 8, 5 Elements: Chinese vs Tibet, The Body's Own Knowing (own voice), the AA41 script
 source_words: 0
-script_words: 924
+script_words: 962
 intro: yes
 voice: male
 status: revised draft for the owner's approval (2026-11-25): the fourth video is The Body's Own Knowing, not his view; his own view of the rainbow body excluded (owner: "Point 4 is the video on the body knows, not my view on rainbow body. My view on rainbow body should be excluded.").
@@ -15,7 +15,9 @@ status: revised draft for the owner's approval (2026-11-25): the fourth video is
 
 A body that shrinks to hair and nails. Rainbows over a small house in Tibet. It is a story that catches the imagination. And that is exactly the danger. The rainbow body is easy to dismiss, and just as easy to inflate.
 
-This is After Anatta. For many years the rainbow body has been one of my interests. To read it in a balanced way, neither dismissing it nor inflating it, I looked into four things, and I made a video on each. No one of them is enough on its own. In this short video I want to say why they belong together, and in what order I would watch them.
+This is After Anatta. In this short video I want to say why I created these four videos in the first place, why they belong together, and in what order I would watch them.
+
+First, why I made them. For many years the rainbow body has been one of my interests. It is easy to dismiss, and just as easy to inflate. To read it in a balanced way, I looked into four things: the background of the five elements, the practices of the body, the reports themselves, and the body's own knowing. I made a video on each. No one of them is enough on its own.
 
 The first is about background. Five Elements: Chinese versus Tibet.
 
