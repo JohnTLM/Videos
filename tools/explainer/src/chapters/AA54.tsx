@@ -183,7 +183,7 @@ const Hand: React.FC<{ k: number }> = ({ k }) => {
 const Chord: React.FC<{ one: number; all: number }> = ({ one, all }) => {
   const { t } = useT();
   return (
-    <svg width={560} height={300} viewBox="0 0 560 300" style={{ overflow: "visible" }}>
+    <svg width={420} height={225} viewBox="0 0 560 300" style={{ overflow: "visible" }}>
       {[0, 1, 2, 3, 4, 5].map((i) => {
         const y = 40 + i * 44;
         const amp = (i === 2 ? one : all) * 8 * Math.sin(t * 30 + i);
@@ -339,7 +339,7 @@ const ChordScene: React.FC = () => {
         ["Now see what the hard problem asks", 1500, 640, <Wd c={CHALK} s={24}>one set asked to produce another</Wd>],
         ["When nothing has a fixed nature, nothing is basic", 1500, 710, <K c={TEAL} s={24}>nothing basic · nothing to derive</K>, { pop: true }],
       ]} />
-      <At x={960} y={800} o={ramp(t, c("The way a chord belongs to no single string"), 0.5)}><Chord one={one} all={all} /></At>
+      <At x={960} y={690} o={ramp(t, c("The way a chord belongs to no single string"), 0.5)}><Chord one={one} all={all} /></At>
     </AbsoluteFill>
   );
 };
