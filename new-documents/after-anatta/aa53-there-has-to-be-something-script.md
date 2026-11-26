@@ -8,7 +8,7 @@ source_words: 2825
 script_words: 1821
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-26 ("Approved")
 ---
 
 # Dependent Arising Section 3 Part 1: There Has to Be Something
