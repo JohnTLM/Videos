@@ -149,6 +149,6 @@ Plastic, because nothing has a fixed nature. Characteristics are not locked into
 
 Plastic does not mean vague. And it does not mean anything goes. The red is precise. The tea can name its garden. The medicine works. It is precisely because nothing is fixed that things can arise exactly as their conditions allow.
 
-This is Section 3, Part 2 of the Dependent Arising series.
+This is Section 3, Part 2 of the Dependent Arising series, and the close of Section 3.
 
 The world does not lose its order. It loses its rigidity.
