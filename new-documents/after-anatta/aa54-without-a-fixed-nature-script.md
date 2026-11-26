@@ -1,25 +1,25 @@
 ---
-chapter: 53
+chapter: 54
 label: Bonus article
-title: "Dependent Arising Section 3 Part 1: Without a Fixed Nature"
-series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 1 (previous: Section 2 Part 11: Where the Big Ideas Come From)"
-source: EBooks Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md (draft of 2026-11-25, approved by the owner 2026-11-25)
-source_words: 3766
-script_words: 2641
+title: "Dependent Arising Section 3 Part 2: Without a Fixed Nature"
+series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 2 (previous: Section 3 Part 1: There Has to Be Something)"
+source: EBooks Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md (Section 3 Part 2 since 2026-11-26)
+source_words: 3349
+script_words: 2391
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: draft for the owner's approval; renumbered from AA53 on 2026-11-26 when the owner put "There Has to Be Something" first
 ---
 
-# Dependent Arising Section 3 Part 1: Without a Fixed Nature
+# Dependent Arising Section 3 Part 2: Without a Fixed Nature
 
 How does grey matter give rise to the felt redness of red? Many people think it is the deepest open question we have.
 
 I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
 
-In Section 2, I asked what it is that appears at all. A sound, a colour, a thought. Each was vivid, not found, and dependently arisen. Near the end, mind and matter turned up as two boxes. An inner box, with feelings and thoughts. An outer box, with tables and walls. Searched for, neither box was found.
+In Part 1, I set out our default mode of thinking. Faced with anything that appears, we ask what it is, really. We look for what it is made of, mind, matter or some third stuff. And we cannot rest until a ground is found. Taken apart, that turned out to be a habit, not reality.
 
-That was only a sketch. This section gives the question the room it needs. And I want to begin with its hardest form.
+Now I take the habit to the place it is felt most sharply.
 
 My claim is simple to state. Seeing emptiness does not solve this problem. It shows a problem that was never there. Not because the question is too deep. Because what it stands on is not found.
 
@@ -63,19 +63,7 @@ Mind and matter are the same shape. Define matter as complete, and by its nature
 
 One caution. I am not saying mind is a shape the brain takes, the way a fist is a shape the hand takes. That would make matter the floor again. The hand is singled out just as the fist is. The example shows only the shape of the mistake. Fix two natures. Then look for the bridge.
 
-If the two steps are so easy to see through, why does almost everyone take them?
-
-Because the view is there before any question is asked. We start, without noticing, from a worldview. There must be things. And things must have fixed characteristics, and a nature of their own.
-
-And we are given a language that presents the world exactly that way. A subject stands first, and a predicate is said of it. The rose is red. A thing, with a colour attached. Nietzsche noticed that we say the lightning flashes. As if the lightning were one thing, and its flashing a second thing it does. But there is no lightning apart from the flash.
-
-Grammar, meaning, structure and syntax all present the world as things with natures. Growing up inside it, we are moulded to think that way, to analyse that way, and to orient ourselves that way. Matter produces mind. A subject, a verb and an object. The hard problem is that sentence, turned into a question.
-
-So this cannot be understood as logic alone. If the substrateless worldview is not clear, every step will be heard in the old grammar. Emptiness will sound like a new kind of stuff.
-
-When the worldview is clear, everything downstream changes. The question changes. Not what produces mind, but dependent on what does this arise. The logic changes, from things that are what they are, to what arises with what. The analysis changes, from breaking things down, to tracing conditions. And the orientation changes. Not looking behind what appears, but looking at the appearing itself.
-
-None of this means giving language up. I still say the rose is red. The words are used. They are no longer believed.
+Why do the two steps feel so natural? I set that out in Part 1. The worldview that there must be things with natures of their own is in place before any question is asked. The hard problem is the sentence, matter produces mind, turned into a question.
 
 Emptiness is exactly this. Without essence. Without a fixed nature. The old word for a fixed nature is svabhāva: what a thing would be from its own side, apart from its conditions.
 
@@ -161,6 +149,6 @@ Plastic, because nothing has a fixed nature. Characteristics are not locked into
 
 Plastic does not mean vague. And it does not mean anything goes. The red is precise. The tea can name its garden. The medicine works. It is precisely because nothing is fixed that things can arise exactly as their conditions allow.
 
-This is Section 3, Part 1 of the Dependent Arising series.
+This is Section 3, Part 2 of the Dependent Arising series.
 
 The world does not lose its order. It loses its rigidity.
