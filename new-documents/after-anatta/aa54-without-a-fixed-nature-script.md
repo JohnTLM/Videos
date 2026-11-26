@@ -8,7 +8,7 @@ source_words: 3349
 script_words: 2391
 intro: yes
 voice: male
-status: draft for the owner's approval; renumbered from AA53 on 2026-11-26 when the owner put "There Has to Be Something" first
+status: approved by the owner 2026-11-26 ("Approved aa54")
 ---
 
 # Dependent Arising Section 3 Part 2: Without a Fixed Nature
