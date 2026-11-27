@@ -1,11 +1,11 @@
-// After Anatta · Explorations: Dependent Arising, Part 3 of 6: What It Is For
+// Dependent Arising · Further viewing (after the four-part set AA32, AA33, AA31, AA34): What It Is For
 // (EBooks Bonus Articles/dependent-arising-and-designation, own-voice text as of 2026-11-08, sections 7 to 10).
 // Arc: what is it for? -> two modes of right knowing (by concepts within the framework; one complete stroke, free of all
 // elaborations; neither cancels the other) -> the framework held three ways (the article's diagram) -> three uses (explains,
 // dismantles, describes the taste; two guards) -> an enlightened view not yet lived -> have a second thought: toss the apple
 // again -> two frameworks: default and inherent (the matrix); the framework is not the prison -> spontaneous presence understood
 // within it -> ignorance not a power; the antidote, not its shape -> the masters praise it -> twelve links forward and reverse ->
-// the veil is ignorance (three meanings of the word for conventional) -> other readings stated fairly -> disclaimer -> Part 4.
+// the veil is ignorance (three meanings of the word for conventional) -> other readings stated fairly -> disclaimer -> summary.
 // Stance: a ground, a power, a self behind seeing, a solid apple out there, the web, "only a story" are drawn only to be struck.
 // The net is drawn dim and dashed, labelled conventional and empty, never as a base layer. "One stroke" is never one stuff.
 // Cue phrases avoid the respelled names (Nagarjuna, Candrakirti, Tsongkhapa, Dzogchen, samvrti, Gorampa, Sakya, Kagyu).
@@ -19,7 +19,7 @@ import {
 // Copied verbatim from the script, in narration order. No respelled or hyphenated words inside.
 export const PHRASES = [
   // opening
-  "What it is for", "I asked whether dependent arising is as plain as it sounds", "no power in the cause",
+  "This goes deeper than the", "I asked whether dependent arising is as plain as it sounds", "no power in the cause",
   "no doer behind the doing", "whatever appears singled out and designated", "not a web", "Now the other question",
   // two modes
   "there are two ways of knowing rightly here", "The first works through concepts", "how the whole of Indra's net comes about",
@@ -95,7 +95,7 @@ export const PHRASES = [
   "the framework is still an elaboration", "It is the other mode of right knowing",
   // end
   "All views and understanding here are my own", "So what is it for", "It is the antidote to ignorance, not its shape",
-  "And what veils is ignorance, never dependent arising", "how it is met",
+  "And what veils is ignorance, never dependent arising",
 ];
 
 const M = {
@@ -211,10 +211,10 @@ const OpenScene: React.FC = () => {
   ];
   return (
     <AbsoluteFill>
-      <At x={960} y={340} o={ramp(t, 0.3, 0.6) * out}><Wd c={DIM} s={34} serif>Part 3 of 6</Wd></At>
+      <At x={960} y={340} o={ramp(t, 0.3, 0.6) * out}><Wd c={DIM} s={34} serif>Further viewing</Wd></At>
       <At x={960} y={440} o={ramp(t, 0.5, 0.7) * out}><Wd c={CHALK} s={84} serif>What it is for</Wd></At>
       <At x={960} y={560} o={ramp(t, 1.2, 0.8) * out}><Wd c={GOLD} s={32} serif>Dependent Arising: If You Think You Understand, You Don't</Wd></At>
-      <At x={960} y={170} o={ramp(t, recap, 0.5) * recapOut}><Wd c={CHALK} s={36} serif>Parts 1 and 2: what it says</Wd></At>
+      <At x={960} y={170} o={ramp(t, recap, 0.5) * recapOut}><Wd c={CHALK} s={36} serif>Earlier: what it says</Wd></At>
       {chips.map(([cue, label, y]) => (
         <At key={cue} x={960} y={y} o={ramp(t, c(cue), 0.5) * recapOut}><K c={TEAL} s={30}>{label}</K></At>
       ))}
@@ -687,9 +687,7 @@ const EndScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const so = c("So what is it for");
-  const next = c("how it is met");
   const discOut = 1 - ramp(t, so, 0.5);
-  const sumOut = 1 - ramp(t, next, 0.5);
   return (
     <AbsoluteFill>
       <At x={960} y={360} o={ramp(t, c("All views and understanding here are my own"), 0.6) * discOut}>
@@ -697,16 +695,14 @@ const EndScene: React.FC = () => {
         <div style={{ marginTop: 14 }}><Wd c={CHALK} s={32} serif>from my practice and contemplation.</Wd></div>
         <div style={{ marginTop: 14 }}><Wd c={DIM} s={28}>I do not represent any tradition, school or teacher.</Wd></div>
       </At>
-      <At x={960} y={160} o={ramp(t, so, 0.5) * sumOut}><Wd c={GOLD} s={44} serif>what it is for</Wd></At>
-      <At x={420} y={340} o={ramp(t, so + 1.2, 0.5) * sumOut}><K c={TEAL} s={30}>it explains</K></At>
-      <At x={960} y={340} o={ramp(t, so + 1.8, 0.5) * sumOut}><K c={ROSE} s={30}>it dismantles</K></At>
-      <At x={1500} y={340} o={ramp(t, so + 2.4, 0.5) * sumOut}><K c={VIOLET} s={30}>it describes the taste</K></At>
+      <At x={960} y={160} o={ramp(t, so, 0.5)}><Wd c={GOLD} s={44} serif>what it is for</Wd></At>
+      <At x={420} y={340} o={ramp(t, so + 1.2, 0.5)}><K c={TEAL} s={30}>it explains</K></At>
+      <At x={960} y={340} o={ramp(t, so + 1.8, 0.5)}><K c={ROSE} s={30}>it dismantles</K></At>
+      <At x={1500} y={340} o={ramp(t, so + 2.4, 0.5)}><K c={VIOLET} s={30}>it describes the taste</K></At>
       <Items items={[
-        ["It is the antidote to ignorance, not its shape", 960, 490, <Wd c={CHALK} s={32}>the antidote to ignorance, not its shape</Wd>, { until: "how it is met" }],
-        ["And what veils is ignorance, never dependent arising", 960, 590, <Wd c={GOLD} s={32}>what veils is ignorance, never dependent arising</Wd>, { until: "how it is met" }],
+        ["It is the antidote to ignorance, not its shape", 960, 490, <Wd c={CHALK} s={32}>the antidote to ignorance, not its shape</Wd>],
+        ["And what veils is ignorance, never dependent arising", 960, 590, <Wd c={GOLD} s={32}>what veils is ignorance, never dependent arising</Wd>],
       ]} />
-      <At x={960} y={400} o={ramp(t, next, 0.6)}><Wd c={DIM} s={34} serif>Next</Wd></At>
-      <At x={960} y={490}><Reveal text="Part 4: how it is met, as a taste" at={next} size={56} color={GOLD} speed={0.04} /></At>
     </AbsoluteFill>
   );
 };
@@ -715,7 +711,7 @@ const EndScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const order: [string, keyof typeof M, React.ReactNode][] = [
-    ["What it is for", "dusk", <OpenScene />],
+    ["This goes deeper than the", "dusk", <OpenScene />],
     ["there are two ways of knowing rightly here", "light", <TwoModesScene />],
     ["So the framework can be held three ways", "search", <ThreeWaysScene />],
     ["dependent arising does three kinds of work", "whole", <UsesScene />],

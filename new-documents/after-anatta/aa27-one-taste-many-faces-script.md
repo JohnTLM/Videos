@@ -1,18 +1,18 @@
 ---
 chapter: 27
-label: After Anatta · Dependent Arising
-title: "Part 5 of 6: One Taste, Many Faces"
-series: "After Anatta · Dependent Arising: If You Think You Understand, You Don't (Part 5 of 6)"
+label: Dependent Arising · Further viewing
+title: "One Taste, Many Faces"
+series: "Dependent Arising, further viewing after the four-part set (AA32, AA33, AA31, AA34)"
 source: EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, as of 2026-11-08), sections 12 to 16 and Try it; notebooklm-parts/part-5-one-taste-many-faces
 source_words: 6338
-script_words: 2104
+script_words: 2088
 intro: yes
 voice: male
 ---
 
-# One Taste, Many Faces
+# Dependent Arising, Further Viewing: One Taste, Many Faces
 
-This is Part 5 of 6: One taste, many faces.
+This goes deeper than the four-part series: one taste, many faces.
 
 So far I have asked whether dependent arising is as plain as it sounds, set out what it says and what it is for, and followed how it is first met as a taste after anatta, and met again, free. Now the taste itself, and how it is described.
 
@@ -133,5 +133,3 @@ Look for the "between" that joins the conditions. Did any of this need a hearer 
 Later in the day, when a thought or a flash of irritation comes, look for the same shape. Anyone behind it? Anything in it standing on its own? Anything missing? Recognise the face. Do not hold on to it.
 
 If you think you understand, keep looking. The same taste has many faces.
-
-There is one more part, a draft: five elements, five lights, rainbow body. That is Part 6.

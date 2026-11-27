@@ -71,8 +71,18 @@ def run(cmd, cwd=None):
 
 
 def duration(path):
-    r = run([FFPROBE, "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)])
-    return float(r.stdout.strip())
+    try:
+        r = run([FFPROBE, "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)])
+        return float(r.stdout.strip())
+    except OSError:
+        # Windows Smart App Control can block ffprobe.exe while allowing ffmpeg.exe: decode once and read the length
+        r = subprocess.run([FFMPEG, "-v", "info", "-i", str(path), "-f", "null", "-"],
+                           capture_output=True, text=True, encoding="utf-8", errors="replace")
+        t = re.findall(r"time=(\d+):(\d+):(\d+(?:\.\d+)?)", r.stderr)
+        if not t:
+            sys.exit(f"cannot measure {path}:\n{r.stderr[-1500:]}")
+        h, m, s = t[-1]
+        return int(h) * 3600 + int(m) * 60 + float(s)
 
 
 # ---------------------------------------------------------------- assets
