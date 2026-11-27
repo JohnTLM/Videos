@@ -8,7 +8,7 @@ source_words: 1793
 script_words: 1339
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-27 ("Approved")
 ---
 
 # Dependent Arising Section 4 Part 1: Two Logics
