@@ -135,3 +135,23 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - The owner's upload `xKsJHbH3b7I` (14:15, Unlisted), matched by length. Texts from `youtube-ep98.md` entry 1 put on
   with `publish_youtube.py update`; title and closing disclaimer checked. Already in *Bonus Articles* (no duplicate).
 - On https://atr-passerby.com/the-body-s-own-knowing/ (thusness-website #1148). Id recorded in the README Status row.
+
+## 2026-11-27: Dependent Arising series texts on YouTube; old videos point to the series (server)
+
+- PR #200: each `youtube-bonus-aa35`…`aa58` description has "Read the article: <series page>" above the disclaimer;
+  ids recorded (status line and README Status row) for AA53 `_3xoHST6Boc`, AA54 `Bs9D39vTQ-A` (the 15:00 re-render;
+  the earlier 15:02 upload `OfDS4S6tLxM` is linked nowhere and left on YouTube), AA55 `HNVn02Hor-o`, AA56
+  `zZI54KB-4Fg`, AA57 `0r9JMXLZN70`, AA58 `lH4nPcTbME4` (matched by length, uploads since 22 Nov). AA35–AA38: no
+  upload of their lengths on the channel, so no ids and no YouTube change.
+- `publish_youtube.py`: tags lose stray backticks (the `Tags (front)` line is in backticks), and a file's "Tags shared
+  by every video" line is added after its own tags, under YouTube's 500-character limit. Earlier updates had left
+  tags such as "`Dogen" and "Zen`".
+- `publish_youtube.py update … --entry 1` on the 17 found videos (S2·1–S2·11, S3·1–S4·3): titles read back, every
+  description ends with the disclaimer, tags clean. Privacy unchanged (Unlisted).
+- *Bonus Articles* (`PLCph_F1_eo6o`): AA53–AA58 moved to just after S2·11 in series order; the earlier AA54 upload
+  taken out of the playlist (not deleted). 53 items, no duplicates.
+- First line "This video is replaced by the Dependent Arising series: <part>" added to `StkkmkB0ql8`, `qgTVmQLbQHI`,
+  `38eXXi5vgpU`, `7Z0G_C3eCoI`, `kgIBWqKT72M`, `suq_DoDSinA` (→ S1·1), `ZGnlj6vMcrk` (→ S1·2), `JuigRhfVuGo`
+  *Vivid and Nowhere* (→ S2·1) and `y9JfZ_HZeo4` (→ S4·1); the rest of each description, titles, tags and privacy
+  unchanged (read back). The note named `Q1gwOAySqFs` for *Vivid and Nowhere*, but that is *Knowing From Somewhere*:
+  left unchanged. thusness-website note `server/TASK-dependent-arising-series-replaces-originals.md`.
