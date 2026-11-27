@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54, 2026-11-26)
 
-Dependent Arising, Section 3 Part 2, the close of Section 3. Built on 2026-11-26 at 720p and sent to the owner to upload (Unlisted).
+Dependent Arising, Section 3 Part 2. Built on 2026-11-26, re-rendered 2026-11-27 without "the close of Section 3" (the owner added Part 3), at 720p and sent to the owner to upload (Unlisted).
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -17,9 +17,9 @@ Dependent Arising Section 3 Part 2: Without a Fixed Nature | Thusness
 
 How does grey matter give rise to the felt redness of red? Seen through emptiness, the question is not answered. What it stands on is not found.
 
-The close of Section 3, Mind and Matter. The hard problem of consciousness, stated fairly, needs two fixed natures: matter by nature without experience, and mind by nature felt. Grant both and no bridge can work. The same move, made with a hand and a fist, gives "the hard problem of the fist". Without a fixed nature, nothing has to cross a gap, and differing characteristics arise, each dependent on its conditions: felt red, a firing pattern and a wavelength, like a chord that belongs to no single string. Idealism, panpsychism, neutral monism and process views only move the fixed nature, and the gap comes back one level down; emptiness without replacement puts nothing in its place. The hard problem is a problem like time divided into past, present and future, and Elisabeth of Bohemia's question to Descartes is the same cut. Like asking where a fire goes when it goes out, the problem does not arise. Then a sip of tea, and appearances met as spontaneous and luminously plastic, rather than mechanical, fixed and rigid.
+From Section 3, Mind and Matter. The hard problem of consciousness, stated fairly, needs two fixed natures: matter by nature without experience, and mind by nature felt. Grant both and no bridge can work. The same move, made with a hand and a fist, gives "the hard problem of the fist". Without a fixed nature, nothing has to cross a gap, and differing characteristics arise, each dependent on its conditions: felt red, a firing pattern and a wavelength, like a chord that belongs to no single string. Idealism, panpsychism, neutral monism and process views only move the fixed nature, and the gap comes back one level down; emptiness without replacement puts nothing in its place. The hard problem is a problem like time divided into past, present and future, and Elisabeth of Bohemia's question to Descartes is the same cut. Like asking where a fire goes when it goes out, the problem does not arise. Then a sip of tea, and appearances met as spontaneous and luminously plastic, rather than mechanical, fixed and rigid.
 
-Section 3, Part 2 of the Dependent Arising series, and the close of Section 3. Previous: Section 3, Part 1, There Has to Be Something. Next: Section 4, the logic of dependency.
+Section 3, Part 2 of the Dependent Arising series. Previous: Section 3, Part 1, There Has to Be Something. Next: Section 3, Part 3, A Living Fact.
 
 0:00 Grey matter and the felt red
 0:23 From Part 1
