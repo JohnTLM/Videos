@@ -34,7 +34,7 @@ Only two of the seven were ever uploaded (server, 2026-11-21):
 |---|---|---|
 | AA21 *Dependent Arising and Designation* | `kgIBWqKT72M` | keep Unlisted (taken out of the playlist on 2026-11-21) |
 | AA23 *Part 1 of 6: If You Think You Understand* | `suq_DoDSinA` | replaced: the owner sets it Private |
-| AA25 *What It Is For*, AA27 *One Taste, Many Faces* | never uploaded | kept; upload only if the owner wants them online |
+| AA25 *What It Is For*, AA27 *One Taste, Many Faces* | not yet | owner (2026-11-21): "AA25 and AA27 online as further viewing". Retitled "Dependent Arising · Further viewing" (title, first and last lines; approved), rebuilt at 720p (AA25 14:56, 2026-11-22; AA27 14:51, 2026-11-27); texts `youtube-bonus-aa25.md`, `youtube-bonus-aa27.md`; waiting for the owner's upload |
 | AA22, AA24, AA26 | never uploaded | replaced; nothing to do |
 
 ## A gathered copy (2026-11-22)

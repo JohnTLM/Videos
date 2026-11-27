@@ -1,12 +1,12 @@
-// After Anatta · Dependent Arising: If You Think You Understand, You Don't. Part 5 of 6: One Taste, Many Faces
+// Dependent Arising · Further viewing (after the four-part set AA32, AA33, AA31, AA34): One Taste, Many Faces
 // (EBooks Bonus Articles/dependent-arising-and-designation, sections 12 to 16 and Try it; notebooklm-parts/part-5-one-taste-many-faces).
-// Arc: Part 5 of 6, recap -> dependent arising is spontaneous presence; three descriptions and their guards, three angles on
+// Arc: further viewing, recap -> dependent arising is spontaneous presence; three descriptions and their guards, three angles on
 // one face -> none higher (summer, winter, nothing crosses); anatta as a seal; freedom from elaborations not a fourth; adds
 // nothing to the negation -> the descriptions keep each other honest; two questions (how: conditions; what: empty) -> many
 // faces (the face model, isomorphism, a death) -> four things keep recognition honest -> the six tastes round one sound
 // (vividly appearing yet unfindable, centerless, mutual, seamless, effortless, intimate) -> not states to keep -> guards ->
 // the doer back in a bigger coat -> the masters, master by master -> "not made by causes" read as "unborn by nature" ->
-// where I part -> try it (a sound, its conditions, cover one ear) -> keep looking; Part 6 next.
+// where I part -> try it (a sound, its conditions, cover one ear) -> keep looking.
 // Stance: a doer, a hearer, a recogniser, a web, a ground, a source, a carrier, an essence and a keeper are drawn only to be
 // struck. The sound and its conditions stay drawn and vivid. Nothing merges into one; the six tastes are not states.
 // Cue phrases avoid the respelled names (Nagarjuna, Candrakirti, Tsongkhapa, Dzogchen, Mipham, Longchenpa, Gorampa, Huayan).
@@ -20,7 +20,7 @@ import {
 // Copied verbatim from the script, in narration order. No respelled or hyphenated words inside.
 export const PHRASES = [
   // opening
-  "This is Part", "So far I have asked", "Now the taste itself",
+  "This goes deeper than the", "So far I have asked", "Now the taste itself",
   // three descriptions
   "I say dependent arising is spontaneous presence", "They are not two things",
   "Dependent arising is how the taste is described when we analyse",
@@ -31,7 +31,7 @@ export const PHRASES = [
   "They are three angles on one face", "none of them is the taste",
   // none higher
   "None is higher", "Nor does one turn into another", "any more than we say summer becomes winter", "Nothing crosses",
-  "Anatta needs one note here", "The observer has disappeared, but the world has not", "But anatta is a seal, not a stage",
+  "Anatta needs one note here", "The observer has disappeared, but the world has not", "is a seal, not a stage",
   "all dharmas are without self", "Freedom from all elaborations is not a fourth description",
   "And spontaneous presence adds nothing to the negation", "it would be taken apart too",
   // honest
@@ -60,7 +60,7 @@ export const PHRASES = [
   "That brings the guards", "Not only concepts", "Harm is harm", "Not uncaused. Every appearing", "Not a web, not a ground",
   "Not a stage to leave behind", "Not a state to keep",
   // the doer comes back
-  "every mistake on this path has the same shape", "After anatta, a vast Awareness", "In total exertion, a cosmic whole",
+  "every mistake on this path has the same shape", "a vast Awareness, a pure witness", "In total exertion, a cosmic whole",
   "In dependent arising, a web", "In spontaneous presence, a source", "In the marketplace, the helper", "Or the bystander",
   "And no licence", "And in practice, a state to keep up", "None of this is kept", "It is recognised",
   // masters
@@ -72,7 +72,7 @@ export const PHRASES = [
   "praises dependent arising as without arising", "whatever is born from conditions is unborn", "means unborn by nature",
   "Appearing through conditions, yet nothing produced", "I part only from a reading", "ground as empty",
   // where I part
-  "Where I do part, I say so", "on three points", "What anatta means", "The order of the path",
+  "Where I do part, I say so", "on three points", "mine is the experiential insight", "The order of the path",
   "A difference of route, not of content", "And the bridge across time", "and modern interbeing",
   "There is no net behind things", "And on its status", "the antidote by which ignorance is undone",
   "What I add is a few words", "These are my readings", "All views and understanding here are my own",
@@ -80,7 +80,7 @@ export const PHRASES = [
   "Try it. Listen to a sound nearby", "Look for the hearer behind the hearing", "Then look at the hearing itself",
   "Find its conditions", "It is their meeting", "Change one condition", "It is a different appearing",
   "that joins the conditions", "Then stop looking", "Do not try to keep this", "Later in the day", "Recognise the face",
-  "If you think you understand, keep looking", "The same taste has many faces", "There is one more part",
+  "If you think you understand, keep looking", "The same taste has many faces",
 ];
 
 const M = {
@@ -175,12 +175,12 @@ const OpenScene: React.FC = () => {
   const { t } = useT();
   const c = useCue();
   const recap = c("So far I have asked");
-  const parts = ["1 · if you think you understand", "2 · what it is", "3 · what it is for", "4 · the taste"];
+  const parts = ["if you think you understand", "what it is", "what it is for", "the taste"];
   return (
     <AbsoluteFill>
       <At x={960} y={170} o={ramp(t, 0.3, 0.8)}><Wd c={DIM} s={28}>Dependent Arising: If You Think You Understand, You Don't</Wd></At>
-      <At x={960} y={300} o={ramp(t, c("This is Part"), 0.6)}><Wd c={GOLD} s={36} serif>Part 5 of 6</Wd></At>
-      <At x={960} y={400}><Reveal text="One Taste, Many Faces" at={c("This is Part") + 0.6} size={84} speed={0.035} /></At>
+      <At x={960} y={300} o={ramp(t, c("This goes deeper than the"), 0.6)}><Wd c={GOLD} s={36} serif>Further viewing</Wd></At>
+      <At x={960} y={400}><Reveal text="One Taste, Many Faces" at={c("This goes deeper than the") + 0.6} size={84} speed={0.035} /></At>
       {parts.map((p, i) => (
         <At key={p} x={300 + i * 440} y={580} o={ramp(t, recap + 0.9 * i, 0.5)}><K c={i === 3 ? TEAL : DIM} s={24}>{p}</K></At>
       ))}
@@ -431,7 +431,7 @@ const BackScene: React.FC = () => {
   const c = useCue();
   const kept = c("None of this is kept");
   const rows: [string, string, number, number][] = [
-    ["After anatta, a vast Awareness", "a vast Awareness, a pure witness", 560, 230],
+    ["a vast Awareness, a pure witness", "a vast Awareness, a pure witness", 560, 230],
     ["In total exertion, a cosmic whole", "a cosmic whole, a fluid substrate", 1360, 230],
     ["In dependent arising, a web", "a web, a mechanism", 560, 360],
     ["In spontaneous presence, a source", "a source, or no causes", 1360, 360],
@@ -496,7 +496,7 @@ const PartScene: React.FC = () => {
       <Items items={[
         ["Where I do part, I say so", 960, 110, <Wd c={CHALK} s={40} serif>where I do part</Wd>, { until: "What I add is a few words" }],
         ["on three points", 960, 200, <Wd c={GOLD} s={30} serif>from Tsongkhapa, on three points</Wd>, { until: "What I add is a few words" }],
-        ["What anatta means", 420, 300, <K c={DIM} s={24}>anatta: the insight can come first</K>, { until: "What I add is a few words" }],
+        ["mine is the experiential insight", 420, 300, <K c={DIM} s={24}>anatta: the insight can come first</K>, { until: "What I add is a few words" }],
         ["The order of the path", 960, 300, <K c={DIM} s={24}>the taste first, the view later</K>, { until: "What I add is a few words" }],
         ["A difference of route, not of content", 960, 370, <Wd c={TEAL} s={24}>route, not content</Wd>, { until: "What I add is a few words" }],
         ["And the bridge across time", 1500, 300, <K c={DIM} s={24}>neither carried nor cut</K>, { until: "What I add is a few words" }],
@@ -552,8 +552,6 @@ const TryScene: React.FC = () => {
       <At x={960} y={330}><Reveal text="If you think you understand, keep looking." at={end} size={54} color={GOLD} speed={0.035} /></At>
       <Items items={[
         ["The same taste has many faces", 960, 450, <Wd c={CHALK} s={36} serif>one taste, many faces</Wd>],
-        ["There is one more part", 960, 620, <Wd c={DIM} s={28}>Part 6, a draft</Wd>],
-        ["There is one more part", 960, 700, <Wd c={TEAL} s={32} serif>five elements · five lights · rainbow body</Wd>, { d: 1.5 }],
       ]} />
     </AbsoluteFill>
   );
@@ -563,7 +561,7 @@ const TryScene: React.FC = () => {
 export const Body: React.FC = () => {
   const c = useCue();
   const order: [string, keyof typeof M, React.ReactNode][] = [
-    ["This is Part", "dusk", <OpenScene />],
+    ["This goes deeper than the", "dusk", <OpenScene />],
     ["I say dependent arising is spontaneous presence", "whole", <ThreeScene />],
     ["None is higher", "light", <HigherScene />],
     ["The descriptions keep each other honest", "search", <HonestScene />],

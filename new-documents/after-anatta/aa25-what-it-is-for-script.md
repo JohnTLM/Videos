@@ -1,18 +1,18 @@
 ---
 chapter: 25
-label: After Anatta · Dependent Arising
-title: "Part 3 of 6: What It Is For"
-series: "After Anatta · Explorations"
+label: Dependent Arising · Further viewing
+title: "What It Is For"
+series: "Dependent Arising, further viewing after the four-part set (AA32, AA33, AA31, AA34)"
 source: EBooks Bonus Articles/dependent-arising-and-designation (own-voice text, "Dependent Arising: If You Think You Understand, You Don't", as of 2026-11-08), sections 7 to 10; notebooklm-parts/part-3-what-it-is-for
 intro: yes
 voice: male
 ---
 
-# Dependent Arising, Part 3 of 6: What It Is For
+# Dependent Arising, Further Viewing: What It Is For
 
-This is Part 3 of 6: What it is for.
+This goes deeper than the four-part series: what dependent arising is for.
 
-In Parts 1 and 2 I asked whether dependent arising is as plain as it sounds, and set out what it says: no power in the cause, no doer behind the doing, whatever appears singled out and designated, and conditions that are the appearing itself, not a web.
+In the earlier videos I asked whether dependent arising is as plain as it sounds, and set out what it says: no power in the cause, no doer behind the doing, whatever appears singled out and designated, and conditions that are the appearing itself, not a web.
 
 Now the other question. What is it for?
 
@@ -119,5 +119,3 @@ And even held without ignorance, the framework is still an elaboration, compared
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher.
 
 So what is it for? It explains, it dismantles, and it describes the taste. It is the antidote to ignorance, not its shape. And what veils is ignorance, never dependent arising.
-
-Next: how it is met, as a taste. That is Part 4.
