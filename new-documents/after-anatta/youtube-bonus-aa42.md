@@ -19,7 +19,7 @@ When the thing is not found, where does the habit go next? It retreats. Shown th
 
 So I follow the habit down. A moment: if it lasts at all, it splits into what is gone and what is not yet; if it has no length, it can never add up to a second (Nāgārjuna, Precious Garland 1.69; MMK 2, 7). An atom: Vasubandhu's six neighbours (Twenty Verses 12–13): if they touch one spot, a mountain is the size of one atom; if they touch different places, the atom has parts. And where I part from Vasubandhu: losing the atom does not hand the floor to the mind. The search is not a microscope finding smaller pieces, and it does not leave a void. The clock still keeps time; bricks still make walls.
 
-Section 2, Part 2 of the Dependent Arising series. Previous: Part 1, Vivid, and Not Found. Next, Part 3: Space, with Śāntarakṣita and Nāgārjuna. Drawn from Vivid and Nowhere: https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/
+Section 2, Part 2 of the Dependent Arising series. Previous: Part 1, Vivid, and Not Found. Next, Part 3: Space, with Śāntarakṣita and Nāgārjuna.
 
 0:00 When the thing is not found
 0:33 The habit retreats

@@ -21,7 +21,7 @@ The moment and the atom are gone. Is space the last floor: one still, empty room
 
 Nāgārjuna comes from another side (MMK 5): could space be there before its mark, the absence of obstruction? Space and its mark are designated together, and space is neither existent nor non-existent. Two cautions: empty space is not emptiness, and the sky is an image, not a ground. Then three searches, one result: time, matter and space, and no floor in any of them.
 
-Section 2, Part 3 of the Dependent Arising series. Previous: Part 2, Looking for the Floor. Next, Part 4: Solid, Dreamlike, Described. Drawn from Vivid and Nowhere: https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/
+Section 2, Part 3 of the Dependent Arising series. Previous: Part 2, Looking for the Floor. Next, Part 4: Solid, Dreamlike, Described.
 
 0:00 Is space the last floor?
 0:35 Surely space is real
