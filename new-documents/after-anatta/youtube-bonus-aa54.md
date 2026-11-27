@@ -7,7 +7,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ---
 
-## Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54, 15:02)
+## Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54, 15:00)
 
 ### Title
 

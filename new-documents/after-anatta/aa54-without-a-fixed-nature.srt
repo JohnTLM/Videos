@@ -1219,19 +1219,15 @@ that things can arise exactly as their
 conditions allow.
 
 267
-00:14:47,060 --> 00:14:50,947
+00:14:47,060 --> 00:14:51,224
 This is Section 3, Part 2 of
-the Dependent Arising series,
+the Dependent Arising series.
 
 268
-00:14:51,027 --> 00:14:52,922
-and the close of Section 3.
-
-269
-00:14:53,736 --> 00:14:56,065
+00:14:52,032 --> 00:14:54,361
 The world does not lose its order.
 
-270
-00:14:56,145 --> 00:14:57,890
+269
+00:14:54,441 --> 00:14:56,186
 It loses its rigidity.
 

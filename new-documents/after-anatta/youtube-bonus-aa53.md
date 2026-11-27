@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 3 Part 1: There Has to Be Something (AA53, 2026-11-26)
 
-Dependent Arising, Section 3 Part 1. Built on 2026-11-26 at 720p and sent to the owner to upload (Unlisted).
+Dependent Arising, Section 3 Part 1. Built on 2026-11-26 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted).
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
