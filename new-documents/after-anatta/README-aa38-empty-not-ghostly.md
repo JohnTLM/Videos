@@ -7,5 +7,5 @@
 | Files | `aa38-empty-not-ghostly-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; drawings `tools/explainer/src/chapters/AA38.tsx`; YouTube texts `youtube-bonus-aa38.md` |
 | Checks | Contact sheets of 32 frames: subtitles clear of the drawings, a clean fade |
 | Sent | a two-pass 720p copy, 23 MB, sent to the owner in the session 12:57 pm SGT |
-| Status | **Draft.** The article is a draft. Not on YouTube, not on the website, no Drive copy, until the owner says so |
+| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"); id pending from the server. Not on the website; the article is a draft |
 | Series | Dependent Arising, Part 4: the close of the first section (Parts 1–4, drawn mainly from *The Illusion of the Given*). Next: the major sections on what a phenomenon is, mind and matter, and the logic of dependency, each multipart. Gathered copy in [DependentArising](https://github.com/JohnTLM/DependentArising) |
