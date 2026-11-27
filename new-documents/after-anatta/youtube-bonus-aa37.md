@@ -1,7 +1,6 @@
 # YouTube upload: Dependent Arising Section 1 Part 3: Measured, or Formed? (AA37, 2026-11-22)
 
-Dependent Arising, Section 1 Part 3. Built on 2026-11-22 at 720p. **Draft: not uploaded.** When the owner
-uploads it (Unlisted), record the id here and in a server task note; the server puts these texts on.
+Dependent Arising, Section 1 Part 3. Built on 2026-11-22 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/cH4o2qna4ew`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`

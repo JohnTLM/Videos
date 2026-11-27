@@ -155,3 +155,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   *Vivid and Nowhere* (→ S2·1) and `y9JfZ_HZeo4` (→ S4·1); the rest of each description, titles, tags and privacy
   unchanged (read back). The note named `Q1gwOAySqFs` for *Vivid and Nowhere*, but that is *Knowing From Somewhere*:
   left unchanged. thusness-website note `server/TASK-dependent-arising-series-replaces-originals.md`.
+
+## 2026-11-28: Section 1 video ids, AA37 and AA38 (server)
+
+- AA37 `cH4o2qna4ew` and AA38 `yeTZtMywTr0` (uploaded 27 Nov 2026, matched by file size): texts and tags applied from
+  `youtube-bonus-aa37.md` / `aa38.md` (`--entry 1`), titles and disclaimer read back; in *Bonus Articles* before S2·1.
+  Ids recorded in both texts files and READMEs.
+- Not done: AA36 was uploaded twice as the same file (`5cRviAucOc8`, `n5Z0v9A5JT8`), so it matched twice; AA35 is
+  not on the channel. thusness-website note `server/TASK-dependent-arising-section-1-videos.md`.
