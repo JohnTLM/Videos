@@ -8,7 +8,7 @@ source_words: 1775
 script_words: 1238
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-27 ("Approved aa55")
 ---
 
 # Dependent Arising Section 3 Part 3: A Living Fact
