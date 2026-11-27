@@ -1,4 +1,4 @@
-// Bonus video: Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54), the close of Section 3.
+// Bonus video: Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54).
 // (Script: new-documents/after-anatta/aa54-without-a-fixed-nature-script.md, from EBooks
 // Bonus Articles/without-a-fixed-nature; script approved by the owner 2026-11-26: "Approved aa54".)
 // Arc: how does grey matter give rise to the felt red? -> the problem stated fairly -> what it needs: two fixed
@@ -84,7 +84,7 @@ export const PHRASES = [
   "Plastic, because nothing has a fixed nature", "Plastic does not mean vague",
   "It is precisely because nothing is fixed",
   // close
-  "This is Section 3, Part 2 of the Dependent Arising series, and the close of Section 3",
+  "This is Section 3, Part 2 of the Dependent Arising series",
   "The world does not lose its order. It loses its rigidity",
 ];
 
@@ -229,7 +229,7 @@ const OpenScene: React.FC = () => (
       <Items items={[
         ["I am John Tan, known as Thusness", 960, 400, <Wd c={GOLD} s={52} serif>Without a Fixed Nature</Wd>, { d: 0.2 }],
         ["I am John Tan, known as Thusness", 960, 620, <Wd c={DIM} s={28}>John Tan (Thusness) · my own notes</Wd>, { d: 0.3 }],
-        ["I am John Tan, known as Thusness", 960, 740, <Wd c={CHALK} s={32} serif>Dependent Arising · Section 3 · Part 2 · the close</Wd>, { d: 0.8 }],
+        ["I am John Tan, known as Thusness", 960, 740, <Wd c={CHALK} s={32} serif>Dependent Arising · Section 3 · Part 2</Wd>, { d: 0.8 }],
       ]} />
     </Phase>
     <Phase from="In Part 1, I set out our default mode of thinking">
@@ -455,7 +455,7 @@ const CloseScene: React.FC = () => {
   return (
     <AbsoluteFill style={{ opacity: 1 - ramp(t, end + 7, 1.5) }}>
       <Items items={[
-        ["This is Section 3, Part 2 of the Dependent Arising series, and the close of Section 3", 960, 260, <Wd c={GOLD} s={40} serif>Dependent Arising · Section 3 · the close</Wd>],
+        ["This is Section 3, Part 2 of the Dependent Arising series", 960, 260, <Wd c={GOLD} s={40} serif>Dependent Arising · Section 3 · Part 2</Wd>],
         ["The world does not lose its order. It loses its rigidity", 960, 520, <Wd c={CHALK} s={40} serif>The world does not lose its order.</Wd>],
         ["The world does not lose its order. It loses its rigidity", 960, 610, <Wd c={GOLD} s={40} serif>It loses its rigidity.</Wd>, { d: 2.2 }],
       ]} />
@@ -478,7 +478,7 @@ export const Body: React.FC = () => {
     ["So I do not say the hard problem is solved", "fire", <FireScene />],
     ["The reasoning shows that the gap was built into the question", "tea", <TeaScene />],
     ["When this is seen, something more than a question goes", "plastic", <PlasticScene />],
-    ["This is Section 3, Part 2 of the Dependent Arising series, and the close of Section 3", "night", <CloseScene />],
+    ["This is Section 3, Part 2 of the Dependent Arising series", "night", <CloseScene />],
   ];
   const moods: Mood[] = [];
   order.forEach(([cue, k], i) => {
