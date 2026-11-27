@@ -1,0 +1,82 @@
+---
+chapter: 58
+label: Bonus article
+title: "Dependent Arising Section 4 Part 3: Continuity Without a Carrier"
+series: "Dependent Arising, a series: Section 4 (The Logic of Dependency), Part 3, the close (previous: Section 4 Part 2: Questions That Lose Their Object)"
+source: EBooks Bonus Articles/continuity-without-a-carrier/continuity-without-a-carrier.md (approved by the owner 2026-11-27: "Approved for continuity without carrier")
+source_words: 2098
+script_words: 1201
+intro: yes
+voice: male
+status: draft for the owner's approval
+---
+
+# Dependent Arising Section 4 Part 3: Continuity Without a Carrier
+
+If nothing is carried from moment to moment, what makes a life one life? A habit one habit?
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+Part 1 let the passenger go. Change, without a changer. Part 2 turned the logic on the questions we ask about anything, and found that they lose their object.
+
+One worry is left, and it is the strongest. If there is no carrier, what holds a life together? This part closes Section 4.
+
+The logic of substance has one answer. Something persists. A soul. A stream of consciousness. A core self. The energy that is conserved. Each is proposed as what carries a life, a habit, or a river through time.
+
+Take that carrier away, the substantialist expects, and only a series of disconnected flashes is left. Each moment sealed off from the next. No memory. No responsibility. No learning.
+
+The logic of dependency rejects both pictures. The carrier, and the disconnection.
+
+The tradition's image is a lamp. The monk Nāgasena asks King Milinda whether the flame of the last watch of the night is the same as the flame of the first watch. Not the same, the king says. And not another either. The light burned through the night, in dependence on the same lamp.
+
+Nothing passes from one flame to the next. And yet the second is not unconnected with the first. Continuity is named on a succession that is neither identical, nor wholly different.
+
+A melody known by heart shows how this works. Each playing is new, and none of them is the previous one. No tune is stored somewhere between playings, waiting to be released. Yet the tune is recognised across them all. It can be played well or badly. Remembered or forgotten. Changed by practice.
+
+Habit, character, skill and karma are like this. Each moment is conditioned by what went before, and the link is valid and reliable. But the link is named across the moments. It is not carried by something that runs through them.
+
+Two things follow. And I think they are why this matters for a life, not only for an argument.
+
+Nothing is lost. Memory, responsibility, learning and karma are all kept, as designations that hold. The person who made a promise forty years ago keeps it today. Not because a core self crossed the years untouched. Because the conventional I, found nowhere, works.
+
+And nothing is fixed. A continuity not carried by an essence can bend. A habit can loosen. A character can soften. A grievance can end. There was never anything underneath that had to stay the same.
+
+Continuity without a carrier is more reliable than the nihilist expects. And more open than the substantialist can allow.
+
+Someone trained in physics may feel a carrier has been found after all. Energy is conserved. It changes form, chemical into heat, heat into motion, while the total stays the same. Surely energy is the modern substance.
+
+Physics itself does not treat it so. Energy is a quantity, not a fluid. A number, computed in different ways for different forms, whose total comes out the same before and after. Its amount depends on the frame. A moving ball has energy relative to the ground, and none relative to a runner keeping pace with it. And its conservation comes from a symmetry: the laws of physics do not change over time. It is a feature of how regularities hang together. Not a store of stuff.
+
+When a match burns, chemical energy becomes heat and light. The sentence is correct, and the regularity it records is among the most reliable there is. But nothing is found leaving the match head and travelling into the flame. Conservation is a regularity. It is not a passenger.
+
+A subtler candidate remains. If nothing is fixed, appearances seem endlessly plastic. The same lines seen as a duck, or as a rabbit. Surely, then, there is a store of possibilities behind appearances, from which each one is drawn.
+
+That gives emptiness a home behind things. It turns emptiness into a new substance, made of possibilities instead of stuff.
+
+But a potential is identified only through what it becomes, and what it meets. Salt is soluble only in relation to water. A seed is a seed only in relation to the sprout. Could, is said within a framework of conditions. It is not a thing waiting backstage.
+
+Nor is the plasticity infinite. A rope can appear as a snake in dim light. A shadow cannot be walked across as a bridge. Appearances are open because they depend, and limited for the same reason. This is the same luminous plasticity of Section 3. Appearances arising exactly as their conditions allow, and no more. Nothing blocks the display. And there is no store behind it.
+
+The two logics also lay out different paths.
+
+Under the logic of substance, the path is a journey made by a traveller. Bad states are things to remove. Good states are things to acquire. Awakening is a place one arrives at, and then keeps. Effort lifts out anger as one would lift out a stone, and holds on to calm as one would hold a coin. And because the states are pictured as things, the effort tends to harden into grasping.
+
+Under the logic of dependency, three things are recognised instead.
+
+Conditions are what work. Anger is not a thing with its own nature. It arises with a situation, a body, a history, an interpretation. Change the conditions, and the appearance reconfigures. Ethics, meditation and study are ways of arranging conditions.
+
+Openness is not a virtue added on top. It is what being dependent already means. If states had their own nature, practice would be pointless, because nothing could become other than it is.
+
+And there is nothing to hold, and no one apart from the holding. There is a path. But no one walks it apart from the walking.
+
+One trap remains, and I see it as the habit's last refuge. Openness, non holding, and emptiness can quietly become the new things held. A state to reach. An attitude to keep. A view to defend. Openness, too, is empty. It is not something you have. It is the absence of what you were holding.
+
+Return to the candle of Part 1. It still burns down through the night, the wax shortening, the flame leaning in the draught.
+
+The logic of substance asks what the flame really is, beneath its changing, and where it will go when it goes out. The logic of dependency asks nothing of the kind. It notices that the flame was never anything apart from the burning. And the burning never anything apart from the wax, the air, and the one who watches.
+
+Nothing is taken from the candle by this. It gives exactly as much light as before.
+
+This is Section 4, Part 3 of the Dependent Arising series, and the close of Section 4.
+
+What changes is only the weight with which it is watched. And with that, the direction of a life spent watching.
