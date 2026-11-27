@@ -2,12 +2,12 @@
 
 | | |
 |---|---|
-| Built | 2026-11-26 in a cloud session, after the owner approved the script ("Approved aa54"). 15:02 (narration 14:50), Andrew, 270 subtitle cues, 2386 words. 12 scenes in `tools/explainer/src/chapters/AA54.tsx`. The close of Section 3. |
+| Built | 2026-11-26 in a cloud session, after the owner approved the script ("Approved aa54"). 15:02 (narration 14:50), Andrew, 270 subtitle cues, 2386 words. 12 scenes in `tools/explainer/src/chapters/AA54.tsx`. Re-rendered 2026-11-27 without "and the close of Section 3", after the owner added Part 3 ("Approved, and re-render AA54"). |
 | Source | EBooks `Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md` (approved 2026-11-25; Section 3 Part 2 since 2026-11-26) |
 | Files | `aa54-without-a-fixed-nature-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa54.md` |
 | Checks | All 114 cue phrases found in the narration in order; a 16-frame contact sheet: the lute strings overlapped the subtitles, moved up and made smaller, and re-rendered |
 | Status | **Draft.** Sent to the owner 2026-11-26 to upload (Unlisted); not on the website |
-| Series | Dependent Arising, Section 3 (*Mind and Matter*, two parts), Part 2, the close. Previous: Part 1, *There Has to Be Something* (AA53). Next: Section 4, the logic of dependency |
+| Series | Dependent Arising, Section 3 (*Mind and Matter*, three parts), Part 2. Previous: Part 1, *There Has to Be Something* (AA53). Next: Part 3, *A Living Fact* (AA55) |
 
 ## Scenes
 
@@ -22,4 +22,4 @@
 9. A problem that does not arise: a flame going out; what remains.
 10. A sip of tea.
 11. Mechanical struck; spontaneous, luminous, plastic.
-12. The world does not lose its order. It loses its rigidity.
+12. Section 3 Part 2; the world does not lose its order. It loses its rigidity.

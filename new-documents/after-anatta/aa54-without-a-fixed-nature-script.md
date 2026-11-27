@@ -2,7 +2,7 @@
 chapter: 54
 label: Bonus article
 title: "Dependent Arising Section 3 Part 2: Without a Fixed Nature"
-series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 2 (previous: Section 3 Part 1: There Has to Be Something)"
+series: "Dependent Arising, a series: Section 3 (Mind and Matter), Part 2 (previous: Section 3 Part 1: There Has to Be Something; next: Section 3 Part 3: A Living Fact)"
 source: EBooks Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md (Section 3 Part 2 since 2026-11-26)
 source_words: 3349
 script_words: 2391
@@ -149,6 +149,6 @@ Plastic, because nothing has a fixed nature. Characteristics are not locked into
 
 Plastic does not mean vague. And it does not mean anything goes. The red is precise. The tea can name its garden. The medicine works. It is precisely because nothing is fixed that things can arise exactly as their conditions allow.
 
-This is Section 3, Part 2 of the Dependent Arising series, and the close of Section 3.
+This is Section 3, Part 2 of the Dependent Arising series.
 
 The world does not lose its order. It loses its rigidity.
