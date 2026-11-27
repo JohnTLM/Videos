@@ -8,7 +8,7 @@ source_words: 2098
 script_words: 1201
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-27 ("Approved aa58")
 ---
 
 # Dependent Arising Section 4 Part 3: Continuity Without a Carrier
