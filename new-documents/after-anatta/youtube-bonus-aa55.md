@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 3 Part 3: A Living Fact (AA55, 2026-11-27)
 
-Dependent Arising, Section 3 Part 3, the close of Section 3. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted).
+Dependent Arising, Section 3 Part 3, the close of Section 3. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/HNVn02Hor-o`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -33,6 +33,8 @@ Section 3, Part 3 of the Dependent Arising series, and the close of Section 3. P
 6:39 Not a new ground
 7:10 In practice
 7:46 In life, it was never there to cross
+
+Read the article: https://atr-passerby.com/dependent-arising-s3-p3-a-living-fact/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 

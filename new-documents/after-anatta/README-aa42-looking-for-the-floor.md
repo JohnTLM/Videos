@@ -6,5 +6,5 @@
 | Source | EBooks `Bonus Articles/looking-for-the-floor/looking-for-the-floor.md` (draft) |
 | Files | `aa42-looking-for-the-floor-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa42.md` |
 | Checks | All 85 cue phrases found in the timed narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** On YouTube (Unlisted): `X7qCSipu1Pg`, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `X7qCSipu1Pg`. **27 Nov 2026 (server):** YouTube `https://youtu.be/X7qCSipu1Pg`; on the website at https://atr-passerby.com/dependent-arising-s2-p2-looking-for-the-floor/. |
 | Series | Dependent Arising, Section 2 (*What is a phenomenon?*, 8 parts), Part 2. Next: Part 3, *Space* (AA43) |

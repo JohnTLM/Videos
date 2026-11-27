@@ -36,6 +36,8 @@ Section 2, Part 4 of the Dependent Arising series. Previous: Part 3, Space. Next
 11:34 Which holds?
 13:20 Next: Clarity Without a Knower
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p4-solid-dreamlike-described/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

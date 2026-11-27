@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/complete-and-dependent/complete-and-dependent.md` (draft) |
 | Files | `aa45-complete-and-dependent-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa45.md` |
 | Checks | All 115 cue phrases found in the narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** On YouTube (Unlisted): `N1yAVSDLWWQ`, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `N1yAVSDLWWQ`. **27 Nov 2026 (server):** YouTube `https://youtu.be/N1yAVSDLWWQ`; on the website at https://atr-passerby.com/dependent-arising-s2-p6-complete-and-dependent/. |
 | Series | Dependent Arising, Section 2, Part 6. Previous: Part 5, *Clarity Without a Knower* (no video yet). Next: Part 7, *Dōgen: The Shore and the Boat* |
 
 ## Scenes

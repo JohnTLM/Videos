@@ -37,6 +37,8 @@ Section 2, Part 7 of the Dependent Arising series. Previous: Part 6, Complete, a
 7:45 Which holds?
 8:59 Next: Firewood and Ash
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p7-dogen-the-shore-and-the-boat/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

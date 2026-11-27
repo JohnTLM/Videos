@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 3 Part 2: Without a Fixed Nature (AA54, 2026-11-26)
 
-Dependent Arising, Section 3 Part 2. Built on 2026-11-26, re-rendered 2026-11-27 without "the close of Section 3" (the owner added Part 3), at 720p. The re-render was uploaded by the owner on 27 Nov 2026 (Unlisted), after a first upload of the 15:02 render.
+Dependent Arising, Section 3 Part 2. Built on 2026-11-26, re-rendered 2026-11-27 without "the close of Section 3" (the owner added Part 3), at 720p. The re-render was uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/Bs9D39vTQ-A`, after a first upload of the 15:02 render (`https://youtu.be/OfDS4S6tLxM`, not linked anywhere).
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -35,6 +35,8 @@ Section 3, Part 2 of the Dependent Arising series. Previous: Section 3, Part 1, 
 13:02 A sip of tea
 13:36 From mechanical to luminously plastic
 14:47 The world does not lose its order
+
+Read the article: https://atr-passerby.com/dependent-arising-s3-p2-without-a-fixed-nature/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 

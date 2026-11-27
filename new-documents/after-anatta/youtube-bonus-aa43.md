@@ -41,6 +41,8 @@ Section 2, Part 3 of the Dependent Arising series. Previous: Part 2, Looking for
 9:47 Something loosens
 10:08 Next: Solid, Dreamlike, Described
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p3-space/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

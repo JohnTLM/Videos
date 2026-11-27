@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 4 Part 3: Continuity Without a Carrier (AA58, 2026-11-27)
 
-Dependent Arising, Section 4 Part 3, the close of Section 4. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted).
+Dependent Arising, Section 4 Part 3, the close of Section 4. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/lH4nPcTbME4`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -33,6 +33,8 @@ Section 4, Part 3 of the Dependent Arising series, and the close of Section 4. P
 6:34 The last trap
 6:55 Back to the candle
 7:29 The weight with which it is watched
+
+Read the article: https://atr-passerby.com/dependent-arising-s4-p3-continuity-without-a-carrier/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 

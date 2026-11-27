@@ -7,7 +7,7 @@
 | Files | `aa37-measured-or-formed-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; drawings `tools/explainer/src/chapters/AA37.tsx`; YouTube texts `youtube-bonus-aa37.md` |
 | Checks | A contact sheet of 24 frames: subtitles clear of the drawings, a clean fade |
 | Sent | a two-pass 720p copy, 25 MB, sent to the owner in the session 12:25 pm SGT |
-| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"); id pending from the server. Not on the website; the article is a draft |
+| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"). **27 Nov 2026 (server):** on the website at https://atr-passerby.com/dependent-arising-s1-p3-measured-or-formed/ (Read and Listen). The video was not found on the channel (no upload since 22 Nov of this length), so no id yet. |
 | Series | Dependent Arising, Part 3. Part 2 is AA36; Part 4 is *Empty, Not Ghostly* (AA38), the close of the first section. Gathered copy in [DependentArising](https://github.com/JohnTLM/DependentArising) |
 
 The closing "Part 4" line follows AA35 and AA36 (the owner's ask), in place of VIDEO-SPEC's no-teaser rule. The owner

@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/undeniably-there-or-formed/undeniably-there-or-formed.md` (draft of 2026-11-22) and its NotebookLM pack |
 | Files | `aa35-undeniably-there-or-formed-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; drawings `tools/explainer/src/chapters/AA35.tsx`; YouTube texts `youtube-bonus-aa35.md` |
 | Sent | a two-pass 720p copy, 26 MB, sent to the owner in the session 11:08 am SGT. Rebuilt in the series session on the owner's ask ("rebuild AA35 here"), 12:30–12:52 pm SGT, from the saved script and drawings, same title card: 9:56, 161 cues, no LATE drawings; a 24 MB copy sent 12:57 pm SGT |
-| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"); id pending from the server. Not on the website; the article is a draft |
+| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"). **27 Nov 2026 (server):** on the website at https://atr-passerby.com/dependent-arising-s1-p1-undeniably-there-or-formed/ (Read and Listen). The video was not found on the channel (no upload since 22 Nov of this length), so no id yet. |
 | Series | Dependent arising, a series: Part 1. Part 2 will be *The Illusion of the Given*. The series continues in its own session (owner, 2026-11-22: "move Aa35 to the new session"), with the gathered copy in [DependentArising](https://github.com/JohnTLM/DependentArising) |
 
 The closing "Part 2" line is the owner's own ask, in place of VIDEO-SPEC's no-teaser rule.

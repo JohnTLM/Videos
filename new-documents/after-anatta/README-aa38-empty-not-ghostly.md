@@ -7,5 +7,5 @@
 | Files | `aa38-empty-not-ghostly-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; drawings `tools/explainer/src/chapters/AA38.tsx`; YouTube texts `youtube-bonus-aa38.md` |
 | Checks | Contact sheets of 32 frames: subtitles clear of the drawings, a clean fade |
 | Sent | a two-pass 720p copy, 23 MB, sent to the owner in the session 12:57 pm SGT |
-| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"); id pending from the server. Not on the website; the article is a draft |
+| Status | **Draft.** On YouTube (Unlisted): the owner confirmed on 27 Nov 2026 that all Dependent Arising parts are up ("All are up"). **27 Nov 2026 (server):** on the website at https://atr-passerby.com/dependent-arising-s1-p4-empty-not-ghostly/ (Read and Listen). The video was not found on the channel (no upload since 22 Nov of this length), so no id yet. |
 | Series | Dependent Arising, Part 4: the close of the first section (Parts 1–4, drawn mainly from *The Illusion of the Given*). Next: the major sections on what a phenomenon is, mind and matter, and the logic of dependency, each multipart. Gathered copy in [DependentArising](https://github.com/JohnTLM/DependentArising) |

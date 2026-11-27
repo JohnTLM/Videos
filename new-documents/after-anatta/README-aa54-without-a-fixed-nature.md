@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/without-a-fixed-nature/without-a-fixed-nature.md` (approved 2026-11-25; Section 3 Part 2 since 2026-11-26) |
 | Files | `aa54-without-a-fixed-nature-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa54.md` |
 | Checks | All 114 cue phrases found in the narration in order; a 16-frame contact sheet: the lute strings overlapped the subtitles, moved up and made smaller, and re-rendered |
-| Status | **Draft.** The owner first uploaded the 15:02 render (with "the close of Section 3") on 27 Nov 2026, then uploaded the re-render (15:00) the same day (Unlisted). The re-render is the one to keep; ids pending from the server. Not on the website |
+| Status | **Draft.** The owner first uploaded the 15:02 render (with "the close of Section 3") on 27 Nov 2026, then uploaded the re-render (15:00) the same day (Unlisted). The re-render is the one to keep (`Bs9D39vTQ-A`); the earlier upload is `OfDS4S6tLxM`, linked nowhere. **27 Nov 2026 (server):** YouTube `https://youtu.be/Bs9D39vTQ-A`; on the website at https://atr-passerby.com/dependent-arising-s3-p2-without-a-fixed-nature/. |
 | Series | Dependent Arising, Section 3 (*Mind and Matter*, three parts), Part 2. Previous: Part 1, *There Has to Be Something* (AA53). Next: Part 3, *A Living Fact* (AA55) |
 
 ## Scenes

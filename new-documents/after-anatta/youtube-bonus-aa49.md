@@ -37,6 +37,8 @@ Section 2, Part 9 of the Dependent Arising series. Previous: Part 8, Dōgen: Fir
 9:43 Which holds?
 10:54 Next: Huayan
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p9-dogen-the-fish-and-the-bird/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

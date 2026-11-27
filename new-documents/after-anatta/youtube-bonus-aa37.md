@@ -46,6 +46,8 @@ Section 1, Part 3 of the Dependent Arising series. Previous: Part 2, The Illusio
 10:12 The verdict
 10:33 Next: Empty, Not Ghostly
 
+Read the article: https://atr-passerby.com/dependent-arising-s1-p3-measured-or-formed/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

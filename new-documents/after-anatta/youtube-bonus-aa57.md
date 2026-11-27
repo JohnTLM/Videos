@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 4 Part 2: Questions That Lose Their Object (AA57, 2026-11-27)
 
-Dependent Arising, Section 4 Part 2. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted).
+Dependent Arising, Section 4 Part 2. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/0r9JMXLZN70`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -32,6 +32,8 @@ Section 4, Part 2 of the Dependent Arising series. Previous: Section 4, Part 1, 
 5:52 Conventional, not "merely" conventional
 6:55 In practice
 7:18 Seen, for what it assumes
+
+Read the article: https://atr-passerby.com/dependent-arising-s4-p2-questions-that-lose-their-object/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
