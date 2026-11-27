@@ -163,3 +163,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   Ids recorded in both texts files and READMEs.
 - Not done: AA36 was uploaded twice as the same file (`5cRviAucOc8`, `n5Z0v9A5JT8`), so it matched twice; AA35 is
   not on the channel. thusness-website note `server/TASK-dependent-arising-section-1-videos.md`.
+
+## 2026-11-28: Section 1 video ids, AA35 and AA36 (server)
+
+- AA35 `nceZwx2U0yA` (uploaded 27 Nov 2026 22:56 UTC, matched by file size, 24,165,442 bytes) and AA36 `5cRviAucOc8`
+  (the first of its two byte-identical copies): texts and tags applied from `youtube-bonus-aa35.md` / `aa36.md`
+  (`--entry 1`), titles, tags and disclaimer read back; in *Bonus Articles* AA35 → AA36 just before AA37. The unused
+  AA36 copy `n5Z0v9A5JT8` was taken out of the playlist, not deleted. Ids recorded in both texts files and READMEs.
+  thusness-website note `server/TASK-dependent-arising-section-1-videos-2.md`.
