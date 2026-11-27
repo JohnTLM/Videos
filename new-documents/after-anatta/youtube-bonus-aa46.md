@@ -19,7 +19,7 @@ Everything else has been looked for, and not found. But surely not the one who f
 
 Every appearance is clear, and the habit puts a knower behind the clarity: a witness, a background awareness, the one constant behind the show. Look for it. There is the tree, and seeing; no viewer standing apart. There is the ringing, clear and complete; no listener needed. When no layer is left, nothing is lost but the distance: the middleman goes. In the seen, just the seen (Udāna 1.10). The clarity is exactly the appearances, each clear in its own way: vivid, intimate, without centre or edge, effortless, self-releasing like a drawing on water. One caution: non-duality held as "pure presence" becomes a new floor; the clarity is empty too. And the Dzogchen words, luminosity, display, spontaneous presence, self-release, read without a ground, with a fair note on where some Nyingma teachers read more in them.
 
-Section 2, Part 5 of the Dependent Arising series. Previous: Part 4, Solid, Dreamlike, Described. Next, Part 6: Complete, and Dependent. Drawn from Vivid and Nowhere: https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/
+Section 2, Part 5 of the Dependent Arising series. Previous: Part 4, Solid, Dreamlike, Described. Next, Part 6: Complete, and Dependent.
 
 0:00 Surely not the one who finds?
 0:38 The last candidate

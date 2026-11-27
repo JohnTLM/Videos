@@ -23,7 +23,7 @@ The ghostly void is a misunderstanding, born of a habitual way of understanding 
 
 Then what the first three parts have shown, the test one last time, and why I keep using the apple, the car and the rain: to correct a misconception with impact, gradually, from rejection to acceptance, from counter-intuitive to highly logical and tenable.
 
-Section 1, Part 4 of the Dependent Arising series, and the close of Section 1. Previous: Part 3, Measured, or Formed? Next: other major sides of dependent arising: what is a phenomenon, mind and matter, and the logic of dependency.
+Section 1, Part 4 of the Dependent Arising series, and the close of Section 1. Previous: Part 3, Measured, or Formed? Next: Section 2, What Is a Phenomenon?, Part 1, Vivid, and Not Found.
 
 0:00 Is anything really there?
 0:20 Three parts, one pattern

@@ -29,7 +29,7 @@ Then the question itself. "What is it?" is a good everyday question. Asked as "w
 
 The question is not answered. It falls away, and nothing needs to fill its place.
 
-Section 2, Part 1 of the Dependent Arising series. Previous: Section 1, Part 4, Empty, Not Ghostly. Next, Part 2: looking for the floor in time, matter and space. Drawn from Vivid and Nowhere: https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/
+Section 2, Part 1 of the Dependent Arising series. Previous: Section 1, Part 4, Empty, Not Ghostly. Next, Part 2: looking for the floor in time, matter and space.
 
 0:00 What is it that appears?
 0:34 A quieter question

@@ -19,7 +19,7 @@ A car that knocks you down, a dream that makes you weep, a wave function no one 
 
 Shown no floor down below, the habit starts ranking across. One person makes matter real and mind its shadow; another makes mind real and matter its projection; a third makes the equations real and the apple a mere look. Each candidate is searched in turn. The car's hardness is met in the hand, not stored in the metal, and the car is not found, yet it carries me to work. The one in the dream is not found, and neither is the mind, yet the grief was grief. The wave function appears as symbols and clicks: reliable designations, still designations. Then a quieter floor: the web of conditions itself. But conditions are as unfindable as what they condition (MMK 1, MMK 14); dependent arising made into a floor is the old essence spread thin. Illusions that work: the magician's elephant, the dream, the mirage (MMK 17, Vigrahavyāvartanī 23), and why emptiness is not a power.
 
-Section 2, Part 4 of the Dependent Arising series. Previous: Part 3, Space. Next, Part 5: Clarity Without a Knower. Drawn from Vivid and Nowhere: https://atr-passerby.com/vivid-and-nowhere-what-a-phenomenon-is/
+Section 2, Part 4 of the Dependent Arising series. Previous: Part 3, Space. Next, Part 5: Clarity Without a Knower.
 
 0:00 A car, a dream, a wave function
 0:42 The habit ranks across

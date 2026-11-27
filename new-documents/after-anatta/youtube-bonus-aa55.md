@@ -19,7 +19,7 @@ Divide mind from matter, and the gap can never be bridged. Reach for a cup, and 
 
 The close of Section 3, Mind and Matter. Dividing mind from matter is a useful convention: the doctor, the neurologist and the law all rely on it. Taken as two stuffs with fixed natures, it makes an unbridgeable gap. But the living fact is different: reaching for a cup, a door slamming, walking over uneven ground, coffee, a sad memory. The interaction is seamless and effortless; the gap is a picture laid over it afterwards. Dependent arising and emptiness let relation be understood without resolving one side into the other, unlike reductionism, holism, materialism, idealism or a third ground; seamless, yet not merged. In a world without a substrate this is close to Mipham's two models of the two truths: ontologically, emptiness and dependent arising; experientially, a non-dual, non-substantialist taste against a reified, dualistic taste of agent and action. The non-dual taste is not a new ground.
 
-Section 3, Part 3 of the Dependent Arising series, and the close of Section 3. Previous: Section 3, Part 2, Without a Fixed Nature. Next: Section 4, the logic of dependency.
+Section 3, Part 3 of the Dependent Arising series, and the close of Section 3. Previous: Section 3, Part 2, Without a Fixed Nature. Next: Section 4, The Logic of Dependency, Part 1, Two Logics.
 
 0:00 On paper, and in life
 0:23 Two pictures
