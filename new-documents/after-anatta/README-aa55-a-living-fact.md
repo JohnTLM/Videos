@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/a-living-fact/a-living-fact.md` (approved 2026-11-27) |
 | Files | `aa55-a-living-fact-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa55.md` |
 | Checks | All 80 cue phrases found in the narration in order; a 16-frame contact sheet looked at: no overlaps or clipped text |
-| Status | **Draft.** Sent to the owner 2026-11-27 to upload (Unlisted); not on the website |
+| Status | **Draft.** Uploaded by the owner 27 Nov 2026 (Unlisted), id pending from the server; not on the website |
 | Series | Dependent Arising, Section 3 (*Mind and Matter*, three parts), Part 3, the close. Previous: Part 2, *Without a Fixed Nature* (AA54). Next: Section 4, the logic of dependency |
 
 ## Scenes
