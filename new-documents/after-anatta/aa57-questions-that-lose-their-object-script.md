@@ -8,7 +8,7 @@ source_words: 1934
 script_words: 1188
 intro: yes
 voice: male
-status: draft for the owner's approval
+status: approved by the owner 2026-11-27 ("Approved aa57")
 ---
 
 # Dependent Arising Section 4 Part 2: Questions That Lose Their Object
