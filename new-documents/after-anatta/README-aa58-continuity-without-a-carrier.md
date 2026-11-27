@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/continuity-without-a-carrier/continuity-without-a-carrier.md` (approved 2026-11-27) |
 | Files | `aa58-continuity-without-a-carrier-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa58.md` |
 | Checks | All 51 cue phrases found in the narration in order; a 16-frame contact sheet looked at: no overlaps or clipped text |
-| Status | **Draft.** Sent to the owner 2026-11-27 to upload (Unlisted); not on the website |
+| Status | **Draft.** Uploaded by the owner 27 Nov 2026 (Unlisted), id pending from the server; not on the website |
 | Series | Dependent Arising, Section 4 (three parts), Part 3, the close. Previous: Part 2 (AA57). The four sections first planned (22 Nov) are complete |
 
 ## Scenes
