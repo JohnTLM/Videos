@@ -48,6 +48,8 @@ Section 1, Part 2 of the Dependent Arising series. Previous: Part 1, Undeniably 
 11:59 No lived world brushed aside
 12:25 Next: Measured, or Formed?
 
+Read the article: https://atr-passerby.com/dependent-arising-s1-p2-the-illusion-of-the-given/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

@@ -52,7 +52,14 @@ def read_meta(path, entry=None):
 
     title = section("Title").splitlines()[0].strip()
     description = section("Description")
-    tags = [t.strip() for t in section("Tags").splitlines()[0].split(",") if t.strip()]
+    tags = [t.strip().strip("`").strip() for t in section("Tags").splitlines()[0].split(",") if t.strip().strip("`").strip()]
+    # a file whose tags block says it adds to "Tags shared by every video" gets those after its own (2026-11-27)
+    shared = re.search(r"^Tags shared by every video[^\n]*\n`([^`\n]+)`", Path(path).read_text(encoding="utf-8"), re.M)
+    if shared:
+        for t in (x.strip() for x in shared.group(1).split(",")):
+            # YouTube counts a tag with a space as quoted: keep well under its 500-character limit
+            if t and t.lower() not in {x.lower() for x in tags} and sum(len(x) + 2 + 2 * (" " in x) for x in tags + [t]) <= 480:
+                tags.append(t)
     problems = []
     if len(title) > 100:
         problems.append(f"title is {len(title)} characters (limit 100)")

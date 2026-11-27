@@ -39,6 +39,8 @@ Section 2, Part 6 of the Dependent Arising series. Previous: Part 5, Clarity Wit
 8:32 Which holds?
 9:53 Next: the shore and the boat
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p6-complete-and-dependent/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

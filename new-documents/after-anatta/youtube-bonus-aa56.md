@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 4 Part 1: Two Logics (AA56, 2026-11-27)
 
-Dependent Arising, Section 4 Part 1. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted).
+Dependent Arising, Section 4 Part 1. Built on 2026-11-27 at 720p. Uploaded by the owner on 27 Nov 2026 (Unlisted): `https://youtu.be/zZI54KB-4Fg`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -31,6 +31,8 @@ Section 4, Part 1 of the Dependent Arising series. Previous: Section 3, Part 3, 
 7:11 Two ways of reasoning, one candle
 7:42 In practice
 8:03 No changer behind it
+
+Read the article: https://atr-passerby.com/dependent-arising-s4-p1-two-logics/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 

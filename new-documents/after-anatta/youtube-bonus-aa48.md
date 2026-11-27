@@ -37,6 +37,8 @@ Section 2, Part 8 of the Dependent Arising series. Previous: Part 7, Dōgen: The
 8:21 Which holds?
 9:47 Next: The Fish and the Bird
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p8-dogen-firewood-and-ash/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

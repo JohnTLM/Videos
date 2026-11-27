@@ -35,6 +35,8 @@ Section 2, Part 10 of the Dependent Arising series. Previous: Part 9, Dōgen: Th
 9:00 Which holds?
 10:22 Next: the close of Section 2
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p10-total-exertion-huayan/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

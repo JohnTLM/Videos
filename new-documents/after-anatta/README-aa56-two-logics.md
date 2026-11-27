@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/two-logics/two-logics.md` (approved 2026-11-27) |
 | Files | `aa56-two-logics-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa56.md` |
 | Checks | All 62 cue phrases found in the narration in order; a 16-frame contact sheet looked at: no overlaps or clipped text |
-| Status | **Draft.** Uploaded by the owner 27 Nov 2026 (Unlisted), id pending from the server; not on the website |
+| Status | **Draft.** Uploaded by the owner 27 Nov 2026 (Unlisted). **27 Nov 2026 (server):** YouTube `https://youtu.be/zZI54KB-4Fg`; on the website at https://atr-passerby.com/dependent-arising-s4-p1-two-logics/. |
 | Series | Dependent Arising, Section 4 (*The Logic of Dependency*, three parts), Part 1. Previous: Section 3 Part 3 (AA55). Next: Part 2, *Questions That Lose Their Object* (AA57) |
 
 ## Scenes

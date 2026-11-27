@@ -39,6 +39,8 @@ Section 1, Part 1 of the Dependent Arising series. Next, Part 2: The Illusion of
 8:51 The verdict
 9:21 Next: The Illusion of the Given
 
+Read the article: https://atr-passerby.com/dependent-arising-s1-p1-undeniably-there-or-formed/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

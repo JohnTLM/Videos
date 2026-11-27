@@ -40,6 +40,8 @@ Section 1, Part 4 of the Dependent Arising series, and the close of Section 1. P
 8:03 From rejection to acceptance
 9:00 The close of the first section
 
+Read the article: https://atr-passerby.com/dependent-arising-s1-p4-empty-not-ghostly/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

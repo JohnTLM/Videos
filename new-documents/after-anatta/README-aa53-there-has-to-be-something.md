@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/there-has-to-be-something/there-has-to-be-something.md` (approved 2026-11-26) |
 | Files | `aa53-there-has-to-be-something-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa53.md` |
 | Checks | All 103 cue phrases found in the narration in order; a 16-frame contact sheet and three key frames looked at: no overlaps or clipped text. New pronunciations in the series map: Zhang Zai, Nietzsche |
-| Status | **Draft.** Sent to the owner 2026-11-26 to upload (Unlisted); not on the website |
+| Status | **Draft.** Sent to the owner 2026-11-26 to upload (Unlisted). **27 Nov 2026 (server):** YouTube `https://youtu.be/_3xoHST6Boc`; on the website at https://atr-passerby.com/dependent-arising-s3-p1-there-has-to-be-something/. |
 | Series | Dependent Arising, Section 3 (*Mind and Matter*, two parts), Part 1. Previous: Section 2 Part 11 (AA51). Next: Part 2, *Without a Fixed Nature* (AA54, script draft) |
 
 ## Scenes

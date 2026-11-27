@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/dogen-shore-and-boat/dogen-shore-and-boat.md` (draft) |
 | Files | `aa47-dogen-shore-and-boat-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa47.md` |
 | Checks | All 80 cue phrases found in the narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** On YouTube (Unlisted): `nqMFnhf4uLM`, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `nqMFnhf4uLM`. **27 Nov 2026 (server):** YouTube `https://youtu.be/nqMFnhf4uLM`; on the website at https://atr-passerby.com/dependent-arising-s2-p7-dogen-the-shore-and-the-boat/. |
 | Series | Dependent Arising, Section 2, Part 7. Previous: Part 6, *Complete, and Dependent* (AA45). Next: Part 8, *Dōgen: Firewood and Ash* |
 
 ## Scenes

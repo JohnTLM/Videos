@@ -6,5 +6,5 @@
 | Source | EBooks `Bonus Articles/space/space.md` (draft) |
 | Files | `aa43-space-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa43.md` |
 | Checks | All 109 cue phrases found in the timed narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** On YouTube (Unlisted): `HLNHJpvKV6M`, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `HLNHJpvKV6M`. **27 Nov 2026 (server):** YouTube `https://youtu.be/HLNHJpvKV6M`; on the website at https://atr-passerby.com/dependent-arising-s2-p3-space/. |
 | Series | Dependent Arising, Section 2, Part 3. Next: Part 4, *Solid, Dreamlike, Described* (AA44, script awaiting approval) |

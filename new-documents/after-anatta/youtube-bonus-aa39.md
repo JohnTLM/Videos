@@ -53,6 +53,8 @@ Section 2, Part 1 of the Dependent Arising series. Previous: Section 1, Part 4, 
 12:40 The world, without the weight
 12:56 Next: looking for the floor
 
+Read the article: https://atr-passerby.com/dependent-arising-s2-p1-vivid-and-not-found/
+
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
 ### Tags (front)

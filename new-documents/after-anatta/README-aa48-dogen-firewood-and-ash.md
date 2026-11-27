@@ -6,7 +6,7 @@
 | Source | EBooks `Bonus Articles/dogen-firewood-and-ash/dogen-firewood-and-ash.md` (draft) |
 | Files | `aa48-dogen-firewood-and-ash-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa48.md` |
 | Checks | All 87 cue phrases found in the narration; a contact sheet of 16 frames: clean |
-| Status | **Draft.** On YouTube (Unlisted): `UKZji5nvQsw`, not on the website |
+| Status | **Draft.** On YouTube (Unlisted): `UKZji5nvQsw`. **27 Nov 2026 (server):** YouTube `https://youtu.be/UKZji5nvQsw`; on the website at https://atr-passerby.com/dependent-arising-s2-p8-dogen-firewood-and-ash/. |
 | Series | Dependent Arising, Section 2, Part 8. Previous: Part 7, *Dōgen: The Shore and the Boat* (AA47). Next: Part 9, *Dōgen: The Fish and the Bird* |
 
 ## Scenes
