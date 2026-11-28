@@ -8,3 +8,7 @@
 | Checks | All 66 cue phrases found in the narration in order; type check passed; a 16-frame contact sheet and full-size frames looked at (Mipham box text shortened to fit, then rebuilt) |
 | Status | **Draft.** Sent to the owner 2026-11-28; uploaded by the owner 28 Nov 2026 (Unlisted). **28 Nov 2026 (server):** YouTube `https://youtu.be/8iZ0-hsIvw8`; on the website at https://atr-passerby.com/dependent-arising-s7-p1-an-open-heart-that-learns/. |
 | Series | Dependent Arising, Section 7 (Compassion and Objections), Part 1 of 2 |
+
+**28 Nov 2026, v2:** rebuilt with "exactly as valid, and as reliable" (the article's wording since that morning) in
+the narration and on screen; 8:16, send copy 18,575,255 bytes, 496.5 s. To replace the first upload `8iZ0-hsIvw8`
+once the owner re-uploads.
