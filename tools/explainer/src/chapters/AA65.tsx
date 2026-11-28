@@ -269,7 +269,7 @@ const TeachScene: React.FC = () => (
       ["Three traditions I respect have said this in their own ways", 960, 100, <Wd c={GOLD} s={40} serif>Three teachers</Wd>],
       ["teaches compassion as something trained, step by step", 330, 360, <Box c={WARM} w={560} title="Tsongkhapa" sub="trained step by step · seven points" />, { pop: true }],
       ["Compassion is method. The view of emptiness is wisdom", 330, 560, <Wd c={WARM} s={24}>method + wisdom: two wings</Wd>],
-      ["describes the nature of mind as empty in essence", 960, 360, <Box c={VIOLET} w={560} title="Mipham" sub="empty · cognizant · unobstructed compassionate energy" />, { pop: true }],
+      ["describes the nature of mind as empty in essence", 960, 360, <Box c={VIOLET} w={560} title="Mipham" sub="empty · cognizant · compassionate energy" />, { pop: true }],
       ["Realization reveals it, rather than producing it", 960, 560, <Wd c={VIOLET} s={24}>revealed, not produced</Wd>],
       ["speaks of compassion mostly as conduct", 1590, 360, <Box c={TEAL} w={560} title="Dōgen" sub="giving · kind speech · beneficial action · identity-action" />, { pop: true }],
       ["he asks for three minds in every task", 1590, 560, <Wd c={TEAL} s={24}>joyful · nurturing · great mind</Wd>],
