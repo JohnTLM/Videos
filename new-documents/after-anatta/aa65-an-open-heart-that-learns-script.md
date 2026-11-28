@@ -73,7 +73,7 @@ Where do I stand? With Tsongkhapa, that compassion is trained, and that care sho
 
 So compassion is not a source, sending kindness out. It is one of the conditions that meet, as the friend's voice and the bad news are others. When they meet with an open heart that has learned something of how the world works, help appears.
 
-Nothing stands behind it, producing it. And it is exactly as real, and as reliable, as the ringing of a bell when it is struck.
+Nothing stands behind it, producing it. And it is exactly as valid, and as reliable, as the ringing of a bell when it is struck.
 
 In practice. When someone's pain reaches you, notice the first turning, before any thought. It needs no effort. When it is blocked, see what blocks it. Usually a self standing apart, defending something.
 
