@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising: An Overview (AA67, 2026-11-28)
 
-Dependent Arising, the overview of the series. Built on 2026-11-28 at 720p.
+Dependent Arising, the overview of the series. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/fJ3cJlODSTA`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -33,6 +33,8 @@ The overview of the Dependent Arising series. Start with Section 1, Part 1, Unde
 7:00 Section 7: Questions
 7:42 How to read it
 8:19 And the bell still rings
+
+Read the article: https://atr-passerby.com/dependent-arising-overview/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
