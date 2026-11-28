@@ -1,0 +1,88 @@
+---
+chapter: 65
+label: Bonus article
+title: "Dependent Arising Section 7 Part 1: An Open Heart That Learns"
+series: "Dependent Arising, a series: Section 7 (Compassion and Objections), Part 1 (previous: Section 6 Part 3: Elaboration Stops in Emptiness)"
+source: EBooks Bonus Articles/an-open-heart-that-learns/an-open-heart-that-learns.md (approved by the owner 2026-11-28: "Approved, start the scripts for Section 7")
+source_words: 2080
+script_words: 1236
+intro: yes
+voice: male
+status: draft, for the owner's approval
+---
+
+# Dependent Arising Section 7 Part 1: An Open Heart That Learns
+
+A friend phones with bad news. Before any thought, something in me turns toward them. Then comes the harder part: knowing what would actually help.
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+Six sections have looked at dependent arising as a view. What is formed. What a phenomenon is. Mind and matter. The logic of dependency. And the twelve links, as the tradition teaches them, and as Nāgārjuna reads them.
+
+Almost nothing has been said about compassion. That is a gap, and a serious one. Nāgārjuna's own Middle Way ends with a bow to the Buddha, who out of compassion taught the true Dharma, so that all views could be let go.
+
+So this last section turns to two things a view like this must face. Here, in Part 1, compassion. In Part 2, the strongest objections, fairly answered.
+
+First, what I will not say. I will not say that emptiness causes compassion. Emptiness does not cause anything. It is not a power behind things. And seeing it is not a switch that turns kindness on.
+
+But emptiness takes nothing from compassion. When someone we love speaks kindly, we imagine a fixed self behind the words, who really means them. The kindness is felt, and no such ground is found. Nothing is missing.
+
+And emptiness removes the excuses. It isn't really happening. They are only appearances. There is no one there. Each of these needs a world where what is empty does not count.
+
+In the world this series has described, what is empty is exactly what counts. What appears, vividly, working, with nothing behind it. A car injures, and the grief of the family is not an illusion. Nothing waits outside the chain of conditions to absorb what we do.
+
+As I see it, compassion is conventional. And conventional does not mean merely agreed, or less than real. For the logic of dependency, conventional truth is the only kind of validity there is, and it is fully valid.
+
+The suffering of a being is conventional, and real. The help that relieves it is conventional, and real. Compassion meets suffering where suffering is: among bodies, words, situations and needs.
+
+So compassion is not a quality of the ultimate, sitting behind appearances, waiting to be uncovered. And it is not a substance in the heart that runs low, or fills up. It is a responsiveness to the conventional. To this person, this pain, this situation, as it actually is for them.
+
+That is also why no being's suffering can be brushed aside. No single world is the given one. The hungry ghost's suffering is real for the hungry ghost. It cannot be dismissed as not really happening, because it is not ours.
+
+The first half of compassion, as I see it, is openness of the heart.
+
+This is not a feeling made on purpose, and not an attitude to keep up. Openness is not a virtue added on top. It is what being dependent already means. When the habit of standing apart is not imposed, the heart is already open.
+
+In Section 3, the gap between mind and matter turned out to be made by a framework, one that defines them as inherently different, each existing by itself. The interaction itself is seamless. No one has ever had to work at joining their mind to their body.
+
+The gap between self and other is made the same way. Defined as two selves, each complete on its own side, they need a bridge. And compassion becomes the effort of building one.
+
+Seen as they arise, the friend's voice, the bad news, and the turning toward them are one movement. Nothing has to cross. Dōgen calls this identity action: not separating oneself from others.
+
+And this openness shows itself as the habit loosens. It is not produced by insight. But it is no longer blocked.
+
+The other half is learning.
+
+An open heart does not, by itself, know what to do. A friend in grief may need words, or silence, or a meal, or to be left alone for a day. A child may need comfort, or a firm no. A stranger's customs may make my kindness land as an insult. Good will that does not know the situation can miss, and sometimes harm.
+
+So compassion learns the conventional as it meets each situation. What this person needs. How things work here. What helps, and what only feels like helping.
+
+This learning never ends, because situations never repeat exactly. It is the same skill the whole series has pointed at: seeing conditions clearly, and arranging them well. Compassion is that path, turned toward others.
+
+And because it is learned, it can be cultivated. It deepens with practice, with mistakes, with attention. So, does compassion simply show itself, or is it trained? Both.
+
+Three traditions I respect have said this in their own ways.
+
+Tsongkhapa teaches compassion as something trained, step by step. Seeing every being as having been one's mother. Remembering their kindness. Wishing to repay it. Love, compassion, a special resolve, and the awakened mind. Compassion is method. The view of emptiness is wisdom. Both are needed, like two wings.
+
+Mipham, with Dzogchen in view, describes the nature of mind as empty in essence, cognizant by nature, and unobstructed in its compassionate energy. Compassion is one aspect of the nature itself. Realization reveals it, rather than producing it.
+
+Dōgen speaks of compassion mostly as conduct. Giving. Kind speech. Beneficial action. And not separating oneself from others. To the monastery cook he asks for three minds in every task: the joyful mind, the nurturing mind, and the great mind. For him, practice and awakening are one. Compassion is how awakening acts, in each ordinary deed.
+
+Where do I stand? With Tsongkhapa, that compassion is trained, and that care should never be assumed to come automatically. With Mipham, that it is unobstructed responsiveness, though I read his words without a ground: not a quality sitting in a basis, but the openness of what appears. With Dōgen, that it lives in ordinary acts. And with all three, that it is empty, and works.
+
+So compassion is not a source, sending kindness out. It is one of the conditions that meet, as the friend's voice and the bad news are others. When they meet with an open heart that has learned something of how the world works, help appears.
+
+Nothing stands behind it, producing it. And it is exactly as real, and as reliable, as the ringing of a bell when it is struck.
+
+In practice. When someone's pain reaches you, notice the first turning, before any thought. It needs no effort. When it is blocked, see what blocks it. Usually a self standing apart, defending something.
+
+Then ask what would actually help. Not what would make me feel helpful. If you do not know, ask, or wait.
+
+Watch the excuses. It is their karma. It is all empty anyway. It is not my business. Notice how each one needs something to stand behind it.
+
+And do not hold compassion as a thing to own. It is a responsiveness, and it is empty too.
+
+This is Section 7, Part 1 of the Dependent Arising series. Next, in Part 2, the strongest objections to this series, fairly answered.
+
+The teaching itself arose this way. In dependence. On compassion, for those who suffer.
