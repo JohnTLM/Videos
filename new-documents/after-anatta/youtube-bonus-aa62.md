@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 6 Part 1: Arising That Does Not Arise (AA62, 2026-11-28)
 
-Dependent Arising, Section 6 Part 1. Built on 2026-11-28 at 720p. **Draft: not uploaded.** When the owner uploads it, the server matches it by length and puts these texts on.
+Dependent Arising, Section 6 Part 1. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/9RWq2db-wAA`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -33,6 +33,8 @@ Section 6, Part 1 of the Dependent Arising series. Previous: Section 5, Part 3, 
 6:13 The Buddha's own meaning
 6:50 The harsh word
 7:19 A pattern, holding
+
+Read the article: https://atr-passerby.com/dependent-arising-s6-p1-arising-that-does-not-arise/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
