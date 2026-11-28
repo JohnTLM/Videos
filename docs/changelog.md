@@ -181,3 +181,11 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   line); titles read back, each description ends with the disclaimer, privacy unchanged (Unlisted).
 - *Bonus Articles* (`PLCph_F1_eo6o`): AA59 → AA64 right after AA58 (the phone had added them at the end, in reverse);
   63 videos, no duplicates. thusness-website note `server/TASK-dependent-arising-sections-5-6.md`.
+
+## 2026-11-28: AA65–AA66 on YouTube, and AA64's Next line (server)
+
+- The owner's two uploads of 28 Nov: AA65 `8iZ0-hsIvw8` (exact file size 18,570,273 bytes, 8:16), AA66
+  `eK-mC6Kz02A` (the other new upload, 8:15, 18,474,511 bytes).
+- "Read the article: <part>" above the disclaimer in `youtube-bonus-aa65.md` and `aa66.md`; ids in their status lines
+  and READMEs. `publish_youtube.py update … --entry 1` on AA65, AA66 and AA64 `CFZbAXn9sXc` (its Next line).
+  thusness-website note `server/TASK-dependent-arising-section-7.md`.
