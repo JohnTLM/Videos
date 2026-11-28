@@ -11,7 +11,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ### Title
 
-Dependent Arising: An Overview of the Series | Thusness
+Dependent Arising: An Overview | Thusness
 
 ### Description
 
