@@ -7,7 +7,7 @@ Tags shared by every video (the block below adds its own at the front):
 
 ---
 
-## Dependent Arising Section 7 Part 2: Objections, Fairly Answered (AA66, LENGTH)
+## Dependent Arising Section 7 Part 2: Objections, Fairly Answered (AA66, 8:15)
 
 ### Title
 
@@ -21,7 +21,16 @@ The close of the series: six objections to this view, each stated at its stronge
 
 Section 7, Part 2 of the Dependent Arising series, and the close of the series. Previous: Section 7, Part 1, An Open Heart That Learns.
 
-CHAPTERS
+0:00 If all this is empty
+0:26 Why objections
+1:08 1. This is nihilism
+2:29 2. Then it is all mind
+3:28 3. Only concepts, anything goes
+4:29 4. Dissolving the Hard Problem
+5:43 5. The physics is stretched
+6:36 6. Emptiness, or the web, as absolute
+7:33 What is it relieved to have found?
+8:01 The bell still rings
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
