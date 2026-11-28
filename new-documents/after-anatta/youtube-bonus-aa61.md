@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 5 Part 3: Where the Chain Is Cut (AA61, 2026-11-28)
 
-Dependent Arising, Section 5 Part 3, the close of Section 5. Built on 2026-11-28 at 720p. **Draft: not uploaded.** When the owner uploads it, the server matches it by length and puts these texts on.
+Dependent Arising, Section 5 Part 3, the close of Section 5. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/U7tF-CGQhJs`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -30,6 +30,8 @@ Section 5, Part 3 of the Dependent Arising series, and the close of Section 5. P
 5:03 A chain that runs the other way
 5:44 The afternoon again
 6:34 Watched, instead of obeyed
+
+Read the article: https://atr-passerby.com/dependent-arising-s5-p3-where-the-chain-is-cut/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 

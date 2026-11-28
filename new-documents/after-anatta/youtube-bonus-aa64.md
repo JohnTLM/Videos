@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 6 Part 3: Elaboration Stops in Emptiness (AA64, 2026-11-28)
 
-Dependent Arising, Section 6 Part 3, the close of Section 6. Built on 2026-11-28 at 720p. **Draft: not uploaded.** When the owner uploads it, the server matches it by length and puts these texts on.
+Dependent Arising, Section 6 Part 3, the close of Section 6. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/CFZbAXn9sXc`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -32,6 +32,8 @@ Section 6, Part 3 of the Dependent Arising series, and the close of Section 6. P
 5:53 The harsh word, one last time
 6:32 Where they agree, and part
 6:48 Nothing to cut
+
+Read the article: https://atr-passerby.com/dependent-arising-s6-p3-elaboration-stops-in-emptiness/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
