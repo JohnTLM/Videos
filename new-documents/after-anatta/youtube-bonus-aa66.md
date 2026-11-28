@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 7 Part 2: Objections, Fairly Answered (AA66, 2026-11-28)
 
-Dependent Arising, Section 7 Part 2, the close of the series. Built on 2026-11-28 at 720p.
+Dependent Arising, Section 7 Part 2, the close of the series. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/eK-mC6Kz02A`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -31,6 +31,8 @@ Section 7, Part 2 of the Dependent Arising series, and the close of the series. 
 6:36 6. Emptiness, or the web, as absolute
 7:33 What is it relieved to have found?
 8:01 The bell still rings
+
+Read the article: https://atr-passerby.com/dependent-arising-s7-p2-objections-fairly-answered/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
