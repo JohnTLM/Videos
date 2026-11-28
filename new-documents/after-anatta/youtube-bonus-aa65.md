@@ -1,6 +1,6 @@
 # YouTube upload: Dependent Arising Section 7 Part 1: An Open Heart That Learns (AA65, 2026-11-28)
 
-Dependent Arising, Section 7 Part 1. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/8iZ0-hsIvw8`.
+Dependent Arising, Section 7 Part 1. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/EvoxqRZW6P4` (v2, "as valid"; replaced the first upload `8iZ0-hsIvw8`).
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
