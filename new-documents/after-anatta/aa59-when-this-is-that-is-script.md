@@ -2,10 +2,10 @@
 chapter: 59
 label: Bonus article
 title: "Dependent Arising Section 5 Part 1: When This Is, That Is"
-series: "Dependent Arising, a series: Section 5 (The Twelve Links), Part 1 (previous: Section 4 Part 3: Continuity Without a Carrier; next: Section 5 Part 2: No One Turns the Wheel)"
-source: EBooks Bonus Articles/when-this-is-that-is/when-this-is-that-is.md (approved by the owner 2026-11-28: "Approved, draft Part 2")
-source_words: 1984
-script_words: 1149
+series: "Dependent Arising, a series: Section 5 (The Twelve Links), Part 1 (previous: Section 4 Part 3: Continuity Without a Carrier; next: Section 5 Part 2: Who Ages and Dies?)"
+source: EBooks Bonus Articles/when-this-is-that-is/when-this-is-that-is.md (approved by the owner 2026-11-28: "Approved all and go ahead")
+source_words: 1801
+script_words: 1031
 intro: yes
 voice: male
 status: draft, for the owner's approval
@@ -21,7 +21,7 @@ Four sections have looked at dependent arising as a view. Whether things are und
 
 All of that widened the word, from the arising of suffering to everything that appears. But when the Buddha speaks of dependent arising, he mostly means something narrower, and more urgent. How suffering comes about. And how it ends.
 
-He gives it as twelve links. If I leave them out, I have left out where the teaching starts. So this section turns to the twelve links.
+He gives it as twelve links. If I leave them out, I have left out where the teaching starts. So this section turns to the twelve links, and stays with them as the tradition teaches them. The next section reads them with Nāgārjuna.
 
 Before the twelve, there is one sentence. The Buddha gives it again and again.
 
@@ -92,14 +92,6 @@ Then birth. By evening, the grievance has a life of its own, rehearsed in the ca
 And behind it, ignorance and formations. The habit of taking the words, the speaker and myself as things standing on their own. And the old shaping that had me ready to react before the sentence was finished.
 
 Nothing in that afternoon was made by one thing alone. And nothing in it was without conditions.
-
-Here I part from one way of hearing the teaching. Some say that dependent arising begins with ignorance, since the twelve links do. On that reading, dependent arising is simply the pattern of confusion.
-
-That reading needs refining. The twelve links, in forward order, describe how suffering runs while ignorance is present. But dependent arising, as a view, is not the shape of ignorance. It is the antidote to it.
-
-Otherwise its praise would make no sense. Nāgārjuna bows to the Buddha for teaching it, as the stilling of elaborations. He says dependent arising, emptiness and the middle way have one meaning. And it is said that whoever sees dependent arising sees the Dhamma.
-
-So the same sentence, when this is, that is, describes the trap. And seen through, it opens the way out.
 
 When Ānanda told the Buddha that dependent arising seemed plain to him, the Buddha stopped him. This dependent arising is deep, he said, and it appears deep.
 

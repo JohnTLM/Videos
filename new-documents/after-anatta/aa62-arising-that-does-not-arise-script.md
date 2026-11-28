@@ -1,0 +1,86 @@
+---
+chapter: 62
+label: Bonus article
+title: "Dependent Arising Section 6 Part 1: Arising That Does Not Arise"
+series: "Dependent Arising, a series: Section 6 (Nāgārjuna's Reading), Part 1 (previous: Section 5 Part 3: Where the Chain Is Cut; next: Section 6 Part 2: No One Turns the Wheel)"
+source: EBooks Bonus Articles/arising-that-does-not-arise/arising-that-does-not-arise.md (approved by the owner 2026-11-28: "Approved all and go ahead")
+source_words: 2426
+script_words: 1164
+intro: yes
+voice: male
+status: draft, for the owner's approval
+---
+
+# Dependent Arising Section 6 Part 1: Arising That Does Not Arise
+
+Dependent arising, without arising. It sounds like a contradiction. Nāgārjuna opens his whole work with it.
+
+I am John Tan, known as Thusness. These are my own notes, from my own practice and contemplation.
+
+Section 5 stayed with the twelve links as the tradition teaches them. A chain of conditions, from ignorance to ageing and death, with no one in it who goes round.
+
+Behind that reading stood the Abhidharma. It took the person apart into momentary factors, and found no self among them. But it kept the factors themselves as real, each with its own nature. And it read dependent arising as the law by which one real factor produces the next.
+
+This section reads the same teaching with Nāgārjuna. He keeps the twelve links. But he reads the sentence beneath them in a way that changes what the links, and the pieces, are.
+
+When this is, that is. From the arising of this, that arises. When this is not, that is not. From the ceasing of this, that ceases.
+
+The sentence holds two kinds of line. Some speak of being. When this is, that is. Two things found together, and missing together. Others speak of arising. From the arising of this, that arises. These sound like a sequence in time.
+
+As I see it, the difference between the two readings begins right here. Is when this is, that is, heard as a handover, something passing from this to that? Or as a pattern, two things found only together? The traditional reading hears a handover. Nāgārjuna hears a pattern.
+
+He opens his Middle Way with a bow. Without ceasing, without arising. Without annihilation, without permanence. Not one thing and not many. Without coming and without going. So the awakened one taught dependent arising, the quieting of elaborations, peace.
+
+How can dependent arising be without arising?
+
+The answer is the key to the whole difference. If a sprout could be found arising from its seed, it would have an arising of its own. And then it would not need to depend. That it depends is exactly why no arising is found, when it is sought.
+
+On the traditional reading, dependent arising is a law about how real things arise. On Nāgārjuna's reading, dependent arising is why nothing is found to arise in that way at all.
+
+He puts it in one line. Not from itself. Not from another. Not from both. And not without a cause. No thing, anywhere, is ever found to have arisen.
+
+These are the only ways a real thing could arise. From itself, and it was already there. From another, and something must cross the gap between two complete things. Nothing is found crossing. Without a cause, and the world would not work.
+
+Notice what is refused. Not causes. Not the order of the world. What is refused is production. A real thing, standing on its own, bringing about another real thing.
+
+So what is a condition, if it does not produce?
+
+These are conditions, because in dependence on them that arises. So it is said. But until that has arisen, why are these not non-conditions?
+
+A seed is not a cause sitting there with a power inside it, waiting to hand it over. It is called a cause because there is a sprout. Being a condition is named from the effect's side, together with the effect. As long and short are named together.
+
+Fire and fuel are the same. There is no fuel apart from what burns, and no fire apart from what it burns.
+
+One caution here, because this is easily misheard. Named together does not mean happening at the same time. The seed still comes before the sprout. What is mutual is the defining, not the timing.
+
+It helps to separate three things the word cause can mean. Production is refused. A cause that exists on its own, and delivers an effect, as goods come out of a factory. Alignment is kept. Factors come together, and a result appears. And designation is kept. Cause is the part that attention picks out, when it lays a process out in order.
+
+A bell is struck. Bronze, the strike, the air, the ear. The ringing is not made by these, and then sent out. The ringing is their meeting, vivid and complete. Change one condition, a cracked bell, a gust of wind, and it is not the same sound altered. It is a different sound altogether.
+
+Now return to the sentence. When this is, that is.
+
+On the traditional reading, it describes a handover. On Nāgārjuna's reading, it describes a pattern holding. Leave out the yeast, and the loaf is flat, in every kitchen. That reliability needs no handover. Nothing passes from the yeast into the loaf.
+
+And the sentence never said production. It said when.
+
+This is not a weaker dependent arising. It is a stronger one. A seed with its own nature could not give rise to anything. It could not change, so it could not sprout. Things work. And what works is found empty.
+
+From here Nāgārjuna draws the line that joins everything in this series. Dependent arising is what we call emptiness. That is a designation in dependence. And that itself is the middle way.
+
+On the traditional reading, dependent arising and emptiness could be two teachings. On Nāgārjuna's reading, they are one fact. That a thing depends is exactly why it has no nature of its own. And that it has no nature of its own is exactly why it can depend.
+
+So the Abhidharma's work is carried one step further. It found the person empty. Nāgārjuna finds the pieces empty too. Not because they are nothing. Because each is what it is only with the others.
+
+He does not present this as a new teaching. He presents it as what the Buddha meant all along. He singles out one discourse, to Kaccāna. There the Buddha says the world mostly leans on two ideas. It is, and it is not. Avoiding both, he teaches by the middle. The twelve links.
+
+A chain of real things would sit on the side of it is. The Buddha set both sides aside, and taught the chain as the middle.
+
+So, as I read it, the difference is not between Nāgārjuna and the Buddha. It is between Nāgārjuna and one way of reading the Buddha.
+
+Return to the harsh word at work. On the first reading, the word is a real thing that produced a real feeling, which produced a real craving. Then the task is to manage the dominoes.
+
+On the second reading, the word, the hearing, the feeling and the one who is hurt are found only together. The hurt is vivid, and it follows its conditions exactly. But nothing in it was handed over from outside. And nothing in it stands on its own.
+
+This is Section 6, Part 1 of the Dependent Arising series.
+
+When this is, that is. Not a handover. A pattern, holding.
