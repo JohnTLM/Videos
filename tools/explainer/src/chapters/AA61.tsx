@@ -124,13 +124,21 @@ const Fading: React.FC = () => {
     </div>
   );
 };
+/** One arrow, its head at (x, y), pointing at angle a (degrees), with feathers at the tail. */
+const Arrow: React.FC<{ x: number; y: number; a: number; len?: number; col: string }> = ({ x, y, a, len = 150, col }) => (
+  <g transform={`translate(${x} ${y}) rotate(${a})`}>
+    <line x1={-len} y1={0} x2={-14} y2={0} stroke={col} strokeWidth={5} />
+    <path d="M0 0 L-24 -12 L-18 0 L-24 12 Z" fill={col} />
+    <path d={`M${-len} 0 L${-len - 18} -12 M${-len + 12} 0 L${-len - 6} -12 M${-len} 0 L${-len - 18} 12 M${-len + 12} 0 L${-len - 6} 12`} stroke={col} strokeWidth={4} />
+  </g>
+);
 /** A figure struck by one arrow, and perhaps a second. */
 const Arrows: React.FC<{ second: boolean }> = ({ second }) => (
-  <svg width={360} height={300} viewBox="-180 -150 360 300" style={{ overflow: "visible" }}>
-    <circle cx={0} cy={-80} r={28} fill="none" stroke={CHALK} strokeWidth={4} />
-    <path d="M0 -50 L0 50 M0 50 L-40 120 M0 50 L40 120 M-50 -10 L50 -10" stroke={CHALK} strokeWidth={4} fill="none" />
-    <g><line x1={-150} y1={-60} x2={-12} y2={0} stroke={WARM} strokeWidth={5} /><path d="M-12 0 L-30 -16 L-26 6 Z" fill={WARM} /></g>
-    {second ? <g><line x1={150} y1={-110} x2={14} y2={-60} stroke={ROSE} strokeWidth={5} /><path d="M14 -60 L34 -72 L28 -50 Z" fill={ROSE} /></g> : null}
+  <svg width={420} height={320} viewBox="-210 -160 420 320" style={{ overflow: "visible" }}>
+    <circle cx={0} cy={-90} r={28} fill="none" stroke={CHALK} strokeWidth={4} />
+    <path d="M0 -60 L0 50 M0 50 L-40 120 M0 50 L40 120 M0 -30 L-40 20 M0 -30 L40 20" stroke={CHALK} strokeWidth={4} fill="none" />
+    <Arrow x={-6} y={-10} a={20} col={WARM} />
+    {second ? <Arrow x={8} y={-30} a={160} col={ROSE} /> : null}
   </svg>
 );
 /** A fire burning down, and going out as its fuel is used. */
