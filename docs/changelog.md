@@ -171,3 +171,13 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   (`--entry 1`), titles, tags and disclaimer read back; in *Bonus Articles* AA35 → AA36 just before AA37. The unused
   AA36 copy `n5Z0v9A5JT8` was taken out of the playlist, not deleted. Ids recorded in both texts files and READMEs.
   thusness-website note `server/TASK-dependent-arising-section-1-videos-2.md`.
+
+## 2026-11-28: AA59–AA64 on YouTube, and AA58's Next line (server)
+
+- The owner's six uploads of 28 Nov matched by file size (length as a check): AA59 `sJuvLAg39X8`, AA60
+  `X9DxCViCyCk`, AA61 `U7tF-CGQhJs`, AA62 `9RWq2db-wAA`, AA63 `ZQF_tnp3ApA`, AA64 `CFZbAXn9sXc`.
+- "Read the article: <part>" above the disclaimer in `youtube-bonus-aa59.md` … `aa64.md`; ids in their status lines
+  and READMEs (#215). `publish_youtube.py update … --entry 1` on the six and on AA58 `lH4nPcTbME4` (its new Next
+  line); titles read back, each description ends with the disclaimer, privacy unchanged (Unlisted).
+- *Bonus Articles* (`PLCph_F1_eo6o`): AA59 → AA64 right after AA58 (the phone had added them at the end, in reverse);
+  63 videos, no duplicates. thusness-website note `server/TASK-dependent-arising-sections-5-6.md`.
