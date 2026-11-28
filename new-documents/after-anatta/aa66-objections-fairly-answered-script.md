@@ -2,7 +2,7 @@
 chapter: 66
 label: Bonus article
 title: "Dependent Arising Section 7 Part 2: Objections, Fairly Answered"
-series: "Dependent Arising, a series: Section 7 (Questions), Part 2 (previous: Section 7 Part 1: An Open Heart That Learns)"
+series: "Dependent Arising, a series: Section 7 (Compassion and Objections), Part 2, the close of the series (previous: Section 7 Part 1: An Open Heart That Learns)"
 source: EBooks Bonus Articles/objections-fairly-answered/objections-fairly-answered.md (approved by the owner 2026-11-28: "Approved objections, Section 7 is fine")
 source_words: 2020
 script_words: 1293
@@ -93,6 +93,6 @@ Most of these objections are not only out there, in books. They arise in my own 
 
 When one comes, I find it useful to ask what it is relieved to have found. Usually it is a ground. Something to stand on, or something to give up on. Neither is needed.
 
-This is Section 7, Part 2 of the Dependent Arising series. Next, in Part 3, one more question: is all this not just the Abhidhamma?
+This is Section 7, Part 2 of the Dependent Arising series, and the close of the series.
 
 The bell still rings when it is struck.
