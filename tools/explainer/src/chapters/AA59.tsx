@@ -141,7 +141,9 @@ const Wheel: React.FC<{ r?: number; mode?: "name" | "forward" | "reverse" }> = (
         return (
           <g key={i} opacity={0.25 + 0.75 * lit}>
             <circle cx={x} cy={y} r={hot ? 20 : 14} fill={hot ? GOLD : "rgba(10,12,30,0.8)"} stroke={col} strokeWidth={3} />
-            <text x={x * 1.28} y={y * 1.2 + 8} textAnchor="middle" fill={col} fontSize={26} fontFamily="serif">{l}</text>
+            <text x={x + Math.cos(ang) * 30} y={y + Math.sin(ang) * 30 + 9}
+              textAnchor={Math.cos(ang) > 0.2 ? "start" : Math.cos(ang) < -0.2 ? "end" : "middle"}
+              fill={col} fontSize={28} fontFamily="serif">{l}</text>
           </g>
         );
       })}
@@ -155,7 +157,8 @@ const Dominoes: React.FC = () => {
   return (
     <svg width={560} height={220} viewBox="0 0 560 220" style={{ overflow: "visible" }}>
       {[0, 1, 2, 3, 4, 5].map((i) => {
-        const tilt = Math.min(70, Math.max(0, (t * 60 - i * 40) % 400));
+        const ph = (t * 0.35) % 1.6;
+        const tilt = Math.min(62, Math.max(0, (ph * 7 - i) * 62));
         return <rect key={i} x={40 + i * 85} y={60} width={26} height={130} rx={4} fill="rgba(240,230,210,0.25)" stroke={CHALK} strokeWidth={3}
           transform={`rotate(${tilt} ${66 + i * 85} 190)`} />;
       })}
@@ -174,8 +177,8 @@ const Reeds: React.FC<{ label?: boolean }> = ({ label = true }) => {
   );
   return (
     <svg width={420} height={330} viewBox="-210 -40 420 330" style={{ overflow: "visible" }}>
-      {sheaf(-38, 14, GREEN)}
-      {sheaf(38, -14, TEAL)}
+      {sheaf(-58, 14, GREEN)}
+      {sheaf(58, -14, TEAL)}
       <line x1={-180} y1={204} x2={180} y2={204} stroke={DIM} strokeWidth={3} />
       {label ? <>
         <text x={-130} y={250} textAnchor="middle" fill={GREEN} fontSize={24} fontFamily="serif">consciousness</text>
