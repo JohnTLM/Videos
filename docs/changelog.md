@@ -200,3 +200,14 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   no duplicates.
 - Id in the status lines of `youtube-bonus-aa67.md` and the AA67 README. thusness-website note
   `server/TASK-dependent-arising-overview.md` (site PR #1207).
+
+## 2026-11-28: AA68 *Yogācāra: The Three Natures, and Where I Part* on YouTube and the site (server)
+
+- The owner's upload `uM8Pg3-dtcM` (12,540,605 bytes, 5:37, Unlisted; the only upload since 09:25 UTC). Texts from
+  `youtube-bonus-aa68.md` entry 1, now with "Read the article: https://atr-passerby.com/the-three-natures-and-where-i-part/"
+  above the disclaimer. Read back: title "Yogācāra: The Three Natures, and Where I Part | Thusness", description ends
+  with the disclaimer, 24 tags, privacy unchanged.
+- *Bonus Articles* playlist: the phone had already added it at the end (67 of 67, after the Dependent Arising run);
+  no duplicates, nothing changed.
+- Id in the status lines of `youtube-bonus-aa68.md` and the AA68 README. thusness-website note
+  `server/TASK-aa68-three-natures-video.md` (site PR #1246).

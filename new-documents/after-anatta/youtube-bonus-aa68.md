@@ -1,6 +1,6 @@
 # YouTube upload: Yogācāra: The Three Natures, and Where I Part (AA68, 2026-11-28)
 
-Bonus article, a zoom-in from *Mind and Consciousness*. Built on 2026-11-28 at 720p.
+Bonus article, a zoom-in from *Mind and Consciousness*. Built on 2026-11-28 at 720p. Uploaded by the owner on 28 Nov 2026 (Unlisted): `https://youtu.be/uM8Pg3-dtcM`.
 
 Tags shared by every video (the block below adds its own at the front):
 `John Tan, Thusness, Awakening to Reality, Nagarjuna, Madhyamaka, Middle Way, emptiness, sunyata, dependent arising, anatta, no self, Buddhist philosophy`
@@ -33,6 +33,8 @@ A zoom-in from Mind and Consciousness. Read with Dependent Arising Section 7 Par
 3:55 Mind and object together
 4:44 Two keys
 5:22 The elephant was never there
+
+Read the article: https://atr-passerby.com/the-three-natures-and-where-i-part/
 
 All views and understanding here are my own, from my practice and contemplation. I do not represent any tradition, school or teacher. Where I report what a tradition holds, I try to report it fairly; where I part from it, I say so.
 
