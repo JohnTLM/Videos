@@ -1,9 +1,9 @@
-// Bonus video: Dependent Arising Section 7 Part 2: Objections, Fairly Answered (AA66), the close of the series.
+// Bonus video: Dependent Arising Section 7 Part 2: Objections, Fairly Answered (AA66).
 // (Script: new-documents/after-anatta/aa66-objections-fairly-answered-script.md, from EBooks Bonus Articles/
 // objections-fairly-answered, approved by the owner 2026-11-28; script approved the same day: "Approved, go ahead".)
 // Arc: the opponent's verse -> why objections, and the method -> six objections, each stated then answered
 // (nihilism; all mind; only concepts; the Hard Problem; stretched physics; emptiness or the web as absolute)
-// -> the relief check -> close of the series.
+// -> the relief check -> next: Part 3, the twenty-four conditions.
 // Stance: no answer is drawn as a new ground; emptiness and relations never drawn as things.
 // Cue phrases avoid names, respelled and hyphenated words.
 import React from "react";
@@ -51,7 +51,7 @@ export const PHRASES = [
   "Most of these objections are not only out there", "Each comes with a small sense of relief",
   "ask what it is relieved to have found", "Neither is needed",
   // close
-  "This is Section 7, Part 2 of the Dependent Arising series, and the close of the series",
+  "This is Section 7, Part 2 of the Dependent Arising series",
   "The bell still rings when it is struck",
 ];
 
@@ -169,7 +169,7 @@ const OpenScene: React.FC = () => (
       <Items items={[
         ["I am John Tan, known as Thusness", 960, 400, <Wd c={GOLD} s={52} serif>Objections, Fairly Answered</Wd>, { d: 0.2 }],
         ["I am John Tan, known as Thusness", 960, 620, <Wd c={DIM} s={28}>John Tan (Thusness) · my own notes</Wd>, { d: 0.3 }],
-        ["I am John Tan, known as Thusness", 960, 740, <Wd c={CHALK} s={32} serif>Dependent Arising · Section 7 · Part 2 · the close</Wd>, { d: 0.8 }],
+        ["I am John Tan, known as Thusness", 960, 740, <Wd c={CHALK} s={32} serif>Dependent Arising · Section 7 · Part 2</Wd>, { d: 0.8 }],
       ]} />
     </Phase>
     <Phase from="Over six sections I have argued">
@@ -292,7 +292,8 @@ const CloseScene: React.FC = () => {
   return (
     <AbsoluteFill style={{ opacity: 1 - ramp(t, end + 8, 1.5) }}>
       <Items items={[
-        ["This is Section 7, Part 2 of the Dependent Arising series, and the close of the series", 960, 160, <Wd c={GOLD} s={40} serif>Dependent Arising · the close of the series</Wd>],
+        ["This is Section 7, Part 2 of the Dependent Arising series", 960, 160, <Wd c={GOLD} s={40} serif>Dependent Arising · Section 7 · Part 2</Wd>],
+        ["This is Section 7, Part 2 of the Dependent Arising series", 960, 260, <Wd c={DIM} s={26}>next: is this not just the Abhidhamma?</Wd>, { d: 3 }],
         ["The bell still rings when it is struck", 960, 480, <Wd c={CHALK} s={44} serif>the bell still rings</Wd>],
         ["The bell still rings when it is struck", 960, 580, <Wd c={TEAL} s={40} serif>when it is struck</Wd>, { d: 1.4 }],
       ]} />
@@ -312,7 +313,7 @@ export const Body: React.FC = () => {
     ["The fifth. The physics is being stretched", "phys", <PhysScene />],
     ["The sixth. Then emptiness, or the web, is the new absolute", "abs", <AbsScene />],
     ["Most of these objections are not only out there", "relief", <ReliefScene />],
-    ["This is Section 7, Part 2 of the Dependent Arising series, and the close of the series", "night", <CloseScene />],
+    ["This is Section 7, Part 2 of the Dependent Arising series", "night", <CloseScene />],
   ];
   const moods: Mood[] = [];
   order.forEach(([cue, k], i) => {
