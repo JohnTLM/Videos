@@ -6,5 +6,5 @@
 | Source | EBooks `Bonus Articles/dependent-arising-overview/dependent-arising-overview.md` (approved 2026-11-28: "Approve overview", in the desktop session) |
 | Files | `aa67-dependent-arising-overview-script.md`, `-narration.txt`, `.srt`, `-scenes.tsx`; YouTube texts `youtube-bonus-aa67.md` |
 | Checks | All 75 cue phrases found in the narration in order; type check passed; a 16-frame contact sheet and full-size frames looked at; no fixes needed |
-| Status | **Draft.** Sent to the owner 2026-11-28 (send copy 19,095,988 bytes, 512.5 s). |
+| Status | **Draft.** Sent to the owner 2026-11-28 (send copy 19,095,988 bytes, 512.5 s); uploaded by the owner 28 Nov 2026 (Unlisted). **28 Nov 2026 (server):** YouTube `https://youtu.be/fJ3cJlODSTA`; on the website at https://atr-passerby.com/dependent-arising-overview/. |
 | Series | Dependent Arising, the overview of all seven sections |
