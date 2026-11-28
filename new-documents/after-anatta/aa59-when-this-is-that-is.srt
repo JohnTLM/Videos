@@ -1,0 +1,529 @@
+1
+00:00:08,964 --> 00:00:11,130
+A harsh word is said in the morning.
+
+2
+00:00:11,210 --> 00:00:15,564
+By evening, a grievance has a life
+of its own. How did that happen?
+
+3
+00:00:16,360 --> 00:00:18,988
+I am John Tan, known as Thusness.
+
+4
+00:00:19,068 --> 00:00:22,946
+These are my own notes, from my
+own practice and contemplation.
+
+5
+00:00:23,756 --> 00:00:27,118
+Four sections have looked at
+dependent arising as a view.
+
+6
+00:00:27,198 --> 00:00:30,188
+Whether things are
+undeniably there, or formed.
+
+7
+00:00:30,268 --> 00:00:33,273
+What a phenomenon is. Mind and matter.
+
+8
+00:00:33,353 --> 00:00:35,342
+And the logic of dependency.
+
+9
+00:00:36,144 --> 00:00:40,127
+All of that widened the word, from the
+arising of suffering to everything that
+
+10
+00:00:40,207 --> 00:00:43,623
+appears. But when the Buddha
+speaks of dependent arising,
+
+11
+00:00:43,703 --> 00:00:46,870
+he mostly means something
+narrower, and more urgent.
+
+12
+00:00:46,950 --> 00:00:49,972
+How suffering comes
+about. And how it ends.
+
+13
+00:00:50,788 --> 00:00:52,642
+He gives it as twelve links.
+
+14
+00:00:52,722 --> 00:00:56,242
+If I leave them out, I have left
+out where the teaching starts.
+
+15
+00:00:56,322 --> 00:00:58,756
+So this section turns to the twelve links,
+
+16
+00:00:58,836 --> 00:01:01,568
+and stays with them as the
+tradition teaches them.
+
+17
+00:01:01,648 --> 00:01:04,385
+The next section reads
+them with Nāgārjuna.
+
+18
+00:01:05,192 --> 00:01:07,752
+Before the twelve, there is one sentence.
+
+19
+00:01:07,832 --> 00:01:10,243
+The Buddha gives it again and again.
+
+20
+00:01:11,052 --> 00:01:12,811
+When this is, that is.
+
+21
+00:01:12,891 --> 00:01:15,677
+From the arising of this, that arises.
+
+22
+00:01:15,757 --> 00:01:17,946
+When this is not, that is not.
+
+23
+00:01:18,026 --> 00:01:20,736
+From the ceasing of this, that ceases.
+
+24
+00:01:21,544 --> 00:01:24,172
+It is short, and easy to pass over.
+
+25
+00:01:24,252 --> 00:01:26,156
+But look at what it does not say.
+
+26
+00:01:26,236 --> 00:01:28,343
+It does not say that this makes that.
+
+27
+00:01:28,423 --> 00:01:31,550
+It does not say a power goes
+out from this into that.
+
+28
+00:01:31,630 --> 00:01:33,425
+It only says, when.
+
+29
+00:01:33,505 --> 00:01:37,356
+Two things are named together,
+in arising and in ceasing.
+
+30
+00:01:38,156 --> 00:01:40,037
+Nothing is passed across.
+
+31
+00:01:40,117 --> 00:01:44,616
+And because nothing is passed across, the
+second half of the sentence is possible at
+
+32
+00:01:44,696 --> 00:01:49,063
+all. If that had its own nature, it
+would not cease when this ceases.
+
+33
+00:01:49,872 --> 00:01:53,112
+Applied to suffering, the
+sentence becomes a chain.
+
+34
+00:01:53,932 --> 00:01:58,490
+Ignorance. Not knowing suffering,
+its arising, its ending,
+
+35
+00:01:58,570 --> 00:01:59,880
+and the way to its ending.
+
+36
+00:02:00,680 --> 00:02:06,179
+Formations. Intentional shaping,
+by body, by speech, by mind.
+
+37
+00:02:06,972 --> 00:02:10,610
+Consciousness. Knowing,
+through the six senses.
+
+38
+00:02:11,416 --> 00:02:17,416
+Name and form. Feeling, perception,
+intention, attention, and the body.
+
+39
+00:02:18,260 --> 00:02:21,966
+The six senses. The fields
+where meeting happens.
+
+40
+00:02:22,776 --> 00:02:27,202
+Contact. Sense, object and
+consciousness, meeting.
+
+41
+00:02:28,012 --> 00:02:31,569
+Feeling. Pleasant, painful, or neither.
+
+42
+00:02:32,384 --> 00:02:36,987
+Craving. Thirst, for more of the
+pleasant, and an end to the painful.
+
+43
+00:02:37,788 --> 00:02:39,791
+Clinging. Taking hold.
+
+44
+00:02:39,871 --> 00:02:43,912
+Of pleasures, of views,
+of rituals, of a self.
+
+45
+00:02:44,728 --> 00:02:47,850
+Becoming. Taking on a mode of existence.
+
+46
+00:02:48,644 --> 00:02:49,844
+Birth.
+
+47
+00:02:51,216 --> 00:02:55,393
+And ageing and death, with
+sorrow, grief and despair.
+
+48
+00:02:56,212 --> 00:02:59,234
+In forward order, each
+conditions the next.
+
+49
+00:02:59,314 --> 00:03:03,759
+Such, the Buddha says, is the arising
+of this whole mass of suffering.
+
+50
+00:03:03,839 --> 00:03:07,359
+In reverse order, each ends with
+the ending of the one before.
+
+51
+00:03:07,439 --> 00:03:10,244
+Such is the ending of this
+whole mass of suffering.
+
+52
+00:03:11,048 --> 00:03:14,854
+As I read them, the forward order
+describes how suffering runs while
+
+53
+00:03:14,934 --> 00:03:19,913
+ignorance is present. The reverse order
+describes how it ends when ignorance ends.
+
+54
+00:03:19,993 --> 00:03:23,500
+A teaching that gave only the
+first would describe a trap.
+
+55
+00:03:23,580 --> 00:03:27,648
+The twelve links are given so that
+the trap can be seen, and left.
+
+56
+00:03:28,452 --> 00:03:31,823
+It is natural to picture the
+twelve as a line of dominoes,
+
+57
+00:03:31,903 --> 00:03:33,634
+each knocking down the next.
+
+58
+00:03:33,715 --> 00:03:36,560
+The discourses do not
+keep to that picture.
+
+59
+00:03:37,360 --> 00:03:42,144
+In one long discourse, the chain stops
+at consciousness and name and form,
+
+60
+00:03:42,224 --> 00:03:43,956
+and turns back on itself.
+
+61
+00:03:44,036 --> 00:03:49,191
+Consciousness depends on name and form,
+and name and form on consciousness.
+
+62
+00:03:49,988 --> 00:03:54,654
+The image given is two sheaves of reeds,
+standing because they lean on each other.
+
+63
+00:03:54,734 --> 00:03:57,145
+Pull one away, and the other falls.
+
+64
+00:03:57,960 --> 00:04:02,939
+A line of dominoes has a first domino,
+and the first one has to stand on its own.
+
+65
+00:04:03,019 --> 00:04:05,452
+Reeds leaning on each other have no first.
+
+66
+00:04:05,532 --> 00:04:07,998
+No first point of the round is found.
+
+67
+00:04:08,812 --> 00:04:12,106
+The tradition has read this
+chain at more than one scale.
+
+68
+00:04:12,920 --> 00:04:15,956
+The classical reading
+spreads it over three lives.
+
+69
+00:04:16,036 --> 00:04:18,714
+Ignorance and formations in the past life.
+
+70
+00:04:18,794 --> 00:04:21,064
+Consciousness through
+becoming in this one.
+
+71
+00:04:21,144 --> 00:04:23,782
+Birth, ageing and death in the next.
+
+72
+00:04:23,862 --> 00:04:25,888
+This keeps rebirth at the centre.
+
+73
+00:04:25,968 --> 00:04:29,697
+It is how most of the Buddhist
+world has learned the twelve links.
+
+74
+00:04:30,492 --> 00:04:35,185
+Another school allowed four ways of
+taking the chain. In a single moment.
+
+75
+00:04:35,265 --> 00:04:36,789
+Over a long span.
+
+76
+00:04:36,869 --> 00:04:38,636
+As a connected series.
+
+77
+00:04:38,716 --> 00:04:41,440
+And by stages, across lives.
+
+78
+00:04:42,256 --> 00:04:46,673
+And some modern teachers, the Thai
+monk Buddhadāsa best known among them,
+
+79
+00:04:46,753 --> 00:04:50,006
+read the chain mainly as it
+runs in present experience.
+
+80
+00:04:50,086 --> 00:04:53,489
+Others have criticised this
+as setting rebirth aside.
+
+81
+00:04:54,284 --> 00:04:56,450
+I do not think these need to compete.
+
+82
+00:04:56,530 --> 00:04:59,417
+They describe the same
+pattern at two scales.
+
+83
+00:05:00,216 --> 00:05:02,908
+Emptiness removes one
+objection to rebirth,
+
+84
+00:05:02,988 --> 00:05:05,018
+that it would need
+something to carry over.
+
+85
+00:05:05,098 --> 00:05:06,879
+Nothing ever has a carrier.
+
+86
+00:05:06,959 --> 00:05:09,556
+But that does not prove
+that rebirth happens.
+
+87
+00:05:09,636 --> 00:05:12,029
+That is a matter for its own evidence.
+
+88
+00:05:12,109 --> 00:05:15,969
+What I can say from practice is that
+the same chain can be seen in a single
+
+89
+00:05:16,049 --> 00:05:17,249
+afternoon.
+
+90
+00:05:17,836 --> 00:05:20,301
+Someone says something
+harsh to me at work.
+
+91
+00:05:21,104 --> 00:05:26,613
+There is contact. The words, the ear,
+the knowing of them. There is feeling.
+
+92
+00:05:26,693 --> 00:05:32,210
+Unpleasant, sharp. Then craving.
+For it to stop. For an apology.
+
+93
+00:05:32,290 --> 00:05:34,253
+For the other to be shown wrong.
+
+94
+00:05:35,052 --> 00:05:38,305
+Then clinging. To a view: I was wronged.
+
+95
+00:05:38,385 --> 00:05:41,172
+And to the one who was
+wronged. Then becoming.
+
+96
+00:05:41,252 --> 00:05:44,351
+I take on a whole mode of
+being, the injured party,
+
+97
+00:05:44,431 --> 00:05:46,679
+with its history and its case.
+
+98
+00:05:47,488 --> 00:05:51,584
+Then birth. By evening, the
+grievance has a life of its own,
+
+99
+00:05:51,664 --> 00:05:54,423
+rehearsed in the car, retold at dinner.
+
+100
+00:05:54,503 --> 00:05:58,567
+Then ageing and death. It
+hardens. It wears me out.
+
+101
+00:05:58,647 --> 00:06:03,341
+In time it fades, leaving sorrow, and a
+little more readiness for the next one.
+
+102
+00:06:04,148 --> 00:06:07,129
+And behind it, ignorance and formations.
+
+103
+00:06:07,209 --> 00:06:11,803
+The habit of taking the words, the speaker
+and myself as things standing on their
+
+104
+00:06:11,883 --> 00:06:16,876
+own. And the old shaping that had me ready
+to react before the sentence was finished.
+
+105
+00:06:17,688 --> 00:06:20,873
+Nothing in that afternoon
+was made by one thing alone.
+
+106
+00:06:20,953 --> 00:06:23,310
+And nothing in it was without conditions.
+
+107
+00:06:24,124 --> 00:06:27,984
+When Ānanda told the Buddha that
+dependent arising seemed plain to him,
+
+108
+00:06:28,064 --> 00:06:29,293
+the Buddha stopped him.
+
+109
+00:06:29,373 --> 00:06:33,632
+This dependent arising is deep,
+he said, and it appears deep.
+
+110
+00:06:34,424 --> 00:06:37,202
+The twelve links are not hard to memorise.
+
+111
+00:06:37,282 --> 00:06:40,449
+What is hard is to see
+them run, in a harsh word,
+
+112
+00:06:40,529 --> 00:06:44,638
+or a pleasant memory, without someone
+at the centre turning the wheel.
+
+113
+00:06:45,444 --> 00:06:49,458
+This is Section 5, Part 1 of
+the Dependent Arising series.
+
+114
+00:06:50,272 --> 00:06:52,031
+When this is, that is.
+
+115
+00:06:52,111 --> 00:06:56,695
+It describes how the knot is tied, and
+it is also how the knot comes loose.
+
