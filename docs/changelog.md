@@ -189,3 +189,14 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
 - "Read the article: <part>" above the disclaimer in `youtube-bonus-aa65.md` and `aa66.md`; ids in their status lines
   and READMEs. `publish_youtube.py update … --entry 1` on AA65, AA66 and AA64 `CFZbAXn9sXc` (its Next line).
   thusness-website note `server/TASK-dependent-arising-section-7.md`.
+
+## 2026-11-28: AA67 Dependent Arising overview on YouTube and the site (server)
+
+- AA67 found by size among the uploads since 03:20 UTC: `fJ3cJlODSTA` (19,095,988 bytes, 8:33, Unlisted; the only
+  match). "Read the article: https://atr-passerby.com/dependent-arising-overview/" above the disclaimer in
+  `youtube-bonus-aa67.md` (PR #227), then `publish_youtube.py update fJ3cJlODSTA … --entry 1`: title "Dependent
+  Arising: An Overview of the Series | Thusness", description ends with the disclaimer.
+- *Bonus Articles* playlist: the phone had already added it at the end; moved to right after AA66 (`eK-mC6Kz02A`),
+  no duplicates.
+- Id in the status lines of `youtube-bonus-aa67.md` and the AA67 README. thusness-website note
+  `server/TASK-dependent-arising-overview.md` (site PR #1207).
