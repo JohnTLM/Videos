@@ -211,3 +211,10 @@ Dated entries for work outside `audiobook/` (that has its own `audiobook/CHANGEL
   no duplicates, nothing changed.
 - Id in the status lines of `youtube-bonus-aa68.md` and the AA68 README. thusness-website note
   `server/TASK-aa68-three-natures-video.md` (site PR #1246).
+
+## 2026-11-28: AA65 v2 on YouTube (server, TASK-aa65-v2-swap)
+
+- The owner's re-upload of AA65 found: `EvoxqRZW6P4` (exact file size 18,575,255 bytes, 496.5 s). Texts from
+  `youtube-bonus-aa65.md --entry 1` (tags needed a second send); Bonus Articles playlist: new AA65 in the old one's
+  place after AA64, old item removed (67 videos, no duplicates). The old `8iZ0-hsIvw8` is not deleted; privacy unchanged.
+- New id in the status lines of `youtube-bonus-aa65.md` and the AA65 README (old id noted as replaced). Site PR #1262.
