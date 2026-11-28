@@ -296,7 +296,7 @@ const CondScene: React.FC = () => (
       ["So compassion is not a source, sending kindness out", 960, 100, <SK at="It is one of the conditions that meet" s={30}>a source, sending kindness out</SK>],
       ["It is one of the conditions that meet", 960, 400, <Meet />],
       ["Nothing stands behind it, producing it", 960, 690, <Wd c={DIM} s={26}>nothing behind it, producing it</Wd>],
-      ["as the ringing of a bell when it is struck", 960, 780, <K c={GOLD} s={28}>as real as a bell ringing when struck</K>, { pop: true }],
+      ["as the ringing of a bell when it is struck", 960, 780, <K c={GOLD} s={28}>as valid as a bell ringing when struck</K>, { pop: true }],
     ]} />
   </AbsoluteFill>
 );

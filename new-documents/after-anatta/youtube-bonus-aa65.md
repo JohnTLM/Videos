@@ -31,7 +31,7 @@ Section 7, Part 1 of the Dependent Arising series. Previous: Section 6, Part 3, 
 6:27 Where I stand
 6:53 One of the conditions that meet
 7:16 In practice
-7:55 The teaching itself arose this way
+7:56 The teaching itself arose this way
 
 Read the article: https://atr-passerby.com/dependent-arising-s7-p1-an-open-heart-that-learns/
 
