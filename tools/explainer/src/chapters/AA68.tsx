@@ -113,10 +113,10 @@ const Phase: React.FC<{ from?: string; to?: string; children: React.ReactNode }>
 
 // ---------------------------------------------------------------- drawings
 /** A piece of wood, and the elephant laid over it; the elephant fades at "no elephant", the wood stays. */
-const WoodElephant: React.FC<{ fadeAt: string }> = ({ fadeAt }) => {
+const WoodElephant: React.FC<{ fadeAt: string; d?: number }> = ({ fadeAt, d = 0 }) => {
   const { t } = useT();
   const c = useCue();
-  const gone = ramp(t, c(fadeAt) + 0.8, 1.5);
+  const gone = ramp(t, c(fadeAt) + d + 0.8, 1.5);
   return (
     <div style={{ position: "relative", width: 700, height: 260 }}>
       <div style={{ position: "absolute", left: 210, top: 150, width: 280, height: 56, borderRadius: 14,
@@ -136,7 +136,7 @@ const OpenScene: React.FC = () => (
     <Phase to="I am John Tan, known as Thusness">
       <Items items={[
         ["By a spell, a piece of wood appears as an elephant. There is no elephant", 960, 380,
-          <WoodElephant fadeAt="By a spell, a piece of wood appears as an elephant. There is no elephant" />],
+          <WoodElephant fadeAt="By a spell, a piece of wood appears as an elephant. There is no elephant" d={3} />],
         ["By a spell, a piece of wood appears as an elephant. There is no elephant", 960, 640, <Wd c={GOLD} s={34} serif>but is there really wood?</Wd>, { d: 4.5 }],
       ]} />
     </Phase>
